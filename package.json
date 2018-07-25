@@ -1,0 +1,8 @@
+{
+  "name": "girlsfrontline-extra-data",
+  "version": "1.0.0",
+  "main": "./src/index.js",
+  "repository": "https://github.com/36base/girlsfrontline-extra-data.git",
+  "author": "okms00909 <okms00909@gmail.com>",
+  "license": "MIT"
+}
