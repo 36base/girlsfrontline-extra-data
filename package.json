@@ -1,8 +1,19 @@
 {
   "name": "girlsfrontline-extra-data",
-  "version": "1.0.0",
-  "main": "./src/index.js",
+  "version": "1.0.1",
+  "main": "./dist/index.js",
   "repository": "https://github.com/36base/girlsfrontline-extra-data.git",
   "author": "okms00909 <okms00909@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "build": "babel src --out-dir dist"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-jest": "^22.2.2",
+    "babel-plugin-transform-runtime": "^6.23.0",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-minify": "^0.4.3",
+    "babel-preset-stage-1": "^6.24.1"
+  }
 }
