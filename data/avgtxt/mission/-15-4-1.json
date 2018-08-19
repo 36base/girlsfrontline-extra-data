@@ -1,1 +1,1483 @@
-[{"background":{"id":83,"isNight":true},"sound":{"bgm":"BGM_Brain"},"text":"......+............"},{"character":[{"name":"FN57","face":0,"inCommunicationBox":true}],"speaker":{"index":0,"name":"FN-57"}},{"character":[{"name":"FN57","face":0}],"speaker":{"index":0,"name":"琪亚娜"}},{"character":[{"name":"FN57","face":0}],"speaker":{"index":0,"name":"FN-57"}},{"character":[{"name":"RaidenMei","face":0},{"name":"FN57","face":0}],"speaker":{"index":0,"name":"芽衣"}},{"character":[{"name":"RaidenMei","face":0},{"name":"FN57","face":0}],"speaker":{"index":1,"name":"FN-57"}},{"character":[{"name":"RaidenMei","face":0},{"name":"FN57","face":0}],"speaker":{"index":0,"name":"芽衣"}},{"character":[{"name":"RaidenMei","face":0},{"name":"FN57","face":0}],"speaker":{"index":1,"name":"FN-57"}},{"character":[{"name":"RaidenMei","face":0},{"name":"FN57","face":0}],"speaker":{"index":1,"name":"琪亚娜"}},{"character":[{"name":"RaidenMei","face":0},{"name":"FN57","face":0}],"speaker":{"index":1,"name":"FN-57"}},{"character":[{"name":"RaidenMei","face":0},{"name":"FN57","face":0}],"speaker":{"index":0,"name":"芽衣"}},{"character":[{"name":"RaidenMei","face":0},{"name":"FN57","face":0}],"speaker":{"index":1,"name":"FN-57"}},{"character":[{"name":"RaidenMei","face":0},{"name":"FN57","face":0}],"speaker":{"index":1,"name":"琪亚娜"}},{"character":[{"name":"RaidenMei","face":0},{"name":"FN57","face":0}],"speaker":{"index":1,"name":"FN-57"}},{"character":[{"name":"RaidenMei","face":0},{"name":"FN57","face":0}],"speaker":{"index":1,"name":"琪亚娜"}},{"character":[{"name":"RaidenMei","face":0},{"name":"FN57","face":0}],"speaker":{"index":1,"name":"FN-57"}},{"character":[{"name":"RaidenMei","face":0},{"name":"FN57","face":0}],"speaker":{"index":1,"name":"琪亚娜"}},{"character":[{"name":"RaidenMei","face":0},{"name":"FN57","face":0}],"speaker":{"index":1,"name":"FN-57"}},{"character":[{"name":"RaidenMei","face":0},{"name":"FN57","face":0}],"speaker":{"index":0,"name":"芽衣"}},{"character":[{"name":"Himeko","face":0},{"name":"FN57","face":0}],"speaker":{"index":0,"name":"姬子"}},{"character":[{"name":"Himeko","face":0},{"name":"FN57","face":0}],"speaker":{"index":0,"name":"琪亚娜"}},{"character":[{"name":"Himeko","face":0},{"name":"FN57","face":0}],"speaker":{"index":0,"name":"姬子"}},{"character":[{"name":"RaidenMei","face":0},{"name":"FN57","face":0}],"speaker":{"index":0,"name":"芽衣"}},{"character":[{"name":"RaidenMei","face":0},{"name":"FN57","face":0}],"speaker":{"index":0,"name":"琪亚娜"}},{"character":[{"name":"RaidenMei","face":0},{"name":"Theresa","face":0,"inCommunicationBox":true}],"speaker":{"index":1,"name":"德丽莎"}},{"character":[{"name":"RaidenMei","face":0},{"name":"Theresa","face":0}],"speaker":{"index":1,"name":"琪亚娜"},"text":"...정말요?"},{"character":[{"name":"RaidenMei","face":0},{"name":"Theresa","face":0}],"speaker":{"index":1,"name":"德丽莎"}},{"character":[{"name":"RaidenMei","face":0},{"name":"Theresa","face":0}],"speaker":{"index":0,"name":"芽衣"}},{"character":[{"name":"RaidenMei","face":0},{"name":"Theresa","face":0}],"speaker":{"index":1,"name":"德丽莎"}},{"character":[{"name":"RaidenMei","face":0},{"name":"Theresa","face":0}],"speaker":{"index":1,"name":"琪亚娜"}},{"character":[{"name":"RaidenMei","face":0},{"name":"Theresa","face":0}],"speaker":{"index":1,"name":"德丽莎"}},{"character":[{"name":"RaidenMei","face":0},{"name":"Theresa","face":0}],"speaker":{"index":1,"name":"琪亚娜"}},{"character":[{"name":"RaidenMei","face":0},{"name":"FN57","face":0,"inCommunicationBox":true}],"speaker":{"index":1,"name":"FN-57"}},{"character":[{"name":"RaidenMei","face":0},{"name":"FN57","face":0}],"speaker":{"index":1,"name":"琪亚娜"}},{"character":[{"name":"RaidenMei","face":0},{"name":"FN57","face":0}],"speaker":{"index":1,"name":"FN-57"}},{"character":[{"name":"RaidenMei","face":0},{"name":"FN57","face":0}],"speaker":{"index":1,"name":"琪亚娜"}},{"character":[{"name":"RaidenMei","face":0},{"name":"FN57","face":0}],"speaker":{"index":1,"name":"FN-57"}},{"character":[{"name":"Himeko","face":0},{"name":"FN57","face":0}],"speaker":{"index":0,"name":"姬子"}},{"character":[{"name":"Himeko","face":0},{"name":"FN57","face":0}],"speaker":{"index":1,"name":"FN-57"}},{"screenEffect":"dark1","character":[{"name":"Himeko","face":0},{"name":"FN57","face":0}],"speaker":{"index":1,"name":"琪亚娜"}},{"background":{"id":9},"screenEffect":"dark2","sound":{"bgm":"BGM_Empty"},"text":"......"},{"sound":{"bgm":"BGM_Wake"}},{"character":[{"name":"Bronya","face":0}],"speaker":{"index":0,"name":"布洛妮娅"}},{"character":[{"name":"Bronya","face":0},{"name":"Seele","face":2}],"speaker":{"index":1,"name":"希儿"}},{"character":[{"name":"Bronya","face":0},{"name":"Seele","face":2}],"speaker":{"index":0,"name":"布洛妮娅"}},{"character":[{"name":"Bronya","face":0},{"name":"Seele","face":2}],"speaker":{"index":1,"name":"希儿"}},{"character":[{"name":"Bronya","face":0},{"name":"Seele","face":2}],"speaker":{"index":0,"name":"布洛妮娅"}},{"character":[{"name":"Bronya","face":0},{"name":"Seele","face":2}],"speaker":{"index":1,"name":"希儿"}},{"character":[{"name":"Bronya","face":0},{"name":"Seele","face":2}],"speaker":{"index":0,"name":"布洛妮娅"}},{"character":[{"name":"Bronya","face":0},{"name":"Seele","face":2}],"speaker":{"index":1,"name":"希儿"}},{"character":[{"name":"Bronya","face":0},{"name":"Seele","face":2}],"speaker":{"index":0,"name":"布洛妮娅"}},{"character":[{"name":"Bronya","face":0},{"name":"Seele","face":2}],"speaker":{"index":1,"name":"希儿"}},{"character":[{"name":"Bronya","face":0},{"name":"Seele","face":2}],"speaker":{"index":0,"name":"布洛妮娅"}},{"character":[{"name":"Bronya","face":0},{"name":"Seele","face":2}],"speaker":{"index":1,"name":"希儿"}},{"character":[{"name":"Bronya","face":0},{"name":"Seele","face":2}],"speaker":{"index":0,"name":"布洛妮娅"}},{"character":[{"name":"Bronya","face":0},{"name":"Seele","face":2}],"speaker":{"index":1,"name":"希儿"}},{"character":[{"name":"Bronya","face":0},{"name":"Seele","face":2}],"speaker":{"index":0,"name":"布洛妮娅"}},{"character":[{"name":"Bronya","face":0},{"name":"Seele","face":2}],"speaker":{"index":1,"name":"希儿"}},{"character":[{"name":"Bronya","face":0},{"name":"Seele","face":2}],"speaker":{"index":0,"name":"布洛妮娅"}},{"character":[{"name":"Bronya","face":0},{"name":"Seele","face":2}],"speaker":{"index":1,"name":"希儿"}},{"character":[{"name":"Bronya","face":0},{"name":"Seele","face":2}],"speaker":{"index":0,"name":"布洛妮娅"},"text":"......"},{"character":[{"name":"Bronya","face":0},{"name":"Seele","face":2}],"speaker":{"index":1,"name":"希儿"}},{"character":[{"name":"Bronya","face":0},{"name":"Seele","face":2}],"speaker":{"index":0,"name":"布洛妮娅"}},{"character":[{"name":"Bronya","face":0},{"name":"Seele","face":2}],"speaker":{"index":1,"name":"希儿"}},{"character":[{"name":"Bronya","face":0},{"name":"Seele","face":2}],"speaker":{"index":1}},{"character":[{"name":"Bronya","face":0},{"name":"Seele","face":2}],"speaker":{"index":1,"name":"希儿"}},{"character":[{"name":"Bronya","face":0},{"name":"Seele","face":2}],"speaker":{"index":0,"name":"布洛妮娅"}},{"character":[{"name":"Bronya","face":0},{"name":"Seele","face":2}],"speaker":{"index":1,"name":"希儿"}},{"character":[{"name":"Bronya","face":0},{"name":"Seele","face":2}],"speaker":{"index":0,"name":"布洛妮娅"}},{"character":[{"name":"Bronya","face":0},{"name":"Seele","face":2}],"speaker":{"index":1,"name":"希儿"}},{"character":[{"name":"Bronya","face":0},{"name":"Seele","face":2}],"speaker":{"index":0,"name":"布洛妮娅"}},{"character":[{"name":"Bronya","face":0},{"name":"Seele","face":2}],"speaker":{"index":1,"name":"希儿"}},{"character":[{"name":"Bronya","face":0},{"name":"Seele","face":2}],"speaker":{"index":0,"name":"布洛妮娅"}},{"character":[{"name":"Bronya","face":0},{"name":"Seele","face":2}],"speaker":{"index":1,"name":"希儿"}},{"character":[{"name":"Bronya","face":0},{"name":"Seele","face":2}],"speaker":{"index":0,"name":"布洛妮娅"}},{"character":[{"name":"Bronya","face":0},{"name":"Seele","face":2}],"speaker":{"index":1,"name":"希儿"}},{"character":[{"name":"Bronya","face":0},{"name":"Seele","face":2}],"speaker":{"index":1}},{"character":[{"name":"Bronya","face":0},{"name":"Seele","face":2}],"speaker":{"index":1,"name":"希儿"}},{"character":[{"name":"Bronya","face":0},{"name":"Seele","face":2}],"speaker":{"index":0}},{"character":[{"name":"Bronya","face":0},{"name":"Seele","face":2}],"speaker":{"index":0,"name":"布洛妮娅"}},{"character":[{"name":"Bronya","face":0},{"name":"Seele","face":2}],"speaker":{"index":1,"name":"希儿"}},{"character":[{"name":"Bronya","face":0},{"name":"Seele","face":2}],"speaker":{"index":0,"name":"布洛妮娅"}},{"character":[{"name":"Bronya","face":0},{"name":"Seele","face":2}],"speaker":{"index":1,"name":"希儿"}},{"character":[{"name":"Bronya","face":0},{"name":"Seele","face":2}],"text":null},{"screenEffect":"dark1","sound":{"se1":"Gunfight"}},{"background":{"id":9},"screenEffect":"dark2","character":[{"name":"希儿"}]},{"text":null},{"character":[{"name":""}]},{"character":[{"name":""}]},{"character":[{"name":""}]},{"character":[{"name":""}]},{"character":[{"name":""}]},{"character":[{"name":""}]},{"character":[{"name":""}]},{"character":[{"name":""}]},{"character":[{"name":""}]},{"character":[{"name":""}]},{"character":[{"name":""}]},{"character":[{"name":""}]},{"character":[{"name":""}]},{"character":[{"name":""}]},{"character":[{"name":""}]},{"character":[{"name":""}]},{"character":[{"name":""}]},{"character":[{"name":""}]},{"character":[{"name":""}]},{"character":[{"name":""}]},{"character":[{"name":""}]},{"character":[{"name":""}]}]
+[
+  {
+    "background": {
+      "id": 83,
+      "isNight": true
+    },
+    "sound": {
+      "bgm": "BGM_Brain"
+    },
+    "text": "......+............"
+  },
+  {
+    "character": [
+      {
+        "name": "FN57",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "FN-57"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "FN57",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "琪亚娜"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "FN57",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "FN-57"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "RaidenMei",
+        "face": 0
+      },
+      {
+        "name": "FN57",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "芽衣"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "RaidenMei",
+        "face": 0
+      },
+      {
+        "name": "FN57",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "FN-57"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "RaidenMei",
+        "face": 0
+      },
+      {
+        "name": "FN57",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "芽衣"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "RaidenMei",
+        "face": 0
+      },
+      {
+        "name": "FN57",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "FN-57"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "RaidenMei",
+        "face": 0
+      },
+      {
+        "name": "FN57",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "琪亚娜"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "RaidenMei",
+        "face": 0
+      },
+      {
+        "name": "FN57",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "FN-57"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "RaidenMei",
+        "face": 0
+      },
+      {
+        "name": "FN57",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "芽衣"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "RaidenMei",
+        "face": 0
+      },
+      {
+        "name": "FN57",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "FN-57"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "RaidenMei",
+        "face": 0
+      },
+      {
+        "name": "FN57",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "琪亚娜"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "RaidenMei",
+        "face": 0
+      },
+      {
+        "name": "FN57",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "FN-57"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "RaidenMei",
+        "face": 0
+      },
+      {
+        "name": "FN57",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "琪亚娜"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "RaidenMei",
+        "face": 0
+      },
+      {
+        "name": "FN57",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "FN-57"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "RaidenMei",
+        "face": 0
+      },
+      {
+        "name": "FN57",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "琪亚娜"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "RaidenMei",
+        "face": 0
+      },
+      {
+        "name": "FN57",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "FN-57"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "RaidenMei",
+        "face": 0
+      },
+      {
+        "name": "FN57",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "芽衣"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "Himeko",
+        "face": 0
+      },
+      {
+        "name": "FN57",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "姬子"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "Himeko",
+        "face": 0
+      },
+      {
+        "name": "FN57",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "琪亚娜"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "Himeko",
+        "face": 0
+      },
+      {
+        "name": "FN57",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "姬子"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "RaidenMei",
+        "face": 0
+      },
+      {
+        "name": "FN57",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "芽衣"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "RaidenMei",
+        "face": 0
+      },
+      {
+        "name": "FN57",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "琪亚娜"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "RaidenMei",
+        "face": 0
+      },
+      {
+        "name": "Theresa",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "德丽莎"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "RaidenMei",
+        "face": 0
+      },
+      {
+        "name": "Theresa",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "琪亚娜"
+    },
+    "text": "...정말요?"
+  },
+  {
+    "character": [
+      {
+        "name": "RaidenMei",
+        "face": 0
+      },
+      {
+        "name": "Theresa",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "德丽莎"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "RaidenMei",
+        "face": 0
+      },
+      {
+        "name": "Theresa",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "芽衣"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "RaidenMei",
+        "face": 0
+      },
+      {
+        "name": "Theresa",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "德丽莎"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "RaidenMei",
+        "face": 0
+      },
+      {
+        "name": "Theresa",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "琪亚娜"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "RaidenMei",
+        "face": 0
+      },
+      {
+        "name": "Theresa",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "德丽莎"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "RaidenMei",
+        "face": 0
+      },
+      {
+        "name": "Theresa",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "琪亚娜"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "RaidenMei",
+        "face": 0
+      },
+      {
+        "name": "FN57",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "FN-57"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "RaidenMei",
+        "face": 0
+      },
+      {
+        "name": "FN57",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "琪亚娜"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "RaidenMei",
+        "face": 0
+      },
+      {
+        "name": "FN57",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "FN-57"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "RaidenMei",
+        "face": 0
+      },
+      {
+        "name": "FN57",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "琪亚娜"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "RaidenMei",
+        "face": 0
+      },
+      {
+        "name": "FN57",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "FN-57"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "Himeko",
+        "face": 0
+      },
+      {
+        "name": "FN57",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "姬子"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "Himeko",
+        "face": 0
+      },
+      {
+        "name": "FN57",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "FN-57"
+    }
+  },
+  {
+    "screenEffect": "dark1",
+    "character": [
+      {
+        "name": "Himeko",
+        "face": 0
+      },
+      {
+        "name": "FN57",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "琪亚娜"
+    }
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark2",
+    "sound": {
+      "bgm": "BGM_Empty"
+    },
+    "text": "......"
+  },
+  {
+    "sound": {
+      "bgm": "BGM_Wake"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "Bronya",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "布洛妮娅"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "Bronya",
+        "face": 0
+      },
+      {
+        "name": "Seele",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "希儿"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "Bronya",
+        "face": 0
+      },
+      {
+        "name": "Seele",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "布洛妮娅"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "Bronya",
+        "face": 0
+      },
+      {
+        "name": "Seele",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "希儿"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "Bronya",
+        "face": 0
+      },
+      {
+        "name": "Seele",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "布洛妮娅"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "Bronya",
+        "face": 0
+      },
+      {
+        "name": "Seele",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "希儿"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "Bronya",
+        "face": 0
+      },
+      {
+        "name": "Seele",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "布洛妮娅"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "Bronya",
+        "face": 0
+      },
+      {
+        "name": "Seele",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "希儿"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "Bronya",
+        "face": 0
+      },
+      {
+        "name": "Seele",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "布洛妮娅"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "Bronya",
+        "face": 0
+      },
+      {
+        "name": "Seele",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "希儿"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "Bronya",
+        "face": 0
+      },
+      {
+        "name": "Seele",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "布洛妮娅"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "Bronya",
+        "face": 0
+      },
+      {
+        "name": "Seele",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "希儿"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "Bronya",
+        "face": 0
+      },
+      {
+        "name": "Seele",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "布洛妮娅"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "Bronya",
+        "face": 0
+      },
+      {
+        "name": "Seele",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "希儿"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "Bronya",
+        "face": 0
+      },
+      {
+        "name": "Seele",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "布洛妮娅"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "Bronya",
+        "face": 0
+      },
+      {
+        "name": "Seele",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "希儿"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "Bronya",
+        "face": 0
+      },
+      {
+        "name": "Seele",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "布洛妮娅"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "Bronya",
+        "face": 0
+      },
+      {
+        "name": "Seele",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "希儿"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "Bronya",
+        "face": 0
+      },
+      {
+        "name": "Seele",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "布洛妮娅"
+    },
+    "text": "......"
+  },
+  {
+    "character": [
+      {
+        "name": "Bronya",
+        "face": 0
+      },
+      {
+        "name": "Seele",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "希儿"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "Bronya",
+        "face": 0
+      },
+      {
+        "name": "Seele",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "布洛妮娅"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "Bronya",
+        "face": 0
+      },
+      {
+        "name": "Seele",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "希儿"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "Bronya",
+        "face": 0
+      },
+      {
+        "name": "Seele",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 1
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "Bronya",
+        "face": 0
+      },
+      {
+        "name": "Seele",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "希儿"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "Bronya",
+        "face": 0
+      },
+      {
+        "name": "Seele",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "布洛妮娅"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "Bronya",
+        "face": 0
+      },
+      {
+        "name": "Seele",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "希儿"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "Bronya",
+        "face": 0
+      },
+      {
+        "name": "Seele",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "布洛妮娅"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "Bronya",
+        "face": 0
+      },
+      {
+        "name": "Seele",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "希儿"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "Bronya",
+        "face": 0
+      },
+      {
+        "name": "Seele",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "布洛妮娅"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "Bronya",
+        "face": 0
+      },
+      {
+        "name": "Seele",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "希儿"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "Bronya",
+        "face": 0
+      },
+      {
+        "name": "Seele",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "布洛妮娅"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "Bronya",
+        "face": 0
+      },
+      {
+        "name": "Seele",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "希儿"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "Bronya",
+        "face": 0
+      },
+      {
+        "name": "Seele",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "布洛妮娅"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "Bronya",
+        "face": 0
+      },
+      {
+        "name": "Seele",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "希儿"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "Bronya",
+        "face": 0
+      },
+      {
+        "name": "Seele",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 1
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "Bronya",
+        "face": 0
+      },
+      {
+        "name": "Seele",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "希儿"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "Bronya",
+        "face": 0
+      },
+      {
+        "name": "Seele",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "Bronya",
+        "face": 0
+      },
+      {
+        "name": "Seele",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "布洛妮娅"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "Bronya",
+        "face": 0
+      },
+      {
+        "name": "Seele",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "希儿"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "Bronya",
+        "face": 0
+      },
+      {
+        "name": "Seele",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "布洛妮娅"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "Bronya",
+        "face": 0
+      },
+      {
+        "name": "Seele",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "希儿"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "Bronya",
+        "face": 0
+      },
+      {
+        "name": "Seele",
+        "face": 2
+      }
+    ]
+  },
+  {
+    "screenEffect": "dark1",
+    "sound": {
+      "se1": "Gunfight"
+    }
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark2",
+    "character": [
+      {
+        "name": "希儿"
+      }
+    ]
+  },
+  {
+    "background": {
+      "id": 10
+    },
+    "screenEffect": "blackSpot2"
+  },
+  {
+    "character": [
+      {
+        "name": ""
+      }
+    ]
+  },
+  {
+    "character": [
+      {
+        "name": ""
+      }
+    ]
+  },
+  {
+    "character": [
+      {
+        "name": ""
+      }
+    ]
+  },
+  {
+    "character": [
+      {
+        "name": ""
+      }
+    ]
+  },
+  {
+    "character": [
+      {
+        "name": ""
+      }
+    ]
+  },
+  {
+    "character": [
+      {
+        "name": ""
+      }
+    ]
+  },
+  {
+    "character": [
+      {
+        "name": ""
+      }
+    ]
+  },
+  {
+    "character": [
+      {
+        "name": ""
+      }
+    ]
+  },
+  {
+    "character": [
+      {
+        "name": ""
+      }
+    ]
+  },
+  {
+    "character": [
+      {
+        "name": ""
+      }
+    ]
+  },
+  {
+    "character": [
+      {
+        "name": ""
+      }
+    ]
+  },
+  {
+    "character": [
+      {
+        "name": ""
+      }
+    ]
+  },
+  {
+    "character": [
+      {
+        "name": ""
+      }
+    ]
+  },
+  {
+    "character": [
+      {
+        "name": ""
+      }
+    ]
+  },
+  {
+    "character": [
+      {
+        "name": ""
+      }
+    ]
+  },
+  {
+    "character": [
+      {
+        "name": ""
+      }
+    ]
+  },
+  {
+    "character": [
+      {
+        "name": ""
+      }
+    ]
+  },
+  {
+    "character": [
+      {
+        "name": ""
+      }
+    ]
+  },
+  {
+    "character": [
+      {
+        "name": ""
+      }
+    ]
+  },
+  {
+    "character": [
+      {
+        "name": ""
+      }
+    ]
+  },
+  {
+    "character": [
+      {
+        "name": ""
+      }
+    ]
+  },
+  {
+    "character": [
+      {
+        "name": ""
+      }
+    ]
+  }
+]

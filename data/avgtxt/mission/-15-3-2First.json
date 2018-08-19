@@ -1,1 +1,1546 @@
-[{"background":{"id":9},"sound":{"bgm":"BGM_Battle"},"text":".........30분 뒤..."},{"sound":{"se1":"MachineGunBurst"}},{"character":[{"name":"Vector","face":0}],"speaker":{"index":0}},{"character":[{"name":"Seele","face":0},{"name":"Vector","face":0}],"speaker":{"index":0,"name":"希儿"}},{"character":[{"name":"Seele","face":0},{"name":"Vector","face":0}],"speaker":{"index":1}},{"character":[{"name":"Seele","face":0},{"name":"Vector","face":0}],"speaker":{"index":0,"name":"希儿"}},{"sound":{"se1":"MachineGunBurst"}},{"character":[{"name":"Seele","face":0},{"name":"Vector","face":0}],"speaker":{"index":1}},{"character":[{"name":"Seele","face":0}],"speaker":{"index":0,"name":"希儿"}},{"sound":{"se1":"MachineGunBurst"}},{"sound":{"bgm":"BGM_Empty"},"character":[{"name":"Vector","face":0}],"speaker":{"index":0}},{"character":[{"name":"Seele","face":0},{"name":"Vector","face":0}],"speaker":{"index":0,"name":"希儿"},"text":"왜 그래?"},{"sound":{"bgm":"BGM_Wake"},"character":[{"name":"Seele","face":0},{"name":"Vector","face":0}],"speaker":{"index":1}},{"character":[{"name":"Seele","face":0},{"name":"Vector","face":0}],"speaker":{"index":0,"name":"希儿"}},{"character":[{"name":"Seele","face":0},{"name":"Vector","face":0}],"speaker":{"index":1}},{"sound":{"se1":"MachineGunBurst"}},{"character":[{"name":"Seele","face":0},{"name":"Vector","face":0}],"speaker":{"index":0,"name":"希儿"}},{"character":[{"name":"Seele","face":0},{"name":"Vector","face":0}],"speaker":{"index":1}},{"character":[{"name":"Seele","face":0},{"name":"Vector","face":0}],"speaker":{"index":0,"name":"希儿"}},{"character":[{"name":"Seele","face":0},{"name":"Vector","face":0}],"speaker":{"index":1}},{"sound":{"se1":"MachineGunBurst"}},{"character":[{"name":"Seele","face":0},{"name":"Vector","face":0}],"speaker":{"index":0,"name":"希儿"}},{"character":[{"name":"Seele","face":0},{"name":"Vector","face":0}],"speaker":{"index":1}},{"character":[{"name":"Seele","face":0},{"name":"Vector","face":0}],"speaker":{"index":0,"name":"希儿"}},{"character":[{"name":"Seele","face":0},{"name":"Vector","face":0}],"speaker":{"index":1}},{"character":[{"name":"Seele","face":0},{"name":"Vector","face":0}],"speaker":{"index":0,"name":"希儿"}},{},{"character":[{"name":"Seele","face":0},{"name":"Vector","face":0}],"speaker":{"index":1}},{"character":[{"name":"Seele","face":0}],"speaker":{"index":0,"name":"希儿"}},{"character":[{"name":"Vector","face":0}],"speaker":{"index":0},"text":"......!"},{"character":[{"name":"Vector","face":0}],"speaker":{"index":0}},{"character":[{"name":"Vector","face":0}],"speaker":{"index":0}},{"character":[{"name":"Vector","face":0}],"speaker":{"index":0}},{"character":[{"name":"Vector","face":0}],"speaker":{"index":0}},{"character":[{"name":"Seele","face":0}],"speaker":{"index":0,"name":"希儿"}},{"character":[{"name":"Vector","face":0}],"speaker":{"index":0}},{"sound":{"se1":"MachineGunBurst"}},{"character":[{"name":"Seele","face":0}],"speaker":{"index":0,"name":"希儿"}},{"character":[{"name":"Vector","face":0}],"speaker":{"index":0}},{"sound":{"se1":"MachineGunBurst"}},{"character":[{"name":"Vector","face":0}],"speaker":{"index":0}},{"screenEffect":"dark1","character":[{"name":"Seele","face":0}],"speaker":{"index":0,"name":"希儿"}},{"screenEffect":"dark2","sound":{"bgm":"BGM_Empty"},"character":[{"name":"希儿"}]},{"character":[{"name":"Vector"}],"text":"......?"},{},{"character":[{"name":"？？"}]},{"character":[{"name":"Vector","face":0}],"speaker":{"index":0}},{"character":[{"name":"PP90"}]},{"character":[{"name":"Vector","face":0}],"speaker":{"index":0}},{"character":[{"name":"PP90"}]},{"character":[{"name":"Vector","face":0}],"speaker":{"index":0}},{"character":[{"name":"PP90"}]},{},{"character":[{"name":"Vector"}]},{"sound":{"se1":"Explode"}},{"sound":{"bgm":"BGM_Sneak"},"character":[{"name":"Vector","face":0}],"speaker":{"index":0}},{"character":[{"name":"Seele","face":0}],"speaker":{"index":0,"name":"希儿"}},{"character":[{"name":"Vector","face":0}],"speaker":{"index":0}},{"character":[{"name":"PP90","face":0}],"speaker":{"index":0}},{"character":[{"name":"Vector","face":0}],"speaker":{"index":0}},{"character":[{"name":"Seele","face":0}],"speaker":{"index":0,"name":"希儿"}},{"sound":{"se1":"MachineGunBurst"}},{"character":[{"name":"PP90","face":0}],"speaker":{"index":0}},{},{"character":[{"name":"Vector","face":0}],"speaker":{"index":0}},{"character":[{"name":"PP90","face":0}],"speaker":{"index":0}},{"character":[{"name":"Vector","face":0}],"speaker":{"index":0}},{"screenEffect":"dark1"},{"screenEffect":"dark2"},{"character":[{"name":"Vector","face":0}],"speaker":{"index":0}},{"character":[{"name":"PP90","face":0},{"name":"Vector","face":0}],"speaker":{"index":0}},{},{"character":[{"name":"PP90","face":0},{"name":"Vector","face":0}],"speaker":{"index":1}},{"character":[{"name":"PP90","face":0},{"name":"Vector","face":0}],"speaker":{"index":0}},{"character":[{"name":"PP90","face":0},{"name":"Vector","face":0}],"speaker":{"index":1}},{"character":[{"name":"PP90","face":0},{"name":"Vector","face":0}],"speaker":{"index":0}},{},{"character":[{"name":"PP90","face":0},{"name":"Vector","face":0}],"speaker":{"index":0}},{"character":[{"name":"PP90","face":0},{"name":"Vector","face":0}],"speaker":{"index":1}},{"character":[{"name":"PP90","face":0},{"name":"Vector","face":0}],"speaker":{"index":0}},{"character":[{"name":"PP90","face":0},{"name":"Vector","face":0}],"speaker":{"index":1}},{"character":[{"name":"PP90","face":0},{"name":"Vector","face":0}],"speaker":{"index":0}},{"character":[{"name":"PP90","face":0}],"speaker":{"index":0}},{"character":[{"name":"Seele","face":0}],"speaker":{"index":0,"name":"希儿"}},{"character":[{"name":"PP90","face":0},{"name":"Seele","face":0}],"speaker":{"index":0}},{"character":[{"name":"PP90","face":0},{"name":"Seele","face":0}],"speaker":{"index":1,"name":"希儿"}},{"character":[{"name":"Vector"}]},{"character":[{"name":"PP90","face":0}],"speaker":{"index":0}},{"character":[{"name":"Seele","face":0}],"speaker":{"index":0,"name":"希儿"}},{"character":[{"name":"PP90","face":0}],"speaker":{"index":0}},{},{"sound":{"bgm":"BGM_Empty"},"character":[{"name":"PP90","face":0}],"speaker":{"index":0}},{"character":[{"name":"Seele","face":0}],"speaker":{"index":0,"name":"希儿"}},{"character":[{"name":"Vector","face":0}],"speaker":{"index":0}},{"character":[{"name":"Seele","face":0}],"speaker":{"index":0,"name":"希儿"}},{"character":[{"name":"PP90","face":0}],"speaker":{"index":0}},{"character":[{"name":"Vector","face":0}],"speaker":{"index":0}},{"character":[{"name":"Seele","face":0}],"speaker":{"index":0,"name":"希儿"}},{"character":[{"name":"Vector","face":0}],"speaker":{"index":0},"text":"......"},{"character":[{"name":"PP90","face":0}],"speaker":{"index":0}},{"character":[{"name":"希儿"}],"text":"헤헤......"},{},{"character":[{"name":"希儿？"}]},{"character":[{"name":"PP90","face":0}],"speaker":{"index":0}},{"text":null},{"character":[{"name":"希儿？"}]},{"character":[{"name":"Vector","face":0}],"speaker":{"index":0}},{"sound":{"se1":"Select"},"character":[{"name":"Vector","face":0}],"speaker":{"index":0}},{"text":null},{"character":[{"name":"希儿？"}]},{"character":[{"name":"Vector"}],"text":"어?"},{"character":[{"name":"希儿？"}]},{"character":[{"name":"Vector"}]},{"sound":{"se1":"MachineGunBurst"}},{"character":[{"name":"Vector"}]},{},{"character":[{"name":"PP90"}]},{},{},{"character":[{"name":"希儿"}]},{"screenEffect":"dark1","sound":{"se1":"Rope"}},{"background":{"id":92},"screenEffect":"dark2","sound":{"bgm":"BGM_Brain"},"character":[{"name":"希儿"}]},{"character":[{"name":"Vector"}]},{"character":[{"name":"希儿"}]},{"character":[{"name":"Vector"}]},{"character":[{"name":"希儿"}]},{"character":[{"name":"Vector"}]},{"character":[{"name":"希儿"}]},{"character":[{"name":"希儿"}]},{"character":[{"name":"Vector"}]},{"character":[{"name":"希儿"}]},{"character":[{"name":"Vector"}],"text":"......"},{"character":[{"name":"希儿"}]},{"character":[{"name":"Vector"}]},{"character":[{"name":"希儿"}]},{"character":[{"name":"希儿"}]},{"character":[{"name":"Vector"}]},{"screenEffect":"dark1","character":[{"name":"希儿"}]},{"background":{"id":93},"screenEffect":"dark2"},{"character":[{"name":"希儿"}]},{"character":[{"name":"Vector"}]},{"character":[{"name":"希儿"}]},{"screenEffect":"dark1"},{"background":{"id":9}},{"character":[{"name":"琪亚娜"}]},{"character":[{"name":"布洛妮娅"}]},{"screenEffect":"dark1","character":[{"name":"芽衣"}]},{},{"sound":{"se1":"Alarm"}},{"sound":{"se2":"Gunfight"},"character":[{"name":"德丽莎"}]},{"character":[{"name":"姬子"}]},{"character":[{"name":"德丽莎"}]},{"text":"......"},{"screenEffect":"dark1","character":[{"name":"芽衣"}]},{"background":{"id":93},"screenEffect":"shockScreen","character":[{"name":"Vector"}],"text":"......!"},{},{"character":[{"name":"Vector"}]},{"screenEffect":"dark1"},{"background":{"id":9},"screenEffect":"dark2","character":[{"name":"Vector"}]},{"character":[{"name":""}]},{"character":[{"name":""}]},{"character":[{"name":""}]},{"character":[{"name":""}]},{"character":[{"name":""}]},{"character":[{"name":""}]},{"character":[{"name":""}]},{"character":[{"name":""}]},{"character":[{"name":""}]},{"character":[{"name":""}]}]
+[
+  {
+    "background": {
+      "id": 9
+    },
+    "sound": {
+      "bgm": "BGM_Battle"
+    },
+    "text": ".........30분 뒤..."
+  },
+  {
+    "sound": {
+      "se1": "MachineGunBurst"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "Vector",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "Seele",
+        "face": 0
+      },
+      {
+        "name": "Vector",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "希儿"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "Seele",
+        "face": 0
+      },
+      {
+        "name": "Vector",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "Seele",
+        "face": 0
+      },
+      {
+        "name": "Vector",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "希儿"
+    }
+  },
+  {
+    "sound": {
+      "se1": "MachineGunBurst"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "Seele",
+        "face": 0
+      },
+      {
+        "name": "Vector",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "Seele",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "希儿"
+    }
+  },
+  {
+    "sound": {
+      "se1": "MachineGunBurst"
+    }
+  },
+  {
+    "sound": {
+      "bgm": "BGM_Empty"
+    },
+    "character": [
+      {
+        "name": "Vector",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "Seele",
+        "face": 0
+      },
+      {
+        "name": "Vector",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "希儿"
+    },
+    "text": "왜 그래?"
+  },
+  {
+    "sound": {
+      "bgm": "BGM_Wake"
+    },
+    "character": [
+      {
+        "name": "Seele",
+        "face": 0
+      },
+      {
+        "name": "Vector",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "Seele",
+        "face": 0
+      },
+      {
+        "name": "Vector",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "希儿"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "Seele",
+        "face": 0
+      },
+      {
+        "name": "Vector",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1
+    }
+  },
+  {
+    "sound": {
+      "se1": "MachineGunBurst"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "Seele",
+        "face": 0
+      },
+      {
+        "name": "Vector",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "希儿"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "Seele",
+        "face": 0
+      },
+      {
+        "name": "Vector",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "Seele",
+        "face": 0
+      },
+      {
+        "name": "Vector",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "希儿"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "Seele",
+        "face": 0
+      },
+      {
+        "name": "Vector",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1
+    }
+  },
+  {
+    "sound": {
+      "se1": "MachineGunBurst"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "Seele",
+        "face": 0
+      },
+      {
+        "name": "Vector",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "希儿"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "Seele",
+        "face": 0
+      },
+      {
+        "name": "Vector",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "Seele",
+        "face": 0
+      },
+      {
+        "name": "Vector",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "希儿"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "Seele",
+        "face": 0
+      },
+      {
+        "name": "Vector",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "Seele",
+        "face": 0
+      },
+      {
+        "name": "Vector",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "希儿"
+    }
+  },
+  {},
+  {
+    "character": [
+      {
+        "name": "Seele",
+        "face": 0
+      },
+      {
+        "name": "Vector",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "Seele",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "希儿"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "Vector",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "......!"
+  },
+  {
+    "character": [
+      {
+        "name": "Vector",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "Vector",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "Vector",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "Vector",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "Seele",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "希儿"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "Vector",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    }
+  },
+  {
+    "sound": {
+      "se1": "MachineGunBurst"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "Seele",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "希儿"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "Vector",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    }
+  },
+  {
+    "sound": {
+      "se1": "MachineGunBurst"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "Vector",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    }
+  },
+  {
+    "screenEffect": "dark1",
+    "character": [
+      {
+        "name": "Seele",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "希儿"
+    }
+  },
+  {
+    "screenEffect": "dark2",
+    "sound": {
+      "bgm": "BGM_Empty"
+    },
+    "character": [
+      {
+        "name": "希儿"
+      }
+    ]
+  },
+  {
+    "character": [
+      {
+        "name": "Vector"
+      }
+    ],
+    "text": "......?"
+  },
+  {},
+  {
+    "character": [
+      {
+        "name": "？？"
+      }
+    ]
+  },
+  {
+    "character": [
+      {
+        "name": "Vector",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "PP90"
+      }
+    ]
+  },
+  {
+    "character": [
+      {
+        "name": "Vector",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "PP90"
+      }
+    ]
+  },
+  {
+    "character": [
+      {
+        "name": "Vector",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "PP90"
+      }
+    ]
+  },
+  {},
+  {
+    "character": [
+      {
+        "name": "Vector"
+      }
+    ]
+  },
+  {
+    "sound": {
+      "se1": "Explode"
+    }
+  },
+  {
+    "sound": {
+      "bgm": "BGM_Sneak"
+    },
+    "character": [
+      {
+        "name": "Vector",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "Seele",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "希儿"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "Vector",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "PP90",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "Vector",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "Seele",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "希儿"
+    }
+  },
+  {
+    "sound": {
+      "se1": "MachineGunBurst"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "PP90",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    }
+  },
+  {},
+  {
+    "character": [
+      {
+        "name": "Vector",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "PP90",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "Vector",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    }
+  },
+  {
+    "screenEffect": "dark1"
+  },
+  {
+    "screenEffect": "dark2"
+  },
+  {
+    "character": [
+      {
+        "name": "Vector",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "PP90",
+        "face": 0
+      },
+      {
+        "name": "Vector",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    }
+  },
+  {},
+  {
+    "character": [
+      {
+        "name": "PP90",
+        "face": 0
+      },
+      {
+        "name": "Vector",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "PP90",
+        "face": 0
+      },
+      {
+        "name": "Vector",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "PP90",
+        "face": 0
+      },
+      {
+        "name": "Vector",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "PP90",
+        "face": 0
+      },
+      {
+        "name": "Vector",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    }
+  },
+  {},
+  {
+    "character": [
+      {
+        "name": "PP90",
+        "face": 0
+      },
+      {
+        "name": "Vector",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "PP90",
+        "face": 0
+      },
+      {
+        "name": "Vector",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "PP90",
+        "face": 0
+      },
+      {
+        "name": "Vector",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "PP90",
+        "face": 0
+      },
+      {
+        "name": "Vector",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "PP90",
+        "face": 0
+      },
+      {
+        "name": "Vector",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "PP90",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "Seele",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "希儿"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "PP90",
+        "face": 0
+      },
+      {
+        "name": "Seele",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "PP90",
+        "face": 0
+      },
+      {
+        "name": "Seele",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "希儿"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "Vector"
+      }
+    ]
+  },
+  {
+    "character": [
+      {
+        "name": "PP90",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "Seele",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "希儿"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "PP90",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    }
+  },
+  {},
+  {
+    "sound": {
+      "bgm": "BGM_Empty"
+    },
+    "character": [
+      {
+        "name": "PP90",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "Seele",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "希儿"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "Vector",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "Seele",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "希儿"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "PP90",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "Vector",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "Seele",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "希儿"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "Vector",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "......"
+  },
+  {
+    "character": [
+      {
+        "name": "PP90",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "希儿"
+      }
+    ],
+    "text": "헤헤......"
+  },
+  {},
+  {
+    "character": [
+      {
+        "name": "希儿？"
+      }
+    ]
+  },
+  {
+    "character": [
+      {
+        "name": "PP90",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    }
+  },
+  {},
+  {
+    "character": [
+      {
+        "name": "希儿？"
+      }
+    ]
+  },
+  {
+    "character": [
+      {
+        "name": "Vector",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    }
+  },
+  {
+    "sound": {
+      "se1": "Select"
+    },
+    "character": [
+      {
+        "name": "Vector",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    }
+  },
+  {},
+  {
+    "character": [
+      {
+        "name": "希儿？"
+      }
+    ]
+  },
+  {
+    "character": [
+      {
+        "name": "Vector"
+      }
+    ],
+    "text": "어?"
+  },
+  {
+    "character": [
+      {
+        "name": "希儿？"
+      }
+    ]
+  },
+  {
+    "character": [
+      {
+        "name": "Vector"
+      }
+    ]
+  },
+  {
+    "sound": {
+      "se1": "MachineGunBurst"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "Vector"
+      }
+    ]
+  },
+  {},
+  {
+    "character": [
+      {
+        "name": "PP90"
+      }
+    ]
+  },
+  {},
+  {},
+  {
+    "character": [
+      {
+        "name": "希儿"
+      }
+    ]
+  },
+  {
+    "screenEffect": "dark1",
+    "sound": {
+      "se1": "Rope"
+    }
+  },
+  {
+    "background": {
+      "id": 92
+    },
+    "screenEffect": "dark2",
+    "sound": {
+      "bgm": "BGM_Brain"
+    },
+    "character": [
+      {
+        "name": "希儿"
+      }
+    ]
+  },
+  {
+    "character": [
+      {
+        "name": "Vector"
+      }
+    ]
+  },
+  {
+    "character": [
+      {
+        "name": "希儿"
+      }
+    ]
+  },
+  {
+    "character": [
+      {
+        "name": "Vector"
+      }
+    ]
+  },
+  {
+    "character": [
+      {
+        "name": "希儿"
+      }
+    ]
+  },
+  {
+    "character": [
+      {
+        "name": "Vector"
+      }
+    ]
+  },
+  {
+    "character": [
+      {
+        "name": "希儿"
+      }
+    ]
+  },
+  {
+    "character": [
+      {
+        "name": "希儿"
+      }
+    ]
+  },
+  {
+    "character": [
+      {
+        "name": "Vector"
+      }
+    ]
+  },
+  {
+    "character": [
+      {
+        "name": "希儿"
+      }
+    ]
+  },
+  {
+    "character": [
+      {
+        "name": "Vector"
+      }
+    ],
+    "text": "......"
+  },
+  {
+    "character": [
+      {
+        "name": "希儿"
+      }
+    ]
+  },
+  {
+    "character": [
+      {
+        "name": "Vector"
+      }
+    ]
+  },
+  {
+    "character": [
+      {
+        "name": "希儿"
+      }
+    ]
+  },
+  {
+    "character": [
+      {
+        "name": "希儿"
+      }
+    ]
+  },
+  {
+    "character": [
+      {
+        "name": "Vector"
+      }
+    ]
+  },
+  {
+    "screenEffect": "dark1",
+    "character": [
+      {
+        "name": "希儿"
+      }
+    ]
+  },
+  {
+    "background": {
+      "id": 93
+    },
+    "screenEffect": "dark2"
+  },
+  {
+    "character": [
+      {
+        "name": "希儿"
+      }
+    ]
+  },
+  {
+    "character": [
+      {
+        "name": "Vector"
+      }
+    ]
+  },
+  {
+    "character": [
+      {
+        "name": "希儿"
+      }
+    ]
+  },
+  {
+    "screenEffect": "dark1"
+  },
+  {
+    "background": {
+      "id": 9
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "琪亚娜"
+      }
+    ]
+  },
+  {
+    "character": [
+      {
+        "name": "布洛妮娅"
+      }
+    ]
+  },
+  {
+    "screenEffect": "dark1",
+    "character": [
+      {
+        "name": "芽衣"
+      }
+    ]
+  },
+  {},
+  {
+    "sound": {
+      "se1": "Alarm"
+    }
+  },
+  {
+    "sound": {
+      "se2": "Gunfight"
+    },
+    "character": [
+      {
+        "name": "德丽莎"
+      }
+    ]
+  },
+  {
+    "character": [
+      {
+        "name": "姬子"
+      }
+    ]
+  },
+  {
+    "character": [
+      {
+        "name": "德丽莎"
+      }
+    ]
+  },
+  {
+    "text": "......"
+  },
+  {
+    "screenEffect": "dark1",
+    "character": [
+      {
+        "name": "芽衣"
+      }
+    ]
+  },
+  {
+    "background": {
+      "id": 93
+    },
+    "screenEffect": "shockScreen",
+    "character": [
+      {
+        "name": "Vector"
+      }
+    ],
+    "text": "......!"
+  },
+  {},
+  {
+    "character": [
+      {
+        "name": "Vector"
+      }
+    ]
+  },
+  {
+    "screenEffect": "dark1"
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark2",
+    "character": [
+      {
+        "name": "Vector"
+      }
+    ]
+  },
+  {
+    "character": [
+      {
+        "name": ""
+      }
+    ]
+  },
+  {
+    "character": [
+      {
+        "name": ""
+      }
+    ]
+  },
+  {
+    "character": [
+      {
+        "name": ""
+      }
+    ]
+  },
+  {
+    "character": [
+      {
+        "name": ""
+      }
+    ]
+  },
+  {
+    "character": [
+      {
+        "name": ""
+      }
+    ]
+  },
+  {
+    "character": [
+      {
+        "name": ""
+      }
+    ]
+  },
+  {
+    "character": [
+      {
+        "name": ""
+      }
+    ]
+  },
+  {
+    "character": [
+      {
+        "name": ""
+      }
+    ]
+  },
+  {
+    "character": [
+      {
+        "name": ""
+      }
+    ]
+  },
+  {
+    "character": [
+      {
+        "name": ""
+      }
+    ]
+  }
+]

@@ -1,1 +1,620 @@
-[{"background":{"id":85},"sound":{"bgm":"BGM_Sneak"}},{"background":{"id":85},"character":[{"name":"Theresa","face":0}],"speaker":{"index":0,"name":"德丽莎"}},{"character":[{"name":"Theresa","face":0}],"speaker":{"index":0,"name":"琪亚娜"}},{"character":[{"name":"Theresa","face":0}],"speaker":{"index":0,"name":"德丽莎"}},{"character":[{"name":"Theresa","face":0}],"speaker":{"index":0,"name":"琪亚娜"}},{"character":[{"name":"Himeko","face":0}],"speaker":{"index":0}},{"character":[{"name":"Himeko","face":0}],"speaker":{"index":0,"name":"姬子"}},{"character":[{"name":"Himeko","face":0},{"name":"PP90","face":0}],"speaker":{"index":1},"text":"네?"},{"character":[{"name":"Himeko","face":0},{"name":"PP90","face":0}],"speaker":{"index":0,"name":"姬子"}},{"character":[{"name":"Himeko","face":0},{"name":"PP90","face":0}],"speaker":{"index":1}},{"character":[{"name":"Himeko","face":0},{"name":"PP90","face":0}],"speaker":{"index":0,"name":"姬子"}},{"character":[{"name":"Himeko","face":0},{"name":"PP90","face":0}],"speaker":{"index":1}},{"character":[{"name":"Himeko","face":0},{"name":"PP90","face":0}],"speaker":{"index":0,"name":"姬子"}},{"character":[{"name":"Himeko","face":0},{"name":"PP90","face":0}],"speaker":{"index":1}},{"character":[{"name":"Theresa","face":0},{"name":"PP90","face":0}],"speaker":{"index":0,"name":"德丽莎"}},{"character":[{"name":"Himeko","face":0},{"name":"PP90","face":0}],"speaker":{"index":0,"name":"姬子"}},{"screenEffect":"dark1","character":[{"name":"Himeko","face":0},{"name":"PP90","face":0}],"speaker":{"index":1}},{"background":{"id":10},"screenEffect":"dark2","character":[{"name":"PP90","face":0}],"speaker":{"index":0}},{"character":[{"name":"Theresa","face":0},{"name":"PP90","face":0}],"speaker":{"index":0,"name":"德丽莎"}},{"character":[{"name":"Theresa","face":0},{"name":"PP90","face":0}],"speaker":{"index":0,"name":"琪亚娜"}},{"character":[{"name":"Theresa","face":0},{"name":"PP90","face":0}],"speaker":{"index":1}},{"character":[{"name":"Theresa","face":0},{"name":"PP90","face":0}],"speaker":{"index":1,"name":"琪亚娜"}},{"character":[{"name":"Theresa","face":0},{"name":"PP90","face":0}],"speaker":{"index":1}},{"character":[{"name":"Theresa","face":0},{"name":"PP90","face":0}],"speaker":{"index":0,"name":"德丽莎"}},{"character":[{"name":"Himeko","face":0},{"name":"PP90","face":0}],"speaker":{"index":0,"name":"姬子"}},{"screenEffect":"dark1","character":[{"name":"Himeko","face":0},{"name":"PP90","face":0}],"speaker":{"index":0,"name":"琪亚娜"}},{"text":null},{"character":[{"name":""}]},{"character":[{"name":""}]},{"character":[{"name":""}]},{"character":[{"name":""}]},{"character":[{"name":""}]},{"character":[{"name":""}]},{"character":[{"name":""}]},{"character":[{"name":""}]},{"character":[{"name":""}]},{"character":[{"name":""}]},{"character":[{"name":""}]},{"character":[{"name":""}]},{"character":[{"name":""}]},{"character":[{"name":""}]},{"character":[{"name":""}]},{"character":[{"name":""}]},{"character":[{"name":""}]},{"character":[{"name":""}]},{"character":[{"name":""}]},{"character":[{"name":""}]},{"character":[{"name":""}]},{"character":[{"name":""}]},{"character":[{"name":""}]},{"character":[{"name":""}]},{"character":[{"name":""}]},{"character":[{"name":""}]},{"character":[{"name":""}]},{"character":[{"name":""}]},{"character":[{"name":""}]},{"character":[{"name":""}]},{"character":[{"name":""}]},{"character":[{"name":""}]},{"character":[{"name":""}]}]
+[
+  {
+    "background": {
+      "id": 85
+    },
+    "sound": {
+      "bgm": "BGM_Sneak"
+    }
+  },
+  {
+    "background": {
+      "id": 85
+    },
+    "character": [
+      {
+        "name": "Theresa",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "德丽莎"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "Theresa",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "琪亚娜"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "Theresa",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "德丽莎"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "Theresa",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "琪亚娜"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "Himeko",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "Himeko",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "姬子"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "Himeko",
+        "face": 0
+      },
+      {
+        "name": "PP90",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "네?"
+  },
+  {
+    "character": [
+      {
+        "name": "Himeko",
+        "face": 0
+      },
+      {
+        "name": "PP90",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "姬子"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "Himeko",
+        "face": 0
+      },
+      {
+        "name": "PP90",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "Himeko",
+        "face": 0
+      },
+      {
+        "name": "PP90",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "姬子"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "Himeko",
+        "face": 0
+      },
+      {
+        "name": "PP90",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "Himeko",
+        "face": 0
+      },
+      {
+        "name": "PP90",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "姬子"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "Himeko",
+        "face": 0
+      },
+      {
+        "name": "PP90",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "Theresa",
+        "face": 0
+      },
+      {
+        "name": "PP90",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "德丽莎"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "Himeko",
+        "face": 0
+      },
+      {
+        "name": "PP90",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "姬子"
+    }
+  },
+  {
+    "screenEffect": "dark1",
+    "character": [
+      {
+        "name": "Himeko",
+        "face": 0
+      },
+      {
+        "name": "PP90",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1
+    }
+  },
+  {
+    "background": {
+      "id": 10
+    },
+    "screenEffect": "dark2",
+    "character": [
+      {
+        "name": "PP90",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "Theresa",
+        "face": 0
+      },
+      {
+        "name": "PP90",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "德丽莎"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "Theresa",
+        "face": 0
+      },
+      {
+        "name": "PP90",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "琪亚娜"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "Theresa",
+        "face": 0
+      },
+      {
+        "name": "PP90",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "Theresa",
+        "face": 0
+      },
+      {
+        "name": "PP90",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "琪亚娜"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "Theresa",
+        "face": 0
+      },
+      {
+        "name": "PP90",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "Theresa",
+        "face": 0
+      },
+      {
+        "name": "PP90",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "德丽莎"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "Himeko",
+        "face": 0
+      },
+      {
+        "name": "PP90",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "姬子"
+    }
+  },
+  {
+    "screenEffect": "dark1",
+    "character": [
+      {
+        "name": "Himeko",
+        "face": 0
+      },
+      {
+        "name": "PP90",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "琪亚娜"
+    }
+  },
+  {
+    "background": {
+      "id": 10
+    },
+    "screenEffect": "blackSpot2"
+  },
+  {
+    "character": [
+      {
+        "name": ""
+      }
+    ]
+  },
+  {
+    "character": [
+      {
+        "name": ""
+      }
+    ]
+  },
+  {
+    "character": [
+      {
+        "name": ""
+      }
+    ]
+  },
+  {
+    "character": [
+      {
+        "name": ""
+      }
+    ]
+  },
+  {
+    "character": [
+      {
+        "name": ""
+      }
+    ]
+  },
+  {
+    "character": [
+      {
+        "name": ""
+      }
+    ]
+  },
+  {
+    "character": [
+      {
+        "name": ""
+      }
+    ]
+  },
+  {
+    "character": [
+      {
+        "name": ""
+      }
+    ]
+  },
+  {
+    "character": [
+      {
+        "name": ""
+      }
+    ]
+  },
+  {
+    "character": [
+      {
+        "name": ""
+      }
+    ]
+  },
+  {
+    "character": [
+      {
+        "name": ""
+      }
+    ]
+  },
+  {
+    "character": [
+      {
+        "name": ""
+      }
+    ]
+  },
+  {
+    "character": [
+      {
+        "name": ""
+      }
+    ]
+  },
+  {
+    "character": [
+      {
+        "name": ""
+      }
+    ]
+  },
+  {
+    "character": [
+      {
+        "name": ""
+      }
+    ]
+  },
+  {
+    "character": [
+      {
+        "name": ""
+      }
+    ]
+  },
+  {
+    "character": [
+      {
+        "name": ""
+      }
+    ]
+  },
+  {
+    "character": [
+      {
+        "name": ""
+      }
+    ]
+  },
+  {
+    "character": [
+      {
+        "name": ""
+      }
+    ]
+  },
+  {
+    "character": [
+      {
+        "name": ""
+      }
+    ]
+  },
+  {
+    "character": [
+      {
+        "name": ""
+      }
+    ]
+  },
+  {
+    "character": [
+      {
+        "name": ""
+      }
+    ]
+  },
+  {
+    "character": [
+      {
+        "name": ""
+      }
+    ]
+  },
+  {
+    "character": [
+      {
+        "name": ""
+      }
+    ]
+  },
+  {
+    "character": [
+      {
+        "name": ""
+      }
+    ]
+  },
+  {
+    "character": [
+      {
+        "name": ""
+      }
+    ]
+  },
+  {
+    "character": [
+      {
+        "name": ""
+      }
+    ]
+  },
+  {
+    "character": [
+      {
+        "name": ""
+      }
+    ]
+  },
+  {
+    "character": [
+      {
+        "name": ""
+      }
+    ]
+  },
+  {
+    "character": [
+      {
+        "name": ""
+      }
+    ]
+  },
+  {
+    "character": [
+      {
+        "name": ""
+      }
+    ]
+  },
+  {
+    "character": [
+      {
+        "name": ""
+      }
+    ]
+  },
+  {
+    "character": [
+      {
+        "name": ""
+      }
+    ]
+  }
+]

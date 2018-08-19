@@ -1,1 +1,379 @@
-[{"sound":{"bgm":"BGM_War"}},{"character":[{"name":"PP90","face":0}],"speaker":{"index":0}},{"character":[{"name":"PP90","face":0}],"speaker":{"index":0,"name":"琪亚娜"}},{"character":[{"name":"Vector","face":0}],"speaker":{"index":0}},{"character":[{"name":"PP90","face":0}],"speaker":{"index":0}},{"character":[{"name":"PP90","face":0}],"speaker":{"index":0,"name":"琪亚娜"}},{"character":[{"name":"Vector","face":0}],"speaker":{"index":0}},{"character":[{"name":"PP90","face":0}],"speaker":{"index":0}},{"character":[{"name":"PP90","face":0}],"speaker":{"index":0,"name":"琪亚娜"}},{"character":[{"name":"Vector","face":0}],"speaker":{"index":0}},{"character":[{"name":"PP90","face":0}],"speaker":{"index":0}},{"screenEffect":"dark1","character":[{"name":"PP90","face":0}],"speaker":{"index":0,"name":"琪亚娜"}},{"background":{"id":85},"screenEffect":"dark2","character":[{"name":"PP90","face":0}],"speaker":{"index":0},"text":"......"},{"character":[{"name":"PP90","face":0}],"speaker":{"index":0}},{"character":[{"name":"Vector","face":0}],"speaker":{"index":0}},{"character":[{"name":"PP90","face":0}],"speaker":{"index":0}},{"character":[{"name":"Vector","face":0}],"speaker":{"index":0}},{"character":[{"name":"PP90","face":0}],"speaker":{"index":0}},{"character":[{"name":"琪亚娜"}]},{"screenEffect":"dark1","character":[{"name":"PP90","face":0}],"speaker":{"index":0}},{"background":{"id":9},"screenEffect":"dark2","character":[{"name":"Vector"}]},{"background":{"id":10},"screenEffect":"dark2","character":[{"name":"PP90","face":0}],"speaker":{"index":0}},{"character":[{"name":"PP90","face":0}],"speaker":{"index":0,"name":"琪亚娜"}},{"character":[{"name":"Vector","face":0}],"speaker":{"index":0}},{"character":[{"name":"PP90","face":0}],"speaker":{"index":0}},{"screenEffect":"blackSpot1","character":[{"name":"PP90","face":0}],"speaker":{"index":0,"name":"琪亚娜"}},{"text":null},{"character":[{"name":""}]},{"character":[{"name":""}]},{"character":[{"name":""}]},{"character":[{"name":""}]},{"character":[{"name":""}]},{"character":[{"name":""}]},{"character":[{"name":""}]},{"character":[{"name":""}]},{"character":[{"name":""}]},{"character":[{"name":""}]},{"character":[{"name":""}]}]
+[
+  {
+    "sound": {
+      "bgm": "BGM_War"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "PP90",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "PP90",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "琪亚娜"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "Vector",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "PP90",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "PP90",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "琪亚娜"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "Vector",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "PP90",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "PP90",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "琪亚娜"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "Vector",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "PP90",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    }
+  },
+  {
+    "screenEffect": "dark1",
+    "character": [
+      {
+        "name": "PP90",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "琪亚娜"
+    }
+  },
+  {
+    "background": {
+      "id": 85
+    },
+    "screenEffect": "dark2",
+    "character": [
+      {
+        "name": "PP90",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "......"
+  },
+  {
+    "character": [
+      {
+        "name": "PP90",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "Vector",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "PP90",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "Vector",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "PP90",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "琪亚娜"
+      }
+    ]
+  },
+  {
+    "screenEffect": "dark1",
+    "character": [
+      {
+        "name": "PP90",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    }
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark2",
+    "character": [
+      {
+        "name": "Vector"
+      }
+    ]
+  },
+  {
+    "background": {
+      "id": 10
+    },
+    "screenEffect": "dark2",
+    "character": [
+      {
+        "name": "PP90",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "PP90",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "琪亚娜"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "Vector",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "PP90",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    }
+  },
+  {
+    "screenEffect": "blackSpot1",
+    "character": [
+      {
+        "name": "PP90",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "琪亚娜"
+    }
+  },
+  {
+    "background": {
+      "id": 10
+    },
+    "screenEffect": "blackSpot2"
+  },
+  {
+    "character": [
+      {
+        "name": ""
+      }
+    ]
+  },
+  {
+    "character": [
+      {
+        "name": ""
+      }
+    ]
+  },
+  {
+    "character": [
+      {
+        "name": ""
+      }
+    ]
+  },
+  {
+    "character": [
+      {
+        "name": ""
+      }
+    ]
+  },
+  {
+    "character": [
+      {
+        "name": ""
+      }
+    ]
+  },
+  {
+    "character": [
+      {
+        "name": ""
+      }
+    ]
+  },
+  {
+    "character": [
+      {
+        "name": ""
+      }
+    ]
+  },
+  {
+    "character": [
+      {
+        "name": ""
+      }
+    ]
+  },
+  {
+    "character": [
+      {
+        "name": ""
+      }
+    ]
+  },
+  {
+    "character": [
+      {
+        "name": ""
+      }
+    ]
+  },
+  {
+    "character": [
+      {
+        "name": ""
+      }
+    ]
+  }
+]

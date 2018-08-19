@@ -1,1 +1,90 @@
-[{"background":{"id":41},"sound":{"bgm":"BGM_Danger"}},{"character":[{"name":"琪亚娜"}]},{"character":[{"name":"BossDestroyerPlus","face":0}],"speaker":{"index":0,"name":"破坏者"}},{"character":[{"name":"RaidenMei","face":0}],"speaker":{"index":0,"name":"芽衣"}},{"character":[{"name":"Himeko","face":0,"inCommunicationBox":true}],"speaker":{"index":0,"name":"姬子"}},{"character":[{"name":"Theresa","face":0,"inCommunicationBox":true}],"speaker":{"index":0,"name":"德丽莎"}},{"screenEffect":"dark1","character":[{"name":"琪亚娜"}]},{"background":{"id":9},"screenEffect":"dark2","text":"............같은 시각."},{"screenEffect":"dark1","character":[{"name":"？？"}]}]
+[
+  {
+    "background": {
+      "id": 41
+    },
+    "sound": {
+      "bgm": "BGM_Danger"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "琪亚娜"
+      }
+    ]
+  },
+  {
+    "character": [
+      {
+        "name": "BossDestroyerPlus",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "破坏者"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "RaidenMei",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "芽衣"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "Himeko",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "姬子"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "Theresa",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "德丽莎"
+    }
+  },
+  {
+    "screenEffect": "dark1",
+    "character": [
+      {
+        "name": "琪亚娜"
+      }
+    ]
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark2",
+    "text": "............같은 시각."
+  },
+  {
+    "screenEffect": "dark1",
+    "character": [
+      {
+        "name": "？？"
+      }
+    ]
+  }
+]

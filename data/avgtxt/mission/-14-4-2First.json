@@ -1,1 +1,136 @@
-[{"background":{"id":2},"sound":{"bgm":"BGM_Danger"}},{"character":[{"name":"Theresa","face":0,"inCommunicationBox":true}],"speaker":{"index":0,"name":"德丽莎"}},{"character":[{"name":"琪亚娜"}]},{"character":[{"name":"Theresa","face":0}],"speaker":{"index":0,"name":"德丽莎"}},{"character":[{"name":"琪亚娜"}]},{"character":[{"name":"Theresa","face":0}],"speaker":{"index":0,"name":"德丽莎"}},{"character":[{"name":"琪亚娜"}]},{"character":[{"name":"Theresa","face":0}],"speaker":{"index":0,"name":"德丽莎"}},{"character":[{"name":"琪亚娜"}]},{"character":[{"name":"Theresa","face":0}],"speaker":{"index":0,"name":"德丽莎"}},{"character":[{"name":"琪亚娜"}]},{"character":[{"name":"PP90","face":0,"inCommunicationBox":true}]},{"character":[{"name":"琪亚娜"}]},{"screenEffect":"dark1","character":[{"name":"Theresa","face":0,"inCommunicationBox":true}],"speaker":{"index":0,"name":"德丽莎"}}]
+[
+  {
+    "background": {
+      "id": 2
+    },
+    "sound": {
+      "bgm": "BGM_Danger"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "Theresa",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "德丽莎"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "琪亚娜"
+      }
+    ]
+  },
+  {
+    "character": [
+      {
+        "name": "Theresa",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "德丽莎"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "琪亚娜"
+      }
+    ]
+  },
+  {
+    "character": [
+      {
+        "name": "Theresa",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "德丽莎"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "琪亚娜"
+      }
+    ]
+  },
+  {
+    "character": [
+      {
+        "name": "Theresa",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "德丽莎"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "琪亚娜"
+      }
+    ]
+  },
+  {
+    "character": [
+      {
+        "name": "Theresa",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "德丽莎"
+    }
+  },
+  {
+    "character": [
+      {
+        "name": "琪亚娜"
+      }
+    ]
+  },
+  {
+    "character": [
+      {
+        "name": "PP90",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ]
+  },
+  {
+    "character": [
+      {
+        "name": "琪亚娜"
+      }
+    ]
+  },
+  {
+    "screenEffect": "dark1",
+    "character": [
+      {
+        "name": "Theresa",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "德丽莎"
+    }
+  }
+]
