@@ -9,7 +9,7 @@
     "text": "......순조롭게 시험을 통과했다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Helian",
         "face": 0,
@@ -29,7 +29,7 @@
     "text": "......문이 열렸다.+카리나 씨가 들어왔다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kalin",
         "face": 1
@@ -42,7 +42,7 @@
     "text": "아! 헬리안 씨, 돌아오셨군요."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Helian",
         "face": 0
@@ -59,7 +59,7 @@
     "text": "그래, 너한테 시험을 맡겼더라면 아마 또 연기됐겠지."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Helian",
         "face": 0
@@ -76,7 +76,7 @@
     "text": "무슨 소리를, 저번에 지휘관 성적도 분명 제시간에 올렸다고요!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Helian",
         "face": 0
@@ -93,7 +93,7 @@
     "text": "그럼 이번은? 또 늦잠 잤다고는 하지 말도록."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Helian",
         "face": 0
@@ -110,7 +110,7 @@
     "text": "이번은 말이죠...으흐흐...."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Helian",
         "face": 3
@@ -127,7 +127,7 @@
     "text": "...? 뭘 그렇게 음흉하게 웃나?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Helian",
         "face": 3
@@ -144,7 +144,7 @@
     "text": "방금 다른 사람한테 들었다구요~"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Helian",
         "face": 3
@@ -161,7 +161,7 @@
     "text": "헬리안 씨가...저번에 결석하신...이 - 유."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Helian",
         "face": 2
@@ -178,7 +178,7 @@
     "text": "....윽!!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Helian",
         "face": 2
@@ -195,7 +195,7 @@
     "text": "정말 아쉽네요. 이번에도 미팅에 실패했다니..."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Helian",
         "face": 2
@@ -213,7 +213,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "NPC-Helian",
         "face": 3

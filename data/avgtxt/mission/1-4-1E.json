@@ -6,7 +6,7 @@
     "text": "그리폰 지휘실, 원격통신중......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Helian",
         "face": 0,
@@ -20,7 +20,7 @@
     "text": "안녕하십니까, 지휘관."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Helian",
         "face": 1
@@ -34,7 +34,7 @@
   },
   {
     "screenEffect": "blackSpot1",
-    "character": [
+    "characters": [
       {
         "name": "NPC-Helian",
         "face": 0
@@ -51,7 +51,7 @@
       "id": 10
     },
     "screenEffect": "blackSpot2",
-    "character": [
+    "characters": [
       {
         "name": "NPC-Helian",
         "face": 0,

@@ -6,7 +6,7 @@
     "text": "......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M99",
         "face": 0,
@@ -16,7 +16,7 @@
     "text": "M4A1 씨, 보스 【엑스큐셔너】가 이쪽 구역에서의 순찰을 시작했어요. 주의해주세요."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 0,
@@ -26,7 +26,7 @@
     "text": "라저. 그에 맞춰 전술을 조정할게요."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M1873",
         "face": 0,
@@ -36,7 +36,7 @@
     "text": "M4! 통신 장비를 찾아낸 건 아닌데, 이 창고 안에 폭탄이 좀 쌓여 있어."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 0,

@@ -12,7 +12,7 @@
     "sound": {
       "se1": "Battlefield"
     },
-    "character": [
+    "characters": [
       {
         "name": "SOPII",
         "face": 3
@@ -25,7 +25,7 @@
     "text": "경보가 울렸어! 그 녀석, 정말로 올 건가 봐!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3
@@ -38,7 +38,7 @@
     "text": "진정해, 그 녀석들이 바로 이 곳에 올 수는 없을 거야.+RO, 철혈이 얼마만큼의 병력을 운용하고 있는지 추산할 수 있어?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO635",
         "face": 0
@@ -50,7 +50,7 @@
     "sound": {
       "se1": "Battlefield"
     },
-    "character": [
+    "characters": [
       {
         "name": "SOPII",
         "face": 3
@@ -66,7 +66,7 @@
     "sound": {
       "se2": "Gunfight"
     },
-    "character": [
+    "characters": [
       {
         "name": "RO635",
         "face": 0
@@ -75,7 +75,7 @@
     "text": "또 하나의 가능성은......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO635",
         "face": 3
@@ -84,7 +84,7 @@
     "text": "......이 구역의 관리자가 한 명이 아닐 수도 있다는 거야..."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3
@@ -97,7 +97,7 @@
     "text": "잠깐만, 네 말은 그럼 관리자가 두 명일 수도 있단 말야?+그거 그냥 추측 일 뿐인 거지?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO635",
         "face": 0
@@ -109,7 +109,7 @@
     "sound": {
       "se1": "Battlefield"
     },
-    "character": [
+    "characters": [
       {
         "name": "SOPII",
         "face": 3
@@ -125,7 +125,7 @@
     "sound": {
       "se2": "Gunfight"
     },
-    "character": [
+    "characters": [
       {
         "name": "RO635",
         "face": 0
@@ -134,7 +134,7 @@
     "text": "이전 구역에서 그녀를 찾지 못했으니, 그녀는 반드시 더 깊숙한 곳에 있을 거야.+지금은 계속 전진할 수 밖에 없어. 그녀들을 만나는건 운에 맡길 수밖에...+어디까지나......우리는 우리 자신을 지키는 것에 중점을 두고 행동하는 게 좋을 것 같아."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3

@@ -9,7 +9,7 @@
     "text": "............5분 후."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "BOSS-6",
         "face": 0,
@@ -26,7 +26,7 @@
     "sound": {
       "bgm": "BGM_Empty"
     },
-    "character": [
+    "characters": [
       {
         "name": "56-1type",
         "face": 0
@@ -43,7 +43,7 @@
     "text": "다음이란 건 없어......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "56-1type",
         "face": 0
@@ -60,7 +60,7 @@
     "text": "어?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "97typeS",
         "face": 0
@@ -77,7 +77,7 @@
     "text": "내 기억으론......넌 철혈의 디스트로이어, 맞지?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "97typeS",
         "face": 0
@@ -97,7 +97,7 @@
     "sound": {
       "bgm": "BGM_Frontline"
     },
-    "character": [
+    "characters": [
       {
         "name": "NZ75",
         "face": 0
@@ -113,7 +113,7 @@
     "text": "사장이 어떻게 되든 상관 없어......+하지만 넌 오늘, 우리 손에 죽는다!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NZ75",
         "face": 0
@@ -130,7 +130,7 @@
     "text": "하? 허풍이 심하잖아! 너희들 내가 누군지 알아! 내가 바로......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NZ75",
         "face": 0
@@ -139,7 +139,7 @@
     "text": "당연히 알고있지......네가 바로 그 M4한테 쫒겨서 꽁지 빠지도록 도망친 그 바보 철혈이지!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "97typeS",
         "face": 0
@@ -152,7 +152,7 @@
     "text": "가는 곳마다 지는 루저! 꼬리 내린 개!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "56-1type",
         "face": 0
@@ -168,7 +168,7 @@
     "text": "......폐허 속에서, 인형 셋이 주먹을 맞대었다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "56-1type",
         "face": 0
@@ -181,7 +181,7 @@
     "text": "신선한 멧돼지를 위해서......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "97typeS",
         "face": 0
@@ -195,7 +195,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "NZ75",
         "face": 0
@@ -207,7 +207,7 @@
     "background": {
       "id": 9
     },
-    "character": [
+    "characters": [
       {
         "name": "디스트로이어"
       }
@@ -219,7 +219,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "M99"
       }

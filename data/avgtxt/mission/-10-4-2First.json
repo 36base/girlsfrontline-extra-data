@@ -9,7 +9,7 @@
     "text": "......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "KLIN",
         "face": 0,
@@ -23,7 +23,7 @@
     "text": "어이! 이봐! 누구 아무도 없는 거야?!+너희 말야! 그리폰의 NO.1을 이런 데다 내팽개쳐두는 게 말이나 되는 거냐고!+여기 지휘관은 뭐 하고 있는 거야! 마중 나오지 못한다면 적어도 주스 정도는 내줄 수 있잖아!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "HK416",
         "face": 0,
@@ -36,7 +36,7 @@
     "text": "보아하니 저쪽의 마인드맵은 아직도 떠돌아다니는 중인 것 같은데, 지금 바로 데리고 나갈까?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "G11",
         "face": 2,
@@ -49,7 +49,7 @@
     "text": "쳇... 쫑알쫑알 너무 시끄러운데, 그냥 여기다 버리고 가면 안 돼?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "UMP45",
         "face": 0,
@@ -63,7 +63,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "UMP9",
         "face": 0,

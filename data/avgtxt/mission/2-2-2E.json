@@ -9,7 +9,7 @@
     "text": "....작전종료."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 2,
@@ -23,7 +23,7 @@
     "text": "오오! 좋아좋아, 이거 도움이 되겠는 걸."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 0
@@ -37,7 +37,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 2

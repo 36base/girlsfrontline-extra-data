@@ -9,7 +9,7 @@
     "text": "....작전종료."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kalin",
         "face": 1
@@ -22,7 +22,7 @@
     "text": "좋아. 이번에도 순조로웠어요. 역시나 지휘관님!+이정도 성적이라면, 지휘관님이 높은분들 눈에 들기에는 충분할 것 같은데요?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kalin",
         "face": 2
@@ -36,7 +36,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kalin",
         "face": 4
@@ -53,7 +53,7 @@
       "id": 19
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "카리나"
       }
@@ -65,7 +65,7 @@
       "id": 8
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kalin",
         "face": 1

@@ -13,7 +13,7 @@
     "sound": {
       "se1": "Battlefield"
     },
-    "character": [
+    "characters": [
       {
         "name": "BOSS-7",
         "face": 0
@@ -26,7 +26,7 @@
     "text": "어이! 아키텍트, 너 어딜 보는 거야!+그리폰의 인형들이 죄다 네 포탑으로 뛰어가고 있잖아!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "BOSS-9",
         "face": 0,
@@ -47,7 +47,7 @@
     "sound": {
       "se2": "Gunfight"
     },
-    "character": [
+    "characters": [
       {
         "name": "BOSS-9",
         "face": 0
@@ -71,7 +71,7 @@
     "sound": {
       "se1": "Battlefield"
     },
-    "character": [
+    "characters": [
       {
         "name": "BOSS-9",
         "face": 0
@@ -91,7 +91,7 @@
     "sound": {
       "se2": "Gunfight"
     },
-    "character": [
+    "characters": [
       {
         "name": "BOSS-9",
         "face": 0
@@ -111,7 +111,7 @@
     "sound": {
       "se1": "Battlefield"
     },
-    "character": [
+    "characters": [
       {
         "name": "BOSS-9",
         "face": 0
@@ -132,7 +132,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "BOSS-7",
         "face": 0
@@ -152,7 +152,7 @@
     "sound": {
       "se2": "Gunfight"
     },
-    "character": [
+    "characters": [
       {
         "name": "게이저"
       }
@@ -164,7 +164,7 @@
     "sound": {
       "se2": "Alarm"
     },
-    "character": [
+    "characters": [
       {
         "name": "게이저"
       }
@@ -182,7 +182,7 @@
     "sound": {
       "bgm": "BGM_Sneak"
     },
-    "character": [
+    "characters": [
       {
         "name": "SOPII",
         "face": 3
@@ -195,7 +195,7 @@
     "text": "RO, 404의 작전이 먹혀 들어갔어!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3
@@ -208,7 +208,7 @@
     "text": "다음이 우리 차례인가?+이 때를 틈타서 기지에 침입해, 통로를 개방하자."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO635",
         "face": 0
@@ -217,7 +217,7 @@
     "text": "......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M1887",
         "face": 0,
@@ -234,7 +234,7 @@
     "text": "RO, 게이저의 공세가 격렬하게 변했어요.+저희가 지금 철수해도 될까요?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M1887",
         "face": 0
@@ -250,7 +250,7 @@
     "text": "아직 시간이 안됐어요. M1887...+아직은 때가 아니에요..."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M1887",
         "face": 0
@@ -266,7 +266,7 @@
     "text": "하지만, 계속해선 우리도 버틸 수 없게 돼요..."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M1887",
         "face": 0
@@ -282,7 +282,7 @@
     "text": "만약에 당신들이 버틴다면, 위험해 질 거예요."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M1887",
         "face": 0
@@ -298,7 +298,7 @@
     "text": "뭐라고요?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO635",
         "face": 4
@@ -307,7 +307,7 @@
     "text": "작전 계획을 변경하겠습니다.+여러분께선 일단 두 보스와 교전을 지속해주세요."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3
@@ -320,7 +320,7 @@
     "text": "RO, 우리는 어디로 가지?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO635",
         "face": 0
@@ -329,7 +329,7 @@
     "text": "통신거점으로...M16, 헬리안에게 연락해주겠어?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "SOPII",
         "face": 2
@@ -342,7 +342,7 @@
     "text": "하지만....헬리안의 제대 규모가 너무 커서 바로 여기로 올 수 없잖아!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO635",
         "face": 0
@@ -351,7 +351,7 @@
     "text": "만약....+만약 우리 지휘관님이 한발 먼저 앞서서 오도록 한다면?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3
@@ -365,7 +365,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "RO635",
         "face": 0

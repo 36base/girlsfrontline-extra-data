@@ -9,7 +9,7 @@
     "text": "............철혈 지휘실를 정리한 다음날."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kalin",
         "face": 0
@@ -22,7 +22,7 @@
     "text": "지휘관님, 새로운 하루를 시작할 준비는 되셨나요?+오늘의 업무는......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kalin",
         "face": 3
@@ -35,7 +35,7 @@
     "text": "......순찰.+네......맞아요. 또 순찰이에요.+전에는 항상 평화로운 나날을 기대했는데, 정말로 한가해지니 오히려 적응이 안 되네요."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kalin",
         "face": 2
@@ -48,7 +48,7 @@
     "text": "......에? 갑자기 왜 사과를 하세요?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kalin",
         "face": 0
@@ -62,7 +62,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kalin",
         "face": 1
@@ -79,7 +79,7 @@
       "id": 10
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kalin",
         "face": 0,

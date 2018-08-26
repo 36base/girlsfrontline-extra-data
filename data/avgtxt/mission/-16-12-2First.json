@@ -12,7 +12,7 @@
     "background": {
       "id": 99
     },
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kalin",
         "face": 4
@@ -28,7 +28,7 @@
     "background": {
       "id": 99
     },
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kalin",
         "face": 4
@@ -44,7 +44,7 @@
     "background": {
       "id": 99
     },
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kalin",
         "face": 7
@@ -66,7 +66,7 @@
     "background": {
       "id": 99
     },
-    "character": [
+    "characters": [
       {
         "name": "헬리안"
       }
@@ -83,7 +83,7 @@
     "background": {
       "id": 99
     },
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kalin",
         "face": 3
@@ -99,7 +99,7 @@
     "background": {
       "id": 99
     },
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kalin",
         "face": 7
@@ -115,7 +115,7 @@
     "background": {
       "id": 99
     },
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kalin",
         "face": 4

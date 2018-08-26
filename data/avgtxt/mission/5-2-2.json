@@ -11,7 +11,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -26,7 +26,7 @@
     "sound": {
       "bgm": "BGM_Sneak"
     },
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 3
@@ -35,7 +35,7 @@
     "text": "지휘관님! 다치신곳은 없습니까!+저......저 계속 걱정했어요......+큰 일이 없다니, 정말 다행입니다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kyruger",
         "face": 0
@@ -52,7 +52,7 @@
     "text": "M4A1과 사이가 좋군, 지휘관. 보아하니 그녀를 잘 돌봐준 모양이야."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kyruger",
         "face": 0
@@ -68,7 +68,7 @@
     "text": "......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kyruger",
         "face": 0
@@ -85,7 +85,7 @@
     "text": "허나 지금 난 자네와 할 이야기가 있다네."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kyruger",
         "face": 0
@@ -101,7 +101,7 @@
     "text": "네...+지휘관, 저와 AR팀 인원은 밖에서 대기 하겠습니다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kyruger",
         "face": 0
@@ -115,7 +115,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kyruger",
         "face": 0
@@ -135,7 +135,7 @@
     "text": "5분 뒤, 인형 대기 구역...."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "MP40",
         "face": 0
@@ -144,7 +144,7 @@
     "text": "여러분, 서로 밀치지 마세요. 가벼운 무기를 사용하는 인형부터 갈 수 있도록 해주세요.+잠깐, 거기 인형, FNC죠?!+가지고 있는 아이스크림은 다 먹은 후에 줄서주시고, 다른 분들 몸에 묻히지 마세요!+그리고, 소형 무기가 아니잖아요. 몸집이 작다고 막 비집고 들어가지 말아주세요!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AR15",
         "face": 2
@@ -153,7 +153,7 @@
     "text": "......+다들 바쁘네, 우리는 아직 별다른 명령이 없는 거야?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 0
@@ -166,7 +166,7 @@
     "text": "M4 이야기 들었잖아. 지휘관은 크루거 사장이랑 같이 갔다고, 곧 큰 일거리가 있겠지."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 0
@@ -175,7 +175,7 @@
     "text": "이번 철혈의 보스는 아직 모습을 드러내지 않았어요. 새로운 습격이 있을 가능성도 있어요."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "SOPII",
         "face": 3
@@ -188,7 +188,7 @@
     "text": "젠장, 시원하게 한판 뜨면 어디 덧나나!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 2
@@ -201,7 +201,7 @@
     "text": "음...철혈이 이런 돌발적인 습격을 하다니, 다음 작전은 골치아플 수도 있겠는 걸."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AR15",
         "face": 0
@@ -211,7 +211,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "SOPII",
         "face": 2

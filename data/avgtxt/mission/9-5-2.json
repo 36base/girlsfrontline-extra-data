@@ -9,7 +9,7 @@
     "text": "......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "SOPII",
         "face": 3
@@ -31,7 +31,7 @@
     "sound": {
       "se2": "Gunfight"
     },
-    "character": [
+    "characters": [
       {
         "name": "RO635",
         "face": 5
@@ -43,7 +43,7 @@
     "text": "......!+저건......+저기에 적군이 있어! 보여!?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "SOPII",
         "face": 3
@@ -56,7 +56,7 @@
     "text": "왼쪽 245도 방향으로 200m 앞에 4명이 더 있어! 저 녀석들을 제압해야 해. 서둘러!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO635",
         "face": 4
@@ -68,7 +68,7 @@
     "text": "예비 탄창이 그다지 많이 남지 않아서, 앞으로 한 탄창 정도밖에 쓸 수 없어."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "SOPII",
         "face": 3
@@ -81,7 +81,7 @@
     "text": "지원 제대는?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO635",
         "face": 4
@@ -94,7 +94,7 @@
   },
   {},
   {
-    "character": [
+    "characters": [
       {
         "name": "???"
       }
@@ -102,7 +102,7 @@
     "text": "그리폰의 전술 인형 RO635, 그리고 M4 SOPMOD II. 무기를 버리고 지금 당장 투항하도록 해.+난 숨바꼭질도, 너희 둘도 전부 싫어. 그리고 이딴 곳에서 인내심을 발휘하기도 싫으니까."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO635",
         "face": 4
@@ -114,7 +114,7 @@
     "text": "이 목소리는 철혈의 보스야! SOPII! 저 자식이 어디에 있는지 보여?!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "SOPII",
         "face": 3
@@ -127,7 +127,7 @@
     "text": "난 대략적인 위치만 포착할 수 있을 뿐이야...... 저 녀석, 우리 퇴로를 차단하고 있어!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO635",
         "face": 4
@@ -139,7 +139,7 @@
     "text": "......안 돼. 너무 멀어. 지금 엄폐물을 벗어난다면 꼼짝없이 당할 거야...+우리들의 위장 신호를 꿰뚫어 봤다면...... 분명 고급 인형이겠지."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "SOPII",
         "face": 3
@@ -152,7 +152,7 @@
     "text": "하지만 저 녀석이 우리의 퇴로를 막고 있다면, 여기에 있어도 위험한 건 마찬가지잖아!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO635",
         "face": 4
@@ -165,7 +165,7 @@
   },
   {},
   {
-    "character": [
+    "characters": [
       {
         "name": "???"
       }
@@ -173,7 +173,7 @@
     "text": "아직도 대답을 안 하는 거냐? 그렇게나 싸우고 싶다면 나도 거기에 맞춰서 대답해주도록 하지.+그리고 혹여라도 도망칠 수 있단 그런 쓸데없는 생각으로 날 화나게 하지는 말아 달라고!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "SOPII",
         "face": 3
@@ -186,7 +186,7 @@
     "text": "저 녀석, 굉장히 자신 있나 보네...... 조금만 더 접근하면 방아쇠를 당길 수 있을 것 같은데 말이야......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO635",
         "face": 5
@@ -199,7 +199,7 @@
   },
   {},
   {
-    "character": [
+    "characters": [
       {
         "name": "???"
       }
@@ -207,7 +207,7 @@
     "text": "하아… 최소한 오늘만큼은 너희들을 없애러 온 게 아니야. 난 그저 너희랑 이야기를 하고 싶을 뿐이라고. 그저 간단한 질문에 대답을 해주기만 하면 되니까.+......M4A1, 그 인형은 지금 너희랑 같이 있냐?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO635",
         "face": 0
@@ -219,7 +219,7 @@
     "text": "......뭣!?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "SOPII",
         "face": 3
@@ -232,7 +232,7 @@
     "text": "이건 네가 자초한 거라고!!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO635",
         "face": 5
@@ -250,7 +250,7 @@
     "text": "............타타탕!!+......갑작스레 통신에서 다발적으로 총성이 들려왔다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO635",
         "face": 0
@@ -262,7 +262,7 @@
     "text": "......!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "SOPII",
         "face": 2
@@ -275,7 +275,7 @@
     "text": "어라, 나 아직 안 당겼는데...... 그치?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO635",
         "face": 5
@@ -288,7 +288,7 @@
   },
   {},
   {
-    "character": [
+    "characters": [
       {
         "name": "???"
       }
@@ -296,7 +296,7 @@
     "text": "다른 그리폰 인형들이 있었냐? 좋아, 저 녀석들을 전부 짓밟아버린 후에 물어봐도 늦지 않겠지.+.....모든 부대는 들어라, 3번 플랜에 맞춰서 움직이도록."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO635",
         "face": 4
@@ -309,7 +309,7 @@
   },
   {},
   {
-    "character": [
+    "characters": [
       {
         "name": "???"
       }
@@ -318,7 +318,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "RO635",
         "face": 5
@@ -334,7 +334,7 @@
       "id": 9
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "BossJustice",
         "face": 0
@@ -347,133 +347,133 @@
     "text": "철혈 공조의 저지(Judge).+정의와 공정의 화신이지. 만약 불의의 길 위에서 길을 잃고 싶지 않다면, 순순히 내가 원하는 답을 내놓는 게 좋을 거야......+그럼 내가...... 너희들의 존재 가치를 다시 계측해주겠어."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": ""
       }
     ]
   },
   {
-    "character": [
+    "characters": [
       {
         "name": ""
       }
     ]
   },
   {
-    "character": [
+    "characters": [
       {
         "name": ""
       }
     ]
   },
   {
-    "character": [
+    "characters": [
       {
         "name": ""
       }
     ]
   },
   {
-    "character": [
+    "characters": [
       {
         "name": ""
       }
     ]
   },
   {
-    "character": [
+    "characters": [
       {
         "name": ""
       }
     ]
   },
   {
-    "character": [
+    "characters": [
       {
         "name": ""
       }
     ]
   },
   {
-    "character": [
+    "characters": [
       {
         "name": ""
       }
     ]
   },
   {
-    "character": [
+    "characters": [
       {
         "name": ""
       }
     ]
   },
   {
-    "character": [
+    "characters": [
       {
         "name": ""
       }
     ]
   },
   {
-    "character": [
+    "characters": [
       {
         "name": ""
       }
     ]
   },
   {
-    "character": [
+    "characters": [
       {
         "name": ""
       }
     ]
   },
   {
-    "character": [
+    "characters": [
       {
         "name": ""
       }
     ]
   },
   {
-    "character": [
+    "characters": [
       {
         "name": ""
       }
     ]
   },
   {
-    "character": [
+    "characters": [
       {
         "name": ""
       }
     ]
   },
   {
-    "character": [
+    "characters": [
       {
         "name": ""
       }
     ]
   },
   {
-    "character": [
+    "characters": [
       {
         "name": ""
       }
     ]
   },
   {
-    "character": [
+    "characters": [
       {
         "name": ""
       }
     ]
   },
   {
-    "character": [
+    "characters": [
       {
         "name": ""
       }

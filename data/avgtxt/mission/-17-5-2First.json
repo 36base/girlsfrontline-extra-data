@@ -12,7 +12,7 @@
     "background": {
       "id": 22
     },
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 3
@@ -29,7 +29,7 @@
       "id": 22
     },
     "screenEffect": "shockScreen",
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 3
@@ -50,7 +50,7 @@
     "background": {
       "id": 22
     },
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 1
@@ -70,7 +70,7 @@
     "background": {
       "id": 22
     },
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 1
@@ -90,7 +90,7 @@
     "background": {
       "id": 22
     },
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 3
@@ -110,7 +110,7 @@
     "background": {
       "id": 22
     },
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 3
@@ -130,7 +130,7 @@
     "background": {
       "id": 22
     },
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 1
@@ -150,7 +150,7 @@
     "background": {
       "id": 22
     },
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 1
@@ -170,7 +170,7 @@
     "background": {
       "id": 22
     },
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 1
@@ -190,7 +190,7 @@
     "background": {
       "id": 22
     },
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 1
@@ -210,7 +210,7 @@
     "background": {
       "id": 22
     },
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 3
@@ -230,7 +230,7 @@
     "background": {
       "id": 22
     },
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 3
@@ -250,7 +250,7 @@
     "background": {
       "id": 22
     },
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 3
@@ -270,7 +270,7 @@
     "background": {
       "id": 22
     },
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 3
@@ -289,7 +289,7 @@
     "background": {
       "id": 22
     },
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 3
@@ -309,7 +309,7 @@
     "background": {
       "id": 22
     },
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 3
@@ -329,7 +329,7 @@
     "background": {
       "id": 22
     },
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 3
@@ -349,7 +349,7 @@
     "background": {
       "id": 22
     },
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 3
@@ -369,7 +369,7 @@
     "background": {
       "id": 22
     },
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 3
@@ -389,7 +389,7 @@
     "background": {
       "id": 22
     },
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 3

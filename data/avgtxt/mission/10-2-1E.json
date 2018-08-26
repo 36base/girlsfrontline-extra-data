@@ -9,7 +9,7 @@
     "text": "............"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -20,7 +20,7 @@
     "text": "......대답이 들려오지 않는다.+......M4A1은 자신의 몸이 가벼워진 걸 느꼈다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -29,7 +29,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "앳된 여자 목소리"
       }
@@ -44,7 +44,7 @@
     "sound": {
       "bgm": "BGM_Truth"
     },
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -52,7 +52,7 @@
     "text": "일어나라뇨? 저는 지금 돌아가고 싶을 뿐이에요."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "앳된 여자 목소리"
       }
@@ -63,7 +63,7 @@
     "text": "......M4A1은 자신의 사고가 다시 한번 흐리멍덩해지는 것을 느꼈다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -72,7 +72,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "앳된 여자 목소리"
       }
@@ -84,7 +84,7 @@
       "id": 102
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "앳된 여자 목소리"
       }
@@ -92,7 +92,7 @@
     "text": "너도 이게 보이나?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -100,7 +100,7 @@
     "text": "이것들은..... 또 뭐죠?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "앳된 여자 목소리"
       }
@@ -108,7 +108,7 @@
     "text": "이건 우리들의 메모리 파편 중 하나."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -116,7 +116,7 @@
     "text": "\"우리들\"의......?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "앳된 여자 목소리"
       }
@@ -124,7 +124,7 @@
     "text": "난 기억하지 못하지만 네 마인드 속에는 남아있지.+......이런 느낌 나쁘지 않군."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -133,7 +133,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "앳된 여자 목소리"
       }
@@ -145,7 +145,7 @@
       "id": 10
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 2
@@ -154,7 +154,7 @@
     "text": "여...... 여긴 대체 어디죠......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "앳된 여자 목소리"
       }
@@ -162,7 +162,7 @@
     "text": "우리들의 마음속이라고 설명해주면 좀 이해가 잘 되려나?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 2
@@ -171,7 +171,7 @@
     "text": "저는 모르겠어요. 그것들이 저를 상처 입힐 수 있는 건가요?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "앳된 여자 목소리"
       }
@@ -179,7 +179,7 @@
     "text": "네가 원하기만 한다면, 그렇게 하지는 않을 거다.+네 마인드맵 안에는 아직 수많은 힘이 남아 있지......+나보다 더욱 강력한 힘이......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 2
@@ -188,7 +188,7 @@
     "text": "힘......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "앳된 여자 목소리"
       }
@@ -196,7 +196,7 @@
     "text": "그 애들을 불러서 날 구하러 오라고 명령을 내려. 이곳을 떠나서 맞은편 해안으로 가."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 2
@@ -206,7 +206,7 @@
   },
   {
     "screenEffect": "blackSpot1",
-    "character": [
+    "characters": [
       {
         "name": "앳된 여자 목소리"
       }

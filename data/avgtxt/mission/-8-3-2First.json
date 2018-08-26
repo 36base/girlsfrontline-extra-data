@@ -12,7 +12,7 @@
     "background": {
       "id": 34
     },
-    "character": [
+    "characters": [
       {
         "name": "FN57",
         "face": 0
@@ -28,7 +28,7 @@
     "background": {
       "id": 34
     },
-    "character": [
+    "characters": [
       {
         "name": "FAL",
         "face": 0
@@ -43,7 +43,7 @@
     "background": {
       "id": 34
     },
-    "character": [
+    "characters": [
       {
         "name": "FN49",
         "face": 0
@@ -59,7 +59,7 @@
     "background": {
       "id": 34
     },
-    "character": [
+    "characters": [
       {
         "name": "FN49",
         "face": 0
@@ -79,7 +79,7 @@
     "background": {
       "id": 34
     },
-    "character": [
+    "characters": [
       {
         "name": "FAL",
         "face": 0
@@ -98,7 +98,7 @@
     "background": {
       "id": 34
     },
-    "character": [
+    "characters": [
       {
         "name": "FAL",
         "face": 0
@@ -118,7 +118,7 @@
     "background": {
       "id": 34
     },
-    "character": [
+    "characters": [
       {
         "name": "FN49",
         "face": 0
@@ -138,7 +138,7 @@
     "background": {
       "id": 34
     },
-    "character": [
+    "characters": [
       {
         "name": "FN49",
         "face": 0
@@ -159,7 +159,7 @@
       "id": 34
     },
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "FAL",
         "face": 0
@@ -188,7 +188,7 @@
     "background": {
       "id": 34
     },
-    "character": [
+    "characters": [
       {
         "name": "BB_Noel",
         "face": 2
@@ -204,7 +204,7 @@
     "background": {
       "id": 34
     },
-    "character": [
+    "characters": [
       {
         "name": "BB_Noel",
         "face": 2
@@ -227,7 +227,7 @@
     "sound": {
       "bgm": "BGM_Sad"
     },
-    "character": [
+    "characters": [
       {
         "name": "BB_Noel",
         "face": 2
@@ -247,7 +247,7 @@
     "background": {
       "id": 34
     },
-    "character": [
+    "characters": [
       {
         "name": "BB_Noel",
         "face": 2
@@ -267,7 +267,7 @@
     "background": {
       "id": 34
     },
-    "character": [
+    "characters": [
       {
         "name": "BB_Noel",
         "face": 2
@@ -287,7 +287,7 @@
     "background": {
       "id": 34
     },
-    "character": [
+    "characters": [
       {
         "name": "BB_Noel",
         "face": 2
@@ -307,7 +307,7 @@
     "background": {
       "id": 34
     },
-    "character": [
+    "characters": [
       {
         "name": "BB_Noel",
         "face": 2
@@ -327,7 +327,7 @@
     "background": {
       "id": 34
     },
-    "character": [
+    "characters": [
       {
         "name": "BB_Noel",
         "face": 2
@@ -347,7 +347,7 @@
     "background": {
       "id": 34
     },
-    "character": [
+    "characters": [
       {
         "name": "BB_Noel",
         "face": 2
@@ -367,7 +367,7 @@
     "background": {
       "id": 34
     },
-    "character": [
+    "characters": [
       {
         "name": "BB_Noel",
         "face": 2
@@ -388,7 +388,7 @@
       "id": 34
     },
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "BB_Noel",
         "face": 2
@@ -415,7 +415,7 @@
     "background": {
       "id": 9
     },
-    "character": [
+    "characters": [
       {
         "name": "BOSS-4",
         "face": 0
@@ -432,7 +432,7 @@
       "id": 9
     },
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "GG_elfeldt_505",
         "face": 0

@@ -9,7 +9,7 @@
     "text": "......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "UMP9"
       }
@@ -18,7 +18,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "UMP9"
       }
@@ -38,7 +38,7 @@
     "text": "......같은 시각.+여전히 전장에서는 디스트로이어가 분주하게 뛰어다니고 있다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "HK416",
         "face": 0
@@ -53,7 +53,7 @@
     "sound": {
       "se2": "Gunfight"
     },
-    "character": [
+    "characters": [
       {
         "name": "G11",
         "face": 0
@@ -65,7 +65,7 @@
     "text": "하아... 말은 쉽지. 그래도 날 그렇게나 믿어 주니..."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "DSR50",
         "face": 0,
@@ -78,7 +78,7 @@
     "text": "지금이야말로 제가 등장할 때인 것 같군요... 어라?+어머나~♡ 안녕 꼬마야, 지금 혼자니?+아... 선약이 있었구나. 내가 너무 늦게 와 버렸네."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "HK416",
         "face": 0
@@ -90,7 +90,7 @@
     "text": "일 얘기나 하지, DSR-50. +우리의 목표는 저 덩치 큰 멍멍이처럼 생긴 철혈의 보스야. 저걸 처치하면 그 더미들도 멈출 테고, 우리의 안전도 확보되겠지.+그러니 기왕 구출된 거, 좀 도와줘야겠어."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "G11",
         "face": 0
@@ -102,7 +102,7 @@
     "text": "나랑 동시에 사격하는 거야. 할 수 있지?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "DSR50",
         "face": 0,
@@ -115,7 +115,7 @@
     "text": "물론이죠. 언제든지 신호만 주세요."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "HK416",
         "face": 0
@@ -128,7 +128,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "G11",
         "face": 0
@@ -151,7 +151,7 @@
     "text": "......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "BossCerberus",
         "face": 0
@@ -164,7 +164,7 @@
     "text": "야! 드리머! 더는 버티기 힘들어!+슬슬 이쪽으로 지원을 좀 보내주는 게 어때?!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "BossCerberus",
         "face": 0
@@ -182,7 +182,7 @@
     "text": "미안하지만, 내 부대는 전부 주변 방어에 쓰고 있어서.+걱정하지 마, 디스트로이어. 네 임무는 곧 끝나니까.+그때까지 저격수가 널 조준할 수 없도록, 계속 뛰어다니렴."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "BossCerberus",
         "face": 0
@@ -199,7 +199,7 @@
     "text": "이제 어떻게 할 건데! UMP45는 철혈로 변하지 않았지, 404 녀석들 공격도 너무 거세단 말이야!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "BossCerberus",
         "face": 0
@@ -216,7 +216,7 @@
     "text": "조금만, 조금만 더 가까이 접근한다면, 녀석들의 우두머리를 없앨 방법이 있어."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "BossCerberus",
         "face": 0
@@ -233,7 +233,7 @@
     "text": "무슨 소리야, UMP45를 컨트롤하겠다는 계획은 이미 실패한 거 아니었어?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "BossCerberus",
         "face": 0
@@ -250,7 +250,7 @@
     "text": "그 UMP45는...... 후후후...+그건 다 방법이 있단다. 게다가 45는 우리와의 연결이 유지되고 있는 상태야. 무언가 하려는 모양인데...+마음대로 해보라지. 연결이 유지되기만 한다면, 아직 우리에게는 승산이 있어."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "BossCerberus",
         "face": 0
@@ -267,7 +267,7 @@
     "text": "승산? 무슨 승산?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "BossCerberus",
         "face": 0
@@ -284,7 +284,7 @@
     "text": "만약 45가 사용 중인 프로토콜이 우리와 같은 거라면, 더 손쉬운 방법이 있지...+설마 우리의 공성 방벽을 잊어버린 건 아니겠지?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "BossCerberus",
         "face": 0
@@ -301,7 +301,7 @@
     "text": "그러니까 그게... 마인드맵을 직접 불태워 버릴 수 있다는 그거?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "BossCerberus",
         "face": 0
@@ -318,7 +318,7 @@
     "text": "그래, 바로 그거야. 이제 곧 그렇게 될 거고.+기지의 유휴 서버를 모조리 사용했으니, 지금쯤이면 그 년의 마인드맵은 이미 전부 타 버렸을 거야."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "BossCerberus",
         "face": 0
@@ -335,7 +335,7 @@
     "text": "아! 그러면 우린 UMP45의 시체를 회수하기만 하면 되겠구나!+그럼 404 소대를 잡는 것도 이제 시간문제네!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "BossCerberus",
         "face": 0
@@ -352,7 +352,7 @@
     "text": "다른 변수가 일어날 가능성은 없다고 생각되지만...+정말 이렇게 순조롭기만 할지는..."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "BossCerberus",
         "face": 0
@@ -369,7 +369,7 @@
     "text": "에이, 괜찮겠지! 일단 먼저 거점으로 가서 확인부터 해보자!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "BossCerberus",
         "face": 0
@@ -385,7 +385,7 @@
     "sound": {
       "bgm": "BGM_Empty"
     },
-    "character": [
+    "characters": [
       {
         "name": "BossCerberus",
         "face": 0
@@ -397,7 +397,7 @@
     "text": "......디스트로이어가 멈춰섰다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "BossCerberus",
         "face": 0
@@ -410,7 +410,7 @@
     "text": "어디 보자..."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "BOSS-11",
         "face": 0,
@@ -457,7 +457,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "UMP45"
       }
@@ -468,7 +468,7 @@
     "background": {
       "id": 9
     },
-    "character": [
+    "characters": [
       {
         "name": "UMP45"
       }
@@ -476,7 +476,7 @@
     "text": "젠장, 어쩌면 좋지!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "UMP45"
       }
@@ -484,7 +484,7 @@
     "text": "이런 작은 포트조차 모두 발각당하다니... 빌어먹을 철혈 놈들! 내 마인드맵을 태워 버릴 셈인가?!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "UMP45"
       }
@@ -493,7 +493,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "UMP45"
       }
@@ -509,7 +509,7 @@
     "sound": {
       "bgm": "BGM_Sneak"
     },
-    "character": [
+    "characters": [
       {
         "name": "HK416",
         "face": 0
@@ -521,7 +521,7 @@
     "text": "...여기는 HK416. UMP9, 응답바람.+45는 찾았어?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "HK416",
         "face": 0
@@ -538,7 +538,7 @@
     "text": "찾았어. 지금 바로 옆에 있어."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "HK416",
         "face": 0
@@ -554,7 +554,7 @@
     "text": "상태는 어때?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "HK416",
         "face": 0
@@ -570,7 +570,7 @@
     "text": "나도 모르겠어. 눈을 감은 채로, 전혀 움직이지를 않아.+제레, 데레, 이제 어쩌면 좋지?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "HK416",
         "face": 0
@@ -588,7 +588,7 @@
     "text": "일단 유선으로 네트워크에 연결해주세요. 데레, 어떻게 된 건지 알아냈어?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "HK416",
         "face": 0
@@ -606,7 +606,7 @@
     "text": "보아하니 공성 방벽의 공격을 받은 것 같은데...+철혈이 45의 마인드맵을 태워 버리려고 한 거 같은데, 마지막 순간에 연결이 끊어져서 실패한 것 같아."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "G11",
         "face": 0
@@ -622,7 +622,7 @@
     "text": "후후, 내 마지막 한 발이 45를 구한 거네."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "G11",
         "face": 0
@@ -639,7 +639,7 @@
     "text": "글쎄. 지금 45가 살아있다는 것 말고는, 아무 것도 보장할 수 없어..."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "HK416",
         "face": 0
@@ -655,7 +655,7 @@
     "text": "우릴 지원해준 제대는 다들 지쳐서, 현재 위치에서 대기 중이야.+급한 불은 껐지만, 좋은 소식은 아니야. 철혈의 추격이 언제 다시 시작될지 모르는데, 우리는 지금 고립된 상황이니까."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "G11",
         "face": 0
@@ -671,7 +671,7 @@
     "text": "지휘자가 없다면, 우리가 각자 알아서 싸우는 수밖에 없어. 어떻게 해서든 방법을 찾아야 해."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "G11",
         "face": 0
@@ -689,7 +689,7 @@
     "text": "방법이 없는 건 아니에요... 그러니까...+마인드맵 손상은 의식 레벨 2단계에서 수복이 가능하다 보니 보통은 정비실에서 수리해야 하는데..."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "HK416",
         "face": 0
@@ -705,7 +705,7 @@
     "text": "내가 한 번 맞춰볼까? 여기에 정비실은 없지만...+철혈이 언제든지 우릴 습격할 위험을 무릅쓰고, 이 자리에서 계속 연결하라는 거지?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "HK416",
         "face": 0
@@ -722,7 +722,7 @@
     "text": "45 언니의 지휘가 없다면 우리는 철혈의 포위망을 뚫을 수 없어. 이러나저러나 죽는 건 마찬가지야."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "G11",
         "face": 0
@@ -738,7 +738,7 @@
     "text": "그럼... 어떻게 해야 깨울 수 있는 건데?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "G11",
         "face": 0
@@ -756,7 +756,7 @@
     "text": "먼저 의식 레벨 2단계에 진입해서, 45의 마인드맵이 지금 어떠한 상태인지 확인부터 해야 해. 그래야 어떻게 수리해야 할지 판단할 수 있어.+이건 너희들의 도움이 필요해. 다들 부탁해!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "G11",
         "face": 0
@@ -773,7 +773,7 @@
     "text": "우리가 출발하기 전에 연습했던 것들...+......아직 기억하지?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "HK416",
         "face": 0
@@ -789,7 +789,7 @@
     "text": "쳇... 거기로 들어가기는 정말 싫은데."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "G11",
         "face": 0
@@ -805,7 +805,7 @@
     "text": "어, 우리 416이 언제부터 이렇게 말이 많아졌대.+...점점 나를 닮아가는 거 같은데?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "HK416",
         "face": 0
@@ -822,7 +822,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "UMP9",
         "face": 0

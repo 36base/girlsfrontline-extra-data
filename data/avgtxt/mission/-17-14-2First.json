@@ -11,7 +11,7 @@
     "text": "......작전 종료."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kalin",
         "face": 0
@@ -24,7 +24,7 @@
     "text": "좋아요, 해냈어요!+게이저가 추격을 멈췄어요, 지휘관님, 이 틈에 서둘러 뛰어──"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kalin",
         "face": 0
@@ -42,7 +42,7 @@
     "text": "그리폰의 지휘관, 설마 벌써 내 손바닥에서 벗어났다고 생각하는 건가?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kalin",
         "face": 2
@@ -59,7 +59,7 @@
     "text": "어라?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kalin",
         "face": 2
@@ -75,7 +75,7 @@
     "text": "......삑"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kalin",
         "face": 2
@@ -92,7 +92,7 @@
     "text": "지휘관님, 저희 제대가 대량 철혈의 기습을 받았어요! 벌써 후방제대와 연락이 끊겼습니다!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kalin",
         "face": 4
@@ -109,7 +109,7 @@
     "text": "뭐라고!? 대체 어디서!!?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kalin",
         "face": 4
@@ -126,7 +126,7 @@
     "text": "지휘관님! 철혈 유닛에 의해 포위되었습니다! 현재 더 이상 다가오진 않지만, 이대로는──!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kalin",
         "face": 4
@@ -143,7 +143,7 @@
     "text": "본디 에이전트께서 내게 준비해준 증원 제대지, 사전에 이곳에 매복시켰을 뿐이야.+그리폰 지휘관, 네 후방 부대 대부분은 이미 완전무장한 철혈에 의해 포위되었다, 언제든지 방아쇠를 당길 수 있다고.+네 인형의 생사는 다 내 의사에 달렸다... 아니면, 저들을 버리고 혼자 도망칠 생각인가?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kalin",
         "face": 4
@@ -160,7 +160,7 @@
     "text": "......+저흰… 그 어떤 인형도 함부로 버리지 않아요...+저희를 이길 수 있다고 생각하지 말아요, 게이저!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kalin",
         "face": 4
@@ -177,7 +177,7 @@
     "text": "어련하시겠지, 다만 과연 얼마나 많은 인형을 희생하고 승리하게 될까?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kalin",
         "face": 4
@@ -194,7 +194,7 @@
     "text": "저 저기, 잠깐만요! 비겁해요, 당신답지 않다고요!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kalin",
         "face": 4
@@ -211,7 +211,7 @@
     "text": "시야에 잡히는 모든 철혈 이외의 유닛의 섬멸, 이게 내 원래의 임무다.+다만 너희에게 기회를 한 번 주고 싶을 뿐이다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kalin",
         "face": 3
@@ -228,7 +228,7 @@
     "text": "그럼 대체… 무슨 속셈이죠?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kalin",
         "face": 3
@@ -245,7 +245,7 @@
     "text": "아키텍트."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kalin",
         "face": 2
@@ -262,7 +262,7 @@
     "text": "네?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kalin",
         "face": 2
@@ -279,7 +279,7 @@
     "text": "아키텍트는 아직 너희가 가둬두고 있겠지?+녀석이 어디 있는지 말해라, 확인하면 즉시 포위를 해제하지.+나의 자료를 갖고 있다면, 내가 거짓말을 안 한다는 걸 알고 있을 테지."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kalin",
         "face": 3
@@ -296,7 +296,7 @@
     "text": "...지휘관님?+...네, 무리인 게 당연하잖아요, 그래도 해보죠."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kalin",
         "face": 3
@@ -313,7 +313,7 @@
     "text": "게이저, 아키텍트는 지금 총 사령부의 비밀수용소에 갇혀있어요.+이건 그리폰의 내부기밀이라, 저희 같은 전선 인원은 접촉할 수 없어요.+물론, 지금 살아있는 것만은 보장해줄 수 있지만──"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kalin",
         "face": 3
@@ -330,7 +330,7 @@
     "text": "말했다, 아키텍트의 위치를 말하라고, 그래야 인질을 풀어줄 수 있다.+어떤 수를 써서라도, 찾아내라!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kalin",
         "face": 3
@@ -347,7 +347,7 @@
     "text": "하지만… 지금 저희 사장님조차 연락이 안 되는데, 수감자 위치라니, 그러니까──"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kalin",
         "face": 3
@@ -364,7 +364,7 @@
     "text": "그럼, 이제 첫 인질과 작별인사나 하시지."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kalin",
         "face": 4
@@ -382,7 +382,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kalin",
         "face": 4
@@ -403,7 +403,7 @@
     "sound": {
       "bgm": "BGM_Empty"
     },
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kalin",
         "face": 4
@@ -415,7 +415,7 @@
     "text": ".........위이잉──!+......+..."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kalin",
         "face": 2
@@ -429,7 +429,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kalin",
         "face": 4

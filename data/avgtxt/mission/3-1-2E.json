@@ -9,7 +9,7 @@
     "text": "....작전종료."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kalin",
         "face": 2
@@ -22,7 +22,7 @@
     "text": "에...어째서...적이 그렇게나 많이...+...설마, 새로운 보스가 출현했다는 뜻?!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kalin",
         "face": 7
@@ -35,7 +35,7 @@
     "text": "죄송합니다......지휘관님, 제가 멋대로 임무를 수락해버려서......+이런일이 있을거라곤 생각조차......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kalin",
         "face": 2
@@ -48,7 +48,7 @@
     "text": "......에, 괜찮다고요?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kalin",
         "face": 4
@@ -61,7 +61,7 @@
     "text": "기회......?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kalin",
         "face": 1
@@ -75,7 +75,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kalin",
         "face": 0

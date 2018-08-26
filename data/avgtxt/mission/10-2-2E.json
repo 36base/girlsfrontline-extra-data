@@ -9,7 +9,7 @@
     "text": "............+.....M4A1의 앞에 문이 하나 나타났다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 2
@@ -18,7 +18,7 @@
     "text": "제가 이걸 열어야 하는 건가요?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "앳된 여자 목소리"
       }
@@ -26,7 +26,7 @@
     "text": "지금 넌 네 의지가 있다. 네가 하고 싶은 대로 해."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 2
@@ -35,7 +35,7 @@
     "text": "문 너머에는 뭐가 있는 거죠?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "앳된 여자 목소리"
       }
@@ -43,7 +43,7 @@
     "text": "그건 나도 알고 싶군."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 2
@@ -52,7 +52,7 @@
     "text": "당신은 제가 문을 열었으면 좋겠어요?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "앳된 여자 목소리"
       }
@@ -60,7 +60,7 @@
     "text": "넌 계속 묻기만 하지 생각이란 건 전혀 하지 않는 건가."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 2
@@ -69,7 +69,7 @@
     "text": "제 마인드맵이 혼탁해서 뭘 어떻게 생각해야 좋을지 모르겠어요."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "앳된 여자 목소리"
       }
@@ -80,7 +80,7 @@
     "text": "......M4A1은 일순간 침묵에 빠지더니 곧 문 앞으로 걸어갔다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 0
@@ -100,7 +100,7 @@
     "sound": {
       "bgm": "BGM_Truth"
     },
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -111,7 +111,7 @@
     "text": "......상대방은 대답하지 않고 계속해서 울기만 했다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -122,7 +122,7 @@
     "text": "......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -134,7 +134,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -149,7 +149,7 @@
     "text": ".....상대방이 울음을 멈추었다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -160,7 +160,7 @@
     "text": "......M4A1은 상대방에게 다가가서 두 손을 내밀었다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -171,7 +171,7 @@
     "text": "......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -188,7 +188,7 @@
     "text": "......탕!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -197,7 +197,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -212,7 +212,7 @@
     "text": "..........."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -220,7 +220,7 @@
     "text": "제가... 틀린 건가요?+제 선택이...... 잘못된 건가요......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "앳된 여자 목소리"
       }
@@ -228,7 +228,7 @@
     "text": "아니.+그 많은 시간 동안 네가 뭘 선택했든 간에 결말은 모두 똑같았다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -236,7 +236,7 @@
     "text": "그럼 선택이란 게 대체 무슨 의미가 있는 거죠!+저한테 의지가 있다고 해서, 그것만으로는 아무것도 바뀌지 않잖아요!+AR15가 다시 살아 돌아오나요? 아니면 M16이 다시 돌아오냔 말이에요!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "앳된 여자 목소리"
       }
@@ -247,7 +247,7 @@
     "text": "............"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "앳된 여자 목소리"
       }
@@ -261,7 +261,7 @@
     "text": "......M4A1이 앞으로 걸어가서 여자아이를 땅에 눕힌 뒤 눈을 감겨주었다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -269,7 +269,7 @@
     "text": "......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "앳된 목소리의 여자애"
       }
@@ -285,7 +285,7 @@
       "id": 107
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -293,7 +293,7 @@
     "text": "저는...... 당신을 봤어요......+......그리고 거기엔 저도 있었죠......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "앳된 목소리의 여자애"
       }
@@ -301,7 +301,7 @@
     "text": "다른 것들은?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -309,7 +309,7 @@
     "text": "모르겠어요......+여긴 너무 어둡고, 저희 말고 다른 것들은 보이지 않아요."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "앳된 목소리의 여자애"
       }
@@ -317,7 +317,7 @@
     "text": "넌 너무 많은 것들이 닫혀있어서 아무것도 보이지 않는 거겠지.+그것 말고는......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -325,7 +325,7 @@
     "text": "그것 말고...?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "앳된 목소리의 여자애"
       }
@@ -340,7 +340,7 @@
     "sound": {
       "se1": "Rope"
     },
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -348,7 +348,7 @@
     "text": "......!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "앳된 목소리의 여자애"
       }
@@ -356,7 +356,7 @@
     "text": "네가 【볼 수 있도록】──+──도와줄게."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -364,7 +364,7 @@
     "text": "저......+저는 【보고 싶지 않아요】."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "앳된 목소리의 여자애"
       }
@@ -378,7 +378,7 @@
     "text": "......소녀의 양손에 갑자기 힘이 들어갔다!+──!!!+............+......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -386,7 +386,7 @@
     "text": "무슨 짓을 한 거죠?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "앳된 목소리의 여자애"
       }
@@ -395,7 +395,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -407,7 +407,7 @@
       "id": 109
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -415,7 +415,7 @@
     "text": "여기는 어디죠?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "앳된 목소리의 여자애"
       }
@@ -424,7 +424,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -436,7 +436,7 @@
       "id": 110
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "앳된 목소리의 여자애"
       }
@@ -444,7 +444,7 @@
     "text": "그건 네가 바로 내가 잃어버린 조각이기 때문이지.+그리고, 나도 똑같아. 난 네가 잃어버린 조각이다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -452,7 +452,7 @@
     "text": "저희는...... 이제 뭘 어떻게 해야 하죠?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "앳된 목소리의 여자애"
       }
@@ -461,7 +461,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -486,7 +486,7 @@
     "text": "위이잉──! 위이잉──! 위이잉──!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "음침한 남자 목소리"
       }
@@ -497,7 +497,7 @@
     "text": "............"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -516,7 +516,7 @@
       "id": 9
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }

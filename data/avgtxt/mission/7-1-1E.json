@@ -9,7 +9,7 @@
     "text": "............+남은시간_39일.+........................+남은시간_14일.+..............................+남은시간_1일.+............+남은시간_02초.+남은시간_01초.+남은시간_00초.+AR15 _MIA.+......+............"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO635"
       }
@@ -18,7 +18,7 @@
   },
   {
     "screenEffect": "blackSpot1",
-    "character": [
+    "characters": [
       {
         "name": "M16A1"
       }
@@ -33,7 +33,7 @@
     "sound": {
       "bgm": "BGM_Truth"
     },
-    "character": [
+    "characters": [
       {
         "name": "M16A1"
       }
@@ -42,7 +42,7 @@
   },
   {
     "screenEffect": "blackSpot1",
-    "character": [
+    "characters": [
       {
         "name": "RO635"
       }
@@ -54,7 +54,7 @@
       "id": 37
     },
     "screenEffect": "blackSpot2",
-    "character": [
+    "characters": [
       {
         "name": "M16A1"
       }
@@ -66,7 +66,7 @@
       "id": 44
     },
     "screenEffect": "blackSpot2",
-    "character": [
+    "characters": [
       {
         "name": "M16A1"
       }
@@ -75,7 +75,7 @@
   },
   {
     "screenEffect": "blackSpot1",
-    "character": [
+    "characters": [
       {
         "name": "RO635"
       }
@@ -87,7 +87,7 @@
       "id": 9
     },
     "screenEffect": "blackSpot2",
-    "character": [
+    "characters": [
       {
         "name": "M16A1"
       }
@@ -104,7 +104,7 @@
     "text": "그리폰과 철혈의 분쟁지대 S02구역......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO635",
         "face": 0
@@ -113,7 +113,7 @@
     "text": "최근 그리폰이 맡은 구역에 파괴공작을 일삼은 범인이라 여겨지는 철혈 보스를 쫓아야 해.+그리고......한달 전 우리와의 접촉 이후, 최근에 또 원 기지에 복귀했다나봐."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3
@@ -130,7 +130,7 @@
     "text": "드리머......+뭘 더 기다리는 거야 그럼? 바로 가서 잡아버리면 안 돼?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3
@@ -146,7 +146,7 @@
     "text": "그게 본체인지 더미인지 확인할 수가 없어, 게다가 그것은 철혈의 기술을 아득히 뛰어넘는 화기를 보유하고 있어.+그것의 파괴력을 직접 목격했어, 무턱대고 행동하기엔 너무 위험해.+그래서 내가 친구 몇에게 조사를 시켜봤는데, 그동안 꽤 많은 정보를 건진 듯 해......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3
@@ -163,7 +163,7 @@
     "text": "네 친구?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3
@@ -179,7 +179,7 @@
     "text": "AR팀에 오기 전에 어떤 소대의 리더를 맡은 적이 있었어, 훈련 겸 지휘모듈 테스트 용으로.+그 때의 대원들이야, 개인적으로 도와달라고 부탁했지."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 0
@@ -196,7 +196,7 @@
     "text": "부탁을 해?......정규 루트를 통해서?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 0
@@ -212,7 +212,7 @@
     "text": "(웃으며) 난 내 방법이 있어.+여튼 가서 그녀들과 정보를 회수해야해.+효율을 위해, 너랑 SOPII가 따로 각각의 거점으로 가보는게 좋을 것 같네."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 0
@@ -229,7 +229,7 @@
     "text": "라져. 가는 길에 있는 철혈 부대는? 지금 S05구역은 그다지 안전하지 않아."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO635",
         "face": 0

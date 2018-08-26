@@ -9,7 +9,7 @@
     "text": "그리폰 총사령부, 크루거의 사무실 안."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "헬리안"
       }
@@ -17,7 +17,7 @@
     "text": "......이상이 저희가 파악한 S09 구역의 현재 상황입니다.+군부의 진짜 주력 부대가 이미 구실을 갖추고 해당 구역에 직접 개입하려고 하고 있습니다.+게다가 이 모든 상황이 저희 PMC가 제어를 하지 못해 일어난 테러 사건이라고 언론플레이를 하고 있습니다.+아마 정규군은 빠르게 모든 지역의 질서를 넘겨받으려고 할 겁니다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "크루거"
       }
@@ -25,7 +25,7 @@
     "text": "......알겠네.+처음에는 군부가 우리를 방패로 삼고 버린 뒤, 그들만의 목적을 달성하러 갈 것이라고 생각했건만."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "헬리안"
       }
@@ -33,7 +33,7 @@
     "text": "결국 마지막에 그리폰을 버리고 우리를 사지에 몰아넣으려고 하죠."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "크루거"
       }
@@ -44,7 +44,7 @@
     "text": "......옆에 있는 TV에서 군대와 민간 군사기업의 합동 훈련 도중에 중대한 사고가 터졌다는 소식이 흘러나오고 있다.+......카터 장군은 군부의 대표자로서 발언 중이다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "카터"
       }
@@ -55,7 +55,7 @@
     "text": "......크루거가 TV를 꺼버렸다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "크루거"
       }
@@ -63,7 +63,7 @@
     "text": "헬리안, 원래 계획에 따라 소산 명령을 내린 후, 전 인원을 데리고 떠나도록."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "헬리안"
       }
@@ -71,7 +71,7 @@
     "text": "크루거 씨께서는 정말로...... 여기에 남으실 겁니까?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "크루거"
       }
@@ -79,7 +79,7 @@
     "text": "그들은 이 연극을 끝내기 위한 희생양을 찾고 있을 뿐이야.+지금처럼 전세가 혼란한 판국에 그럴 수도 없지만, 수많은 그리폰의 전선 기지를 폐쇄시킬 이유 역시 없지.+지휘관들과 인형만 있다면, 그리폰은 없어지지 않을 걸세.+그리고 그 지휘관들은 도움이 필요해. 헬리안, 자네라면 내가 무슨 말을 하는지 이해했겠지."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "헬리안"
       }
@@ -87,7 +87,7 @@
     "text": "전......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "헬리안"
       }
@@ -95,7 +95,7 @@
     "text": "전 당신을 믿습니다. 반드시 무사하시기를 바랍니다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "크루거"
       }
@@ -104,7 +104,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "헬리안"
       }
@@ -119,7 +119,7 @@
     "text": "......헬리안은 고개를 숙여 인사한 후, 사무실을 떠났다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "크루거"
       }
@@ -131,7 +131,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "크루거"
       }
@@ -157,7 +157,7 @@
     "sound": {
       "bgm": "BGM_War"
     },
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kalin",
         "face": 1
@@ -181,7 +181,7 @@
       "id": 99,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kalin",
         "face": 2
@@ -199,7 +199,7 @@
       "isNight": true
     },
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kalin",
         "face": 0

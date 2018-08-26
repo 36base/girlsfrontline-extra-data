@@ -12,7 +12,7 @@
     "background": {
       "id": 140
     },
-    "character": [
+    "characters": [
       {
         "name": "M950A",
         "face": 0
@@ -28,7 +28,7 @@
     "background": {
       "id": 140
     },
-    "character": [
+    "characters": [
       {
         "name": "M950A",
         "face": 0
@@ -43,7 +43,7 @@
     "background": {
       "id": 140
     },
-    "character": [
+    "characters": [
       {
         "name": "M950A",
         "face": 0
@@ -59,7 +59,7 @@
     "background": {
       "id": 140
     },
-    "character": [
+    "characters": [
       {
         "name": "M950A",
         "face": 0
@@ -79,7 +79,7 @@
     "background": {
       "id": 140
     },
-    "character": [
+    "characters": [
       {
         "name": "M950A",
         "face": 0
@@ -101,7 +101,7 @@
     "background": {
       "id": 140
     },
-    "character": [
+    "characters": [
       {
         "name": "DJMAXSUEE",
         "face": 0
@@ -117,7 +117,7 @@
     "background": {
       "id": 140
     },
-    "character": [
+    "characters": [
       {
         "name": "M950A",
         "face": 0
@@ -133,7 +133,7 @@
     "background": {
       "id": 140
     },
-    "character": [
+    "characters": [
       {
         "name": "TMP",
         "face": 0
@@ -157,7 +157,7 @@
       "id": 140
     },
     "screenEffect": "blackSpot2",
-    "character": [
+    "characters": [
       {
         "name": "TMP",
         "face": 0
@@ -173,7 +173,7 @@
     "background": {
       "id": 140
     },
-    "character": [
+    "characters": [
       {
         "name": "M950A",
         "face": 0
@@ -189,7 +189,7 @@
     "background": {
       "id": 140
     },
-    "character": [
+    "characters": [
       {
         "name": "Thunder50",
         "face": 0
@@ -205,7 +205,7 @@
     "background": {
       "id": 140
     },
-    "character": [
+    "characters": [
       {
         "name": "M950A",
         "face": 0
@@ -229,7 +229,7 @@
       "id": 140
     },
     "screenEffect": "blackSpot2",
-    "character": [
+    "characters": [
       {
         "name": "TMP",
         "face": 0
@@ -245,7 +245,7 @@
     "background": {
       "id": 140
     },
-    "character": [
+    "characters": [
       {
         "name": "TMP",
         "face": 0
@@ -265,7 +265,7 @@
     "background": {
       "id": 140
     },
-    "character": [
+    "characters": [
       {
         "name": "TMP",
         "face": 0
@@ -285,7 +285,7 @@
     "background": {
       "id": 140
     },
-    "character": [
+    "characters": [
       {
         "name": "TMP",
         "face": 0
@@ -305,7 +305,7 @@
     "background": {
       "id": 140
     },
-    "character": [
+    "characters": [
       {
         "name": "TMP",
         "face": 0
@@ -323,7 +323,7 @@
     "background": {
       "id": 140
     },
-    "character": [
+    "characters": [
       {
         "name": "M950A",
         "face": 0
@@ -346,7 +346,7 @@
       "id": 140
     },
     "screenEffect": "shockScreen",
-    "character": [
+    "characters": [
       {
         "name": "TMP"
       }
@@ -363,7 +363,7 @@
     "background": {
       "id": 140
     },
-    "character": [
+    "characters": [
       {
         "name": "M950A",
         "face": 0
@@ -379,7 +379,7 @@
     "background": {
       "id": 140
     },
-    "character": [
+    "characters": [
       {
         "name": "TMP",
         "face": 0
@@ -399,7 +399,7 @@
     "background": {
       "id": 140
     },
-    "character": [
+    "characters": [
       {
         "name": "TMP",
         "face": 0
@@ -418,7 +418,7 @@
     "background": {
       "id": 140
     },
-    "character": [
+    "characters": [
       {
         "name": "TMP",
         "face": 0
@@ -438,7 +438,7 @@
     "background": {
       "id": 140
     },
-    "character": [
+    "characters": [
       {
         "name": "TMP",
         "face": 0
@@ -458,7 +458,7 @@
     "background": {
       "id": 140
     },
-    "character": [
+    "characters": [
       {
         "name": "TMP",
         "face": 0
@@ -478,7 +478,7 @@
     "background": {
       "id": 140
     },
-    "character": [
+    "characters": [
       {
         "name": "TMP",
         "face": 0
@@ -498,7 +498,7 @@
     "background": {
       "id": 140
     },
-    "character": [
+    "characters": [
       {
         "name": "TMP",
         "face": 0
@@ -518,7 +518,7 @@
     "background": {
       "id": 140
     },
-    "character": [
+    "characters": [
       {
         "name": "TMP",
         "face": 0
@@ -538,7 +538,7 @@
     "background": {
       "id": 140
     },
-    "character": [
+    "characters": [
       {
         "name": "TMP",
         "face": 0
@@ -558,7 +558,7 @@
     "background": {
       "id": 140
     },
-    "character": [
+    "characters": [
       {
         "name": "TMP",
         "face": 0
@@ -578,7 +578,7 @@
     "background": {
       "id": 140
     },
-    "character": [
+    "characters": [
       {
         "name": "M950A",
         "face": 0
@@ -603,7 +603,7 @@
     "background": {
       "id": 140
     },
-    "character": [
+    "characters": [
       {
         "name": "K2",
         "face": 0
@@ -619,7 +619,7 @@
     "background": {
       "id": 140
     },
-    "character": [
+    "characters": [
       {
         "name": "M950A",
         "face": 0
@@ -644,7 +644,7 @@
     "background": {
       "id": 140
     },
-    "character": [
+    "characters": [
       {
         "name": "Thunder50",
         "face": 0
@@ -660,7 +660,7 @@
     "background": {
       "id": 140
     },
-    "character": [
+    "characters": [
       {
         "name": "TMP",
         "face": 0
@@ -676,7 +676,7 @@
     "background": {
       "id": 140
     },
-    "character": [
+    "characters": [
       {
         "name": "K2",
         "face": 0
@@ -692,7 +692,7 @@
     "background": {
       "id": 140
     },
-    "character": [
+    "characters": [
       {
         "name": "K2",
         "face": 0
@@ -712,7 +712,7 @@
     "background": {
       "id": 140
     },
-    "character": [
+    "characters": [
       {
         "name": "K2",
         "face": 0
@@ -732,7 +732,7 @@
     "background": {
       "id": 140
     },
-    "character": [
+    "characters": [
       {
         "name": "K2",
         "face": 0
@@ -752,7 +752,7 @@
     "background": {
       "id": 140
     },
-    "character": [
+    "characters": [
       {
         "name": "K2",
         "face": 0
@@ -768,7 +768,7 @@
     "background": {
       "id": 140
     },
-    "character": [
+    "characters": [
       {
         "name": "TMP",
         "face": 0
@@ -784,7 +784,7 @@
     "background": {
       "id": 140
     },
-    "character": [
+    "characters": [
       {
         "name": "Thunder50",
         "face": 0
@@ -801,7 +801,7 @@
       "id": 140
     },
     "screenEffect": "blackSpot1",
-    "character": [
+    "characters": [
       {
         "name": "K2",
         "face": 0

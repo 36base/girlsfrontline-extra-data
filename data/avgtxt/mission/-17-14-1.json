@@ -12,7 +12,7 @@
   },
   {
     "screenEffect": "blackSpot1",
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kalin",
         "face": 4

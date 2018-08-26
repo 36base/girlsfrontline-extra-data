@@ -10,7 +10,7 @@
     "text": "............어딘가의 텅 빈 그리폰 보급거점.+........................"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "56-1type",
         "face": 0
@@ -23,7 +23,7 @@
     "text": "우리들......도대체 뭘 하는 걸까......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NZ75",
         "face": 0
@@ -32,7 +32,7 @@
     "text": "(한숨을 쉬며)......+싸우고 나니, 한층 더 배고파진 느낌이야......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "56-1type",
         "face": 0
@@ -45,7 +45,7 @@
     "text": "게다가 이 거점도 싹쓸이 당했고......+주방을 지키면서 먹을게 없을 줄이야, 비극이군 비극이야......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "97typeS",
         "face": 0
@@ -58,7 +58,7 @@
     "text": "저기......리더, 아직 출발 안하나요?+지휘관님께서 길을 뚫어준 것 같은데......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M99",
         "face": 0
@@ -67,7 +67,7 @@
     "text": "미안, 아직은 안 돼요. 상대 순찰대의 틈이 보일 때까지 기다렸다가 움직여야 해요.+이 근처엔 철혈의 간부가 있어요. 정보에 따르면 【쥬피터】까지 한 대 가지고 있다던데......+만약 상대방에게 들킨다면, 우리만 당할 뿐이 아니라 근처의 인류 거주지까지 휩쓸릴 위험이 있어요."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NZ75",
         "face": 0
@@ -76,7 +76,7 @@
     "text": "쳇, 그럼 언제까지 기다려야 합니까......+인간의 생명과 안전을 대가로, 어째서 우리가 배고픔을 감수해야 하는 건가요......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "97typeS",
         "face": 0
@@ -92,7 +92,7 @@
     "sound": {
       "bgm": "BGM_Empty"
     },
-    "character": [
+    "characters": [
       {
         "name": "56-1type",
         "face": 0
@@ -105,7 +105,7 @@
     "text": "그런데 문제는......+그 사람들은 애초에 식량이 부족하지 않다는 거지......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "97typeS",
         "face": 0
@@ -118,7 +118,7 @@
     "text": "어? 무슨 소리야?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "56-1type",
         "face": 0
@@ -135,7 +135,7 @@
     "sound": {
       "bgm": "BGM_Danger"
     },
-    "character": [
+    "characters": [
       {
         "name": "NZ75",
         "face": 0
@@ -144,7 +144,7 @@
     "text": "야, 그런건 일찌감치 말했어야지!+우리가 목숨걸고 배까지 곪으면서 이렇게 까지 멀리 왔는데, 사실은 부자 간식이나 옮기고 있었다고?!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "56-1type",
         "face": 0
@@ -158,7 +158,7 @@
   },
   {
     "screenEffect": "shockScreen",
-    "character": [
+    "characters": [
       {
         "name": "M99",
         "face": 0
@@ -167,7 +167,7 @@
     "text": "잠깐, 안 돼요!+다시 한 번 말하지만 임무는 임무예요. 어떻게 마음대로 타인의 물건을 뜯을 수가 있나요!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "97typeS",
         "face": 0
@@ -180,7 +180,7 @@
     "text": "나도 그렇게 생각해, 이럴 때는 역시 조금 참았다가, 적의 봉쇄를 돌파한 뒤에......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NZ75",
         "face": 0
@@ -189,7 +189,7 @@
     "text": "하지만 우린 다 배고파 죽을 것 같은데, 어떻게 또 싸우라는 거야......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "56-1type",
         "face": 0
@@ -202,7 +202,7 @@
     "text": "그래, 몸이야 말로 혁명의 밑천이라고!+게다가 말이지, 우리가 운송하는 식재도 겨우 이정도 뿐이고, 시간도 지체됐으니 뭐 도착해도 욕먹을게 뻔한데......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NZ75",
         "face": 0
@@ -214,7 +214,7 @@
     "sound": {
       "bgm": "BGM_Empty"
     },
-    "character": [
+    "characters": [
       {
         "name": "97typeS",
         "face": 0
@@ -227,7 +227,7 @@
     "text": "야야, 속담을 이상하게 사용한다?!+하긴......네가 말하는 것도 일리가 있어. 배가 고파서 전투에서 패배하게 된다면, 아무래도 좀 쪽팔리지......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M99",
         "face": 0
@@ -236,7 +236,7 @@
     "text": "잠깐, 설마 호크 당신도......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "56-1type",
         "face": 0
@@ -250,7 +250,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "M99",
         "face": 0
@@ -265,7 +265,7 @@
     "text": "......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NZ75"
       }
@@ -273,7 +273,7 @@
     "text": "모두들, 잘 들어. 만약 그쪽이 물어본다면 말을 맞추는 거야, 가져오던 도중 잃어버렸다고 말이야."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "97식 산탄총"
       }
@@ -282,7 +282,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "M99"
       }
@@ -298,7 +298,7 @@
     "sound": {
       "bgm": "BGM_Sunshine"
     },
-    "character": [
+    "characters": [
       {
         "name": "56-1type",
         "face": 0
@@ -311,7 +311,7 @@
     "text": "헤헤, 안심하시죠. 이거면 배터지게 먹을 수 있다고요!+여기 돼지고기 한덩이 찾았어, 게다가 신선하다고! 97, 야채 쪽은?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "97typeS",
         "face": 0
@@ -324,7 +324,7 @@
     "text": "잠깐잠깐, 너희들 여기와서 감 좀 봐봐! 빨갛고 통통한게, 역시나 도시 사람들이 먹는건 다르구나!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NZ75",
         "face": 0
@@ -333,7 +333,7 @@
     "text": "쳇, 그건 토마토잖아. 시골촌놈이라 토마토랑 감도 구분 못하냐.+지난번에 너 감 가지고 왔을때, 그거 가지고 감전병이나 잔뜩 만들어 버렸잖아. 56반이 한 입 맛보더니 하루종일 아무것도 못 먹었다고......+그러고 보니 64랑 한양조가 요리는 잘하던데, 자꾸 다치는게 문제지......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "97typeS",
         "face": 0
@@ -346,7 +346,7 @@
     "text": "그건 걔가 너무 곱게 커서 그래, 그 아가씬 깡통 하나 따는데도 손가락을 세 개나 다쳤다니까......+그렇지만 걔들 요리솜씨가 얼마나 좋든지간에 재료가 엉망이면 무슨 소용이야!+한양조 씨는 마파두부를 만들 때 순두부를 넣었다니까! 63이 얼마나 화를 내던지!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "56-1type",
         "face": 0
@@ -359,7 +359,7 @@
     "text": "그때 요리할 때 63이 화내던 이유가 그거였어? 그녀가 그렇게 화낸건 처음 봤다고......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NZ75",
         "face": 0
@@ -368,7 +368,7 @@
     "text": "63 그 녀석 꽉 막혀가지곤......자기도 요리할 때 그저 생고추만 넣어대면서!+92 그 사천요리 매니아가 보고 주방에서 그대로 쫓아냈다니까!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M99",
         "face": 0
@@ -378,7 +378,7 @@
   },
   {
     "screenEffect": "shockScreen",
-    "character": [
+    "characters": [
       {
         "name": "56-1type",
         "face": 0
@@ -392,7 +392,7 @@
   },
   {
     "screenEffect": "shockScreen",
-    "character": [
+    "characters": [
       {
         "name": "97typeS",
         "face": 0
@@ -405,7 +405,7 @@
     "text": "야, 네가 그렇게 말할 자격이나 있어?+NZ가 저번에 탕수육에 케찹을 넣었는데, 너 박수까지 치면서 좋아했잖아!+내가 지휘관이었으면 널 리엔 씨나 스텐 그쪽에 보내 매일 감자만 먹일텐데!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "56-1type",
         "face": 0
@@ -418,7 +418,7 @@
     "text": "에? 그때 그게 NZ가 만든거였어?+그때 맛 정말 괜찮았는데, 네가 말하는 그 '정통' 탕수육에 비해선 말이야"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "97typeS",
         "face": 0
@@ -432,7 +432,7 @@
   },
   {
     "screenEffect": "shockScreen",
-    "character": [
+    "characters": [
       {
         "name": "NZ75",
         "face": 0
@@ -441,7 +441,7 @@
     "text": "내가 할 말이다. 이 바보 독수리! 어제 먹은 호두는 전부 가슴으로 갔냐!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M99",
         "face": 0
@@ -450,7 +450,7 @@
     "text": "저기저기!+다들 싸우지 말아요. 서로 힘을 합쳐 위기를 극복해야 하는데, 겨우 반찬좀 가지고 싸우는건 정말 아니에요......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "56-1type",
         "face": 0
@@ -463,7 +463,7 @@
     "text": "리더, 리더는 노련하기는 한데, 그래서 그런지 신세대를 따라오지는 못하는 것 같습니다......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "97typeS",
         "face": 0
@@ -480,7 +480,7 @@
     "sound": {
       "bgm": "BGM_Empty"
     },
-    "character": [
+    "characters": [
       {
         "name": "M99",
         "face": 0
@@ -495,7 +495,7 @@
     "text": "............+.................."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M99"
       }
@@ -506,7 +506,7 @@
     "sound": {
       "bgm": "BGM_Boss"
     },
-    "character": [
+    "characters": [
       {
         "name": "NZ75"
       }
@@ -514,7 +514,7 @@
     "text": "빨리 도망치시죠 리더, 호크가 곧 리더를 그대로 튀겨버릴 것 같으니......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M99"
       }
@@ -522,7 +522,7 @@
     "text": "에......호크, 어째서 그렇게 소름끼치게 웃는 건가요. 그러지 마세요......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "97식 산탄총"
       }
@@ -530,7 +530,7 @@
     "text": "리더, 지금까지 같이 보낸 나날은 정말 진심으로 즐거웠습니다......+하지만 아쉽네요. 탕수육은 탕수육입니다. 케챱도 아니고, 돼지고기 조림 비슷한 것도 아니라고요......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M99"
       }
@@ -541,7 +541,7 @@
     "sound": {
       "bgm": "BGM_Empty"
     },
-    "character": [
+    "characters": [
       {
         "name": "NZ75"
       }
@@ -549,7 +549,7 @@
     "text": "자, 잠깐만요! 엔진 시동 비슷한 소리를 들었습니다!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "56-1식"
       }
@@ -571,7 +571,7 @@
     "text": "......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NZ75"
       }
@@ -579,7 +579,7 @@
     "text": "콜록콜록......+어이, 너희들 괜찮아? 빨리 대답좀 해봐!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M99"
       }
@@ -587,7 +587,7 @@
     "text": "콜록, 괜찮아요......다들 피난실에 있어요. 여기는 그냥 주방만 무너졌을 뿐이에요......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "97식 산탄총"
       }
@@ -595,7 +595,7 @@
     "text": "뭐라구요. 리더?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NZ75"
       }
@@ -603,7 +603,7 @@
     "text": "주......+주......방이......?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "97식 산탄총"
       }
@@ -615,7 +615,7 @@
   },
   {
     "screenEffect": "closeSpark",
-    "character": [
+    "characters": [
       {
         "name": "56-1식"
       }

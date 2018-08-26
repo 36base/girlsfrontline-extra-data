@@ -10,7 +10,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "MK2",
         "face": 0
@@ -30,7 +30,7 @@
     "text": "...뿔뿔이 흩어진 그리폰의 인형 중 하나를 만난 것 같다.+어찌 됐든, 그녀와 함께 귀환했다..."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kalin",
         "face": 2
@@ -43,7 +43,7 @@
     "text": "에? 잃어버린 인형을 만났다고요?+지휘관님이 그 아이를 거둬주셔서 다행이에요. 불쌍해라."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kalin",
         "face": 7
@@ -56,7 +56,7 @@
     "text": "요 며칠동안 철혈의 공세가 부쩍 거세졌거든요.+지휘부 몇 개가 파괴되고, 수많은 인형이 실종되거나 버려졌어요...."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kalin",
         "face": 4
@@ -69,7 +69,7 @@
     "text": "그래서 할 수 있으시다면, 가능한 한 인형들을 도와주셨으면 해요.+병력을 확충하는 것뿐만 아니라, 본사의 예산 절약에도 도움이 되거든요..."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kalin",
         "face": 1
@@ -83,7 +83,7 @@
   },
   {
     "screenEffect": "blackSpot1",
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kalin",
         "face": 0
@@ -100,7 +100,7 @@
       "id": 17
     },
     "screenEffect": "blackSpot2",
-    "character": [
+    "characters": [
       {
         "name": ""
       }
@@ -116,7 +116,7 @@
       "id": 8
     },
     "screenEffect": "blackSpot2",
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kalin",
         "face": 0
@@ -129,7 +129,7 @@
     "text": "고로 지휘관님이 맡은 일은 전술인형 제대를 관리하고 지휘하여, 현지의 철혈 인형들에 맞서 싸우는 거예요."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kalin",
         "face": 1
@@ -142,7 +142,7 @@
     "text": "지휘관님이라면 분명 문제 없을 거예요. 방금의 전투로 훌륭하게 보여주셨잖아요?+그럼 약속한 거예요! 그리폰의 모두를 위해 이 재능을 훌륭하게 발휘하기로!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kalin",
         "face": 0
@@ -156,7 +156,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kalin",
         "face": 1

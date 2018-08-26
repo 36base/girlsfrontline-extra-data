@@ -14,7 +14,7 @@
       "id": 2,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "FAL",
         "face": 0,
@@ -38,7 +38,7 @@
       "id": 2,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "FNFNC",
         "face": 0
@@ -55,7 +55,7 @@
       "id": 2,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "FNFNC",
         "face": 0
@@ -76,7 +76,7 @@
       "id": 2,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "FNFNC",
         "face": 0
@@ -98,7 +98,7 @@
       "id": 2,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "FNFNC",
         "face": 0
@@ -119,7 +119,7 @@
       "id": 2,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "FNFNC",
         "face": 0
@@ -141,7 +141,7 @@
       "id": 2,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "FNFNC",
         "face": 0
@@ -162,7 +162,7 @@
       "id": 2,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "FNFNC",
         "face": 0
@@ -184,7 +184,7 @@
       "id": 2,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "FNFNC",
         "face": 0
@@ -205,7 +205,7 @@
       "id": 2,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "FNFNC",
         "face": 0
@@ -227,7 +227,7 @@
       "id": 2,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "FNFNC",
         "face": 0
@@ -248,7 +248,7 @@
       "id": 2,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "FNFNC",
         "face": 0
@@ -270,7 +270,7 @@
       "id": 2,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "FNFNC",
         "face": 0
@@ -291,7 +291,7 @@
       "id": 2,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "FNFNC",
         "face": 0
@@ -307,7 +307,7 @@
       "id": 2,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "FNFNC",
         "face": 0
@@ -324,7 +324,7 @@
       "id": 2,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "FNFNC",
         "face": 0
@@ -340,7 +340,7 @@
       "id": 2,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "FNFNC",
         "face": 0
@@ -357,7 +357,7 @@
       "id": 2,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "FNFNC",
         "face": 0
@@ -376,7 +376,7 @@
     "sound": {
       "bgm": "BGM_Empty"
     },
-    "character": [
+    "characters": [
       {
         "name": "FNFNC",
         "face": 0
@@ -398,7 +398,7 @@
       "id": 2,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "FNFNC",
         "face": 0
@@ -420,7 +420,7 @@
       "id": 2,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "FNFNC",
         "face": 0
@@ -442,7 +442,7 @@
       "id": 2,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "FNFNC",
         "face": 0
@@ -464,7 +464,7 @@
       "id": 2,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "FNFNC",
         "face": 0
@@ -486,7 +486,7 @@
       "id": 2,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "FNFNC",
         "face": 0
@@ -508,7 +508,7 @@
       "id": 2,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "FNFNC",
         "face": 0
@@ -524,7 +524,7 @@
       "id": 2,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "FNFNC",
         "face": 0
@@ -542,7 +542,7 @@
       "isNight": true
     },
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "FNFNC",
         "face": 0
@@ -561,7 +561,7 @@
     "sound": {
       "bgm": "BGM_Danger"
     },
-    "character": [
+    "characters": [
       {
         "name": "FN-FNC"
       }
@@ -572,7 +572,7 @@
     "background": {
       "id": 58
     },
-    "character": [
+    "characters": [
       {
         "name": "FN-FNC"
       }
@@ -589,7 +589,7 @@
     "background": {
       "id": 58
     },
-    "character": [
+    "characters": [
       {
         "name": "FN-FNC"
       }
@@ -606,7 +606,7 @@
     "background": {
       "id": 58
     },
-    "character": [
+    "characters": [
       {
         "name": "FN-FNC"
       }
@@ -633,7 +633,7 @@
     "background": {
       "id": 8
     },
-    "character": [
+    "characters": [
       {
         "name": "FAL",
         "face": 0
@@ -648,7 +648,7 @@
     "background": {
       "id": 8
     },
-    "character": [
+    "characters": [
       {
         "name": "FAL",
         "face": 0
@@ -668,7 +668,7 @@
     "background": {
       "id": 8
     },
-    "character": [
+    "characters": [
       {
         "name": "FAL",
         "face": 0
@@ -687,7 +687,7 @@
     "background": {
       "id": 8
     },
-    "character": [
+    "characters": [
       {
         "name": "FAL",
         "face": 0
@@ -707,7 +707,7 @@
     "background": {
       "id": 8
     },
-    "character": [
+    "characters": [
       {
         "name": "FAL",
         "face": 0
@@ -726,7 +726,7 @@
     "background": {
       "id": 8
     },
-    "character": [
+    "characters": [
       {
         "name": "FAL",
         "face": 0
@@ -746,7 +746,7 @@
     "background": {
       "id": 8
     },
-    "character": [
+    "characters": [
       {
         "name": "FAL",
         "face": 0
@@ -765,7 +765,7 @@
     "background": {
       "id": 8
     },
-    "character": [
+    "characters": [
       {
         "name": "FAL",
         "face": 0
@@ -785,7 +785,7 @@
     "background": {
       "id": 8
     },
-    "character": [
+    "characters": [
       {
         "name": "FAL",
         "face": 0
@@ -804,7 +804,7 @@
     "background": {
       "id": 8
     },
-    "character": [
+    "characters": [
       {
         "name": "FAL",
         "face": 0
@@ -828,7 +828,7 @@
     "sound": {
       "se1": "Explode"
     },
-    "character": [
+    "characters": [
       {
         "name": "FAL",
         "face": 0
@@ -847,7 +847,7 @@
     "background": {
       "id": 8
     },
-    "character": [
+    "characters": [
       {
         "name": "FAL",
         "face": 0
@@ -867,7 +867,7 @@
     "background": {
       "id": 8
     },
-    "character": [
+    "characters": [
       {
         "name": "FAL",
         "face": 0
@@ -886,7 +886,7 @@
     "background": {
       "id": 8
     },
-    "character": [
+    "characters": [
       {
         "name": "FAL",
         "face": 0
@@ -906,7 +906,7 @@
     "background": {
       "id": 8
     },
-    "character": [
+    "characters": [
       {
         "name": "FAL",
         "face": 0
@@ -925,7 +925,7 @@
     "background": {
       "id": 8
     },
-    "character": [
+    "characters": [
       {
         "name": "FAL",
         "face": 0
@@ -945,7 +945,7 @@
     "background": {
       "id": 8
     },
-    "character": [
+    "characters": [
       {
         "name": "FAL",
         "face": 0
@@ -966,7 +966,7 @@
     "background": {
       "id": 8
     },
-    "character": [
+    "characters": [
       {
         "name": "FAL",
         "face": 0
@@ -986,7 +986,7 @@
     "background": {
       "id": 8
     },
-    "character": [
+    "characters": [
       {
         "name": "FAL",
         "face": 0
@@ -1007,7 +1007,7 @@
     "background": {
       "id": 8
     },
-    "character": [
+    "characters": [
       {
         "name": "FAL",
         "face": 0
@@ -1027,7 +1027,7 @@
     "background": {
       "id": 8
     },
-    "character": [
+    "characters": [
       {
         "name": "FAL",
         "face": 0
@@ -1048,7 +1048,7 @@
     "background": {
       "id": 8
     },
-    "character": [
+    "characters": [
       {
         "name": "FAL",
         "face": 0
@@ -1068,7 +1068,7 @@
     "background": {
       "id": 8
     },
-    "character": [
+    "characters": [
       {
         "name": "FAL",
         "face": 0
@@ -1089,7 +1089,7 @@
     "background": {
       "id": 8
     },
-    "character": [
+    "characters": [
       {
         "name": "FAL",
         "face": 0
@@ -1109,7 +1109,7 @@
     "background": {
       "id": 8
     },
-    "character": [
+    "characters": [
       {
         "name": "FAL",
         "face": 0
@@ -1130,7 +1130,7 @@
     "background": {
       "id": 8
     },
-    "character": [
+    "characters": [
       {
         "name": "FAL",
         "face": 0
@@ -1150,7 +1150,7 @@
     "background": {
       "id": 8
     },
-    "character": [
+    "characters": [
       {
         "name": "FAL",
         "face": 0
@@ -1171,7 +1171,7 @@
     "background": {
       "id": 8
     },
-    "character": [
+    "characters": [
       {
         "name": "FAL",
         "face": 0
@@ -1191,7 +1191,7 @@
     "background": {
       "id": 8
     },
-    "character": [
+    "characters": [
       {
         "name": "FAL",
         "face": 0
@@ -1212,7 +1212,7 @@
     "background": {
       "id": 8
     },
-    "character": [
+    "characters": [
       {
         "name": "FAL",
         "face": 0
@@ -1227,7 +1227,7 @@
     "background": {
       "id": 8
     },
-    "character": [
+    "characters": [
       {
         "name": "FAL",
         "face": 0
@@ -1248,7 +1248,7 @@
       "id": 8
     },
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "FAL",
         "face": 0

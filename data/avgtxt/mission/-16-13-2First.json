@@ -18,7 +18,7 @@
     "background": {
       "id": 8
     },
-    "character": [
+    "characters": [
       {
         "name": "NPC-Helian",
         "face": 0
@@ -34,7 +34,7 @@
     "background": {
       "id": 8
     },
-    "character": [
+    "characters": [
       {
         "name": "NPC-Helian",
         "face": 0
@@ -50,7 +50,7 @@
     "background": {
       "id": 8
     },
-    "character": [
+    "characters": [
       {
         "name": "NPC-Helian",
         "face": 0
@@ -66,7 +66,7 @@
     "background": {
       "id": 8
     },
-    "character": [
+    "characters": [
       {
         "name": "NPC-Helian",
         "face": 0
@@ -82,7 +82,7 @@
     "background": {
       "id": 8
     },
-    "character": [
+    "characters": [
       {
         "name": "NPC-Helian",
         "face": 0
@@ -104,7 +104,7 @@
     "background": {
       "id": 8
     },
-    "character": [
+    "characters": [
       {
         "name": "MP7",
         "face": 0,
@@ -121,7 +121,7 @@
     "background": {
       "id": 8
     },
-    "character": [
+    "characters": [
       {
         "name": "MP7",
         "face": 0
@@ -141,7 +141,7 @@
     "background": {
       "id": 8
     },
-    "character": [
+    "characters": [
       {
         "name": "MP7",
         "face": 0
@@ -161,7 +161,7 @@
     "background": {
       "id": 8
     },
-    "character": [
+    "characters": [
       {
         "name": "MP7",
         "face": 0
@@ -181,7 +181,7 @@
     "background": {
       "id": 8
     },
-    "character": [
+    "characters": [
       {
         "name": "MP7",
         "face": 0
@@ -201,7 +201,7 @@
     "background": {
       "id": 8
     },
-    "character": [
+    "characters": [
       {
         "name": "MP7",
         "face": 0
@@ -221,7 +221,7 @@
     "background": {
       "id": 8
     },
-    "character": [
+    "characters": [
       {
         "name": "MP7",
         "face": 0
@@ -241,7 +241,7 @@
     "background": {
       "id": 8
     },
-    "character": [
+    "characters": [
       {
         "name": "MP7",
         "face": 0
@@ -261,7 +261,7 @@
     "background": {
       "id": 8
     },
-    "character": [
+    "characters": [
       {
         "name": "MP7",
         "face": 0
@@ -281,7 +281,7 @@
     "background": {
       "id": 8
     },
-    "character": [
+    "characters": [
       {
         "name": "MP7",
         "face": 0
@@ -302,7 +302,7 @@
       "id": 8
     },
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "MP7",
         "face": 0
@@ -327,7 +327,7 @@
       "id": 99,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "MP7",
         "face": 0
@@ -344,7 +344,7 @@
       "id": 99,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "MP7",
         "face": 0
@@ -363,7 +363,7 @@
     "sound": {
       "se1": "Select"
     },
-    "character": [
+    "characters": [
       {
         "name": "MP7",
         "face": 0

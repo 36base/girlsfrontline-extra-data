@@ -9,7 +9,7 @@
     "text": "......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "페르시카"
       }
@@ -17,7 +17,7 @@
     "text": "좋아, 이쪽이 앞으로 너와 함께 지낼 새로운 대원들이야. +어때, 모두 귀여운 아이들이지?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -25,7 +25,7 @@
     "text": "그렇군요......+이렇게 아름다운 인류분들과 같이 작전할 수 있게 되어 영광이에요......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "페르시카"
       }
@@ -33,7 +33,7 @@
     "text": "아니 아니, 그녀들은 너와 같아, 전부 인형들인걸?+ 음......네 낙인에 설치해야 할 게 더 있는데......무기 사용 소프트웨어!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -41,7 +41,7 @@
     "text": "무슨...무기......?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "페르시카"
       }
@@ -60,7 +60,7 @@
     "sound": {
       "bgm": "BGM_Room"
     },
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 2,
@@ -74,7 +74,7 @@
     "text": "좋아, 이거로 하자. 돌격소총 M4A1. +아마 이게......한때는 가장 흔했던 무기일 거야. 대응하는 소프트웨어를 설치했으니 이제 마음대로 사용할 수 있을걸?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -82,7 +82,7 @@
     "text": "M4......A1？"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 2
@@ -95,7 +95,7 @@
     "text": "그럼그럼, 오늘부터 M4A1이 바로 네가 자유자재로 다룰 수 있는 무기야. +그리고, 크루거의 괴상한 취미에 따라 인형의 이름은 무기의 코드와 같아야 하니......+네 이름은 이제부터 M4A1이야."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -103,7 +103,7 @@
     "text": "제 이름은......M4A1......？"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 2
@@ -116,7 +116,7 @@
     "text": "음......다른 인형들한텐 뭘 쥐어줄까......+만약 다들 M4A1을 쓰면 누가 누군지 모르겠지......+그렇다면......네 자매 모델들을 쥐여주자고. 뭐 지금부턴 반쯤은 자매라고 봐도 될 테니."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -124,7 +124,7 @@
     "text": "자매......？"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 3
@@ -137,7 +137,7 @@
     "text": "음......이 개념을 이해시키려면......지금으로선 좀 어렵지 않을까 싶네. +뭐 상관 없지, 좋아 M4 와서 봐봐. +M16A1, M4 SOPMOD 2, 그리고 AR-15. +이제 다 설치했으니 앞으로 사이좋게 지내보라고."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -145,7 +145,7 @@
     "text": "어째서......사이좋게 지내야 하는 건가요?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 2
@@ -158,7 +158,7 @@
     "text": "아......아까 말했듯이, 너희들은 이제 자매인걸. 원래 가족끼리는 사이좋게 지내는 거야."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -166,7 +166,7 @@
     "text": "가족......?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 2
@@ -179,7 +179,7 @@
     "text": "그래, 가족. 이 단어를 들으니 뭐 따뜻해지거나 하지 않아?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -187,7 +187,7 @@
     "text": "가족......내 가족......+틀려요, 전 가족이 없는걸요......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 3
@@ -201,7 +201,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -213,7 +213,7 @@
       "id": 9
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "페르시카"
       }
@@ -224,7 +224,7 @@
     "sound": {
       "bgm": "BGM_Empty"
     },
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -232,7 +232,7 @@
     "text": "하지만 그녀들의 무기에는......+그녀들의 무기에는......+......어째서 피가 잔뜩 묻어있는 거죠?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "페르시카"
       }
@@ -240,7 +240,7 @@
     "text": "......?!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -251,7 +251,7 @@
     "text": "............M4A1이 같은 말을 반복하기 시작했다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "페르시카"
       }
@@ -263,7 +263,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "페르시카"
       }

@@ -12,7 +12,7 @@
     "background": {
       "id": 34
     },
-    "character": [
+    "characters": [
       {
         "name": "BOSS-7",
         "face": 0
@@ -28,7 +28,7 @@
     "background": {
       "id": 34
     },
-    "character": [
+    "characters": [
       {
         "name": "BOSS-7",
         "face": 0
@@ -49,7 +49,7 @@
     "background": {
       "id": 34
     },
-    "character": [
+    "characters": [
       {
         "name": "BOSS-7",
         "face": 0
@@ -69,7 +69,7 @@
     "background": {
       "id": 34
     },
-    "character": [
+    "characters": [
       {
         "name": "BOSS-7",
         "face": 0
@@ -89,7 +89,7 @@
     "background": {
       "id": 34
     },
-    "character": [
+    "characters": [
       {
         "name": "BOSS-7",
         "face": 0
@@ -109,7 +109,7 @@
     "background": {
       "id": 34
     },
-    "character": [
+    "characters": [
       {
         "name": "BOSS-7",
         "face": 0
@@ -130,7 +130,7 @@
       "id": 34
     },
     "screenEffect": "blackSpot1",
-    "character": [
+    "characters": [
       {
         "name": "BOSS-7",
         "face": 0
@@ -165,7 +165,7 @@
     "sound": {
       "se2": "Gunfight"
     },
-    "character": [
+    "characters": [
       {
         "name": "M4A1Mod",
         "face": 0
@@ -182,7 +182,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "M4A1Mod",
         "face": 0
@@ -204,7 +204,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "M4A1Mod",
         "face": 0
@@ -225,7 +225,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "M4A1Mod",
         "face": 0
@@ -247,7 +247,7 @@
       "isNight": true
     },
     "screenEffect": "blackSpot1",
-    "character": [
+    "characters": [
       {
         "name": "M4A1Mod",
         "face": 0
@@ -269,7 +269,7 @@
       "isNight": true
     },
     "screenEffect": "blackSpot2",
-    "character": [
+    "characters": [
       {
         "name": "BOSS-7",
         "face": 0
@@ -286,7 +286,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "BOSS-7",
         "face": 0
@@ -307,7 +307,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "BOSS-7",
         "face": 0
@@ -328,7 +328,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "BOSS-7",
         "face": 0
@@ -344,7 +344,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "BOSS-7",
         "face": 0
@@ -365,7 +365,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "BOSS-7",
         "face": 0
@@ -386,7 +386,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "BOSS-7",
         "face": 0
@@ -406,7 +406,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "BOSS-7",
         "face": 0
@@ -427,7 +427,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "BOSS-7",
         "face": 0
@@ -447,7 +447,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "BOSS-7",
         "face": 0
@@ -463,7 +463,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "BOSS-7",
         "face": 0
@@ -480,7 +480,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "BOSS-7",
         "face": 0
@@ -501,7 +501,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "BOSS-7",
         "face": 0
@@ -522,7 +522,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "BOSS-7",
         "face": 0
@@ -543,7 +543,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "BOSS-7",
         "face": 0
@@ -560,7 +560,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "AK12",
         "face": 0
@@ -580,7 +580,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "군용인형"
       }
@@ -592,7 +592,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "BOSS-7",
         "face": 0
@@ -609,7 +609,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "AK12",
         "face": 3
@@ -637,7 +637,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "BOSS-7",
         "face": 0
@@ -654,7 +654,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "AR15Mod",
         "face": 0
@@ -671,7 +671,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "M4A1Mod",
         "face": 0
@@ -695,7 +695,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "BOSS-7",
         "face": 0
@@ -729,7 +729,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "M4A1Mod",
         "face": 0
@@ -749,7 +749,7 @@
     "sound": {
       "bgm": "BGM_Truth"
     },
-    "character": [
+    "characters": [
       {
         "name": "AR15Mod",
         "face": 2
@@ -774,7 +774,7 @@
       "isNight": true
     },
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "M4A1Mod",
         "face": 0
@@ -791,7 +791,7 @@
       "id": 9
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "청아한 여자 목소리"
       }
@@ -802,7 +802,7 @@
     "background": {
       "id": 9
     },
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -813,7 +813,7 @@
     "background": {
       "id": 9
     },
-    "character": [
+    "characters": [
       {
         "name": "청아한 여자 목소리"
       }
@@ -824,7 +824,7 @@
     "background": {
       "id": 9
     },
-    "character": [
+    "characters": [
       {
         "name": "M4A1Mod",
         "face": 0
@@ -840,7 +840,7 @@
     "background": {
       "id": 9
     },
-    "character": [
+    "characters": [
       {
         "name": "청아한 여자 목소리"
       }
@@ -852,7 +852,7 @@
       "id": 9
     },
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "M4A1Mod",
         "face": 0
@@ -878,7 +878,7 @@
       "isNight": true
     },
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "AR15Mod",
         "face": 5

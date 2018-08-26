@@ -9,7 +9,7 @@
     "text": "............회수작전 종료 후, 다음날 오전.+.................."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "PM",
         "face": 0
@@ -22,7 +22,7 @@
     "text": "16LAB의 분석에 따르면, 이번 드리머는 처음부터 끝까지 더미로 작전을 했었어."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO635",
         "face": 3
@@ -31,7 +31,7 @@
     "text": "역시......분명 아직도 조커를 여러장 숨기고 있겠지......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO635",
         "face": 2
@@ -40,7 +40,7 @@
     "text": "하지만......결국엔 겁쟁이일 뿐이야.......+어쨌든 돌아왔으니 일단 마무리 하자고. 다들 숨 좀 돌려도 돼."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AAT52",
         "face": 0
@@ -49,7 +49,7 @@
     "text": "우리 저녁엔 맛있는 거 먹으러 갈건데, RO, 너는?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO635",
         "face": 0
@@ -58,7 +58,7 @@
     "text": "아......먼저 가있어, 나는 아직 M16이랑 SOPII를 만나야 해서.+여기서 헤어지자고, 다시 보자."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "MK2",
         "face": 0
@@ -71,7 +71,7 @@
     "text": "네......나중에도, 우리 해산하는건 아니죠, 맞죠?+RO 씨가 새로운 팀에 들어갔어도, 우리는 아직 '팔레트'의 대원인 거죠?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO635",
         "face": 2
@@ -80,7 +80,7 @@
     "text": "당연하지, 우리는 영원히 동료야.+윗선에서 우리 \"팔레트\"의 복무 기록을 남겨줄 거라고 했었어.+만약 내가 필요할 때가 오면 너희들을 또 이리저리 부르게 될거야."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "92type",
         "face": 0
@@ -94,7 +94,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "RO635",
         "face": 2
@@ -113,7 +113,7 @@
     "text": "............늦은 밤, RO635가 지휘관에게 보고를 마치고 3시간 후.+............삑."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 0,
@@ -127,7 +127,7 @@
     "text": "RO, 여보세요. RO......+RO, 들려?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO635"
       }
@@ -138,7 +138,7 @@
     "sound": {
       "bgm": "BGM_Room"
     },
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 0
@@ -151,7 +151,7 @@
     "text": "그......+보고서를 봤는데, 그 프로그램 어땠어? 효과가 있었어?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO635"
       }
@@ -159,7 +159,7 @@
     "text": "아......+괜찮았어요......약간 까다로웠지만 뭐 적응했어요."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 3
@@ -172,7 +172,7 @@
     "text": "그 해킹 프로그램......철혈의 권한 모듈을 고쳐서 만든거 거든.+또 그 모듈은 저번 달에야 분석 결과가 나왔고......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO635"
       }
@@ -180,7 +180,7 @@
     "text": "아......그렇다면......+바로 AR팀이 #3 세이프 하우스에서 간신히 건진 그거 말이죠?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 3
@@ -193,7 +193,7 @@
     "text": "에......비슷하지......+그것들은 전부......과거의 유물이니까......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO635"
       }
@@ -201,7 +201,7 @@
     "text": "유물인가요......당신들 인간은 귀찮은 일이 참 많네요......+그래서 우리까지 이렇게 귀찮게 하는 거겠죠......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 2
@@ -214,7 +214,7 @@
     "text": "(웃으며) 그게 바로 인형 기술의 시작이지.+그리고......네 목소리, 어째 혀가 꼬였네."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO635"
       }
@@ -222,7 +222,7 @@
     "text": "음......+M16이랑 같이 좀 마셨거든요......+바꿔드릴까요?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 3
@@ -235,7 +235,7 @@
     "text": "지금은 됐어......+그녀들은 지금 안전한 거지?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO635"
       }
@@ -243,7 +243,7 @@
     "text": "네, SOPII는 정신을 차렸고 현재 수복 중이에요.+저는 M16과 바에서 이야기를 하고 있어요......+일......그리폰......철혈......M4......+그리고 AR-15......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 0
@@ -257,7 +257,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "RO635"
       }
@@ -276,7 +276,7 @@
     "sound": {
       "bgm": "BGM_Sunshine"
     },
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 0
@@ -289,7 +289,7 @@
     "text": "이제야 왔구나, 통화 한 번 참 기네."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO635",
         "face": 0
@@ -305,7 +305,7 @@
     "text": "하던 얘기나 계속 하자고, 내 소대의 평가는?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO635",
         "face": 0
@@ -322,7 +322,7 @@
     "text": "꽤나 훌륭하던 걸. 만약 AAT를 조용히 시킬 수 있다면 8점을 주지.+정말 많이 성장한 것 같네, RO."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO635",
         "face": 3
@@ -338,7 +338,7 @@
     "text": "그렇지......너희들을 위해.+모든 것은 너희들을 위해, AR팀을 위해......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO635",
         "face": 3
@@ -355,7 +355,7 @@
     "text": "............+계속 \"너희들\"이라고 하지 마. RO.+넌 이미 '우리'의 일원이라고, 우리의 진정한 동료......+말해봐, 뭘 생각하고 있는지..."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO635",
         "face": 0
@@ -372,7 +372,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "RO635",
         "face": 2
@@ -385,7 +385,7 @@
       "id": 9
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "RO635"
       }

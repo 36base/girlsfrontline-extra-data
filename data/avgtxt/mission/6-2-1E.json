@@ -6,7 +6,7 @@
     "sound": {
       "se1": "Battlefield"
     },
-    "character": [
+    "characters": [
       {
         "name": "NPC-Helian",
         "face": 0,
@@ -23,7 +23,7 @@
     "sound": {
       "se2": "Gunfight"
     },
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3
@@ -40,7 +40,7 @@
     "text": "그녀들은 지금 통로 앞에서 멈춰있어, 그 안의 신호는 차단당했고.+주변에는 철혈의 복병이 가득이라서 우리든지 반대편이든지 무모하게 돌파하다간 피해가 막심할 거라고!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3
@@ -60,7 +60,7 @@
     "sound": {
       "se1": "Battlefield"
     },
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3
@@ -80,7 +80,7 @@
     "sound": {
       "se2": "Gunfight"
     },
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3
@@ -98,7 +98,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3
@@ -122,7 +122,7 @@
     "sound": {
       "se1": "Battlefield"
     },
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3,

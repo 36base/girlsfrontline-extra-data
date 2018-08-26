@@ -7,7 +7,7 @@
     "sound": {
       "bgm": "BGM_Sneak"
     },
-    "character": [
+    "characters": [
       {
         "name": "AK12",
         "face": 0
@@ -22,7 +22,7 @@
     "background": {
       "id": 99
     },
-    "character": [
+    "characters": [
       {
         "name": "AK12",
         "face": 0
@@ -42,7 +42,7 @@
     "background": {
       "id": 99
     },
-    "character": [
+    "characters": [
       {
         "name": "AK12",
         "face": 0
@@ -61,7 +61,7 @@
     "background": {
       "id": 99
     },
-    "character": [
+    "characters": [
       {
         "name": "AK12",
         "face": 0
@@ -81,7 +81,7 @@
     "background": {
       "id": 99
     },
-    "character": [
+    "characters": [
       {
         "name": "AK12",
         "face": 0
@@ -101,7 +101,7 @@
       "id": 99
     },
     "screenEffect": "blackSpot1",
-    "character": [
+    "characters": [
       {
         "name": "NPC-Ange",
         "face": 0
@@ -124,7 +124,7 @@
     "background": {
       "id": 10
     },
-    "character": [
+    "characters": [
       {
         "name": "NPC-Ange",
         "face": 0
@@ -140,7 +140,7 @@
     "background": {
       "id": 10
     },
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kalin",
         "face": 0,
@@ -157,7 +157,7 @@
     "background": {
       "id": 10
     },
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kalin",
         "face": 0
@@ -177,7 +177,7 @@
     "background": {
       "id": 10
     },
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kalin",
         "face": 2
@@ -197,7 +197,7 @@
     "background": {
       "id": 10
     },
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kalin",
         "face": 2
@@ -217,7 +217,7 @@
     "background": {
       "id": 10
     },
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kalin",
         "face": 2
@@ -233,7 +233,7 @@
     "background": {
       "id": 10
     },
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kalin",
         "face": 0

@@ -9,7 +9,7 @@
     "text": "......작전 종료 5시간 후, 그리폰 사령부 회의실 앞."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "OTs14",
         "face": 0
@@ -18,7 +18,7 @@
     "text": "회의에서 아직도 다 못 떠들었나봐. 모신나강, 넌 좀 괜찮아?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M1891",
         "face": 0
@@ -34,7 +34,7 @@
     "text": "응, 난......문제 없어."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M1891",
         "face": 0
@@ -50,7 +50,7 @@
     "text": "여기에 병풍처럼 서있는 것도 심심하겠지, 여동생 일도 걱정스러울 테고......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M1891",
         "face": 0
@@ -66,7 +66,7 @@
     "text": "마카로프에게 맡겼으니 큰 걱정은 없어. 그냥 아직까지도 소식이 없는 것이 좀......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M1891",
         "face": 0
@@ -82,7 +82,7 @@
     "text": "거긴 철혈의 중요기지였으니까, 그렇게 빨리 찾아내진 못할 거야.+걱정마, 어쨌든 헬리안이 지휘관을 보내서 그녀를 도와주기까지 했으니까......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M1891",
         "face": 0
@@ -98,7 +98,7 @@
     "text": "쉿......군 측의 사람이 들으면 안된다고......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M1891",
         "face": 0
@@ -114,7 +114,7 @@
     "text": "그러네, 우리가 지휘관을 그런 곳에 쓰는 걸 원치 않을테니 말이야.+다만......나강을 구하기 위해, 헬리안이 무려 지휘관을 보내다니."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M1891",
         "face": 0
@@ -133,7 +133,7 @@
     "sound": {
       "bgm": "BGM_Empty"
     },
-    "character": [
+    "characters": [
       {
         "name": "M1891",
         "face": 0
@@ -150,7 +150,7 @@
     "text": "하하, 찾았느니라, 모신나강!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M1891",
         "face": 0
@@ -169,7 +169,7 @@
     "sound": {
       "bgm": "BGM_Sunshine"
     },
-    "character": [
+    "characters": [
       {
         "name": "M1891",
         "face": 0
@@ -185,7 +185,7 @@
     "text": "드디어 돌아왔느니라, 다들 내가 그리웠지!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "OTs14",
         "face": 0
@@ -201,7 +201,7 @@
     "text": "흥, 보기엔 잘 끝난 것 같네."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "OTs14",
         "face": 0
@@ -217,7 +217,7 @@
     "text": "어휴......다들 피곤해 죽겠다고."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "SKS",
         "face": 0
@@ -233,7 +233,7 @@
     "text": "다만, 이 모습을 보니, 조금은 모험을 할 가치가 있었다고 봐."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "SKS",
         "face": 0
@@ -249,7 +249,7 @@
     "text": "다들 고마워, AK47, 시모노프......+그러고 보니......마카로프는?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M1895",
         "face": 0
@@ -265,7 +265,7 @@
     "text": "헬리안을 만나러 갔다네, 보고해야 할 중요한 일이 있다는 것 같군."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M1895",
         "face": 0
@@ -281,7 +281,7 @@
     "text": "네가 갖고 있었던 그 물건 때문인가? 방금 가져간 것 같았는데."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M1895",
         "face": 0
@@ -298,7 +298,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "M1895",
         "face": 0
@@ -317,7 +317,7 @@
     "text": "......그 시각, 헬리안의 사무실."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Helian",
         "face": 0
@@ -330,7 +330,7 @@
     "text": "작전이 원만하게 끝났군, 자네와 지휘관에겐 곧 표창이 주어질거야."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "PM",
         "face": 0
@@ -347,7 +347,7 @@
     "text": "감사합니다.+그런데 주제넘는 말입니다만, 그 통신장치는 뭔가 특별한 점이 있나요?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "PM",
         "face": 0
@@ -364,7 +364,7 @@
     "text": "음? 평시의 자네는 이런 질문을 하지 않을텐데......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "PM",
         "face": 0
@@ -381,7 +381,7 @@
     "text": "조금 궁금해서 말이죠......우리가 받은 명령에 대해서."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "PM",
         "face": 0
@@ -398,7 +398,7 @@
     "text": "이건 AR-15가 현지에 남긴 물건이다. 정보에 따르면, 철혈이 수작을 부렸을지도 모르는 물건이야.+16LAB이 연구를 해보고 싶어하더군, 어쩌면......우리를 승리로 이끌어줄 열쇠가 될 수도 있겠지."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "PM",
         "face": 0
@@ -415,7 +415,7 @@
     "text": "......알겠습니다.+이번 작전은 지휘관님의 지휘가 없었다면 저희끼리는 성공할 수 없었을 겁니다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "PM",
         "face": 0
@@ -432,7 +432,7 @@
     "text": "그럴 수도 있겠지......그리고?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "PM",
         "face": 0
@@ -450,7 +450,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "PM",
         "face": 0
@@ -471,7 +471,7 @@
       "id": 9
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "헬리안"
       }
@@ -479,7 +479,7 @@
     "text": "(웃음) 자기 자신의 사명에 관심이 생긴 것 같군."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "마카로프"
       }

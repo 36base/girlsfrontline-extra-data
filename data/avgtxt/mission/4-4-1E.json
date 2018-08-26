@@ -7,7 +7,7 @@
     "sound": {
       "bgm": "BGM_Room"
     },
-    "character": [
+    "characters": [
       {
         "name": "M16A1"
       }
@@ -19,7 +19,7 @@
       "id": 13
     },
     "screenEffect": "blackSpot2",
-    "character": [
+    "characters": [
       {
         "name": "M16A1"
       }
@@ -28,7 +28,7 @@
   },
   {
     "screenEffect": "blackSpot1",
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -40,7 +40,7 @@
       "id": 11
     },
     "screenEffect": "blackSpot2",
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -48,7 +48,7 @@
     "text": "....에이전트."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16A1"
       }
@@ -56,7 +56,7 @@
     "text": "그렇다면, 이것들을 남긴 건 대체 누구지?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -64,7 +64,7 @@
     "text": "모르겠어요. 마지막 좌표를 찾아야만 알아낼 수 있을 것 같아요. 지금으로선 그저 가능성일 뿐이지만요."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16A1"
       }
@@ -73,7 +73,7 @@
   },
   {
     "screenEffect": "blackSpot1",
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -85,7 +85,7 @@
       "id": 10
     },
     "screenEffect": "blackSpot2",
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -93,7 +93,7 @@
     "text": "지휘관이 이미 작전을 승인해 주셨습니다. 그리폰의 인형제대가 지금 저희를 위해서 길을 뚫고 있어요."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16A1"
       }
@@ -101,7 +101,7 @@
     "text": "오, 우리 지휘관 나리께선 꽤나 이일에 적극적이시구만."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -109,7 +109,7 @@
     "text": "지휘관이 말하길, 못해도 본부를 위해 전적을 올릴 수 있는 기회더라고요."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16A1"
       }
@@ -117,7 +117,7 @@
     "text": "그렇게 믿어? 난 말이지, 지휘관은 그냥 도전을 좋아하는게 아닐까 싶은데?...난 그런 성격이 마음에 들어."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -125,7 +125,7 @@
     "text": "그저...\"가능성\"인가..."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16A1"
       }

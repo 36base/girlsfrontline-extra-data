@@ -12,7 +12,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "BOSS-9",
         "face": 0,
@@ -36,7 +36,7 @@
     "text": "한편, M4A1의 지휘실."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M99",
         "face": 0,
@@ -46,7 +46,7 @@
     "text": "M4 씨, 아키텍트의 지휘 거점의 구조를 완벽하게 파악했어요.+하지만 M1873의 매설 작업이 완료될 때까지는 아직 시간이 조금 더 필요해요."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 0
@@ -58,7 +58,7 @@
     "sound": {
       "se1": "Battlefield"
     },
-    "character": [
+    "characters": [
       {
         "name": "M99",
         "face": 0,
@@ -69,7 +69,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 0

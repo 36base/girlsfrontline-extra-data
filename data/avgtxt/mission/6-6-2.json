@@ -13,7 +13,7 @@
     "sound": {
       "se2": "Gunfight"
     },
-    "character": [
+    "characters": [
       {
         "name": "M16A1"
       }
@@ -32,7 +32,7 @@
     "sound": {
       "se1": "Battlefield"
     },
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -44,7 +44,7 @@
       "id": 3
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3
@@ -60,7 +60,7 @@
     "sound": {
       "se1": "Battlefield"
     },
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -71,7 +71,7 @@
     "sound": {
       "se2": "Gunfight"
     },
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3
@@ -84,7 +84,7 @@
     "text": "내가 아닐 이유라도? 항상 나였잖아?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -92,7 +92,7 @@
     "text": "내 말은......+AR-15......+AR-15는! 그녀는 어디에 있나요!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 2
@@ -109,7 +109,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -121,7 +121,7 @@
       "id": 9
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "M16A1"
       }
@@ -140,7 +140,7 @@
       "id": 36
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }

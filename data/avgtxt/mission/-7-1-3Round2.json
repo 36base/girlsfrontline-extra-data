@@ -6,7 +6,7 @@
     "text": "......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M99",
         "face": 0,
@@ -16,7 +16,7 @@
     "text": "M99, 보고합니다!+철혈의 선봉 보스, 【헌터】가 지휘 거점 부근에 출현! 각 제대는 신속히 수색을 진행 바랍니다!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "SuperSASS",
         "face": 0,
@@ -26,7 +26,7 @@
     "text": "여기는 Super SASS. 4호 로비 수색 완료. 철혈 통신은 탐지되지 않았습니다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AAT52",
         "face": 0,
@@ -36,7 +36,7 @@
     "text": "여기는 AAT-52! 2호 야영 거점도 깨끗해!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "SR3MP",
         "face": 0,
@@ -46,7 +46,7 @@
     "text": "야 P08, 이래서는 사막에서 바늘 찾는 거나 마찬가지잖아.+철혈이 바보도 아니고, 통신 장비를 바깥에 아무렇게나 놓아둘 리 있겠어? 차라리 놈들의 지휘 거점에 가서 찾아보는 게 어떨까 싶은데."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "P08",
         "face": 0,
@@ -56,7 +56,7 @@
     "text": "M99가 방금 말했듯이, 헌터가 지휘 거점 근처에 나타났어. 경솔하게 접근하지 않는 게 최선이야."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "SR3MP",
         "face": 0,
@@ -66,7 +66,7 @@
     "text": "흥, 호랑이 굴에 들어가야 호랑이 새끼를 잡지.+따지고 보면, 고작 헌터 하나쯤이야 M4A1이 처리할 수 있지 않아?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 0,
@@ -76,7 +76,7 @@
     "text": "네? 어... 아마 가능할 거예요..."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "SR3MP",
         "face": 0,

@@ -10,7 +10,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "M16A1"
       }
@@ -25,7 +25,7 @@
     "sound": {
       "bgm": "BGM_Sneak"
     },
-    "character": [
+    "characters": [
       {
         "name": "M16A1"
       }
@@ -33,7 +33,7 @@
     "text": "도와주러 온 건 아니겠지만, 그렇지?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "???"
       }
@@ -41,7 +41,7 @@
     "text": "혹시 이렇게 생각하는 거야? 차라리 철혈이 오는게 나았을 거라고."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16A1"
       }
@@ -49,7 +49,7 @@
     "text": "상관없어, 어차피 예상 못한 상황도 아니고.+하지만 그리폰의 인형이면서 철혈 이외의 다른 인형을 죽인다면, 적어도 이유 정도는 있어야지."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "???"
       }
@@ -57,7 +57,7 @@
     "text": "404 소대 고유의 권한, 내 작전을 방해하는 인형이라면 피아를 가리지 않고 공격할 수 있지."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16A1"
       }
@@ -65,7 +65,7 @@
     "text": "에고...너희들의 권한, 꽤나 편리하잖아. 좀 부러운걸."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "???"
       }
@@ -73,7 +73,7 @@
     "text": "닥쳐, M16!+넌 분명...그 대가가 뭔지 알면서도..."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16A1"
       }
@@ -81,7 +81,7 @@
     "text": "(어깨를 으쓱이며)...그럼, 내가 정말 그렇게 거슬렸어?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "???"
       }
@@ -90,7 +90,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "M16A1"
       }
@@ -102,7 +102,7 @@
       "id": 9
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "HK416",
         "face": 0
@@ -116,7 +116,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "HK416",
         "face": 0

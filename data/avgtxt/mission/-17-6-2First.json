@@ -14,7 +14,7 @@
     "sound": {
       "bgm": "BGM_Wake"
     },
-    "character": [
+    "characters": [
       {
         "name": "AR15Mod",
         "face": 4
@@ -31,7 +31,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "AR15Mod",
         "face": 4
@@ -52,7 +52,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "AR15Mod",
         "face": 4
@@ -74,7 +74,7 @@
       "isNight": true
     },
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "AR15Mod",
         "face": 4
@@ -95,7 +95,7 @@
       "id": 36
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "AR15"
       }
@@ -106,7 +106,7 @@
     "background": {
       "id": 36
     },
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -118,7 +118,7 @@
       "id": 36
     },
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "AR15"
       }
@@ -131,7 +131,7 @@
       "isNight": true
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "AR15Mod",
         "face": 3
@@ -147,7 +147,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "AR15Mod",
         "face": 3
@@ -164,7 +164,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "AR15Mod",
         "face": 3
@@ -185,7 +185,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "AR15Mod",
         "face": 4
@@ -206,7 +206,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "AR15Mod",
         "face": 4
@@ -227,7 +227,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "AR15Mod",
         "face": 4
@@ -248,7 +248,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "AR15Mod",
         "face": 4
@@ -269,7 +269,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "AR15Mod",
         "face": 4
@@ -289,7 +289,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "AR15Mod",
         "face": 4
@@ -310,7 +310,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "AR15Mod",
         "face": 4
@@ -331,7 +331,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "AR15Mod",
         "face": 4
@@ -352,7 +352,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "AR15Mod",
         "face": 4
@@ -373,7 +373,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "AR15Mod",
         "face": 3
@@ -394,7 +394,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "AR15Mod",
         "face": 3
@@ -415,7 +415,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "AR15Mod",
         "face": 3
@@ -436,7 +436,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "AR15Mod",
         "face": 3
@@ -457,7 +457,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "AR15Mod",
         "face": 4
@@ -478,7 +478,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "AR15Mod",
         "face": 4
@@ -499,7 +499,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "AR15Mod",
         "face": 4
@@ -520,7 +520,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "AR15Mod",
         "face": 4
@@ -541,7 +541,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "AR15Mod",
         "face": 4
@@ -557,7 +557,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "AR15Mod",
         "face": 4
@@ -574,7 +574,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "AR15Mod",
         "face": 4
@@ -591,7 +591,7 @@
       "isNight": true
     },
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "AR15Mod",
         "face": 4

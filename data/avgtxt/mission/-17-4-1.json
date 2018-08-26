@@ -12,7 +12,7 @@
     "background": {
       "id": 22
     },
-    "character": [
+    "characters": [
       {
         "name": "NPC-Ange",
         "face": 0,
@@ -29,7 +29,7 @@
     "background": {
       "id": 22
     },
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 3
@@ -49,7 +49,7 @@
     "background": {
       "id": 22
     },
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 3
@@ -69,7 +69,7 @@
     "background": {
       "id": 22
     },
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 3
@@ -90,7 +90,7 @@
       "id": 22
     },
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 3

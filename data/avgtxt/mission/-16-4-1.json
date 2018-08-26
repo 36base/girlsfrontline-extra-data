@@ -15,7 +15,7 @@
     "sound": {
       "bgm": "BGM_Sneak"
     },
-    "character": [
+    "characters": [
       {
         "name": "AK12",
         "face": 0,
@@ -32,7 +32,7 @@
     "background": {
       "id": 99
     },
-    "character": [
+    "characters": [
       {
         "name": "AK12",
         "face": 0
@@ -52,7 +52,7 @@
     "background": {
       "id": 99
     },
-    "character": [
+    "characters": [
       {
         "name": "AK12",
         "face": 0
@@ -72,7 +72,7 @@
     "background": {
       "id": 99
     },
-    "character": [
+    "characters": [
       {
         "name": "AK12",
         "face": 0
@@ -92,7 +92,7 @@
     "background": {
       "id": 99
     },
-    "character": [
+    "characters": [
       {
         "name": "AK12",
         "face": 0
@@ -112,7 +112,7 @@
     "background": {
       "id": 99
     },
-    "character": [
+    "characters": [
       {
         "name": "AK12",
         "face": 0
@@ -132,7 +132,7 @@
     "background": {
       "id": 99
     },
-    "character": [
+    "characters": [
       {
         "name": "AK12",
         "face": 0
@@ -152,7 +152,7 @@
     "background": {
       "id": 99
     },
-    "character": [
+    "characters": [
       {
         "name": "NPC-Ange",
         "face": 0
@@ -167,7 +167,7 @@
     "background": {
       "id": 99
     },
-    "character": [
+    "characters": [
       {
         "name": "NPC-Ange",
         "face": 0
@@ -183,7 +183,7 @@
     "background": {
       "id": 99
     },
-    "character": [
+    "characters": [
       {
         "name": "AN94",
         "face": 0,
@@ -204,7 +204,7 @@
     "background": {
       "id": 99
     },
-    "character": [
+    "characters": [
       {
         "name": "AN94",
         "face": 0
@@ -224,7 +224,7 @@
     "background": {
       "id": 99
     },
-    "character": [
+    "characters": [
       {
         "name": "AN94",
         "face": 0
@@ -244,7 +244,7 @@
     "background": {
       "id": 99
     },
-    "character": [
+    "characters": [
       {
         "name": "AN94",
         "face": 0
@@ -264,7 +264,7 @@
     "background": {
       "id": 99
     },
-    "character": [
+    "characters": [
       {
         "name": "AN94",
         "face": 0
@@ -284,7 +284,7 @@
     "background": {
       "id": 99
     },
-    "character": [
+    "characters": [
       {
         "name": "AN94",
         "face": 0
@@ -304,7 +304,7 @@
     "background": {
       "id": 99
     },
-    "character": [
+    "characters": [
       {
         "name": "AN94",
         "face": 0
@@ -324,7 +324,7 @@
     "background": {
       "id": 99
     },
-    "character": [
+    "characters": [
       {
         "name": "AN94",
         "face": 0
@@ -344,7 +344,7 @@
     "background": {
       "id": 99
     },
-    "character": [
+    "characters": [
       {
         "name": "AN94",
         "face": 0
@@ -366,7 +366,7 @@
     "background": {
       "id": 99
     },
-    "character": [
+    "characters": [
       {
         "name": "AN94",
         "face": 0,
@@ -383,7 +383,7 @@
     "background": {
       "id": 99
     },
-    "character": [
+    "characters": [
       {
         "name": "AN94",
         "face": 0
@@ -403,7 +403,7 @@
     "background": {
       "id": 99
     },
-    "character": [
+    "characters": [
       {
         "name": "AN94",
         "face": 0
@@ -422,7 +422,7 @@
     "background": {
       "id": 99
     },
-    "character": [
+    "characters": [
       {
         "name": "AN94",
         "face": 0
@@ -442,7 +442,7 @@
     "background": {
       "id": 99
     },
-    "character": [
+    "characters": [
       {
         "name": "AN94",
         "face": 0
@@ -462,7 +462,7 @@
     "background": {
       "id": 99
     },
-    "character": [
+    "characters": [
       {
         "name": "AN94",
         "face": 0
@@ -482,7 +482,7 @@
     "background": {
       "id": 99
     },
-    "character": [
+    "characters": [
       {
         "name": "AN94",
         "face": 0
@@ -502,7 +502,7 @@
     "background": {
       "id": 99
     },
-    "character": [
+    "characters": [
       {
         "name": "AN94",
         "face": 0
@@ -522,7 +522,7 @@
     "background": {
       "id": 99
     },
-    "character": [
+    "characters": [
       {
         "name": "AN94",
         "face": 0
@@ -543,7 +543,7 @@
       "id": 99
     },
     "screenEffect": "blackSpot1",
-    "character": [
+    "characters": [
       {
         "name": "AN94",
         "face": 0
@@ -564,7 +564,7 @@
       "id": 9
     },
     "screenEffect": "blackSpot2",
-    "character": [
+    "characters": [
       {
         "name": "AN94"
       }
@@ -582,7 +582,7 @@
       "id": 9
     },
     "screenEffect": "blackSpot1",
-    "character": [
+    "characters": [
       {
         "name": "안젤리아"
       }

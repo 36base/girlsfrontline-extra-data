@@ -3,7 +3,7 @@
     "background": {
       "id": 2
     },
-    "character": [
+    "characters": [
       {
         "name": "SOPII",
         "face": 3,
@@ -17,7 +17,7 @@
     "text": "M16......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3
@@ -34,7 +34,7 @@
     "text": "SOPII, 무슨 일이야? AR-15는?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3
@@ -51,7 +51,7 @@
     "text": "AR-15가......+자기가 꼭 해야 하는 일이 있대......+뭔지는 모르겠지만......나......무서워......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 2
@@ -68,7 +68,7 @@
     "text": "............+알겠어, SOPII.+하지만 지금은 우리도 우리가 해야할 일이 있어, 일단 그쪽에 집중하자고......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 2
@@ -85,7 +85,7 @@
     "text": "응, 알케미스트는 우리가 처리했어......+철혈의 공세는......약해졌어?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3
@@ -102,7 +102,7 @@
     "text": "......그래, 철혈 유닛들은 지금 아무렇게나 움직이고 있어, 목표가 우리는 아닌 것 같아.+지금 수송통로의 통신이 회복됐어, 남은 인형들은 순서대로 퇴각 중이야.+남은 건 M4 뿐이야, SOPII, 어디인지 알겠어?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3
@@ -120,7 +120,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3
@@ -141,7 +141,7 @@
       "id": 10
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3,

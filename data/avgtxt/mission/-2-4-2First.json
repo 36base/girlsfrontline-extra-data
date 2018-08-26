@@ -10,7 +10,7 @@
     "text": "......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "BOSS-7",
         "face": 0,
@@ -27,7 +27,7 @@
     "sound": {
       "se2": "Gunfight"
     },
-    "character": [
+    "characters": [
       {
         "name": "RO635",
         "face": 4
@@ -36,7 +36,7 @@
     "text": "제길! 포탑의 위력이 너무 강력한데다, 철혈 측의 준비가 너무 잘되어있어.+이래선 좋은 결과가 나올 수 없어. 일단 후퇴할 수 밖에 없나......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3
@@ -52,7 +52,7 @@
     "sound": {
       "se1": "Battlefield"
     },
-    "character": [
+    "characters": [
       {
         "name": "SOPII",
         "face": 3
@@ -65,7 +65,7 @@
     "text": "상관없어! 우리들을 빨리 싸우게 해줘!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "??"
       }
@@ -73,7 +73,7 @@
     "text": "잠시만요."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO635",
         "face": 0
@@ -85,7 +85,7 @@
     "sound": {
       "se2": "Gunfight"
     },
-    "character": [
+    "characters": [
       {
         "name": "RO635",
         "face": 4
@@ -94,7 +94,7 @@
     "text": "암호화된 통신......+누구시죠?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3
@@ -107,7 +107,7 @@
     "text": "설마......철혈의 또 다른 관리자?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M1887",
         "face": 0,
@@ -120,7 +120,7 @@
     "sound": {
       "se1": "Battlefield"
     },
-    "character": [
+    "characters": [
       {
         "name": "RO635",
         "face": 0
@@ -136,7 +136,7 @@
     "text": "당신......혼자서 간다고요? 저희를 위해서?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M1887",
         "face": 0
@@ -145,7 +145,7 @@
     "text": "모두를 위해서죠."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3
@@ -161,7 +161,7 @@
     "sound": {
       "se2": "Gunfight"
     },
-    "character": [
+    "characters": [
       {
         "name": "M1887",
         "face": 0,
@@ -171,7 +171,7 @@
     "text": "이건 기밀유지 방식이라, 제가 있는 곳이 알려지진 않을 겁니다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "SOPII",
         "face": 3
@@ -184,7 +184,7 @@
     "text": "RO......그녀를 믿을 수 있을까?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO635",
         "face": 0
@@ -196,7 +196,7 @@
     "sound": {
       "se1": "Battlefield"
     },
-    "character": [
+    "characters": [
       {
         "name": "M1887",
         "face": 0,
@@ -206,7 +206,7 @@
     "text": "전 제가 누군지 알고있습니다. RO635......+그리고 제가 누구의 명령을 따르는지도 말이죠..."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO635",
         "face": 0
@@ -215,7 +215,7 @@
     "text": "그럼 당신을 믿도록 하죠. 다시 만났을 때 저희를 실망시키지 않았으면 좋겠군요."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO635",
         "face": 5

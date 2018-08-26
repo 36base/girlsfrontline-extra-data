@@ -10,7 +10,7 @@
     "text": "......포위를 돌파하는 중."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AR15Mod",
         "face": 2
@@ -23,7 +23,7 @@
     "text": "너 정말로 이 적들을 고작 한 녀석한테 맡겨놔도 되겠어?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AK12",
         "face": 0
@@ -35,7 +35,7 @@
     "text": "안젤리아가 문제없다고 판단했으니, 나 역시 문제없다고 생각해.+너희들은 예전에 같은 팀이었으니, 더 잘 알고 있지 않아?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AR15Mod",
         "face": 2
@@ -48,7 +48,7 @@
     "text": "그래서 걱정되는 거라고......+오히려 네가...... 지나치게 안심하고 있는 거지."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AK12",
         "face": 0
@@ -66,7 +66,7 @@
     "text": "......M4A1이 걸어 돌아오고 있다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1Mod",
         "face": 0
@@ -79,7 +79,7 @@
     "text": "적들은 이미 전멸시켰어요. 이제 다음 목적지를 향해 가도록 하죠."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AK12",
         "face": 0
@@ -91,7 +91,7 @@
     "text": "수복하니 제법 괜찮아졌는걸.+그래도 너무 폼 잡지는 않는 게 좋아. 수복한 지 얼마 안 됐는데 박살 나면 곤란하잖아?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1Mod",
         "face": 0
@@ -104,7 +104,7 @@
     "text": "몸이 가벼워졌어요...... 기동성과 조준 속도도 굉장히 빨라졌고요...... 정말로 대단한걸요, AK12."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AK12",
         "face": 0
@@ -116,7 +116,7 @@
     "text": "비행기 태워봤자 너한테 줄 수 있는 건 없어.+지금 걱정되는 건 네 마인드맵이 새로 장착한 장비 모듈을 완전히 적응하지 못했다는 거야.+지나치게 사용하면 호환이 되지 않아 마인드맵이 다시 원래대로 돌아갈 수도 있다고? 듣자 하니......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1Mod",
         "face": 0
@@ -129,7 +129,7 @@
     "text": "그저 제 목표를 없애버릴 때까지 버티면 그걸로 만족해요. 그렇게 오래 걸리지는 않을 테니까요."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AR15Mod",
         "face": 0
@@ -142,7 +142,7 @@
     "text": "M4A1, 사막을 건널 때 말을 타고 건너는 것과 낙타를 타고 건너는 것의 차이점을 알고 있어?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1Mod",
         "face": 0
@@ -155,7 +155,7 @@
     "text": "갑자기 그게 무슨 소리죠? 명언교실 시간인가요?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AR15Mod",
         "face": 0
@@ -168,7 +168,7 @@
     "text": "말은 지쳤다는 걸 겉으로 드러내지만, 낙타는 아무 일도 없다는 듯이 나아가다 갑자기 쓰러져서 사람을 고립무원의 상태로 만들어 버리지.+이 이야기가 진짜든 아니든 간에 내가 뭘 말하려고 하는 건지 알겠어?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1Mod",
         "face": 0
@@ -181,7 +181,7 @@
     "text": "......+만약 마인드맵에 이상이 생긴다면 곧장 여러분께 알리도록 할게요.+이제 제가 AR15에게 물어볼 차례예요. 당신은..... 아직도 저한테 알려주지 않을 셈인가요?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AR15Mod",
         "face": 0
@@ -194,7 +194,7 @@
     "text": "뭘 듣고 싶은데?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1Mod",
         "face": 0
@@ -207,7 +207,7 @@
     "text": "당연히 AR15가 지금 어떻게 살아 있는지에 대한 이야기죠!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AR15Mod",
         "face": 0
@@ -220,7 +220,7 @@
     "text": "지금은 옛날이야기나 하고 있을 때가 아니야."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AK12",
         "face": 0
@@ -233,7 +233,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "AR15Mod",
         "face": 4
@@ -275,7 +275,7 @@
     "text": "......퍼엉! 쾅!+......먼지, 나무, 잔해들이 한데 섞여서 비산하고있다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AR15Mod",
         "face": 5
@@ -288,7 +288,7 @@
     "text": "헉! 허억!+괜찮아, M4?!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1Mod",
         "face": 0
@@ -301,7 +301,7 @@
     "text": "괜찮아요, 아직 엄폐물이 있어요!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AK12",
         "face": 0
@@ -313,7 +313,7 @@
     "text": "AR15, 너 화나면 주변이 폭발하는 거였어?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AR15Mod",
         "face": 5
@@ -326,7 +326,7 @@
     "text": "지금이 농담할 상황이야?! 철혈의 주력부대가 포격을 시작했다고! 우린 지금 철혈에게 발견 당했다고!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AK12",
         "face": 0
@@ -338,7 +338,7 @@
     "text": "확실히... 신호를 보니까 초고위험도의 철혈 인형이 접근하고 있어.+우리들만으론 막을 수 없을 것 같은데…"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1Mod",
         "face": 0
@@ -351,7 +351,7 @@
     "text": "선봉 부대가 오고 있어! 반격할 준비해!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AR15Mod",
         "face": 0
@@ -364,7 +364,7 @@
     "text": "AK12, 지금 당장 안젤리아한테 연결해!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AK12",
         "face": 0
@@ -376,7 +376,7 @@
     "text": "뭐? 우선 네 스스로의 힘으로 적을 없애버리는 거 아니었어?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AR15Mod",
         "face": 5
@@ -389,7 +389,7 @@
     "text": "저쪽은 대형 병기를 가지고 있는데 어떻게 상대하라는 거야?!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AK12",
         "face": 0
@@ -401,7 +401,7 @@
     "text": "알겠어, 알겠어. 다만 공개 채널밖에 못 쓰니까.+안젤리아 씨, 듣고 계신가요?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Ange",
         "face": 0,
@@ -415,7 +415,7 @@
     "text": "듣고 있어. 임무를 확인했으면 β 포인트로 이동해."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AK12",
         "face": 0
@@ -430,7 +430,7 @@
     "sound": {
       "se1": "Gunfight"
     },
-    "character": [
+    "characters": [
       {
         "name": "AR15Mod",
         "face": 5
@@ -443,7 +443,7 @@
     "text": "뭘 우물쭈물하고 있어!+안젤리아, 우리는 지금 철혈의 주력 부대에게 밀리고 있어! 지금 당장 지원이 필요해!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AK12",
         "face": 2
@@ -464,7 +464,7 @@
     "background": {
       "id": 34
     },
-    "character": [
+    "characters": [
       {
         "name": "NPC-Ange",
         "face": 0,
@@ -481,7 +481,7 @@
     "background": {
       "id": 34
     },
-    "character": [
+    "characters": [
       {
         "name": "NPC-Ange",
         "face": 0
@@ -500,7 +500,7 @@
     "text": "......칙, 치직."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AK12",
         "face": 0
@@ -513,7 +513,7 @@
   },
   {
     "screenEffect": "closeSpark",
-    "character": [
+    "characters": [
       {
         "name": "AR15Mod",
         "face": 0

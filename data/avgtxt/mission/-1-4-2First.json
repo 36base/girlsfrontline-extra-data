@@ -14,7 +14,7 @@
     "sound": {
       "se2": "Gunfight"
     },
-    "character": [
+    "characters": [
       {
         "name": "Weaver",
         "face": 2
@@ -27,7 +27,7 @@
     "text": "제길, 이번에도 그리폰의 공격인가!+이번 작전의 지휘자는 404 소대뿐이었을 텐데... 역시, 살아있었나!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "??"
       }
@@ -38,7 +38,7 @@
     "sound": {
       "se1": "Battlefield"
     },
-    "character": [
+    "characters": [
       {
         "name": "OTs14",
         "face": 0,
@@ -51,7 +51,7 @@
     "sound": {
       "se2": "Gunfight"
     },
-    "character": [
+    "characters": [
       {
         "name": "Weaver",
         "face": 2
@@ -68,7 +68,7 @@
     "text": "OTs-14...! 아직도 살아있었던 거냐?!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "Weaver",
         "face": 2
@@ -87,7 +87,7 @@
     "sound": {
       "se1": "Battlefield"
     },
-    "character": [
+    "characters": [
       {
         "name": "Weaver",
         "face": 1
@@ -107,7 +107,7 @@
     "sound": {
       "se2": "Gunfight"
     },
-    "character": [
+    "characters": [
       {
         "name": "Weaver",
         "face": 1
@@ -126,7 +126,7 @@
     "sound": {
       "se1": "Battlefield"
     },
-    "character": [
+    "characters": [
       {
         "name": "Weaver",
         "face": 1
@@ -147,7 +147,7 @@
     "sound": {
       "se2": "Gunfight"
     },
-    "character": [
+    "characters": [
       {
         "name": "Weaver",
         "face": 2
@@ -172,7 +172,7 @@
     "sound": {
       "se1": "Battlefield"
     },
-    "character": [
+    "characters": [
       {
         "name": "UMP9",
         "face": 3
@@ -184,7 +184,7 @@
     "sound": {
       "se2": "Gunfight"
     },
-    "character": [
+    "characters": [
       {
         "name": "HK416",
         "face": 0
@@ -193,7 +193,7 @@
     "text": "드디어 승산이 보이는군. 45, 작전 계획은?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "UMP45",
         "face": 0
@@ -205,7 +205,7 @@
     "sound": {
       "se2": "Gunfight"
     },
-    "character": [
+    "characters": [
       {
         "name": "UMP9",
         "face": 3
@@ -217,7 +217,7 @@
     "sound": {
       "se1": "Battlefield"
     },
-    "character": [
+    "characters": [
       {
         "name": "UMP45",
         "face": 0
@@ -226,7 +226,7 @@
     "text": "416, 너는 G11을 데리고 좌표 R13 고지로 가서, 언제든지 우리의 후퇴를 엄호할 수 있도록 해."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "G11",
         "face": 0
@@ -235,7 +235,7 @@
     "text": "알았어... 416, 나 잘 테니까 가는 길에 깨우지 마..."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "HK416",
         "face": 2
@@ -248,7 +248,7 @@
       "se1": "Battlefield",
       "se2": "Gunfight"
     },
-    "character": [
+    "characters": [
       {
         "name": "UMP45",
         "face": 0

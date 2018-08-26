@@ -10,7 +10,7 @@
     "text": "......나강 리볼버가 있는 창고에 진입."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "PM",
         "face": 0
@@ -23,7 +23,7 @@
     "text": "창고 진입 완료, 목표 수색 준비."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AK47",
         "face": 0
@@ -32,7 +32,7 @@
     "text": "찾았어, 여기야!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M1895",
         "face": 1
@@ -41,7 +41,7 @@
     "text": "으으......+AK......47?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AK47",
         "face": 0
@@ -57,7 +57,7 @@
     "text": "어? 의식이 있나보네, 이게 몇이야?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AK47",
         "face": 0
@@ -73,7 +73,7 @@
     "text": "손을 그렇게 흔들면 누가 셀 수 있겠느냐, 아무것도 안보이니라!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AK47",
         "face": 0
@@ -90,7 +90,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "AK47",
         "face": 0
@@ -120,7 +120,7 @@
     "sound": {
       "bgm": "BGM_Battle"
     },
-    "character": [
+    "characters": [
       {
         "name": "SKS",
         "face": 0
@@ -129,7 +129,7 @@
     "text": "이 소리는......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AK47",
         "face": 0
@@ -139,7 +139,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "PM",
         "face": 0
@@ -160,7 +160,7 @@
     "text": "......중형 기갑이 다가오는 소리가 들렸다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M1895",
         "face": 1
@@ -169,7 +169,7 @@
     "text": "우라질, 적기갑이 이미 창고에 들어왔다네, 나갈 수가 없느니라!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AK47",
         "face": 0
@@ -185,7 +185,7 @@
     "text": "나랑 시모노프가 화력으로 유도할게, 마카로프, 꼬맹이를 데리고 도망쳐!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AK47",
         "face": 0
@@ -202,7 +202,7 @@
     "text": "너희 둘, 이럴 때 영웅놀이라도 하고 싶은 거야?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AK47",
         "face": 0
@@ -218,7 +218,7 @@
     "text": "영웅엔 별로 관심 없지만, 주머니에 손 넣고 지켜보기만 하는건 못하겠거든."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "SKS",
         "face": 0
@@ -234,7 +234,7 @@
     "text": "죄책감이 든다면 일지에 우리 좀 멋지게 써달라고."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "SKS",
         "face": 0
@@ -252,7 +252,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "PM",
         "face": 0
@@ -276,7 +276,7 @@
     "text": "...!!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "SKS"
       }
@@ -284,7 +284,7 @@
     "text": "그......그 폭발은......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "마카로프"
       }

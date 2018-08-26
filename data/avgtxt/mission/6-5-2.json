@@ -9,7 +9,7 @@
     "text": "......작전 종료, 네게브 소대는 일시적으로 안전해졌다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NEGEV",
         "face": 0
@@ -22,7 +22,7 @@
     "text": "후......드디어 끝났네.+땡큐, 지휘관. 자꾸 폐만 여러번 끼치네.+하지만 주변에 아직 철혈이 많이 있으니 다들 방심하면 안 돼!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AR",
         "face": 0
@@ -35,7 +35,7 @@
     "text": "저기......M16 본 사람 있어?+진작에 SOPII랑 만났을텐데 왜 아직도 안 돌아오는 거지?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "TAR21",
         "face": 0
@@ -48,7 +48,7 @@
     "text": "분명 M4나 AR-15의 정보를 얻었는데 우리를 끌어들이고 싶지 않은 거겠지."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NEGEV",
         "face": 0
@@ -61,7 +61,7 @@
     "text": "정말이지, 어째 규칙을 지키는 사람이 아무도 없어!+통신을 열어, 그녀들의 행방을 찾는다!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "TAR21",
         "face": 0
@@ -75,7 +75,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "NEGEV",
         "face": 0
@@ -92,7 +92,7 @@
       "id": 9
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "네게브"
       }
@@ -111,7 +111,7 @@
       "id": 38
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "AR15"
       }
@@ -119,7 +119,7 @@
     "text": "그럼, 내가 너의 첫 번째 친구겠구나.+정말......엉망이네."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -127,7 +127,7 @@
     "text": "당신은......AR-15?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AR15"
       }
@@ -135,7 +135,7 @@
     "text": "오? 날 알아?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -143,7 +143,7 @@
     "text": "당신의 무기......기억모듈에 있는 AR-15 인형에 대한 묘사와 부합합니다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AR15"
       }
@@ -151,7 +151,7 @@
     "text": "그런가......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -159,7 +159,7 @@
     "text": "보기에......별로 즐거워하지 않은 것 같습니다?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AR15"
       }
@@ -167,7 +167,7 @@
     "text": "즐겁다고 해야하나...즐겁긴 하지+너의 친구가 되라는 건 내가 받은 첫 번째 명령, 적극적인 태도를 취하는 것도 명령의 일부분이지."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -175,7 +175,7 @@
     "text": "하지만......만약 즐겁다면, 웃어야 하는 거 아닌가요?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AR15"
       }
@@ -183,7 +183,7 @@
     "text": "......+그럼 명령을 내려. 나에게 명령하면, 그대로 따르겠어."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -191,7 +191,7 @@
     "text": "제가......당신한테 명령을?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AR15"
       }
@@ -200,7 +200,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -215,7 +215,7 @@
     "text": ".................."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -226,7 +226,7 @@
     "sound": {
       "bgm": "BGM_Brain"
     },
-    "character": [
+    "characters": [
       {
         "name": "??"
       }
@@ -238,7 +238,7 @@
       "id": 16
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "??"
       }
@@ -246,7 +246,7 @@
     "text": "너에 대한......첫 번째 기억이지."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -254,7 +254,7 @@
     "text": "당신은 누군가요! 뭘 하고 있는 거죠!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "??"
       }
@@ -262,7 +262,7 @@
     "text": "방금의 답을 찾고 있지.+\"넌......도대체 누구냐\"는 질문에 대한 답을 말이야."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -270,7 +270,7 @@
     "text": "저는 그리폰에 고용된 인형, AR팀의 멤버.+그 외엔 뭐라고 대답해야 할지 모르겠는데요."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "??"
       }
@@ -278,7 +278,7 @@
     "text": "확실히, 네 클라우드 마인드맵 속의 기억은 AR-15의 것과 완전히 부합해.+하지만 내가 원하는 건 아니야, 그러니까 빨리, 대답해."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -286,7 +286,7 @@
     "text": "말했잖아요. 전 모른다고......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "??"
       }
@@ -298,7 +298,7 @@
       "id": 9
     },
     "screenEffect": "shockScreen",
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -306,7 +306,7 @@
     "text": "모른다고!+답 같은 건 모른단 말이야! 무슨 소리를 지껄이는 거야!+도대체 정체가 뭐야! 빨리 내 앞에서 사라지라고!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "??"
       }
@@ -314,7 +314,7 @@
     "text": "왜 화를 내는 거지?+왜 다른 이들처럼 화기애애하게 날 대하지 못하는 거지?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AR15"
       }
@@ -322,7 +322,7 @@
     "text": "......왜냐하면 진짜 답을 모르니까.+AR팀의 클라우드 마인드맵은 16LAB의 암호화를 거치지, 대부분의 내용들은 우리가 보고 싶어도 권한이 없어서 열람할 수 없어.+보아하니 M4에 관한 정보가 바로 그중 하나인 것 같네, 난 【우산】을 뚫을 수 없......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "??"
       }
@@ -330,7 +330,7 @@
     "text": "......다시 말해, 나에게 M4A1의 정보를 건네줄 수 없다는 뜻이군.+넌 계약을 어겼다. 그리폰의 AR-15......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AR15"
       }
@@ -345,7 +345,7 @@
     "background": {
       "id": 9
     },
-    "character": [
+    "characters": [
       {
         "name": "??"
       }
@@ -353,7 +353,7 @@
     "text": "......난 계약을 어기는 사람을 싫어하지.+가라. 알케미스트, 권한을 넘겨주지.+M4A1을 데려와, 다른 건 신경쓸 필요 없다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "BOSS-5",
         "face": 0
@@ -366,7 +366,7 @@
     "text": "안녕~ AR-15, 듣고 있어?+M4A1이 너한테 있지? 그럼 우린 곧 만날 수 있을 거야......+이제야 널 직접 끝장낼 수 있겠네!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AR15"
       }
@@ -375,7 +375,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "BOSS-5",
         "face": 0

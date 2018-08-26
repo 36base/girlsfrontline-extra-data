@@ -3,7 +3,7 @@
     "background": {
       "id": 10
     },
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kalin",
         "face": 2,
@@ -17,7 +17,7 @@
     "text": "지휘관님, 벌써 와계셨나요?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kalin",
         "face": 1
@@ -30,7 +30,7 @@
     "text": "이번에도 힘내도록 하죠, 이쪽으로 오세요!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kalin",
         "face": 0

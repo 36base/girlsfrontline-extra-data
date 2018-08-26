@@ -9,7 +9,7 @@
     "text": "......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "BOSS-6",
         "face": 0,
@@ -23,7 +23,7 @@
     "text": "저기 있지, 드리머.+여기 무슨 이상한 신호가 들어왔는데."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "BOSS-6",
         "face": 0
@@ -40,7 +40,7 @@
     "text": "만약 그리폰이었다면, 이렇게 우리가 볼 수 있게 대놓고 들어오지는 않았겠지."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "BOSS-6",
         "face": 0
@@ -57,7 +57,7 @@
     "text": "확실히... 자세히 보니까, 정말 그리폰의 신호가 아니네...+오히려... 우리랑 비슷해 보이는걸..."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "BOSS-6",
         "face": 0
@@ -74,7 +74,7 @@
     "text": "누가 온다는 연락은 받은 적 없는데... 어디 볼까.+......+디스트로이어, 이건 오가스(Ogas) 프로토콜 신호잖아. 설마 뭔지 모르는 건 아니겠지?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "BOSS-6",
         "face": 0
@@ -91,7 +91,7 @@
     "text": "오가스? 그게 뭐야?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "BOSS-6",
         "face": 0
@@ -108,7 +108,7 @@
     "text": "어머... 이번에는 알려준 적이 없었던 모양이네......+잘 기억해, 디스트로이어. 오가스 프로토콜은 그리폰의 쓰레기 같은 인형들이 쓰는 지나 프로토콜이 아니라, 우리 철혈의 네트워크 시스템이야.+이런 신호를 내보내고 있는 녀석들은, 전부 우리의 동료란 뜻이지."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "BOSS-6",
         "face": 0
@@ -125,7 +125,7 @@
     "text": "동료? 이상하네. 나도 누가 여기로 온다는 소린 못 들었는걸."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "BOSS-6",
         "face": 0
@@ -142,7 +142,7 @@
     "text": "아니면......+【우산】바이러스를 지니고 있는 인형일 수도 있고."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "BOSS-6",
         "face": 0
@@ -159,7 +159,7 @@
     "text": "【우산】? 그거라면...+어, 그러니까..., 그리폰의 인형에 이식해서, 그 인형의 프로토콜을 우리와 같은 것으로 덮어씌워 버리는 바이러스. 맞지?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "BOSS-6",
         "face": 0
@@ -176,7 +176,7 @@
     "text": "후후... 바로 그게 우리에게 큰 성과를 가져다줬지.+어쨌든, 이렇게 당당하게 문을 두드리며 들어와 주다니. 정찰할 수고는 덜었네."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "BOSS-6",
         "face": 0
@@ -193,7 +193,7 @@
     "text": "이번에 새로 생산된 자폭 유닛을 이미 가동해뒀어. 그 정도면 녀석들에게 환영 인사로 충분할걸?+그건 그렇고 내 새로운 몸은 언제 완성되는 거야?+자고 일어났는데도, 그냥 장소만 바뀐 것 같은데..."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "BOSS-6",
         "face": 0
@@ -211,7 +211,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "BOSS-6",
         "face": 0
@@ -239,7 +239,7 @@
     "text": "......정찰 거점 확보로부터 10분 후."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "UMP9",
         "face": 0
@@ -251,7 +251,7 @@
     "text": "여기는 UMP9, 제레 응답 바람. 반복한다. 여기는 UMP9, 제레 응답 바람."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "UMP9",
         "face": 0
@@ -269,7 +269,7 @@
     "text": "아, 9 씨군요. 보고할 게 있으신가요?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "UMP9",
         "face": 0
@@ -285,7 +285,7 @@
     "text": "수색에 적합한 거점을 찾아냈고, 전자전 모듈은 정상적으로 운용되고 있어.+계속해서 무인기를 수색할 거야. 다른 사람들은 준비 작업을 하는 중이고."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "UMP9",
         "face": 0
@@ -302,7 +302,7 @@
     "text": "잘하셨어요. 계속해서 힘내주세요."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "UMP9",
         "face": 0
@@ -318,7 +318,7 @@
     "text": "헤헤~ 임무 중에 힘내라는 말을 해주는 건, 제레 밖에 없을 거 같다니까.+그리고 뭐 하나 물어볼 게 있는데, 데레 거기 있어?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "UMP9",
         "face": 0
@@ -335,7 +335,7 @@
     "text": "불러올 테니, 잠시만 기다려 주세요.+데레! 잠깐 이리 와봐!+게임이 뭐가 어쨌는데! 멈춰놓고 오면 되잖아!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "UMP9",
         "face": 0
@@ -350,7 +350,7 @@
     "text": "......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "UMP9",
         "face": 0
@@ -368,7 +368,7 @@
     "text": "아오 진짜... 이번엔 뭐야, 무슨 일인데?+어? 왜 보안 채널로 변경했어?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "UMP9",
         "face": 0
@@ -384,7 +384,7 @@
     "text": "조금 걱정되는 일이 생겨서. 저번에 너한테 부탁했던 것, 안 잊었지?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "UMP9",
         "face": 0
@@ -401,7 +401,7 @@
     "text": "아, UMP45의 그거?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "UMP9",
         "face": 0
@@ -417,7 +417,7 @@
     "text": "그래, 24시간 동안 언니의 마인드맵 상태 말이야. 이제 슬슬 24시간이 됐잖아?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "UMP9",
         "face": 0
@@ -434,7 +434,7 @@
     "text": "결과야 진작에 나왔지. 이참에 보도록 할까...+어라?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "UMP9",
         "face": 0
@@ -450,7 +450,7 @@
     "text": "왜 그래?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "UMP9",
         "face": 0
@@ -467,7 +467,7 @@
     "text": "흐으으음...+별다른 문제는 없는데, 조금 이상한 점이 있네."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "UMP9",
         "face": 2
@@ -483,7 +483,7 @@
     "text": "조금 이상하다는 건, 문제가 있긴 있다는 거 아냐?!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "UMP9",
         "face": 2
@@ -500,7 +500,7 @@
     "text": "하아, 인형의 마인드맵은 전부 저마다 조금씩 이상한 구석이 있다고.+몇 시간 전, 45의 마인드맵의 데이터 처리량이 갑자기 늘어났다가 되돌아왔어."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "UMP9",
         "face": 2
@@ -516,7 +516,7 @@
     "text": "늘어나? 뭐 때문에?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "UMP9",
         "face": 2
@@ -533,7 +533,7 @@
     "text": "일반적으로는 파일 이동이나 메모리 정리, 아니면 몰래 영상 채널 시청 등 때문에 일어나지.+이러한 조작을 하면 반드시 데이터 처리량이 증가하게 돼. 그리고 45의 증가량은 아직 정상 범주 내야."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "UMP9",
         "face": 2
@@ -549,7 +549,7 @@
     "text": "하아... 데레, 널 믿어도 되는 거지?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "UMP9",
         "face": 2
@@ -566,7 +566,7 @@
     "text": "안심해. 너희들이 비록 불법 인형이기는 해도, 너희를 관리하는 게 우리의 일이니까.+아무리 사소한 거라도 너네한테 문제가 생겼다간 우리 손해가 막심해진다고!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "UMP9",
         "face": 2
@@ -582,7 +582,7 @@
     "text": "그렇게까지 말한다면야...+아무튼, 언니의 상태를 계속해서 지켜봐 줘. 언니의 마인드맵 보호를 최우선으로 부탁할게, 알았지?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "UMP9",
         "face": 2
@@ -599,7 +599,7 @@
     "text": "문제 없어. 하지만, 임무를 무사히 끝마치는 게 전제 조건이야. 명심해."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "UMP9",
         "face": 0
@@ -615,7 +615,7 @@
     "text": "흥, 나도 알고 있다구. 그럼 잘 부탁해."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "UMP9",
         "face": 0
@@ -631,7 +631,7 @@
     "text": "9, 보고는 다 했어?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "UMP9",
         "face": 0
@@ -647,7 +647,7 @@
     "text": "아, 응! 방금 끝났어. 언니, 준비 작업은 어때?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "UMP9",
         "face": 0
@@ -663,7 +663,7 @@
     "text": "조금 문제가 생기기는 했지만, 곧 해결될 테니 걱정하지 않아도―"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "UMP9",
         "face": 0
@@ -682,7 +682,7 @@
     "text": "......삐! 삐! 삐!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "UMP9",
         "face": 2
@@ -698,7 +698,7 @@
     "text": "이건... 철혈의 경보음이잖아?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "UMP9",
         "face": 2
@@ -710,7 +710,7 @@
     ]
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "디스트로이어"
       }
@@ -718,7 +718,7 @@
     "text": "크흠크흠!+아─ 아─. 마이크 테스트, 마이크 테스트."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "HK416",
         "face": 2
@@ -734,7 +734,7 @@
     "text": "무슨 일이지? 이 목소리는...?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "HK416",
         "face": 2
@@ -750,7 +750,7 @@
     "text": "디스트로이어야. 지금 녀석이 나타났다는 건..."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "HK416",
         "face": 2
@@ -762,7 +762,7 @@
     ]
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "디스트로이어"
       }
@@ -770,7 +770,7 @@
     "text": "이 빌어먹을 그리폰의 꼬맹이들아―! 지금부터 내가 하는 말을 똑똑히 듣도록 해!+우린 이미 너희가 여기에 온 걸 알고 있단 말씀!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "HK416",
         "face": 2
@@ -786,7 +786,7 @@
     "text": "......!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "HK416",
         "face": 2
@@ -798,7 +798,7 @@
     ]
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "디스트로이어"
       }
@@ -806,7 +806,7 @@
     "text": "네 녀석들이 여기에 뭘 하러 온 건지도 알고 있어! 너희들을 잡는 건 시간문제야!+어때? 어때! 무지 신경 쓰이지? 무섭지?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "G11",
         "face": 0
@@ -822,7 +822,7 @@
     "text": "거참 쫑알쫑알 되게 시끄럽네... 그냥 지금 가서 죽여 버리면 안 돼?+몇 번이나 모가지를 땄는지 이젠 기억도 안 나는 놈인데."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "G11",
         "face": 0
@@ -834,7 +834,7 @@
     ]
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "디스트로이어"
       }
@@ -846,7 +846,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "디스트로이어"
       }
@@ -858,7 +858,7 @@
       "id": 9
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "디스트로이어"
       }

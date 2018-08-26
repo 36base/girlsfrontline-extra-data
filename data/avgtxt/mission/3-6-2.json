@@ -9,7 +9,7 @@
     "text": "......철혈 지휘실."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AR15",
         "face": 0
@@ -18,7 +18,7 @@
     "text": "꼴사납군, 헌터."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "BOSS-3",
         "face": 0
@@ -31,7 +31,7 @@
     "text": "도저히 모르겠어, 어떻게...."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AR15",
         "face": 0
@@ -40,7 +40,7 @@
     "text": "내가 네 명령을 내부에서부터 수정해서 난장판을 만들었지."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "BOSS-3",
         "face": 0
@@ -53,7 +53,7 @@
     "text": "말 도 안 돼, 네년이 어떻게 철혈의 권한을 가지고 있는 것이냐!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AR15",
         "face": 0
@@ -63,7 +63,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "BOSS-3",
         "face": 0
@@ -80,7 +80,7 @@
       "id": 9
     },
     "screenEffect": "blackSpot1",
-    "character": [
+    "characters": [
       {
         "name": "AR15"
       }
@@ -98,7 +98,7 @@
     "text": "한시간 뒤, 랑데부 포인트."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "SOPII",
         "face": 0
@@ -111,7 +111,7 @@
     "text": "빨리빨리! AR-15야! 진짜 왔어!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AR15",
         "face": 2
@@ -127,7 +127,7 @@
     "text": "둘 다 너무 늦었어. 정말 보고 싶었는데, 언제 나와야 괜찮을 지도 모르겠었고."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AR15",
         "face": 2
@@ -143,7 +143,7 @@
     "text": "AR-15......무사해서 다행이에요."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AR15",
         "face": 0
@@ -159,7 +159,7 @@
     "text": "M4, 이번 사태가 없었다면 정말로 스스로를 대가로 교섭에 응할 생각이었어?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AR15",
         "face": 0
@@ -175,7 +175,7 @@
     "text": "전......전 모르겠어요......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AR15",
         "face": 0
@@ -191,7 +191,7 @@
     "text": "어떻든 상관 없어, M4A1. 네가 리더야, 다음엔 멍청한 짓 하지 마."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AR15",
         "face": 0
@@ -207,7 +207,7 @@
     "text": "그렇지만 전...."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AR15",
         "face": 0
@@ -223,7 +223,7 @@
     "text": "M4A1, 우리는 각자의 일이 있어. 우리는 때로 선택지가 없다는 뜻이야. 그리고 M16, 그녀가 아직 구조를 기다리고 있기도 하고."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AR15",
         "face": 0
@@ -239,7 +239,7 @@
     "text": "네......다음에는 신중하게 생각할게요."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AR15",
         "face": 0
@@ -256,7 +256,7 @@
     "text": "에, AR-15, 갑자기 멋있는 말을 하네~"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AR15",
         "face": 2
@@ -272,7 +272,7 @@
     "text": "......일로 와, 나랑 얘기좀 하자."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AR15",
         "face": 2
@@ -289,7 +289,7 @@
     "text": "잠깐! 난 아직 아무 얘기도 못했는데!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AR15",
         "face": 2
@@ -305,7 +305,7 @@
     "text": "얘기 안 해도 돼, 영원히 아무 말도 못 하도록 입을 꿰매주지."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AR15",
         "face": 2
@@ -323,7 +323,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 2

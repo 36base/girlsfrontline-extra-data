@@ -16,7 +16,7 @@
     "sound": {
       "bgm": "BGM_Danger"
     },
-    "character": [
+    "characters": [
       {
         "name": "NPC-Ange",
         "face": 0,
@@ -33,7 +33,7 @@
     "background": {
       "id": 22
     },
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 3
@@ -53,7 +53,7 @@
     "background": {
       "id": 22
     },
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 3
@@ -73,7 +73,7 @@
     "background": {
       "id": 22
     },
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 3
@@ -93,7 +93,7 @@
     "background": {
       "id": 22
     },
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 3
@@ -113,7 +113,7 @@
     "background": {
       "id": 22
     },
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 3
@@ -133,7 +133,7 @@
     "background": {
       "id": 22
     },
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 3
@@ -153,7 +153,7 @@
     "background": {
       "id": 22
     },
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 3
@@ -172,7 +172,7 @@
     "sound": {
       "bgm": "BGM_Empty"
     },
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 1
@@ -197,7 +197,7 @@
     "text": "......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "페르시카"
       }

@@ -11,7 +11,7 @@
     "background": {
       "id": 85
     },
-    "character": [
+    "characters": [
       {
         "name": "Theresa",
         "face": 0
@@ -23,7 +23,7 @@
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "Theresa",
         "face": 0
@@ -35,7 +35,7 @@
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "Theresa",
         "face": 0
@@ -47,7 +47,7 @@
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "Theresa",
         "face": 0
@@ -59,7 +59,7 @@
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "Himeko",
         "face": 0
@@ -70,7 +70,7 @@
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "Himeko",
         "face": 0
@@ -82,7 +82,7 @@
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "Himeko",
         "face": 0
@@ -93,12 +93,13 @@
       }
     ],
     "speaker": {
-      "index": 1
+      "index": 1,
+      "name": "PP90"
     },
     "text": "네?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "Himeko",
         "face": 0
@@ -114,7 +115,7 @@
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "Himeko",
         "face": 0
@@ -125,42 +126,12 @@
       }
     ],
     "speaker": {
-      "index": 1
+      "index": 1,
+      "name": "PP90"
     }
   },
   {
-    "character": [
-      {
-        "name": "Himeko",
-        "face": 0
-      },
-      {
-        "name": "PP90",
-        "face": 0
-      }
-    ],
-    "speaker": {
-      "index": 0,
-      "name": "姬子"
-    }
-  },
-  {
-    "character": [
-      {
-        "name": "Himeko",
-        "face": 0
-      },
-      {
-        "name": "PP90",
-        "face": 0
-      }
-    ],
-    "speaker": {
-      "index": 1
-    }
-  },
-  {
-    "character": [
+    "characters": [
       {
         "name": "Himeko",
         "face": 0
@@ -176,7 +147,7 @@
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "Himeko",
         "face": 0
@@ -187,11 +158,44 @@
       }
     ],
     "speaker": {
-      "index": 1
+      "index": 1,
+      "name": "PP90"
     }
   },
   {
-    "character": [
+    "characters": [
+      {
+        "name": "Himeko",
+        "face": 0
+      },
+      {
+        "name": "PP90",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "姬子"
+    }
+  },
+  {
+    "characters": [
+      {
+        "name": "Himeko",
+        "face": 0
+      },
+      {
+        "name": "PP90",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "PP90"
+    }
+  },
+  {
+    "characters": [
       {
         "name": "Theresa",
         "face": 0
@@ -207,7 +211,7 @@
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "Himeko",
         "face": 0
@@ -224,7 +228,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "Himeko",
         "face": 0
@@ -235,7 +239,8 @@
       }
     ],
     "speaker": {
-      "index": 1
+      "index": 1,
+      "name": "PP90"
     }
   },
   {
@@ -243,18 +248,19 @@
       "id": 10
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "PP90",
         "face": 0
       }
     ],
     "speaker": {
-      "index": 0
+      "index": 0,
+      "name": "PP90"
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "Theresa",
         "face": 0
@@ -270,7 +276,7 @@
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "Theresa",
         "face": 0
@@ -286,7 +292,7 @@
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "Theresa",
         "face": 0
@@ -297,11 +303,12 @@
       }
     ],
     "speaker": {
-      "index": 1
+      "index": 1,
+      "name": "PP90"
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "Theresa",
         "face": 0
@@ -317,7 +324,7 @@
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "Theresa",
         "face": 0
@@ -328,11 +335,12 @@
       }
     ],
     "speaker": {
-      "index": 1
+      "index": 1,
+      "name": "PP90"
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "Theresa",
         "face": 0
@@ -348,7 +356,7 @@
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "Himeko",
         "face": 0
@@ -365,7 +373,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "Himeko",
         "face": 0
@@ -385,236 +393,5 @@
       "id": 10
     },
     "screenEffect": "blackSpot2"
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
   }
 ]

@@ -9,7 +9,7 @@
     "text": "1시간 후."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "BOSS-9",
         "face": 0,
@@ -23,7 +23,7 @@
     "text": "뭐야, M4A1. 얼마나 기다리게 할 셈이야?+너에 대해선 잘 알아. 우유부단하지만... 절대로 겁쟁이는 아니지."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -31,7 +31,7 @@
     "text": "......+아직 모르는 모양이군요, 아키텍트.+우리가 곧 그쪽의 지휘 거점을 점령할 겁니다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "BOSS-9",
         "face": 0
@@ -44,7 +44,7 @@
     "text": "으응~? 날 놀리는 거야? 여긴 그리폰의 신호가 없는걸?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -53,7 +53,7 @@
   },
   {
     "screenEffect": "shockScreen",
-    "character": [
+    "characters": [
       {
         "name": "BOSS-9",
         "face": 0
@@ -73,7 +73,7 @@
     "text": "......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M99",
         "face": 0,
@@ -83,7 +83,7 @@
     "text": "M4 씨, 괜찮으세요?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 2
@@ -92,7 +92,7 @@
     "text": "네... 저는 괜찮아요.+여러분의 희생에 비하면 여기에 갇혀있을 뿐인 전 아무것도 아니죠.+게다가 다음 작전에서도 희생자가 나올 수도 있어요.+하지만, 여러분이 저를 믿어주시는 한, 저도 절대 포기하지 않겠어요."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M99",
         "face": 0,
@@ -103,7 +103,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 0

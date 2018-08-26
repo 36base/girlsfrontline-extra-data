@@ -13,11 +13,15 @@
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "PP90"
       }
-    ]
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "PP90"
+    }
   },
   {
     "sound": {
@@ -28,11 +32,15 @@
     "sound": {
       "bgm": "BGM_Danger"
     },
-    "character": [
+    "characters": [
       {
         "name": "PP90"
       }
-    ]
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "PP90"
+    }
   },
   {
     "sound": {
@@ -40,11 +48,15 @@
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "PP90"
       }
-    ]
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "PP90"
+    }
   },
   {},
   {
@@ -58,7 +70,7 @@
       "id": 88
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "PP90",
         "face": 0,
@@ -66,11 +78,12 @@
       }
     ],
     "speaker": {
-      "index": 0
+      "index": 0,
+      "name": "PP90"
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "PP90",
         "face": 0
@@ -81,11 +94,12 @@
       }
     ],
     "speaker": {
-      "index": 1
+      "index": 1,
+      "name": "Vector"
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "PP90",
         "face": 0
@@ -96,11 +110,12 @@
       }
     ],
     "speaker": {
-      "index": 0
+      "index": 0,
+      "name": "PP90"
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "PP90",
         "face": 0
@@ -111,56 +126,8 @@
       }
     ],
     "speaker": {
-      "index": 1
-    }
-  },
-  {
-    "screenEffect": "shockScreen",
-    "sound": {
-      "se1": "MachineGunBurst"
-    },
-    "character": [
-      {
-        "name": "PP90",
-        "face": 0
-      },
-      {
-        "name": "Vector",
-        "face": 0
-      }
-    ],
-    "speaker": {
-      "index": 1
-    }
-  },
-  {
-    "character": [
-      {
-        "name": "PP90",
-        "face": 0
-      },
-      {
-        "name": "Vector",
-        "face": 0
-      }
-    ],
-    "speaker": {
-      "index": 1
-    }
-  },
-  {
-    "character": [
-      {
-        "name": "PP90",
-        "face": 0
-      },
-      {
-        "name": "Vector",
-        "face": 0
-      }
-    ],
-    "speaker": {
-      "index": 0
+      "index": 1,
+      "name": "Vector"
     }
   },
   {
@@ -168,7 +135,7 @@
     "sound": {
       "se1": "MachineGunBurst"
     },
-    "character": [
+    "characters": [
       {
         "name": "PP90",
         "face": 0
@@ -183,7 +150,43 @@
     }
   },
   {
-    "character": [
+    "characters": [
+      {
+        "name": "PP90",
+        "face": 0
+      },
+      {
+        "name": "Vector",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "Vector"
+    }
+  },
+  {
+    "characters": [
+      {
+        "name": "PP90",
+        "face": 0
+      },
+      {
+        "name": "Vector",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "PP90"
+    }
+  },
+  {
+    "screenEffect": "shockScreen",
+    "sound": {
+      "se1": "MachineGunBurst"
+    },
+    "characters": [
       {
         "name": "PP90",
         "face": 0
@@ -198,7 +201,7 @@
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "PP90",
         "face": 0
@@ -213,7 +216,7 @@
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "PP90",
         "face": 0
@@ -224,11 +227,12 @@
       }
     ],
     "speaker": {
-      "index": 0
+      "index": 1,
+      "name": "Vector"
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "PP90",
         "face": 0
@@ -239,14 +243,31 @@
       }
     ],
     "speaker": {
-      "index": 1
+      "index": 0,
+      "name": "PP90"
+    }
+  },
+  {
+    "characters": [
+      {
+        "name": "PP90",
+        "face": 0
+      },
+      {
+        "name": "Vector",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "Vector"
     }
   },
   {
     "sound": {
       "se1": "Rope"
     },
-    "character": [
+    "characters": [
       {
         "name": "Vector",
         "face": 0
@@ -257,18 +278,19 @@
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "Vector",
         "face": 0
       }
     ],
     "speaker": {
-      "index": 0
+      "index": 0,
+      "name": "Vector"
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "PP90",
         "face": 0,
@@ -280,11 +302,12 @@
       }
     ],
     "speaker": {
-      "index": 0
+      "index": 0,
+      "name": "PP90"
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "PP90",
         "face": 0
@@ -295,86 +318,8 @@
       }
     ],
     "speaker": {
-      "index": 1
-    }
-  },
-  {
-    "screenEffect": "shockScreen",
-    "sound": {
-      "se1": "MachineGunBurst"
-    },
-    "character": [
-      {
-        "name": "PP90",
-        "face": 0
-      },
-      {
-        "name": "Vector",
-        "face": 0
-      }
-    ],
-    "speaker": {
-      "index": 1
-    }
-  },
-  {
-    "character": [
-      {
-        "name": "PP90",
-        "face": 0
-      },
-      {
-        "name": "Vector",
-        "face": 0
-      }
-    ],
-    "speaker": {
-      "index": 0
-    }
-  },
-  {
-    "character": [
-      {
-        "name": "PP90",
-        "face": 0
-      },
-      {
-        "name": "Vector",
-        "face": 0
-      }
-    ],
-    "speaker": {
-      "index": 1
-    }
-  },
-  {
-    "character": [
-      {
-        "name": "PP90",
-        "face": 0
-      },
-      {
-        "name": "Vector",
-        "face": 0
-      }
-    ],
-    "speaker": {
-      "index": 0
-    }
-  },
-  {
-    "character": [
-      {
-        "name": "PP90",
-        "face": 0
-      },
-      {
-        "name": "Vector",
-        "face": 0
-      }
-    ],
-    "speaker": {
-      "index": 1
+      "index": 1,
+      "name": "Vector"
     }
   },
   {
@@ -382,7 +327,7 @@
     "sound": {
       "se1": "MachineGunBurst"
     },
-    "character": [
+    "characters": [
       {
         "name": "PP90",
         "face": 0
@@ -397,7 +342,7 @@
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "PP90",
         "face": 0
@@ -408,11 +353,12 @@
       }
     ],
     "speaker": {
-      "index": 0
+      "index": 0,
+      "name": "PP90"
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "PP90",
         "face": 0
@@ -423,11 +369,12 @@
       }
     ],
     "speaker": {
-      "index": 1
+      "index": 1,
+      "name": "Vector"
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "PP90",
         "face": 0
@@ -438,7 +385,24 @@
       }
     ],
     "speaker": {
-      "index": 0
+      "index": 0,
+      "name": "PP90"
+    }
+  },
+  {
+    "characters": [
+      {
+        "name": "PP90",
+        "face": 0
+      },
+      {
+        "name": "Vector",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "Vector"
     }
   },
   {
@@ -446,7 +410,7 @@
     "sound": {
       "se1": "MachineGunBurst"
     },
-    "character": [
+    "characters": [
       {
         "name": "PP90",
         "face": 0
@@ -461,7 +425,59 @@
     }
   },
   {
-    "character": [
+    "characters": [
+      {
+        "name": "PP90",
+        "face": 0
+      },
+      {
+        "name": "Vector",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "PP90"
+    }
+  },
+  {
+    "characters": [
+      {
+        "name": "PP90",
+        "face": 0
+      },
+      {
+        "name": "Vector",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "Vector"
+    }
+  },
+  {
+    "characters": [
+      {
+        "name": "PP90",
+        "face": 0
+      },
+      {
+        "name": "Vector",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "PP90"
+    }
+  },
+  {
+    "screenEffect": "shockScreen",
+    "sound": {
+      "se1": "MachineGunBurst"
+    },
+    "characters": [
       {
         "name": "PP90",
         "face": 0
@@ -476,7 +492,7 @@
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "PP90",
         "face": 0
@@ -487,12 +503,29 @@
       }
     ],
     "speaker": {
-      "index": 0
+      "index": 1,
+      "name": "Vector"
+    }
+  },
+  {
+    "characters": [
+      {
+        "name": "PP90",
+        "face": 0
+      },
+      {
+        "name": "Vector",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "PP90"
     }
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "PP90",
         "face": 0
@@ -503,7 +536,8 @@
       }
     ],
     "speaker": {
-      "index": 1
+      "index": 1,
+      "name": "Vector"
     }
   },
   {
@@ -517,11 +551,15 @@
     "sound": {
       "se1": "Select"
     },
-    "character": [
+    "characters": [
       {
         "name": "Vector"
       }
-    ]
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "Vector"
+    }
   },
   {
     "background": {
@@ -532,7 +570,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "PP90",
         "face": 0,
@@ -540,7 +578,8 @@
       }
     ],
     "speaker": {
-      "index": 0
+      "index": 0,
+      "name": "PP90"
     }
   },
   {
@@ -548,47 +587,5 @@
       "id": 10
     },
     "screenEffect": "blackSpot2"
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
   }
 ]

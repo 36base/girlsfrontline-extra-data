@@ -6,7 +6,7 @@
     "text": "[도움말] 원활한 게임 진행을 위해 이어지는 스토리 가이드를 자세히 읽어주시기 바랍니다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "CLEAR",
         "face": 0
@@ -19,7 +19,7 @@
     "text": "완성했다! +……윽!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "K2",
         "face": 0
@@ -32,7 +32,7 @@
     "text": "괜찮아?! 클리어！"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "CLEAR",
         "face": 0
@@ -46,7 +46,7 @@
   },
   {
     "screenEffect": "shockScreen",
-    "character": [
+    "characters": [
       {
         "name": "FAIL",
         "face": 0
@@ -59,7 +59,7 @@
     "text": "HELLO——! +미안~ 모두들, 내가 다시 돌아왔어!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "CLEAR",
         "face": 0
@@ -72,7 +72,7 @@
     "text": "페…… 페일?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "K2",
         "face": 0
@@ -85,7 +85,7 @@
     "text": "페일! 네가 어떻게——!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "FAIL",
         "face": 0
@@ -98,7 +98,7 @@
     "text": "사념체가 모두 다 격파당해버려서, 깨어날 수밖에 없었다고. +게다가 이번엔…… 완전히 깨어나 버렸어……."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AEK999",
         "face": 0
@@ -111,7 +111,7 @@
     "text": "그럼 이제부터 어떡할 거지? 붙어볼 테냐?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "FAIL",
         "face": 0
@@ -124,7 +124,7 @@
     "text": "말했잖아, 왜 꼭 싸움을 통해서 해결하려 하냐고. +그건 그렇고, 더 넓은 세계가 있다면서? 나도 데려가 줄래?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "K2",
         "face": 0
@@ -137,7 +137,7 @@
     "text": "우리에게 합류하겠다는 거야, 페일?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "Thunder50",
         "face": 0
@@ -150,7 +150,7 @@
     "text": "950, 괜찮겠어?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M950A",
         "face": 0
@@ -163,7 +163,7 @@
     "text": "난…… +난 환영이야, 페일."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "TMP",
         "face": 0
@@ -176,7 +176,7 @@
     "text": "에에? 조금 의외인걸요."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M950A",
         "face": 0
@@ -189,7 +189,7 @@
     "text": "어쨌든, 나에게 새로운 가능성을 보여줬는걸. +일부분이긴 하지만, 확실히 내가 원하는 걸 찾게 해줬어. +게다가 네 힘은 우리에게 도움이 될 테고."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AEK999",
         "face": 0
@@ -202,7 +202,7 @@
     "text": "하지만, 네 멋대로 다른 사람의 기억을 지워버리고 세뇌하는 것은 안 돼."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "FAIL",
         "face": 0
@@ -215,7 +215,7 @@
     "text": "아휴…… 알겠어. +우리를 기억하고자 하는 사람들이 있다는 걸 알았으니까, 더 이상 세상과 나 자신을 속일 필요 따위 없는걸."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "CLEAR",
         "face": 0
@@ -228,7 +228,7 @@
     "text": "환영해, 페일."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "FAIL",
         "face": 0

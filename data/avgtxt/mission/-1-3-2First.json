@@ -12,7 +12,7 @@
     "text": "목표 지점 인근. 404 소대와 엑스큐셔너가 맞붙었다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "ExcutionerElite",
         "face": 1
@@ -28,7 +28,7 @@
     "sound": {
       "se2": "Gunfight"
     },
-    "character": [
+    "characters": [
       {
         "name": "HK416",
         "face": 3
@@ -40,7 +40,7 @@
     "sound": {
       "se1": "Battlefield"
     },
-    "character": [
+    "characters": [
       {
         "name": "G11",
         "face": 3
@@ -52,7 +52,7 @@
     "sound": {
       "se2": "Gunfight"
     },
-    "character": [
+    "characters": [
       {
         "name": "UMP9",
         "face": 4
@@ -61,7 +61,7 @@
     "text": "으아아, G11이 엑스큐셔너한테 겁먹었잖아?! 416! 얘 데리고 멀리 좀 가봐!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "HK416",
         "face": 3
@@ -73,7 +73,7 @@
     "sound": {
       "se1": "Battlefield"
     },
-    "character": [
+    "characters": [
       {
         "name": "UMP45",
         "face": 2
@@ -85,7 +85,7 @@
     "sound": {
       "se2": "Gunfight"
     },
-    "character": [
+    "characters": [
       {
         "name": "HK416",
         "face": 3
@@ -94,7 +94,7 @@
     "text": "라저! G11, 빨리 연막탄 던져 버려!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "G11",
         "face": 3
@@ -114,7 +114,7 @@
     "sound": {
       "se2": "Gunfight"
     },
-    "character": [
+    "characters": [
       {
         "name": "G11",
         "face": 3
@@ -138,7 +138,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "ExcutionerElite",
         "face": 0

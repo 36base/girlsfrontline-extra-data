@@ -11,7 +11,7 @@
     "text": "......작전 종료."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AR",
         "face": 0
@@ -24,7 +24,7 @@
     "text": "안전해?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AR",
         "face": 0
@@ -41,7 +41,7 @@
     "text": "안전해."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AR",
         "face": 0
@@ -58,7 +58,7 @@
     "text": "네게브? 네가 말하는 \"안전\"은 내가 말하는 안전이랑 같은 개념이겠지?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AR",
         "face": 0
@@ -75,7 +75,7 @@
     "text": "갈릴, 네가 우리 소대에 막 배치됐을 때에는 이런 겁쟁이가 아니었던 거로 기억하는데 말이지."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AR",
         "face": 0
@@ -92,7 +92,7 @@
     "text": "물론 네가 날 이렇게 만든 거잖아, 참으로 용감무쌍하신 네게브 전하."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AR",
         "face": 0
@@ -109,7 +109,7 @@
     "text": "천만의 말씀, 그럼 이제 출발해도 되겠지?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AR",
         "face": 0
@@ -126,7 +126,7 @@
     "text": "오케 오케─── 건너편에 있는 저 초소로 가면 되는 거지?+타보르는 어디로 배치했어?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AR",
         "face": 0
@@ -144,7 +144,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "AR",
         "face": 0

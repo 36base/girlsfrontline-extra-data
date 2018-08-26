@@ -3,7 +3,7 @@
     "background": {
       "id": 10
     },
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 0,
@@ -17,7 +17,7 @@
     "text": "아, 지휘관...."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 2
@@ -30,7 +30,7 @@
     "text": "그래, 또 나야, 반갑지?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 0
@@ -43,7 +43,7 @@
     "text": "같은 임무야, 샘플은 더 많이."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 2

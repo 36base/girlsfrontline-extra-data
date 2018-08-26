@@ -10,7 +10,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "MP40",
         "face": 0
@@ -32,7 +32,7 @@
     "text": "......삑."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 0,
@@ -45,7 +45,7 @@
     "text": "치......치직......+신호가 방해를 받는 것 같다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 0
@@ -69,7 +69,7 @@
     "sound": {
       "bgm": "BGM_Danger"
     },
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -83,7 +83,7 @@
     "text": "뒷통수에 뭔가를 맞았다. 혼란스러운 와중 시야가 격렬하게 돌기 시작했다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }

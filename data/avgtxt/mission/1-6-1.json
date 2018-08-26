@@ -3,7 +3,7 @@
     "background": {
       "id": 10
     },
-    "character": [
+    "characters": [
       {
         "name": "NPC-Helian",
         "face": 0,
@@ -17,7 +17,7 @@
     "text": "지휘관, 마지막 작전을 시작하겠습니다.+이번의 작전의 목표대상은 바로 이 인형입니다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "BOSS-1",
         "face": 0,
@@ -35,7 +35,7 @@
     "text": "이 철혈 보스의 정보를 잘 기억해두십시오.+식별번호 SP65, 통칭 '스케어크로우'."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Helian",
         "face": 0

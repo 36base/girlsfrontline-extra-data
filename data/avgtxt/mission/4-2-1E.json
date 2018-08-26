@@ -6,7 +6,7 @@
     "sound": {
       "bgm": "BGM_Sunshine"
     },
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 0
@@ -15,7 +15,7 @@
     "text": "안녕하세요. 지휘관. 다음 좌표를 표시하겠습니다.+정보에 따르면 이곳엔 여전히 철혈의 더미가 대량으로 남아있는 것 같네요.+(웃음) 지휘관, 까다로울 것 같나요?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "SOPII",
         "face": 0
@@ -32,7 +32,7 @@
     "text": "뭐 어쩔 수 없잖아, 이게 전쟁이니까.+War! War never changes!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "SOPII",
         "face": 0
@@ -48,7 +48,7 @@
     "text": "갑자기 뒤에서 툭 튀어나오지좀 마요. SOPII."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "SOPII",
         "face": 0
@@ -65,7 +65,7 @@
     "text": "헤헤, 이건 임기응변 훈련이라고!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "SOPII",
         "face": 0
@@ -81,7 +81,7 @@
     "text": "정말이지...카리나 씨 쪽에서 듣고 왔나요?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "SOPII",
         "face": 0
@@ -98,7 +98,7 @@
     "text": "응, 카리나 씨는 아직 보고를 해야 한다면서 나보고 와보랬어."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "SOPII",
         "face": 0
@@ -115,7 +115,7 @@
   },
   {
     "screenEffect": "blackSpot1",
-    "character": [
+    "characters": [
       {
         "name": "SOPII",
         "face": 0
@@ -136,7 +136,7 @@
       "id": 10
     },
     "screenEffect": "blackSpot2",
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 0,
@@ -146,7 +146,7 @@
     "text": "좌표는 바로 이곳입니다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "SOPII",
         "face": 0,
@@ -164,7 +164,7 @@
     "text": "오오! 여기구나! 어디 내가 좀 봐야..."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "SOPII",
         "face": 0
@@ -180,7 +180,7 @@
     "text": "오...올라타지 마세요. SOPII! 무거워요!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "SOPII",
         "face": 0
@@ -197,7 +197,7 @@
     "text": "아! 나 여기 알아, 철혈 보스의 더미랑 만난 적도 있다고! 그리고..."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "SOPII",
         "face": 0
@@ -213,7 +213,7 @@
     "text": "말 할 필요 없어요. 그 뒤가 상상이 가니까요..."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "SOPII",
         "face": 0

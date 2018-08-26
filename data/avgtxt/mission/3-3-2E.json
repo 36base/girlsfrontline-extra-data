@@ -7,7 +7,7 @@
     "sound": {
       "bgm": "BGM_Empty"
     },
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kalin",
         "face": 1
@@ -25,7 +25,7 @@
       "bgm": "BGM_Sneak",
       "se1": "Alarm"
     },
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kalin",
         "face": 2
@@ -38,7 +38,7 @@
     "text": "에? 이 경보는——?+......무, 무슨?!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kalin",
         "face": 4
@@ -51,7 +51,7 @@
     "text": "지휘관님, 안좋은 소식이에요!+방금 인형이 보고하기를, 지휘부로 복귀하던 도중 철혈의 습격을 받았다고해요!+우리 인형이 다치지는 않았지만, 철혈의 수송대가 전리품을 가져가는 중이라고 해요!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kalin",
         "face": 7
@@ -64,7 +64,7 @@
     "text": "이제......어떻게 해야하죠?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kalin",
         "face": 4
@@ -78,7 +78,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kalin",
         "face": 7

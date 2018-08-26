@@ -9,7 +9,7 @@
     "text": "............드리머 부대와의 교전이 계속된지 어느덧 35분.+............\"마리오 공주\" 수용소, 지하 2층+........................"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "엘더 브레인"
       }
@@ -17,7 +17,7 @@
     "text": "어째서......+아예 해석 불가라고?+우선 데려갈 수밖에 없나......+(박수) 가자, M4A1+같이 돌아가는 거다......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO635"
       }
@@ -26,7 +26,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "엘더 브레인"
       }
@@ -42,7 +42,7 @@
       "bgm": "BGM_War",
       "se1": "Explode"
     },
-    "character": [
+    "characters": [
       {
         "name": "RO635",
         "face": 5
@@ -54,7 +54,7 @@
     "sound": {
       "se1": "Battlefield"
     },
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3
@@ -70,7 +70,7 @@
     "sound": {
       "se2": "Gunfight"
     },
-    "character": [
+    "characters": [
       {
         "name": "NEGEV",
         "face": 0
@@ -86,7 +86,7 @@
     "text": "......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "엘더 브레인"
       }
@@ -97,7 +97,7 @@
     "sound": {
       "se2": "Gunfight"
     },
-    "character": [
+    "characters": [
       {
         "name": "RO635",
         "face": 4
@@ -106,7 +106,7 @@
     "text": "널 위해 준비한 거야, 엘더브레인...+바로 네 몸의 재머를 노린거다!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "엘더 브레인"
       }
@@ -117,7 +117,7 @@
     "sound": {
       "se1": "Battlefield"
     },
-    "character": [
+    "characters": [
       {
         "name": "RO635",
         "face": 4
@@ -126,7 +126,7 @@
     "text": "오래 걸리지도 않아......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "SOPII",
         "face": 0
@@ -142,7 +142,7 @@
     "sound": {
       "se2": "Gunfight"
     },
-    "character": [
+    "characters": [
       {
         "name": "엘더 브레인"
       }
@@ -150,7 +150,7 @@
     "text": "......!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO635",
         "face": 5
@@ -159,7 +159,7 @@
     "text": "좋아! 재빨리 후퇴! 패닉룸으로 피해!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "엘더 브레인"
       }
@@ -170,7 +170,7 @@
     "sound": {
       "se1": "Battlefield"
     },
-    "character": [
+    "characters": [
       {
         "name": "VZ61",
         "face": 0
@@ -180,7 +180,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "FNFNC",
         "face": 0
@@ -199,7 +199,7 @@
     "text": "............둔탁한 소리가 울린다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "엘더 브레인"
       }
@@ -210,7 +210,7 @@
     "sound": {
       "bgm": "BGM_Boss"
     },
-    "character": [
+    "characters": [
       {
         "name": "BOSS-11",
         "face": 0,
@@ -224,7 +224,7 @@
     "text": "주인님, 이번엔 무기를 안 챙기기로 하신 걸 잊으셨나요?+그래서 제가 부대를 나눠 당신께 드렸는 걸요?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "엘더 브레인"
       }
@@ -232,7 +232,7 @@
     "text": "............+그럼 네가 여기로 올 수 있나?+걔들이 큰 철문 안에 숨었다, 못 들어가겠군."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "BOSS-11",
         "face": 0
@@ -245,7 +245,7 @@
     "text": "아......그 패닉 룸 말씀이신가요?+죄송하지만 힘이 되어드릴 수 없을 것 같네요. 모든 부대가 인간 지휘관한테 묶여 있거든요."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "엘더 브레인"
       }
@@ -253,7 +253,7 @@
     "text": "............+역시 에이전트가 더 써먹기 편하군......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "BOSS-11",
         "face": 0
@@ -267,7 +267,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "엘더 브레인"
       }
@@ -288,7 +288,7 @@
     "sound": {
       "bgm": "BGM_Empty"
     },
-    "character": [
+    "characters": [
       {
         "name": "m45",
         "face": 0
@@ -297,7 +297,7 @@
     "text": "아, M16 씨."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3
@@ -310,7 +310,7 @@
     "text": "m45, 상처는 어때?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "m45",
         "face": 0
@@ -319,7 +319,7 @@
     "text": "이미 응급 수복은 했어요. 당장엔 큰 문제는 없지만......+M16 씨, M4 씨를 보러 오신건가요?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 2
@@ -336,7 +336,7 @@
     "sound": {
       "bgm": "BGM_Truth"
     },
-    "character": [
+    "characters": [
       {
         "name": "m45",
         "face": 0
@@ -349,7 +349,7 @@
       "id": 44
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "m45"
       }
@@ -357,7 +357,7 @@
     "text": "매우 유감스럽게도, 아직 진전이 보이지 않아요......+M4A1 씨는 계속 저런 상태에요......+작은 목소리로 혼잣말을 하고, 말을 걸어도 대답이 없고......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16A1"
       }
@@ -365,7 +365,7 @@
     "text": "............+M4......+그 녀석이 도대체 너에게 무슨 짓을 한 거야......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "m45"
       }
@@ -374,7 +374,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "M16A1"
       }
@@ -386,7 +386,7 @@
       "id": 46
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 2
@@ -399,7 +399,7 @@
     "text": "......우선 다른 부상자들과 함께 수송차에 옮겨줘.+지휘관이 철수 플랜을 공지했으니 빨리 이탈하자고."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "m45",
         "face": 0
@@ -408,7 +408,7 @@
     "text": "에? 지휘관님이 오셨나요?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 0
@@ -422,7 +422,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "m45",
         "face": 0
@@ -438,7 +438,7 @@
     "sound": {
       "bgm": "BGM_Empty"
     },
-    "character": [
+    "characters": [
       {
         "name": "M16A1"
       }
@@ -457,7 +457,7 @@
     "sound": {
       "bgm": "BGM_Room"
     },
-    "character": [
+    "characters": [
       {
         "name": "RO635"
       }
@@ -469,7 +469,7 @@
       "id": 16
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "RO635"
       }
@@ -481,7 +481,7 @@
       "id": 9
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "RO635"
       }

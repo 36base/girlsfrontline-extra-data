@@ -9,7 +9,7 @@
     "text": "............철혈 지휘실 정리 완료."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kalin",
         "face": 0,
@@ -24,7 +24,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kalin",
         "face": 2
@@ -41,7 +41,7 @@
       "id": 9
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "카리나"
       }
@@ -60,7 +60,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "NPC-Helian",
         "face": 0,
@@ -81,7 +81,7 @@
     "text": "............+............헬리안이 녹음을 재생했다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16A1"
       }
@@ -89,7 +89,7 @@
     "text": "M4, M4!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4 SOPMOD II"
       }
@@ -97,7 +97,7 @@
     "text": "어이어이, M4, 시작했어!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -112,7 +112,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -127,7 +127,7 @@
     "text": "............녹음 종료."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Helian",
         "face": 0,

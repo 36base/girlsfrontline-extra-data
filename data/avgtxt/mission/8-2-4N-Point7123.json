@@ -3,7 +3,7 @@
     "background": {
       "id": 10
     },
-    "character": [
+    "characters": [
       {
         "name": "Glock17",
         "face": 0
@@ -19,7 +19,7 @@
     "background": {
       "id": 10
     },
-    "character": [
+    "characters": [
       {
         "name": "IWS2000",
         "face": 0
@@ -35,7 +35,7 @@
     "background": {
       "id": 10
     },
-    "character": [
+    "characters": [
       {
         "name": "AUG",
         "face": 0
@@ -51,7 +51,7 @@
     "background": {
       "id": 10
     },
-    "character": [
+    "characters": [
       {
         "name": "IWS2000",
         "face": 0
@@ -67,7 +67,7 @@
     "background": {
       "id": 10
     },
-    "character": [
+    "characters": [
       {
         "name": ""
       }

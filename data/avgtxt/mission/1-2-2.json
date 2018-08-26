@@ -10,7 +10,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "NPC-Helian",
         "face": 0,
@@ -28,7 +28,7 @@
       "id": 19
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "헬리안"
       }
@@ -40,7 +40,7 @@
       "id": 8
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "NPC-Helian",
         "face": 0
@@ -56,7 +56,7 @@
     "text": "...삑+채널에서 본부의 통신요청이 들어왔다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Helian",
         "face": 0
@@ -72,7 +72,7 @@
     "text": "헬리안이 몸을 돌려 본부와 연락을 취했다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "헬리안의 음성"
       }
@@ -81,7 +81,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "NPC-Helian",
         "face": 0

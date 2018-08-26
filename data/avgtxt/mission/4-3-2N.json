@@ -9,7 +9,7 @@
     "text": "......RO의 작전소대가 목적지에 도착.+............"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "92type",
         "face": 0
@@ -28,7 +28,7 @@
     "text": "......타앙!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AAT52",
         "face": 0
@@ -40,7 +40,7 @@
     "sound": {
       "bgm": "BGM_Danger"
     },
-    "character": [
+    "characters": [
       {
         "name": "RO"
       }
@@ -48,7 +48,7 @@
     "text": "92, 무슨 일이야 방금!?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "92type",
         "face": 0
@@ -62,7 +62,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "RO"
       }
@@ -75,7 +75,7 @@
       "isNight": true
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "RO"
       }
@@ -83,7 +83,7 @@
     "text": "스텐! 스텐 괜찮아?!어서 대답해!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "MK2",
         "face": 0
@@ -96,7 +96,7 @@
     "text": "콜록 콜록...전 괜찮아요. 그런데 건물! 건물이 피격당했어요!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO"
       }
@@ -104,7 +104,7 @@
     "text": "그 사람은!?어떻게 됐어!?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "MK2",
         "face": 0
@@ -117,7 +117,7 @@
     "text": "제가 구해냈는데, 지금 중상을 입어 의식을 잃었어요!+RO, 어떻게 해야할까요......일단 이 사람을 거점으로 데리고 돌아갈까요. 아니면 문서를 되찾을까요?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO"
       }
@@ -125,7 +125,7 @@
     "text": "그 녀석은 신경쓰지 마, 여기 건물에 익숙하지? 일단 가서 문서를 되찾아줘."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "MK2",
         "face": 0
@@ -138,7 +138,7 @@
     "text": "하지만......이 사람 피를 많이 흘렸어요......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "92type",
         "face": 0
@@ -151,7 +151,7 @@
     "text": "나한테 맡겨, 스텐 씨!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AAT52",
         "face": 0
@@ -160,7 +160,7 @@
     "text": "헤헤, 딱 맞춰서 왔네!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "MK2",
         "face": 0
@@ -174,7 +174,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "92type",
         "face": 0
@@ -197,7 +197,7 @@
     "text": "............수 분 후, 사무 시설의 비밀공간 내부."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "MK2",
         "face": 0
@@ -210,7 +210,7 @@
     "text": "RO 씨, 이 겉표지가 맞나요?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO"
       }
@@ -218,7 +218,7 @@
     "text": "......+틀림없어! 바로 그거야! 그게 36호 문서야!+스텐 씨, 어서 그걸 가져와줘!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "MK2",
         "face": 0
@@ -231,7 +231,7 @@
     "text": "............+죄송해요. RO 씨......+전 이걸 당신에게 드릴 수 없어요."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO"
       }
@@ -242,7 +242,7 @@
     "sound": {
       "bgm": "BGM_Sad"
     },
-    "character": [
+    "characters": [
       {
         "name": "MK2",
         "face": 0
@@ -255,7 +255,7 @@
     "text": "그 사람이 정신을 잃기전에 저한테 말했어요......+이 문서를 파기해달라고......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO"
       }
@@ -263,7 +263,7 @@
     "text": "............+그 문서를 나한테 가져와, 이건 명령이야!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "MK2",
         "face": 0
@@ -276,7 +276,7 @@
     "text": "하지만, 그 사람도 명령을......+그리폰의 계약에 따르면, 전 반드시 생명이 위태로운 인간을 도와야 해요......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO"
       }
@@ -284,7 +284,7 @@
     "text": "그 사람은 바로 그 점을 이용한 거라고, 스텐 씨.+그리고 지금 알려주겠는데, 그 인간은 범죄조직의 관리원이야!+너도 그 36호 문서에 대량의 범죄기록이 있다는 걸 알잖아! 그 사람의 범죄를 도우면 안된다고!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "MK2",
         "face": 0
@@ -298,7 +298,7 @@
   },
   {
     "screenEffect": "shockScreen",
-    "character": [
+    "characters": [
       {
         "name": "RO"
       }
@@ -307,7 +307,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "MK2",
         "face": 0
@@ -324,7 +324,7 @@
       "id": 17
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "RO"
       }
@@ -336,7 +336,7 @@
       "id": 15
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "MK2",
         "face": 0
@@ -350,7 +350,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "MK2",
         "face": 0
@@ -374,7 +374,7 @@
     "text": "펑.........!!+............+통신중단......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO"
       }
@@ -385,7 +385,7 @@
     "text": "......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO"
       }
@@ -393,7 +393,7 @@
     "text": "제발 아무 일 없어야 하는데......+어떡해......어떻게 해야하지......+AR-15......알려줘, 이럴 땐 어떻게 해야하는지......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "??"
       }
@@ -401,7 +401,7 @@
     "text": "AR-15는 더 이상 널 도울 수 없어, 너도 알잖아."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO"
       }
@@ -409,7 +409,7 @@
     "text": "......!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "??"
       }
@@ -417,7 +417,7 @@
     "text": "하지만 난 가능하지."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "PM",
         "face": 0

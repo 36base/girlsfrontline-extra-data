@@ -9,7 +9,7 @@
     "text": "그 시각, M16A1의 은신처......+......전투 종료."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "HK416",
         "face": 0
@@ -18,7 +18,7 @@
     "text": "어째서...+내가 분명, 더 뛰어난 인형인데..."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 0
@@ -35,7 +35,7 @@
     "text": "경험, 반응속도, 훈련. 아직 멀고 멀었어."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 0
@@ -52,7 +52,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 0
@@ -73,7 +73,7 @@
       "id": 9
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3
@@ -86,7 +86,7 @@
     "text": "그럼 알려주지, HK416.+넌 나에게 있어서 아무런 가치도 없어. 이해했나?+아무런 가치도 없고, 흥미도 없다고, 나에게 너란 아무것도 아니란 말이다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "HK416",
         "face": 0
@@ -95,7 +95,7 @@
     "text": "......+그래서 내가 널 싫어하는 거야, M16...+무슨 상황에서든, 항상 그렇게 태연한 표정이지...+이자식...약해질 때 조차 없는 거냐고!?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3
@@ -108,7 +108,7 @@
     "text": "......(한숨)+완벽하게 무감정한 인형은 없지, 그게 귀찮은 부분이라고...+날 기다리고 있는 녀석이 있어, 서둘러야 한다고.+그러니까 여기서 비켜, 416.+나를 상대로...진심으로 붙기는 싫겠지, 안그래?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "HK416",
         "face": 0
@@ -118,7 +118,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3

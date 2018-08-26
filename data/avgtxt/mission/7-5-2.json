@@ -12,7 +12,7 @@
     "sound": {
       "se1": "Battlefield"
     },
-    "character": [
+    "characters": [
       {
         "name": "카리나"
       }
@@ -32,7 +32,7 @@
       "id": 34
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "드리머"
       }
@@ -44,7 +44,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "드리머"
       }
@@ -68,7 +68,7 @@
     "text": "......반격 작전이 마무리 되어가고 있었다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NEGEV",
         "face": 0
@@ -81,7 +81,7 @@
     "text": "흥, 이 녀석이......마지막이겠지?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "SOPII",
         "face": 3
@@ -97,7 +97,7 @@
     "sound": {
       "se2": "Gunfight"
     },
-    "character": [
+    "characters": [
       {
         "name": "NEGEV",
         "face": 0
@@ -110,7 +110,7 @@
     "text": "......!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 0
@@ -126,7 +126,7 @@
     "sound": {
       "bgm": "BGM_Frontline"
     },
-    "character": [
+    "characters": [
       {
         "name": "NEGEV",
         "face": 0
@@ -139,7 +139,7 @@
     "text": "(어깨를 으쓱이며) 상관없어, 어쨌든 첫 적은 내가 처리했으니까.+뭐 너네들도 이번엔 꽤 잘 해준 것 같네.+특히 너......+AR팀의 M4A1 씨."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 0
@@ -148,7 +148,7 @@
     "text": "(웃으며) 전 그저 해야 할 일을 했을 뿐이에요."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "FN49",
         "face": 0
@@ -157,7 +157,7 @@
     "text": "그렇게 말씀하지 마세요. 이번에 모두를 구할 수 있었던 건 당신 덕분이에요."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "FNFNC",
         "face": 0
@@ -166,7 +166,7 @@
     "text": "M4의 지휘 대단했다고, 어떻게 고마워 해야 할지도 모르겠어!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "VZ61",
         "face": 0
@@ -175,7 +175,7 @@
     "text": "헤헤, 다들 나간 뒤에 M4한테 축하를 해주자고!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 0
@@ -184,7 +184,7 @@
     "text": "일단 진정해요. 아직 돌봐야 할 부상자가 많아요.+움직일 수 없는 동료들을 구급차로 옮기고, 탄약과 약품을 보충한 다음에 다시 1층 로비에서 모이죠."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 0
@@ -197,7 +197,7 @@
     "text": "좋아, 빨리 움직이자고!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "SOPII",
         "face": 0
@@ -211,7 +211,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 0
@@ -227,7 +227,7 @@
     "sound": {
       "bgm": "BGM_Empty"
     },
-    "character": [
+    "characters": [
       {
         "name": "??"
       }
@@ -235,7 +235,7 @@
     "text": "그럴까......+그럼 아직 늦지는 않은 것 같네."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -246,7 +246,7 @@
     "text": "......멀리서 작은 박수 소리가 들려왔다.+............쿵!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "모든 인형"
       }
@@ -254,7 +254,7 @@
     "text": "............?!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "VZ61"
       }
@@ -262,7 +262,7 @@
     "text": "어이! 누가 불을 끈거야!?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "FNFNC"
       }
@@ -270,7 +270,7 @@
     "text": "냉장고도 멈췄어! 초콜렛! 내 초콜렛!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16A1"
       }
@@ -282,7 +282,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -294,7 +294,7 @@
       "id": 16
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "??"
       }
@@ -305,7 +305,7 @@
     "sound": {
       "bgm": "BGM_Brain"
     },
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -313,7 +313,7 @@
     "text": "?!+누군가요 당신!! 어디에 있는 거죠!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "??"
       }
@@ -321,7 +321,7 @@
     "text": "M4A1, 어째서 넌 아직 서있을 수 있는 거지?+과연 그녀들과는 다르다는 건가."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -329,7 +329,7 @@
     "text": "당신......+당신은 누군가요......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "??"
       }
@@ -340,7 +340,7 @@
     "text": "......가벼운 발소리가 들려왔고, 작은 그림자가 점점 M4에게 다가왔다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -355,7 +355,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -367,7 +367,7 @@
       "id": 9
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "??"
       }
@@ -378,7 +378,7 @@
     "text": "......+갑작스레, 그 자그마한 그림자가 M4 앞에 나타났다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -392,7 +392,7 @@
     "text": "그 인형, '그것'은 M4를 단단히 껴안았다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "??"
       }
@@ -400,7 +400,7 @@
     "text": "내가 하려는건......+AR15가 해주지 못했던 것......+또한 너도 대답할 수 없는 것......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }

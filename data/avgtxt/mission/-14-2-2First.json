@@ -9,28 +9,40 @@
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "琪亚娜"
       }
-    ]
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "琪亚娜"
+    }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "Vector",
         "face": 0
       }
-    ]
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "Vector"
+    }
   },
   {},
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "琪亚娜"
       }
-    ]
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "琪亚娜"
+    }
   },
   {
     "background": {
@@ -39,19 +51,20 @@
     "screenEffect": "dark2"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "Vector",
         "face": 0
       }
     ],
     "speaker": {
-      "index": 0
+      "index": 0,
+      "name": "Vector"
     },
     "text": "왜 그래?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "Vector",
         "face": 0
@@ -63,19 +76,20 @@
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "Vector",
         "face": 0
       }
     ],
     "speaker": {
-      "index": 0
+      "index": 0,
+      "name": "Vector"
     }
   },
   {
     "screenEffect": "shockScreen",
-    "character": [
+    "characters": [
       {
         "name": "Vector",
         "face": 0
@@ -88,7 +102,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "Vector",
         "face": 0
@@ -100,19 +114,32 @@
   },
   {
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "Vector",
         "face": 0
       }
     ],
     "speaker": {
-      "index": 0
+      "index": 0,
+      "name": "Vector"
     }
   },
   {},
   {
-    "character": [
+    "characters": [
+      {
+        "name": "PP90",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "PP90"
+    }
+  },
+  {
+    "characters": [
       {
         "name": "PP90",
         "face": 0
@@ -123,18 +150,7 @@
     }
   },
   {
-    "character": [
-      {
-        "name": "PP90",
-        "face": 0
-      }
-    ],
-    "speaker": {
-      "index": 0
-    }
-  },
-  {
-    "character": [
+    "characters": [
       {
         "name": "PP90",
         "face": 0
@@ -145,11 +161,12 @@
       }
     ],
     "speaker": {
-      "index": 1
+      "index": 1,
+      "name": "Vector"
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "PP90",
         "face": 0
@@ -160,11 +177,12 @@
       }
     ],
     "speaker": {
-      "index": 0
+      "index": 0,
+      "name": "PP90"
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "PP90",
         "face": 0
@@ -175,11 +193,12 @@
       }
     ],
     "speaker": {
-      "index": 1
+      "index": 1,
+      "name": "Vector"
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "PP90",
         "face": 0
@@ -190,11 +209,12 @@
       }
     ],
     "speaker": {
-      "index": 0
+      "index": 0,
+      "name": "PP90"
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "PP90",
         "face": 0
@@ -205,11 +225,12 @@
       }
     ],
     "speaker": {
-      "index": 1
+      "index": 1,
+      "name": "Vector"
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "PP90",
         "face": 0
@@ -220,12 +241,13 @@
       }
     ],
     "speaker": {
-      "index": 0
+      "index": 0,
+      "name": "PP90"
     }
   },
   {
     "screenEffect": "shockScreen",
-    "character": [
+    "characters": [
       {
         "name": "PP90",
         "face": 0
@@ -240,7 +262,7 @@
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "PP90",
         "face": 0
@@ -251,11 +273,12 @@
       }
     ],
     "speaker": {
-      "index": 0
+      "index": 0,
+      "name": "PP90"
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "PP90",
         "face": 0
@@ -266,11 +289,12 @@
       }
     ],
     "speaker": {
-      "index": 1
+      "index": 1,
+      "name": "Vector"
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "PP90",
         "face": 0
@@ -281,11 +305,12 @@
       }
     ],
     "speaker": {
-      "index": 0
+      "index": 0,
+      "name": "PP90"
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "PP90",
         "face": 0
@@ -296,11 +321,12 @@
       }
     ],
     "speaker": {
-      "index": 1
+      "index": 1,
+      "name": "Vector"
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "PP90",
         "face": 0
@@ -311,11 +337,12 @@
       }
     ],
     "speaker": {
-      "index": 0
+      "index": 0,
+      "name": "PP90"
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "PP90",
         "face": 0
@@ -326,11 +353,12 @@
       }
     ],
     "speaker": {
-      "index": 1
+      "index": 1,
+      "name": "Vector"
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "PP90",
         "face": 0
@@ -341,11 +369,12 @@
       }
     ],
     "speaker": {
-      "index": 0
+      "index": 0,
+      "name": "PP90"
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "PP90",
         "face": 0
@@ -356,11 +385,12 @@
       }
     ],
     "speaker": {
-      "index": 1
+      "index": 1,
+      "name": "Vector"
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "PP90",
         "face": 0
@@ -371,11 +401,12 @@
       }
     ],
     "speaker": {
-      "index": 0
+      "index": 0,
+      "name": "PP90"
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "PP90",
         "face": 0
@@ -391,7 +422,7 @@
   },
   {
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "PP90",
         "face": 0
@@ -407,7 +438,7 @@
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "PP90",
         "face": 0
@@ -418,11 +449,12 @@
       }
     ],
     "speaker": {
-      "index": 0
+      "index": 0,
+      "name": "PP90"
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "PP90",
         "face": 0
@@ -439,7 +471,7 @@
     "text": "......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "PP90",
         "face": 0
@@ -454,7 +486,7 @@
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "PP90",
         "face": 0
@@ -465,11 +497,12 @@
       }
     ],
     "speaker": {
-      "index": 0
+      "index": 0,
+      "name": "PP90"
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "PP90",
         "face": 0
@@ -485,7 +518,7 @@
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "PP90",
         "face": 0
@@ -496,11 +529,12 @@
       }
     ],
     "speaker": {
-      "index": 0
+      "index": 0,
+      "name": "PP90"
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "PP90",
         "face": 0
@@ -516,7 +550,7 @@
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "PP90",
         "face": 0
@@ -527,11 +561,12 @@
       }
     ],
     "speaker": {
-      "index": 0
+      "index": 0,
+      "name": "PP90"
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "PP90",
         "face": 0
@@ -542,41 +577,12 @@
       }
     ],
     "speaker": {
-      "index": 1
+      "index": 1,
+      "name": "Vector"
     }
   },
   {
-    "character": [
-      {
-        "name": "PP90",
-        "face": 0
-      },
-      {
-        "name": "Vector",
-        "face": 0
-      }
-    ],
-    "speaker": {
-      "index": 1
-    }
-  },
-  {
-    "character": [
-      {
-        "name": "PP90",
-        "face": 0
-      },
-      {
-        "name": "Vector",
-        "face": 0
-      }
-    ],
-    "speaker": {
-      "index": 0
-    }
-  },
-  {
-    "character": [
+    "characters": [
       {
         "name": "PP90",
         "face": 0
@@ -591,7 +597,7 @@
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "PP90",
         "face": 0
@@ -602,11 +608,44 @@
       }
     ],
     "speaker": {
-      "index": 0
+      "index": 0,
+      "name": "PP90"
     }
   },
   {
-    "character": [
+    "characters": [
+      {
+        "name": "PP90",
+        "face": 0
+      },
+      {
+        "name": "Vector",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "Vector"
+    }
+  },
+  {
+    "characters": [
+      {
+        "name": "PP90",
+        "face": 0
+      },
+      {
+        "name": "Vector",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "PP90"
+    }
+  },
+  {
+    "characters": [
       {
         "name": "PP90",
         "face": 0
@@ -622,7 +661,7 @@
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "PP90",
         "face": 0
@@ -640,7 +679,7 @@
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "PP90",
         "face": 0
@@ -651,11 +690,12 @@
       }
     ],
     "speaker": {
-      "index": 0
+      "index": 0,
+      "name": "PP90"
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "PP90",
         "face": 0
@@ -668,11 +708,15 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "破坏者"
       }
-    ]
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "破坏者"
+    }
   },
   {
     "background": {
@@ -682,7 +726,7 @@
     "sound": {
       "bgm": "BGM_Battle"
     },
-    "character": [
+    "characters": [
       {
         "name": "BOSS-6",
         "face": 0,
@@ -695,15 +739,19 @@
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "Vector"
       }
     ],
+    "speaker": {
+      "index": 0,
+      "name": "Vector"
+    },
     "text": "......?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "BOSS-6",
         "face": 0
@@ -715,21 +763,29 @@
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "PP90"
       }
-    ]
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "PP90"
+    }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "Vector"
       }
-    ]
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "Vector"
+    }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "BOSS-6",
         "face": 0
@@ -741,14 +797,18 @@
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "Vector"
       }
-    ]
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "Vector"
+    }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "BOSS-6",
         "face": 0
@@ -760,15 +820,19 @@
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "PP90"
       }
-    ]
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "PP90"
+    }
   },
   {},
   {
-    "character": [
+    "characters": [
       {
         "name": "BOSS-6",
         "face": 0
@@ -779,11 +843,12 @@
       }
     ],
     "speaker": {
-      "index": 1
+      "index": 1,
+      "name": "PP90"
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "BOSS-6",
         "face": 0
@@ -799,7 +864,7 @@
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "BOSS-6",
         "face": 0
@@ -810,11 +875,12 @@
       }
     ],
     "speaker": {
-      "index": 1
+      "index": 1,
+      "name": "PP90"
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "BOSS-6",
         "face": 0
@@ -830,7 +896,7 @@
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "BOSS-6",
         "face": 0
@@ -846,7 +912,7 @@
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "BOSS-6",
         "face": 0
@@ -857,11 +923,12 @@
       }
     ],
     "speaker": {
-      "index": 1
+      "index": 1,
+      "name": "PP90"
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "BOSS-6",
         "face": 0
@@ -877,7 +944,7 @@
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "BOSS-6",
         "face": 0
@@ -890,7 +957,7 @@
   },
   {},
   {
-    "character": [
+    "characters": [
       {
         "name": "BOSS-6",
         "face": 0
@@ -901,11 +968,12 @@
       }
     ],
     "speaker": {
-      "index": 1
+      "index": 1,
+      "name": "PP90"
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "BOSS-6",
         "face": 0
@@ -921,7 +989,7 @@
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "BOSS-6",
         "face": 0
@@ -932,12 +1000,13 @@
       }
     ],
     "speaker": {
-      "index": 1
+      "index": 1,
+      "name": "PP90"
     }
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "BOSS-6",
         "face": 0
@@ -966,43 +1035,101 @@
     "sound": {
       "bgm": "BGM_Sneak"
     },
-    "character": [
+    "characters": [
       {
         "name": "PP90",
         "face": 0
       }
     ],
     "speaker": {
-      "index": 0
+      "index": 0,
+      "name": "PP90"
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "琪亚娜"
       }
-    ]
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "琪亚娜"
+    }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "PP90",
         "face": 0
       }
     ],
     "speaker": {
-      "index": 0
+      "index": 0,
+      "name": "PP90"
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "琪亚娜"
       }
-    ]
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "琪亚娜"
+    }
   },
   {
-    "character": [
+    "characters": [
+      {
+        "name": "PP90",
+        "face": 0
+      },
+      {
+        "name": "Vector",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "Vector"
+    }
+  },
+  {
+    "characters": [
+      {
+        "name": "PP90",
+        "face": 0
+      },
+      {
+        "name": "Vector",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "PP90"
+    }
+  },
+  {
+    "characters": [
+      {
+        "name": "PP90",
+        "face": 0
+      },
+      {
+        "name": "Vector",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "Vector"
+    }
+  },
+  {
+    "characters": [
       {
         "name": "PP90",
         "face": 0
@@ -1017,7 +1144,7 @@
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "PP90",
         "face": 0
@@ -1028,63 +1155,23 @@
       }
     ],
     "speaker": {
-      "index": 0
+      "index": 1,
+      "name": "Vector"
     }
   },
   {
-    "character": [
-      {
-        "name": "PP90",
-        "face": 0
-      },
-      {
-        "name": "Vector",
-        "face": 0
-      }
-    ],
-    "speaker": {
-      "index": 1
-    }
-  },
-  {
-    "character": [
-      {
-        "name": "PP90",
-        "face": 0
-      },
-      {
-        "name": "Vector",
-        "face": 0
-      }
-    ],
-    "speaker": {
-      "index": 1
-    }
-  },
-  {
-    "character": [
-      {
-        "name": "PP90",
-        "face": 0
-      },
-      {
-        "name": "Vector",
-        "face": 0
-      }
-    ],
-    "speaker": {
-      "index": 1
-    }
-  },
-  {
-    "character": [
+    "characters": [
       {
         "name": "琪亚娜"
       }
-    ]
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "琪亚娜"
+    }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "PP90",
         "face": 0
@@ -1095,18 +1182,23 @@
       }
     ],
     "speaker": {
-      "index": 1
+      "index": 1,
+      "name": "Vector"
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "琪亚娜"
       }
-    ]
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "琪亚娜"
+    }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "PP90",
         "face": 0
@@ -1117,11 +1209,12 @@
       }
     ],
     "speaker": {
-      "index": 1
+      "index": 1,
+      "name": "Vector"
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "PP90",
         "face": 0
@@ -1132,18 +1225,23 @@
       }
     ],
     "speaker": {
-      "index": 0
+      "index": 0,
+      "name": "PP90"
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "琪亚娜"
       }
-    ]
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "琪亚娜"
+    }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "PP90",
         "face": 0
@@ -1154,18 +1252,23 @@
       }
     ],
     "speaker": {
-      "index": 1
+      "index": 1,
+      "name": "Vector"
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "琪亚娜"
       }
-    ]
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "琪亚娜"
+    }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "PP90",
         "face": 0
@@ -1176,18 +1279,23 @@
       }
     ],
     "speaker": {
-      "index": 0
+      "index": 0,
+      "name": "PP90"
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "琪亚娜"
       }
-    ]
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "琪亚娜"
+    }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "PP90",
         "face": 0
@@ -1198,18 +1306,23 @@
       }
     ],
     "speaker": {
-      "index": 1
+      "index": 1,
+      "name": "Vector"
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "琪亚娜"
       }
-    ]
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "琪亚娜"
+    }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "PP90",
         "face": 0
@@ -1220,19 +1333,24 @@
       }
     ],
     "speaker": {
-      "index": 0
+      "index": 0,
+      "name": "PP90"
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "琪亚娜"
       }
-    ]
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "琪亚娜"
+    }
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "PP90",
         "face": 0
@@ -1243,7 +1361,8 @@
       }
     ],
     "speaker": {
-      "index": 1
+      "index": 1,
+      "name": "Vector"
     }
   },
   {
@@ -1251,18 +1370,26 @@
       "id": 9
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "Vector"
       }
-    ]
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "Vector"
+    }
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "琪亚娜"
       }
-    ]
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "琪亚娜"
+    }
   }
 ]

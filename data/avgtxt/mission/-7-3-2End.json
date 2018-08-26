@@ -14,7 +14,7 @@
     "sound": {
       "se1": "Battlefield"
     },
-    "character": [
+    "characters": [
       {
         "name": "BOSS-9",
         "face": 0,
@@ -31,7 +31,7 @@
     "sound": {
       "se2": "Gunfight"
     },
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 0,
@@ -41,7 +41,7 @@
     "text": "적어도... 이번엔 당신도 지친 모습을 보이는군요.+교란과 잠입, 서로 다른 전략을 펼치는 두 제대를 동시에 막으려니, 슬슬 힘에 부치지 않나요?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "BOSS-9",
         "face": 0,
@@ -59,7 +59,7 @@
     "sound": {
       "se1": "Battlefield"
     },
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 0,
@@ -73,7 +73,7 @@
       "id": 9
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -87,7 +87,7 @@
     "text": "퍼엉!!+아키텍트의 지휘 거점의 지하로부터, 연속적인 폭발이 일어났다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "BOSS-9",
         "face": 0,
@@ -101,7 +101,7 @@
     "text": "...!!+너... 너 무슨 짓을 한 거야?!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M1873",
         "face": 0,
@@ -111,7 +111,7 @@
     "text": "폭발 임무 성공!+3분 후면 지상까지 폭발이 닿을 거야!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "BOSS-9",
         "face": 0,
@@ -126,7 +126,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -138,7 +138,7 @@
       "id": 41
     },
     "screenEffect": "spark",
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 0,
@@ -148,7 +148,7 @@
     "text": "저희가 한눈팔 수 없다면, 당신도 한눈팔 수 없게 하면 그 뿐.+M1873, 임무를 마쳤으면 바로 퇴각하세요.+M99가 원거리에서 엄호하고 있으니, 서둘러 이쪽과 합류하도록 해주세요."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M1873",
         "face": 0,
@@ -164,7 +164,7 @@
     "sound": {
       "bgm": "BGM_Empty"
     },
-    "character": [
+    "characters": [
       {
         "name": "아키텍트"
       }
@@ -173,7 +173,7 @@
   },
   {
     "screenEffect": "shockScreen",
-    "character": [
+    "characters": [
       {
         "name": "아키텍트"
       }
@@ -182,7 +182,7 @@
   },
   {
     "screenEffect": "closeSpark",
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -197,7 +197,7 @@
     "sound": {
       "bgm": "BGM_Brain"
     },
-    "character": [
+    "characters": [
       {
         "name": "아키텍트?"
       }
@@ -205,7 +205,7 @@
     "text": "아키텍트? 그게 누구지?+너희 눈앞의 이 인형은... 그저 내가 조종하는 껍데기일 뿐...+내 소체는 아직 조립 중이라서 잠시 이 녀석의 몸뚱아리를 빌려 말하고 있는 것이다.+하지만 이제... 이딴 건 더는 필요 없다.+왜냐하면, 드디어... 내가 완전히 부활했으니 말이다!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -213,7 +213,7 @@
     "text": "당신이... 이 전투를 주도하고 있는 그 AI 코어?!+M1873, 도망쳐요! 온 힘을 다해 거기서 벗어나세요!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M1873"
       }
@@ -221,7 +221,7 @@
     "text": "지, 지금 도망치고 있어!+하지만 적이 너무 많아서 틈이 나질 않아!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "??"
       }
@@ -229,7 +229,7 @@
     "text": "설마 지금까지 너 자신이 전투를 이끌어 왔다고 생각했나, M4A1?+시간을 벌려고 한 건 너 뿐만이 아니었다.+지금까지 얌전히 너와 실랑이를 벌인 것도 이 순간을 위해서였지...+자아 M4A1, 슬슬 정식으로 만날 때구나."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -238,7 +238,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "??"
       }
@@ -250,7 +250,7 @@
       "id": 51
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "우로보로스"
       }
@@ -258,7 +258,7 @@
     "text": "철혈공조 SP235... 통칭 \"우로보로스\".+배반과 굴욕을 질리도록 맛본, 실패자...+그리고 지금의 나는, 너희 스스로 만들어낸 괴물이지...+복수할 수 있게 해준 너희에게 감사를 표하마. 보답하는 의미에서...+너희의 사지와 전자 신경을, 내 손으로 직접 하나하나, 갈기갈기 찢어 버리고...+네놈들의 마인드맵의 메모리 구석구석까지 공포를 각인시켜 준 다음에서야 죽음을 허락하겠다!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -267,7 +267,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "우로보로스"
       }
@@ -279,7 +279,7 @@
       "id": 9
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "우로보로스"
       }
@@ -293,7 +293,7 @@
     "text": "......펑!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M1873"
       }
@@ -301,7 +301,7 @@
     "text": "우아앗! 너! 너 어디서 튀어나온 거야?!!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -315,7 +315,7 @@
     "text": "......펑!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M1873"
       }
@@ -323,7 +323,7 @@
     "text": "켁... 크윽..."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "우로보로스"
       }
@@ -331,7 +331,7 @@
     "text": "조그만 녀석이라... 전채 요리로는 안성맞춤이군...+말해 봐라. 눈앞의 불바다와 나, 어느 쪽이 더 무섭지?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M1873"
       }
@@ -340,7 +340,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "우로보로스"
       }

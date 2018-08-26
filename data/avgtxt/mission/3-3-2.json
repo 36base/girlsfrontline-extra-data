@@ -9,7 +9,7 @@
     "text": "아군의 엄호 아래, M4A1은 순조롭게 랑데부 포인트에 도착했다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 3
@@ -21,7 +21,7 @@
     "text": "AR-15, SOPII. M4A1이 랑데부 포인트에 도착. 그쪽은 도착했습니까?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "SOPII",
         "face": 0
@@ -38,7 +38,7 @@
     "text": "나 여깄어, M4!+하하하하, 좋아좋아!+그동안 걱정하다 죽을 뻔했다고!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "SOPII",
         "face": 0
@@ -54,7 +54,7 @@
     "text": "후....다행입니다. SOPII, AR-15는?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "SOPII",
         "face": 2
@@ -71,7 +71,7 @@
     "text": "AR-15......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "SOPII",
         "face": 2
@@ -87,7 +87,7 @@
     "text": "......예? 무슨 일 있습니까?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "SOPII",
         "face": 3
@@ -104,7 +104,7 @@
     "text": "M4, 진정하고 내말 들어.+우리의 통신이 철혈 보스에게 도청당했어, 어떻게 했는지는 모르겠지만......+추적을 방해하기 위해 AR-15가 시간을 벌고 있는 중이야."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "SOPII",
         "face": 3
@@ -120,7 +120,7 @@
     "text": "시간? 어떤 시간을 번다는 겁니까?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "SOPII",
         "face": 3
@@ -137,7 +137,7 @@
     "text": "그것들......이미 출발했어, 너희의 지휘부 방향으로."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "SOPII",
         "face": 3
@@ -154,7 +154,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "SOPII",
         "face": 3

@@ -9,7 +9,7 @@
     "text": "......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Carter",
         "face": 0
@@ -22,7 +22,7 @@
     "text": "이제 세부 내용은 거의 다 말한 것 같군. 대부분 하벨 그 자식이 별 쓸데없는 소리만 늘어놨을 뿐이지만 말이야.+그래도 난 자네가 몇 마디 말 따위에 흔들리지 않을 사람이라는 걸 알고 있네."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kyruger",
         "face": 0
@@ -39,7 +39,7 @@
     "text": "확실히 제가 신경 쓸만한 내용은 아니었습니다. 이번 작전에 관해선, 이미 부하들에게 빠르게 준비할 수 있도록 전해두었습니다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kyruger",
         "face": 0
@@ -56,7 +56,7 @@
     "text": "그래. 자네도 잘 알고 있다면 됐네. 또 다른 누군가가 이번 작전에 간섭하러 올 수도 있으니 최대한 빠르게 시작하도록 하세."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kyruger",
         "face": 0
@@ -73,7 +73,7 @@
     "text": "지금 당장이라도 괜찮습니다. 여기 있는 저희 지휘관이 장군님의 부대와 지금 당장 같이 전선으로 출발할 것입니다. 지휘관의 인형 제대는 이미 전선에서 명령만 기다리고 있습니다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kyruger",
         "face": 0
@@ -90,7 +90,7 @@
     "text": "좋아. 조금 있다가 예고르와 함께 헬기에 타도록 하게."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kyruger",
         "face": 0
@@ -108,7 +108,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kyruger",
         "face": 0
@@ -136,7 +136,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kyruger",
         "face": 0
@@ -153,7 +153,7 @@
       "id": 9
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "크루거"
       }
@@ -164,7 +164,7 @@
     "text": "...........크루거가 문을 열었다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Carter",
         "face": 0
@@ -177,7 +177,7 @@
     "text": "이제 된 건가? 자네는 그리폰의 지휘관을 데리고 출발하도록 하게."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Yegor",
         "face": 0
@@ -190,7 +190,7 @@
     "text": "알겠습니다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kyruger",
         "face": 0
@@ -204,7 +204,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "NPC-Carter",
         "face": 0
@@ -220,7 +220,7 @@
     "text": "............문이 닫히고, 크루거와 카터는 연회의 인파 속으로 묻혀 사라져갔다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Yegor",
         "face": 0

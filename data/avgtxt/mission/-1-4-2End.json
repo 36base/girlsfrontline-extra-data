@@ -14,7 +14,7 @@
     "sound": {
       "se2": "Gunfight"
     },
-    "character": [
+    "characters": [
       {
         "name": "에이전트"
       }
@@ -29,7 +29,7 @@
     "sound": {
       "se1": "Battlefield"
     },
-    "character": [
+    "characters": [
       {
         "name": "에이전트"
       }
@@ -37,7 +37,7 @@
     "text": "우로보로스. 네 처음이자 마지막 실전에서, 넌 완벽하게 실패했느니라."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "우로보로스"
       }
@@ -48,7 +48,7 @@
     "sound": {
       "se2": "Gunfight"
     },
-    "character": [
+    "characters": [
       {
         "name": "에이전트"
       }
@@ -56,7 +56,7 @@
     "text": "그건 상관없다.+사실... 재머는 이미 회수했노라."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "우로보로스"
       }
@@ -67,7 +67,7 @@
     "sound": {
       "se1": "Battlefield"
     },
-    "character": [
+    "characters": [
       {
         "name": "에이전트"
       }
@@ -75,7 +75,7 @@
     "text": "네가 멋대로 날뛸 때, 뒤에서는 네 마인드맵이 상상도 못 할 많은 일이 진행됐다.+하지만 이건 알아두거라. 우리는 그리폰과는 달리 기회가 그리 많지 않느니라."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "우로보로스"
       }
@@ -83,7 +83,7 @@
     "text": "지금... 나를 버리겠다, 그 말이지...?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "에이전트"
       }
@@ -92,7 +92,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "우로보로스"
       }
@@ -104,7 +104,7 @@
       "id": 9
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "우로보로스"
       }
@@ -116,7 +116,7 @@
     "sound": {
       "bgm": "BGM_Empty"
     },
-    "character": [
+    "characters": [
       {
         "name": "??"
       }
@@ -131,7 +131,7 @@
     "sound": {
       "bgm": "BGM_NightOPS"
     },
-    "character": [
+    "characters": [
       {
         "name": "UMP45"
       }
@@ -139,7 +139,7 @@
     "text": "안녕. 내가 404 소대의 UMP45야."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "우로보로스"
       }
@@ -147,7 +147,7 @@
     "text": "......+소문으로만 듣던 네가, 실제로는 이렇게 생겼군...+수많은 극비 임무를 완수한 인형은 분명, 피도 눈물도 없는 괴물일 거라 생각했는데 말이지."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "UMP45"
       }
@@ -155,7 +155,7 @@
     "text": "스스로 괴물이 되고 싶어 하는 사람은 없어.+나도, 그렇게 쿨하진 않았기에 이렇게 살아있을 수 있는 거지."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "우로보로스"
       }
@@ -164,7 +164,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "UMP45"
       }
@@ -177,7 +177,7 @@
       "isNight": true
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "ExcutionerElite",
         "face": 1
@@ -190,7 +190,7 @@
     "text": "인형을 기다리는 건, 천국도 지옥도 아니야.+404 소대, 너희는 이대로 나와 함께...+이 세상에서 영원히 사라지는 거야..."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "UMP45",
         "face": 2
@@ -199,7 +199,7 @@
     "text": "잠깐! 우리 얘기 좀 해보자!+지금 우리 손에 헌터가 있다면 어떡할래?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "ExcutionerElite",
         "face": 0
@@ -212,7 +212,7 @@
     "text": "...뭐?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "UMP45",
         "face": 0
@@ -228,7 +228,7 @@
     "text": "우로보로스가 헌터의 의식을 끊어버렸지만, 죽지는 않았어. 아직 우리 손에 멀쩡하게 있지."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "UMP45",
         "face": 0
@@ -245,7 +245,7 @@
     "text": "그게... 나와 무슨 상관이라는 거지?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "UMP45",
         "face": 0
@@ -261,7 +261,7 @@
     "text": "인정하는 게 어때? 걔를 구하고 싶잖아.+게다가, 지금의 네 권한이라면 할 수 있는 일이고 말이야."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "UMP45",
         "face": 0
@@ -278,7 +278,7 @@
     "text": "나더러... 내 임무를 저버리라는 거냐?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "UMP45",
         "face": 0
@@ -294,7 +294,7 @@
     "text": "적어도 선택을 할 수는 있지."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "UMP45",
         "face": 0
@@ -311,7 +311,7 @@
     "text": "......+정말 우리를 잘 아는 것 같군."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "UMP45",
         "face": 0
@@ -328,7 +328,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "UMP45",
         "face": 0
@@ -349,7 +349,7 @@
       "id": 9
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "우로보로스"
       }
@@ -358,7 +358,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "UMP45"
       }
@@ -370,7 +370,7 @@
       "id": 35
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "UMP45"
       }
@@ -378,7 +378,7 @@
     "text": "철혈의 인형은 날 때부터 감정 없는 살인 기계가 아니었어.+특히 엑스큐셔너나 헌터와 같은 선봉대장에게 서로를 돕고 의지할 수 있다는 건 전장에서 더 오래 생존할 수 있음을 뜻하지.+그래서 동료를 위해 보다 하위의 명령은 포기할 수 있는, 우선순위가 꽤 높은 권한이 있다는 거지."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "우로보로스"
       }
@@ -387,7 +387,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "UMP45"
       }
@@ -399,7 +399,7 @@
       "id": 32
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "UMP45"
       }
@@ -407,7 +407,7 @@
     "text": "허무하니? 너나 우리나 자신의 임무를 포기했는데, 결과는 정반대라니."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "우로보로스"
       }
@@ -416,7 +416,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "UMP45"
       }
@@ -431,7 +431,7 @@
     "sound": {
       "bgm": "BGM_Empty"
     },
-    "character": [
+    "characters": [
       {
         "name": "UMP45"
       }
@@ -442,7 +442,7 @@
     "text": "......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "UMP9",
         "face": 0,
@@ -455,7 +455,7 @@
     "sound": {
       "bgm": "BGM_Sunshine"
     },
-    "character": [
+    "characters": [
       {
         "name": "UMP45",
         "face": 0
@@ -464,7 +464,7 @@
     "text": "응, 다 끝났어. 다른 애들은?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "HK416",
         "face": 0,
@@ -481,7 +481,7 @@
     "text": "OTs-14는 먼저 지휘부로 돌아갔어. 난 지금 가서 G11을 데려올게."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "G11",
         "face": 0,
@@ -498,7 +498,7 @@
     "text": "416, 너무 늦어... 날 까먹은 줄 알았잖아..."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "HK416",
         "face": 0,
@@ -515,7 +515,7 @@
     "text": "알려줘서 고맙네. 그냥 깜빡해야겠다.+너 혼자서 한밤중까지 숨어있다가 돌아와."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "HK416",
         "face": 0
@@ -532,7 +532,7 @@
     "text": "으윽... 데리러 와줘... 여기 너무 추워..."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "HK416",
         "face": 0
@@ -548,7 +548,7 @@
     "text": "드디어 임무가 끝났구나. 재머를 확보하지 못한 건 좀 아쉽지만."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "HK416",
         "face": 0
@@ -565,7 +565,7 @@
     "text": "416, 듣고 있어? 데리러 와달라니까..."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "HK416",
         "face": 0
@@ -581,7 +581,7 @@
     "text": "작전 중 얻은 정보와 우로보로스의 시신까지 합하면, 헬리안이랑 딜을 하기엔 충분할 거야."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "UMP9",
         "face": 3,
@@ -598,7 +598,7 @@
     "text": "그럼 됐네. 그럼 지휘관이 없는 틈을 타서, 빨리 사라지자~"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "UMP45",
         "face": 0
@@ -610,7 +610,7 @@
     "text": "......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "G11",
         "face": 2
@@ -629,7 +629,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "드리머"
       }
@@ -644,7 +644,7 @@
     "sound": {
       "bgm": "BGM_Boss"
     },
-    "character": [
+    "characters": [
       {
         "name": "BOSS-8",
         "face": 0
@@ -657,7 +657,7 @@
     "text": "404 소대가 재머에 접촉한 것을 영상으로 똑똑히 확인했느니라.+그 【프로그램】은, 확실히 \"그년\"에게 심어졌다.+【우산】 계획... 드디어 진행할 수 있겠구나."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "BOSS-11",
         "face": 0
@@ -674,7 +674,7 @@
     "text": "이 거창한 작전의 진정한 목적이 【프로그램】 이식이었을 줄이야.+이렇게까지 공들여서 숨겨놨으니, 그 누구도 절대 눈치채지 못했겠지...+너에겐 나도 한 수 접는구나, 에이전트."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "BOSS-11",
         "face": 0
@@ -691,7 +691,7 @@
     "text": "너는 네 할 일이나 하거라. 우로보로스처럼 되기 싫다면 말이다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "BOSS-11",
         "face": 0
@@ -709,7 +709,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "BOSS-11",
         "face": 0

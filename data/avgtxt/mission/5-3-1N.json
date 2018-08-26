@@ -10,7 +10,7 @@
     "text": "............30분 후.+......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M99",
         "face": 0
@@ -19,7 +19,7 @@
     "text": "벌써 저기 인류 거주지가 보여요.+모두들, 몸상태는 어떤가요? 아직 견딜만 한가요?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NZ75",
         "face": 0
@@ -28,7 +28,7 @@
     "text": "그렇게 말하니까 우리한테 무슨 큰 일이 난 것 같지 않습니까......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "56-1type",
         "face": 0
@@ -41,7 +41,7 @@
     "text": "게다가 리더가 말해서, 더 배고파진 것 같습니다......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M99",
         "face": 0
@@ -50,7 +50,7 @@
     "text": "아............+정말 미안해요. 고의는 아니었어요......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "97typeS",
         "face": 0
@@ -70,7 +70,7 @@
   },
   {
     "screenEffect": "shockScreen",
-    "character": [
+    "characters": [
       {
         "name": "NZ75",
         "face": 0
@@ -79,7 +79,7 @@
     "text": "풉......+호크 이거 네 배에서 나는 소리냐?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "97typeS",
         "face": 0
@@ -92,7 +92,7 @@
     "text": "뭘 웃고있어, 지금 시비거냐!+한 번만 더 웃어봐! 저번주에 상점에서 뭘 샀는지 네트워크에 전부 뿌려버린다?!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M99",
         "face": 0
@@ -105,7 +105,7 @@
     "sound": {
       "bgm": "BGM_Danger"
     },
-    "character": [
+    "characters": [
       {
         "name": "NZ75",
         "face": 0
@@ -114,7 +114,7 @@
     "text": "지금 해보자는 거지?!+네가 끓인 영양죽을 사람들한테 한 번 돌려 봐?! 79가 당장 널 때려죽일 걸!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "56-1type",
         "face": 0
@@ -127,7 +127,7 @@
     "text": "어? 이럴때 서로 헐뜯는 건 안좋아, 다들 진정하고......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NZ75",
         "face": 0
@@ -136,7 +136,7 @@
     "text": "하, 그걸 말이라고!+오륙이, 니는 저번에 P7한테 준 월병 레시피 때문에 얼마나 많은사람이 수복실에 들어갔는지 알기나 해?! 보름동안 해명하느라 죽는 줄 알았다고!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "56-1type",
         "face": 0
@@ -149,7 +149,7 @@
     "text": "하아? 걔가 한 짓을 왜 나한테 뭐라고 하는건데!+그럼 저번달에 니가한 돼지고기 조림은? 간장을 한 번에 그렇게 들이붓다니, 92가 보면 네 피부를 벗겨버릴 걸!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NZ75",
         "face": 0
@@ -159,7 +159,7 @@
   },
   {
     "screenEffect": "shockScreen",
-    "character": [
+    "characters": [
       {
         "name": "56-1type",
         "face": 0
@@ -172,7 +172,7 @@
     "text": "잠깐! 호크, NZ, 그때 그 일이 너희들 짓이었냐!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NZ75",
         "face": 0
@@ -182,7 +182,7 @@
   },
   {
     "screenEffect": "shockScreen",
-    "character": [
+    "characters": [
       {
         "name": "56-1type",
         "face": 0
@@ -195,7 +195,7 @@
     "text": "니들 알기나 해?!그 때 59가 입원까지 했다고!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "97typeS",
         "face": 0
@@ -208,7 +208,7 @@
     "text": "하하......우, 우리 잘못만 있는 건 아니잖아!+걔가 정말로 한 입에 먹어버릴줄은 어떻게 알았겠어, 나이를 그렇게 먹고선 꼭꼭 씹을 줄도 모르냐!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "56-1type",
         "face": 0
@@ -222,7 +222,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "M99",
         "face": 0
@@ -238,7 +238,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "M99"
       }

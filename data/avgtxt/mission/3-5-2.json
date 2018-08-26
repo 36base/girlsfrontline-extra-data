@@ -10,7 +10,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "BOSS-3",
         "face": 0,
@@ -25,7 +25,7 @@
   },
   {
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 3
@@ -37,7 +37,7 @@
     "text": "누군가가 채널에 침입했습니다. 이 목소리는......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "SOPII",
         "face": 3
@@ -50,7 +50,7 @@
     "text": "이 목소리는, 헌터! 그때 그 철혈이야!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "BOSS-3",
         "face": 0,
@@ -68,7 +68,7 @@
     "text": "흐응? 그때 그 꼬맹이도 있었나?+어쨌든, 너희들도 대충 알겠지만 AR-15는 이미 우리들 손에 있다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "BOSS-3",
         "face": 0,
@@ -87,7 +87,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "BOSS-3",
         "face": 0
@@ -111,7 +111,7 @@
     "text": "......삑."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AR15"
       }
@@ -123,7 +123,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "BOSS-3",
         "face": 0,

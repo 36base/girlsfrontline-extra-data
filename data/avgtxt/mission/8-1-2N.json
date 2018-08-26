@@ -12,7 +12,7 @@
     "background": {
       "id": 46
     },
-    "character": [
+    "characters": [
       {
         "name": "IWS2000",
         "face": 0
@@ -28,7 +28,7 @@
     "background": {
       "id": 46
     },
-    "character": [
+    "characters": [
       {
         "name": "Welrod",
         "face": 0,
@@ -45,7 +45,7 @@
     "background": {
       "id": 46
     },
-    "character": [
+    "characters": [
       {
         "name": "IWS2000",
         "face": 0
@@ -61,7 +61,7 @@
     "background": {
       "id": 46
     },
-    "character": [
+    "characters": [
       {
         "name": "Glock17",
         "face": 0
@@ -77,7 +77,7 @@
     "background": {
       "id": 46
     },
-    "character": [
+    "characters": [
       {
         "name": "Glock17",
         "face": 0
@@ -97,7 +97,7 @@
     "background": {
       "id": 46
     },
-    "character": [
+    "characters": [
       {
         "name": "AUG",
         "face": 0
@@ -117,7 +117,7 @@
     "background": {
       "id": 46
     },
-    "character": [
+    "characters": [
       {
         "name": "AUG",
         "face": 0
@@ -137,7 +137,7 @@
     "background": {
       "id": 46
     },
-    "character": [
+    "characters": [
       {
         "name": "AUG",
         "face": 0
@@ -157,7 +157,7 @@
     "background": {
       "id": 46
     },
-    "character": [
+    "characters": [
       {
         "name": "AUG",
         "face": 0
@@ -177,7 +177,7 @@
     "background": {
       "id": 46
     },
-    "character": [
+    "characters": [
       {
         "name": "AUG",
         "face": 0
@@ -197,7 +197,7 @@
     "background": {
       "id": 46
     },
-    "character": [
+    "characters": [
       {
         "name": "AUG",
         "face": 0
@@ -217,7 +217,7 @@
     "background": {
       "id": 46
     },
-    "character": [
+    "characters": [
       {
         "name": "AUG",
         "face": 0
@@ -233,7 +233,7 @@
     "background": {
       "id": 46
     },
-    "character": [
+    "characters": [
       {
         "name": "Glock17",
         "face": 0
@@ -249,7 +249,7 @@
     "background": {
       "id": 46
     },
-    "character": [
+    "characters": [
       {
         "name": "SSG69",
         "face": 0
@@ -265,7 +265,7 @@
     "background": {
       "id": 46
     },
-    "character": [
+    "characters": [
       {
         "name": "IWS2000",
         "face": 0
@@ -281,7 +281,7 @@
     "background": {
       "id": 46
     },
-    "character": [
+    "characters": [
       {
         "name": "Glock17",
         "face": 0
@@ -297,7 +297,7 @@
     "background": {
       "id": 46
     },
-    "character": [
+    "characters": [
       {
         "name": "Glock17",
         "face": 0
@@ -317,7 +317,7 @@
     "background": {
       "id": 46
     },
-    "character": [
+    "characters": [
       {
         "name": "Glock17",
         "face": 0
@@ -337,7 +337,7 @@
     "background": {
       "id": 46
     },
-    "character": [
+    "characters": [
       {
         "name": "Glock17",
         "face": 0
@@ -357,7 +357,7 @@
     "background": {
       "id": 46
     },
-    "character": [
+    "characters": [
       {
         "name": "Glock17",
         "face": 0
@@ -373,7 +373,7 @@
     "background": {
       "id": 46
     },
-    "character": [
+    "characters": [
       {
         "name": "AUG",
         "face": 0
@@ -389,7 +389,7 @@
     "background": {
       "id": 46
     },
-    "character": [
+    "characters": [
       {
         "name": "SSG69",
         "face": 0
@@ -405,7 +405,7 @@
     "background": {
       "id": 46
     },
-    "character": [
+    "characters": [
       {
         "name": "SSG69",
         "face": 0
@@ -425,7 +425,7 @@
     "background": {
       "id": 46
     },
-    "character": [
+    "characters": [
       {
         "name": "SSG69",
         "face": 0
@@ -445,7 +445,7 @@
     "background": {
       "id": 46
     },
-    "character": [
+    "characters": [
       {
         "name": "SSG69",
         "face": 0
@@ -461,7 +461,7 @@
     "background": {
       "id": 46
     },
-    "character": [
+    "characters": [
       {
         "name": "IWS2000",
         "face": 0
@@ -478,7 +478,7 @@
       "id": 46
     },
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "AUG",
         "face": 0
@@ -495,7 +495,7 @@
       "id": 46
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "AUG",
         "face": 0
@@ -511,7 +511,7 @@
     "background": {
       "id": 46
     },
-    "character": [
+    "characters": [
       {
         "name": "SSG69",
         "face": 0
@@ -532,7 +532,7 @@
       "id": 46
     },
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "AUG",
         "face": 0
@@ -558,7 +558,7 @@
     "background": {
       "id": 46
     },
-    "character": [
+    "characters": [
       {
         "name": "Welrod",
         "face": 0,

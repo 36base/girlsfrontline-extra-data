@@ -10,7 +10,7 @@
     "text": "......M16이 세이프하우스에 도착했다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3
@@ -27,7 +27,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3
@@ -47,7 +47,7 @@
     "text": "M16A1이 조심스럽게 다가간다......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16"
       }
@@ -56,7 +56,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "??"
       }
@@ -72,7 +72,7 @@
     "sound": {
       "bgm": "BGM_Sunshine"
     },
-    "character": [
+    "characters": [
       {
         "name": "AAT52",
         "face": 0
@@ -81,7 +81,7 @@
     "text": "우.............+아프다구요! 왜 다들 내 머리만 보면 못 잡아당겨서 안달인지!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 0
@@ -98,7 +98,7 @@
     "text": "AAT52......+어째서 너같은 인형이 이곳에 있는 거지?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 0
@@ -114,7 +114,7 @@
     "text": "하, 제 마음입니다만? 귀여운 아이돌이 위문공연 순회차 왔다고 치면 안 되나요?+그리고! 너같은 인형이 뭡니까! 전 여기에 고급임무를 수행하러 왔다고요!+AR팀만 잘났다고 착각하지 마세요. 우리도 지지 않을테니까!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 0
@@ -131,7 +131,7 @@
     "text": "............+네가 RO의 그 소대?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 0
@@ -147,7 +147,7 @@
     "text": "어? 이미 알고 계셨나요......+맞습니다. 저희가 바로 '팔레트'소대, 전 소대장님의 명령을 받아 협력하러 왔습니다!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3
@@ -167,7 +167,7 @@
     "sound": {
       "bgm": "BGM_Empty"
     },
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3
@@ -183,7 +183,7 @@
     "text": "무......무서워서요......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3
@@ -200,7 +200,7 @@
     "text": "무서워?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3
@@ -216,7 +216,7 @@
     "text": "아까 얼굴을 제대로 못봤었는데, 검은 머리를 보고선 그녀석이 돌아온줄 알았다고요!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3
@@ -236,7 +236,7 @@
     "sound": {
       "bgm": "BGM_Boss"
     },
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3
@@ -252,7 +252,7 @@
     "text": "당연히 드리머죠!+요즘 드리머는 어디서든 나타난다고요. 다음에 어디서 나올지 전혀 예측을 못하겠어요."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3
@@ -275,7 +275,7 @@
     "text": "............갑자기, 멀리서 다수의 엔진이 시동걸리는 소리가 들려온다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AAT52",
         "face": 0
@@ -285,7 +285,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3
@@ -308,7 +308,7 @@
     "text": "............쾅!!+멀리에 있는 건물 하나가 순식간에 무너져 내렸다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3
@@ -321,7 +321,7 @@
     "text": "잠깐만, 저게 뭐야!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AAT52",
         "face": 0
@@ -330,7 +330,7 @@
     "text": "그 마녀 짓이죠!+바로 대형 포대로 05구역의 설비를 폭격하는 거예요!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3
@@ -343,7 +343,7 @@
     "text": "이봐, 여기는 지금 철혈의 점령지라고! 자기 구역을 부수는게 무슨 소용이라고?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AAT52",
         "face": 0
@@ -359,7 +359,7 @@
     "text": "제가 알아요? 그냥 미친 걸수도 있죠!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AAT52",
         "face": 0
@@ -376,7 +376,7 @@
     "text": "M16! AAT! 괜찮아?!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3
@@ -393,7 +393,7 @@
     "text": "아......우린 멀쩡해, 꽤 먼 곳에 떨어진 포격이었어."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3
@@ -409,7 +409,7 @@
     "text": "M16, 침착하고 내 말을 들어......+포격이 떨어진 장소는, SOPII가 도달한 거점이야."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3
@@ -426,7 +426,7 @@
     "text": "...뭐?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AAT52"
       }
@@ -434,7 +434,7 @@
     "text": "잠깐잠깐! 그럼 스텐은?+그녀는 어떻게 됐죠!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3
@@ -450,7 +450,7 @@
     "text": "아직 연락이 되지는 않지만, 그 거점엔 방공호가 있으니 걱정하지 않아도 돼."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AAT52"
       }
@@ -458,7 +458,7 @@
     "text": "그럼 이번의 포격은....설마 저번처럼?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3
@@ -474,7 +474,7 @@
     "text": "그래, 그냥 눈속임일 뿐이야. 교활한 녀석이야......+빨리 집합하자고, 05구역은 이제 안전하지 않아."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3
@@ -491,7 +491,7 @@
     "text": "............+RO, 드리머가 사용하는 포대가 뭔지 알아?+이 포격음......왠지 귀에 익숙한데......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3
@@ -508,7 +508,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3
@@ -532,7 +532,7 @@
     "text": "제 5 전역 당시, AR팀은 디스트로이어를 추격하고 있었다. 작전 개시 26분 후......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 2
@@ -541,7 +541,7 @@
     "text": "잠깐, 이 소리는......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3
@@ -554,7 +554,7 @@
     "text": "지금이야, 준비해!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 3
@@ -563,7 +563,7 @@
     "text": "M16, 조심해요!!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3
@@ -583,7 +583,7 @@
       "id": 6
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3
@@ -596,7 +596,7 @@
     "text": "......!!+바, 방금 그게......뭐야?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "SOPII",
         "face": 3
@@ -612,7 +612,7 @@
     "sound": {
       "se1": "Alarm"
     },
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 2
@@ -622,7 +622,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "SOPII",
         "face": 2
@@ -639,7 +639,7 @@
       "id": 9
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "M16A1"
       }
@@ -647,7 +647,7 @@
     "text": "......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO635"
       }

@@ -9,7 +9,7 @@
     "text": "......네게브 소대가 목적지에 도착했다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NEGEV",
         "face": 0
@@ -22,7 +22,7 @@
     "text": "도착했어, 여기 그리폰 거점이 있네.+나는 여기서 레이더의 동향을 감시할게, 갈릴, 넌 후방을 맡도록."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AR",
         "face": 0
@@ -39,7 +39,7 @@
     "text": "좋아, 나만 믿어."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NEGEV",
         "face": 0
@@ -52,7 +52,7 @@
     "text": "타보르, 단서 조사는 시작했어?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "TAR21",
         "face": 0
@@ -69,7 +69,7 @@
     "text": "아직 설비를 점검중이에요."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "TAR21",
         "face": 0
@@ -86,7 +86,7 @@
     "text": "먼저 측정기를 켜두라고 저번에도 말했었잖아, 전기가 많이 드는 것도 아닌데."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "TAR21",
         "face": 0
@@ -104,7 +104,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "TAR21",
         "face": 0
@@ -125,7 +125,7 @@
       "id": 9
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "AR15",
         "face": 0
@@ -138,7 +138,7 @@
     "text": "그런데, 헬리안 씨가 이렇게 신경을 쓰시는게, 그저 \"배신자\" 하나를 찾기 위해서인가요?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "네게브"
       }
@@ -147,7 +147,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "TAR-21"
       }
@@ -156,7 +156,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 0
@@ -176,7 +176,7 @@
     "sound": {
       "bgm": "BGM_Empty"
     },
-    "character": [
+    "characters": [
       {
         "name": "TAR21",
         "face": 0
@@ -189,7 +189,7 @@
     "text": "......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NEGEV",
         "face": 0
@@ -202,7 +202,7 @@
     "text": "무슨 일이지? 타보르?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "TAR21",
         "face": 0
@@ -219,7 +219,7 @@
     "text": "이상하네요......통신 모듈에 문제가 생긴 것 같아요.+안 되겠네요......실패했어요. 이거 못쓰겠네요."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "TAR21",
         "face": 0
@@ -236,7 +236,7 @@
     "text": "(한숨) 그러게 측정기는 자주 검사하라니까, 그정도 전력이 모자란 것도 아닌데......+비록 내 생각엔......이번엔 딱히 측정기의 문제가 아닌 것 같지만......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NEGEV",
         "face": 0
@@ -250,7 +250,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "NEGEV",
         "face": 0
@@ -267,7 +267,7 @@
       "id": 9
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "네게브"
       }
@@ -281,7 +281,7 @@
     "text": "...!!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "TAR-21"
       }
@@ -293,7 +293,7 @@
     "sound": {
       "bgm": "BGM_Boss"
     },
-    "character": [
+    "characters": [
       {
         "name": "네게브"
       }
@@ -305,7 +305,7 @@
       "id": 2
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "BOSS-5",
         "face": 0,
@@ -319,7 +319,7 @@
     "text": "후후......정말이지 아까운 걸......+3초만 있었으면 네 그 귀여운 목덜미에 닿을 수 있었는데 말이야."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NEGEV",
         "face": 0
@@ -336,7 +336,7 @@
     "text": "그렇게 말하는 걸 보니, 우리의 통신을 차단한 건 바로 너란 말이겠지?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NEGEV",
         "face": 0
@@ -353,7 +353,7 @@
     "text": "그게 말이지......그건 나랑은 정말 무관한 일인걸.+난 그저 야들야들한 풋과일 냄새에 이끌려 쫓아다니다가 여기까지 왔을 뿐이야.+나머지 이야기는......너희들의 몸을 찢어발기면서 천천히 속삭여 줄게!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NEGEV",
         "face": 0
@@ -371,7 +371,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "BOSS-5",
         "face": 0

@@ -10,7 +10,7 @@
     "text": "......목표지점에 도착."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "PM",
         "face": 0
@@ -23,7 +23,7 @@
     "text": "잘 들려, 모신나강? 우리는 목표지점에 도착했어."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M1891",
         "face": 0,
@@ -40,7 +40,7 @@
     "text": "수신 양호, 내가 그쪽으로 인형 둘을 보냈어, 아마 곧 도착할 거야."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M1891",
         "face": 0
@@ -57,7 +57,7 @@
     "text": "넌 안오는 거야? 이번에 구조하는건 네 동생이라고."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M1891",
         "face": 0
@@ -73,7 +73,7 @@
     "text": "(쓰게 웃으며) 군의 요청으로 정예 인형은 전부 지원 임무로 뽑혀 갔거든."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M1891",
         "face": 0
@@ -93,7 +93,7 @@
     "sound": {
       "bgm": "BGM_Empty"
     },
-    "character": [
+    "characters": [
       {
         "name": "M1891",
         "face": 0
@@ -110,7 +110,7 @@
     "text": "아, 저쪽에 있다! 빨리 가자!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M1891",
         "face": 0
@@ -128,7 +128,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "PM",
         "face": 0
@@ -145,7 +145,7 @@
     "sound": {
       "bgm": "BGM_Sunshine"
     },
-    "character": [
+    "characters": [
       {
         "name": "AK47",
         "face": 0
@@ -154,7 +154,7 @@
     "text": "하하, 오랜만이라고, 마카로프!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "SKS",
         "face": 0
@@ -163,7 +163,7 @@
     "text": "무슨 중대한 임무길래 나같은 전투 전문가한테 맡기려는 걸까?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "PM",
         "face": 0
@@ -180,7 +180,7 @@
     "text": "없어, 꺼져."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "PM",
         "face": 0
@@ -196,7 +196,7 @@
     "text": "냉담하기는, 이래 봬도 우리는 백전 노장이라고?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "PM",
         "face": 0
@@ -213,7 +213,7 @@
     "text": "미안, 내가 필요한건 잠입 요원이지, 크레이지 이반 둘이 아니야."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "PM",
         "face": 0
@@ -229,7 +229,7 @@
     "text": "얕보기는, 우린 여기까지 오면서 경보 한 번 안울렸다고."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "PM",
         "face": 0
@@ -245,7 +245,7 @@
     "text": "왜냐면 우릴 발견한 녀석들은 전부 우리한테 깨끗하게 소탕당했거든, 하하!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "PM",
         "face": 0
@@ -262,7 +262,7 @@
     "text": "......+자꾸 드는 생각인데, 이번엔 너희들이 없는게 오히려 나을 것 같아."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "PM",
         "face": 0
@@ -278,7 +278,7 @@
     "text": "그건 안 되지, 나강은 우리들의 자매라고, 앉아서 구경만 할 수는 없지!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "PM",
         "face": 0
@@ -294,7 +294,7 @@
     "text": "뭐 우리도 힘 좀 써보게 해줘, 어차피 지금은 다른 인원도 없다고?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "PM",
         "face": 0
@@ -311,7 +311,7 @@
     "text": "흥, 뭐 좋아.+불량학생도 학생이니, 적당히 끼워맞추면 되겠지."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "PM",
         "face": 0

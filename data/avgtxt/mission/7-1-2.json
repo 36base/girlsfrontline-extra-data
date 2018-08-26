@@ -9,7 +9,7 @@
     "text": "............오늘의 순찰 작전 종료."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kalin",
         "face": 0
@@ -22,7 +22,7 @@
     "text": "오늘 작전도 순조로웠네요. 다들 수고하셨어요!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kalin",
         "face": 1
@@ -35,7 +35,7 @@
     "text": "지휘관님, 지휘관님의 보고에 따르면 05구역의 경계에 철혈 유닛들이 출현했다고 하던데요.+만일을 위해서, 역시 제가 헬리안 씨에게 보고하는게 좋을 것 같아요."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kalin",
         "face": 2
@@ -49,7 +49,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kalin",
         "face": 4
@@ -76,7 +76,7 @@
     "sound": {
       "bgm": "BGM_Room"
     },
-    "character": [
+    "characters": [
       {
         "name": "NPC-Helian",
         "face": 0,
@@ -101,7 +101,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "헬리안"
       }
@@ -116,7 +116,7 @@
     "sound": {
       "bgm": "BGM_Truth"
     },
-    "character": [
+    "characters": [
       {
         "name": "헬리안"
       }
@@ -128,7 +128,7 @@
       "id": 27
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "헬리안"
       }
@@ -140,7 +140,7 @@
       "id": 17
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "헬리안"
       }
@@ -152,7 +152,7 @@
       "id": 8
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "NPC-Helian",
         "face": 0,

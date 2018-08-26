@@ -11,7 +11,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "??"
       }
@@ -29,7 +29,7 @@
     "text": "......+눈앞의 남자가 자신을 기다리고 있었다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "크루거"
       }
@@ -43,7 +43,7 @@
     "sound": {
       "se1": "Battlefield"
     },
-    "character": [
+    "characters": [
       {
         "name": "크루거"
       }
@@ -55,7 +55,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "크루거"
       }

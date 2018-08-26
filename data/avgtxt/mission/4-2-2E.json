@@ -6,7 +6,7 @@
     "sound": {
       "bgm": "BGM_Boss"
     },
-    "character": [
+    "characters": [
       {
         "name": "SOPII",
         "face": 0
@@ -19,7 +19,7 @@
     "text": "지휘관, 봐봐!+두 번째 좌표, 그리고....+짜잔! 그 철혈 보스 더미의 오른쪽 눈알!+헤헤♪ 저번에는 왼쪽만 건졌는데 드디어 다 모았지롱!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 3
@@ -35,7 +35,7 @@
     "text": "빨리 그만둬요. SOPll, 지휘관이 놀라잖아요.+(한숨) 지휘관님, SOPII의 본모습을 보게 해드려서 죄송합니다.+SOPII, 전장에서 악명이 자자한 새디스트예요."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 2
@@ -52,7 +52,7 @@
     "text": "에에에에엣——!+너무해 M4, 가족한테 이러기야!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 2
@@ -68,7 +68,7 @@
     "text": "행위를 부정하지는 않네요..."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 2
@@ -85,7 +85,7 @@
     "text": "흥, 나쁜 녀석들한텐 이렇게 하는 게 당연하지!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 2
@@ -101,7 +101,7 @@
     "text": "당신은 그냥 단순히 그걸 즐길 뿐이잖아요..."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 2
@@ -118,7 +118,7 @@
     "text": "어머, 철혈한테 재밌는 부품이 얼마나 많은데, 그냥 지나치기엔 아깝지!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 2
@@ -134,7 +134,7 @@
     "text": "눈알? 손가락? 이빨? 그리고 그......+그, 그거...."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 2
@@ -151,7 +151,7 @@
     "text": "응? 어떤걸 말하려고?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 2
@@ -167,7 +167,7 @@
     "text": "(한숨)...됐습니다...SOPII, 동료라서 다행이에요."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 2
@@ -184,7 +184,7 @@
     "text": "헤헤, 이게 운명이란거야, 우리야 말로 최고의 파트너라고."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 0
@@ -201,7 +201,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 0
@@ -231,7 +231,7 @@
     "sound": {
       "bgm": "BGM_Sneak"
     },
-    "character": [
+    "characters": [
       {
         "name": "SOPII",
         "face": 2
@@ -244,7 +244,7 @@
     "text": "그들은 너의...차 안에 있다?  이게 무슨 뜻이지?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 0
@@ -260,7 +260,7 @@
     "text": "이 말 자체는 별로 중요하지 않아요. 일단 카리나 씨에게 가져다 드리죠."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 0
@@ -277,7 +277,7 @@
     "text": "안심해, 지휘관이랑 같이 갈테니까!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 2
@@ -294,7 +294,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 2

@@ -9,14 +9,18 @@
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "琪亚娜"
       }
-    ]
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "琪亚娜"
+    }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "Bronya",
         "face": 0
@@ -28,7 +32,7 @@
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "Bronya",
         "face": 0
@@ -40,7 +44,7 @@
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "Himeko",
         "face": 0
@@ -52,7 +56,7 @@
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "Himeko",
         "face": 0
@@ -64,18 +68,19 @@
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "PP90",
         "face": 0
       }
     ],
     "speaker": {
-      "index": 0
+      "index": 0,
+      "name": "PP90"
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RaidenMei",
         "face": 0
@@ -87,7 +92,7 @@
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "Himeko",
         "face": 0
@@ -99,18 +104,19 @@
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "PP90",
         "face": 0
       }
     ],
     "speaker": {
-      "index": 0
+      "index": 0,
+      "name": "PP90"
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "Theresa",
         "face": 0
@@ -122,7 +128,7 @@
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "Bronya",
         "face": 0
@@ -134,7 +140,7 @@
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "Himeko",
         "face": 0
@@ -146,18 +152,19 @@
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "PP90",
         "face": 0
       }
     ],
     "speaker": {
-      "index": 0
+      "index": 0,
+      "name": "PP90"
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "PP90",
         "face": 0
@@ -169,7 +176,7 @@
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "Himeko",
         "face": 0
@@ -181,7 +188,7 @@
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RaidenMei",
         "face": 0
@@ -193,18 +200,19 @@
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "PP90",
         "face": 0
       }
     ],
     "speaker": {
-      "index": 0
+      "index": 0,
+      "name": "PP90"
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "Theresa",
         "face": 0
@@ -216,7 +224,7 @@
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RaidenMei",
         "face": 0
@@ -228,7 +236,7 @@
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RaidenMei",
         "face": 0
@@ -240,18 +248,19 @@
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "PP90",
         "face": 0
       }
     ],
     "speaker": {
-      "index": 0
+      "index": 0,
+      "name": "PP90"
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RaidenMei",
         "face": 0
@@ -263,7 +272,7 @@
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "Bronya",
         "face": 0
@@ -275,18 +284,19 @@
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "PP90",
         "face": 0
       }
     ],
     "speaker": {
-      "index": 0
+      "index": 0,
+      "name": "PP90"
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "Himeko",
         "face": 0
@@ -298,19 +308,20 @@
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "PP90",
         "face": 0
       }
     ],
     "speaker": {
-      "index": 0
+      "index": 0,
+      "name": "PP90"
     }
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "Theresa",
         "face": 0
@@ -326,194 +337,5 @@
       "id": 10
     },
     "screenEffect": "blackSpot2"
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
   }
 ]

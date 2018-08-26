@@ -13,7 +13,7 @@
     "text": "AR팀의 디스트로이어 추적, 작전개시 26분 후..."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "SOPII",
         "face": 3
@@ -26,7 +26,7 @@
     "text": "전방의 화력이 너무 격렬해! 안 돼, 뚫고 못지나가!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3
@@ -42,7 +42,7 @@
     "text": "......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 2
@@ -51,7 +51,7 @@
     "text": "잠깐, 이 소리는......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3
@@ -67,7 +67,7 @@
     "sound": {
       "bgm": "BGM_Empty"
     },
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 3
@@ -76,7 +76,7 @@
     "text": "M16, 조심해요!!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3
@@ -96,7 +96,7 @@
       "id": 6
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3
@@ -109,7 +109,7 @@
     "text": "......!!+바, 방금 그게......뭐야?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "SOPII",
         "face": 3
@@ -126,7 +126,7 @@
       "bgm": "BGM_Boss",
       "se1": "Alarm"
     },
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 2
@@ -135,7 +135,7 @@
     "text": "......+......모두, 방금 헬리안 씨의 보고를 받았어요. 아군 측의 피해가 너무 커요.+본부에서 전원에게 추적을 중지하고, 모든 제대는 즉시 현재 구역에서 철수하라는 명령이 내려왔어요."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "SOPII",
         "face": 2
@@ -148,7 +148,7 @@
     "text": "하지만, AR15...."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3
@@ -162,7 +162,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "SOPII",
         "face": 3
@@ -179,7 +179,7 @@
       "id": 10
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "SOPII",
         "face": 3
@@ -192,7 +192,7 @@
     "text": "......문제는, 방금의 공격 때문에 다른 소대랑 흩어진 것 같아.+게다가 철혈 부대가 우리들을 향해 몰려오는 것 같다고!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 3

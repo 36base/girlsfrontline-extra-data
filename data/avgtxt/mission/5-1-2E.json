@@ -9,7 +9,7 @@
     "text": "......안전구역으로 후퇴."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "IDW",
         "face": 0
@@ -18,7 +18,7 @@
     "text": "아, 저번에 우릴 도와줬던 인형!+우리 또 만났구냥!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 0
@@ -34,7 +34,7 @@
     "text": "죄송합니다. 늦었네요. 다른 인형들은요?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 0
@@ -50,7 +50,7 @@
     "text": "다들 괜찮다냥, 너희들이 마지막 제대다냥.+보아하니 다들 순조롭게 철수한 것 같다냥."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 0
@@ -67,7 +67,7 @@
     "text": "여기 혹시 다친 인원이 있나? 우리도 손을 거들지."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 0
@@ -83,7 +83,7 @@
     "text": "좋다냥, M82가 어디로 갔는지 모르겠다냥, 역시 나 혼자선 조금 무리였다냥.+정말 고맙다냥!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 0
@@ -100,7 +100,7 @@
     "text": "괜찮아, 다들 그렇게 크게 다친 것 같진 않으니 일이 까다롭지는 않을 거야."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 0
@@ -116,7 +116,7 @@
     "text": "그런가, 초격이 간보는 수준이라서 다행이다냥, 아무튼 갑자기 터져서 깜짝 놀랐다냥."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 0
@@ -133,7 +133,7 @@
     "text": "그럼......아까의 그 철혈 병기에 대해 뭐 단서라도 있나?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 0
@@ -149,7 +149,7 @@
     "text": "음......너무 빨라서 제대로 보지도 못했다냥.+하지만 지면에 남은 상흔으로 봐선, 직격당하면 분명 끝장이겠다냥."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 0
@@ -165,7 +165,7 @@
     "text": "......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "SOPII",
         "face": 2
@@ -183,7 +183,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "SOPII",
         "face": 2

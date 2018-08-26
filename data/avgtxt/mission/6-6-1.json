@@ -10,7 +10,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "M16A1"
       }
@@ -22,7 +22,7 @@
       "id": 2
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "NEGEV",
         "face": 0
@@ -35,7 +35,7 @@
     "text": "M16, 어디로 간 거야!+현재 S08구역 사방에 철혈이 깔려있다고! 게다가 이상하리만치 강해!+거의 조기 철수할 뻔 했잖아, 더이상 못 기다린다고!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3,
@@ -49,7 +49,7 @@
     "text": "미안, 일이 있어서 조금 지체됐어.+잘 들어, 네게브, 지휘관, 일단 다른건 신경쓰지 마.+알케미스트의 부대가 움직이기 시작했어, 아마 너희들을 향해 오는 걸 거야."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NEGEV",
         "face": 0
@@ -66,7 +66,7 @@
     "text": "흥, 묵은 빚을 청산할 때가 왔군?+그럼 너는? 너랑 SOPII는 어디로 갈 건데?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NEGEV",
         "face": 0
@@ -83,7 +83,7 @@
     "text": "우리는 우리 나름대로 계획이 있어서 말이지. 아마 별 문제 없을테니 너무 걱정하지는 마.+너희들도 조심해, 지휘관, 네게브쪽을 잘 지켜줘!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NEGEV",
         "face": 0
@@ -100,7 +100,7 @@
     "text": "야! M16! 이봐!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NEGEV",
         "face": 0
@@ -118,7 +118,7 @@
     "text": "좋은 아침이야, 그리폰의 여러분.+사냥이 곧 시작되는데 준비는 잘 하고 있는 걸까나?+그리고 말이야, 다시 만나는 걸 기대하고 있었어, 네게브......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NEGEV",
         "face": 0
@@ -135,7 +135,7 @@
     "text": "그래? 그런데 내가 지금 화가 머리끝까지 차올라서 말이야...알케미스트......+숨이 붙어있는 동안 나랑 마주치지 않기만을 빌어라......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NEGEV",
         "face": 0
@@ -153,7 +153,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "NEGEV",
         "face": 0
@@ -174,7 +174,7 @@
       "id": 9
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "네게브"
       }

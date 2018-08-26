@@ -15,7 +15,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "NPC-Ange",
         "face": 0
@@ -32,7 +32,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "UMP45",
         "face": 0
@@ -52,7 +52,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "UMP45",
         "face": 0
@@ -73,7 +73,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "UMP45",
         "face": 0
@@ -93,7 +93,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "UMP45",
         "face": 0
@@ -114,7 +114,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "UMP45",
         "face": 0
@@ -130,7 +130,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "AR15Mod",
         "face": 4
@@ -151,7 +151,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "AR15Mod",
         "face": 4
@@ -171,7 +171,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "AR15Mod",
         "face": 4
@@ -192,7 +192,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "AR15Mod",
         "face": 4
@@ -212,7 +212,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "M4A1Mod",
         "face": 3
@@ -233,7 +233,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "M4A1Mod",
         "face": 3
@@ -253,7 +253,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "M4A1Mod",
         "face": 3
@@ -274,7 +274,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "HK416",
         "face": 0
@@ -290,7 +290,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "HK416",
         "face": 0
@@ -306,7 +306,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "UMP45",
         "face": 2
@@ -322,7 +322,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "NPC-Ange",
         "face": 0
@@ -339,7 +339,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "UMP45",
         "face": 2
@@ -359,7 +359,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "UMP45",
         "face": 0
@@ -379,7 +379,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "UMP45",
         "face": 0
@@ -400,7 +400,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "UMP45",
         "face": 0
@@ -420,7 +420,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "UMP45",
         "face": 0
@@ -441,7 +441,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "UMP45",
         "face": 0
@@ -462,7 +462,7 @@
       "isNight": true
     },
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "UMP45",
         "face": 0
@@ -483,7 +483,7 @@
       "id": 9
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "안젤리아"
       }

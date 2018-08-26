@@ -9,7 +9,7 @@
     "text": "....작전종료."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kalin",
         "face": 4
@@ -22,7 +22,7 @@
     "text": "겨우 끝났네요....페르시카 씨가 말했다시피 여기가 마지막 지점이겠죠?+하지만 비디오테이프 한 개 빼고는 별 수확이 없네요..."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 1,
@@ -41,7 +41,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 1
@@ -62,7 +62,7 @@
       "id": 9
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "카리나"
       }
@@ -79,7 +79,7 @@
   },
   {
     "frame": 2,
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 0
@@ -90,7 +90,7 @@
   {
     "frame": 2,
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 0
@@ -106,7 +106,7 @@
     "text": "...재생 종료."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kalin",
         "face": 4
@@ -119,7 +119,7 @@
     "text": "이게......뭔가요? 페르시카 씨, 원하시던게 이거 맞나요?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 0,
@@ -137,7 +137,7 @@
     "text": "......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 0
@@ -154,7 +154,7 @@
     "text": "페르시카 씨?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 1
@@ -171,7 +171,7 @@
     "text": "아!+아...그거..."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 2
@@ -184,7 +184,7 @@
     "text": "어쨌든 고마워, 지휘관.+역시 헬리안이 점찍어둔 조커 답네......박수박수......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 2
@@ -198,7 +198,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 2
@@ -212,7 +212,7 @@
   },
   {
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "NPC-Helian",
         "face": 0,
@@ -231,7 +231,7 @@
     "text": "말 나온 김에......페르시카+임무는 완료했습니까?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Helian",
         "face": 0
@@ -248,7 +248,7 @@
     "text": "그거....안심해.+데이터는 이미 입수했으니 곧 결과가 나올거야."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Helian",
         "face": 0
@@ -265,7 +265,7 @@
     "text": "부디 신속히 해주시길, 아시다시피 시간이 얼마 남지 않았습니다.+또한, 이 지휘관을 양성한 것은 당신 뒤치다꺼리를 위해서가 아닙니다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Helian",
         "face": 0
@@ -282,7 +282,7 @@
     "text": "어....지휘관...이번엔 고마웠어......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Helian",
         "face": 0
@@ -302,7 +302,7 @@
     "text": "페르시카 통신 종료......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Helian",
         "face": 1
@@ -316,7 +316,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "NPC-Helian",
         "face": 0

@@ -3,7 +3,7 @@
     "background": {
       "id": 10
     },
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3
@@ -16,7 +16,7 @@
     "text": "RO, 전방에 작은 비행장이 있어."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO635",
         "face": 0
@@ -25,7 +25,7 @@
     "text": "응, 확인했어."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO635",
         "face": 3
@@ -34,7 +34,7 @@
     "text": "유감스럽게도, 저 비행장은 이미 폐쇄되어있네.+이런 날씨에선 비행이 불가능하지..."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "SOPII",
         "face": 2
@@ -47,7 +47,7 @@
     "text": "응, 게다가 우리도 통신을 보내지 못하고......+이대로라면, 우리의 통조림으로 얼마나 버틸 수 있을까?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO635",
         "face": 0

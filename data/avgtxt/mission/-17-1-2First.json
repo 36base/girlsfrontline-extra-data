@@ -18,7 +18,7 @@
     "background": {
       "id": 85
     },
-    "character": [
+    "characters": [
       {
         "name": "NPC-Ange",
         "face": 0
@@ -34,7 +34,7 @@
     "background": {
       "id": 85
     },
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 1,
@@ -55,7 +55,7 @@
     "background": {
       "id": 85
     },
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 2
@@ -75,7 +75,7 @@
     "background": {
       "id": 85
     },
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 2
@@ -95,7 +95,7 @@
     "background": {
       "id": 85
     },
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 2
@@ -115,7 +115,7 @@
     "background": {
       "id": 85
     },
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 2
@@ -135,7 +135,7 @@
     "background": {
       "id": 85
     },
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 3
@@ -155,7 +155,7 @@
     "background": {
       "id": 85
     },
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 3
@@ -175,7 +175,7 @@
     "background": {
       "id": 85
     },
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 3
@@ -195,7 +195,7 @@
     "background": {
       "id": 85
     },
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 3
@@ -215,7 +215,7 @@
     "background": {
       "id": 85
     },
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 3
@@ -235,7 +235,7 @@
     "background": {
       "id": 85
     },
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 3
@@ -255,7 +255,7 @@
     "background": {
       "id": 85
     },
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 0
@@ -275,7 +275,7 @@
     "background": {
       "id": 85
     },
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 0
@@ -295,7 +295,7 @@
     "background": {
       "id": 85
     },
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 0
@@ -315,7 +315,7 @@
     "background": {
       "id": 85
     },
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 0
@@ -335,7 +335,7 @@
     "background": {
       "id": 85
     },
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 0
@@ -355,7 +355,7 @@
     "background": {
       "id": 85
     },
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 0
@@ -375,7 +375,7 @@
     "background": {
       "id": 85
     },
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 0
@@ -395,7 +395,7 @@
     "background": {
       "id": 85
     },
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 0
@@ -415,7 +415,7 @@
     "background": {
       "id": 85
     },
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 2
@@ -435,7 +435,7 @@
     "background": {
       "id": 85
     },
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 2
@@ -455,7 +455,7 @@
     "background": {
       "id": 85
     },
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 2
@@ -475,7 +475,7 @@
     "background": {
       "id": 85
     },
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 2
@@ -495,7 +495,7 @@
     "background": {
       "id": 85
     },
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 1
@@ -515,7 +515,7 @@
     "background": {
       "id": 85
     },
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 1
@@ -535,7 +535,7 @@
     "background": {
       "id": 85
     },
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 3
@@ -555,7 +555,7 @@
     "background": {
       "id": 85
     },
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 3
@@ -575,7 +575,7 @@
     "background": {
       "id": 85
     },
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 3
@@ -595,7 +595,7 @@
     "background": {
       "id": 85
     },
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 3
@@ -615,7 +615,7 @@
     "background": {
       "id": 85
     },
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 3
@@ -635,7 +635,7 @@
     "background": {
       "id": 85
     },
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 3
@@ -655,7 +655,7 @@
     "background": {
       "id": 85
     },
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 3
@@ -675,7 +675,7 @@
     "background": {
       "id": 85
     },
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 3
@@ -696,7 +696,7 @@
       "id": 85
     },
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 3

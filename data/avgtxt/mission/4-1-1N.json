@@ -18,7 +18,7 @@
       "isNight": true
     },
     "screenEffect": "blink",
-    "character": [
+    "characters": [
       {
         "name": "RO"
       }
@@ -29,7 +29,7 @@
     "text": "......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "??"
       }
@@ -37,7 +37,7 @@
     "text": "난 철혈의 암살자다.+그리폰의 지휘관, 죽을 준비나 해라."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO"
       }
@@ -46,7 +46,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "??"
       }
@@ -61,7 +61,7 @@
     "text": "......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "92type",
         "face": 0
@@ -74,7 +74,7 @@
     "text": "다음 당직 땐 최소한 문은 잠가두라고."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO"
       }
@@ -82,7 +82,7 @@
     "text": "(으쓱이며) 네가 경호를 서고 있는데 무서워할 게 뭐가 있다고."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "92type",
         "face": 0
@@ -95,7 +95,7 @@
     "text": "너무 방심하지 말라고, 지휘관 아가씨.+그리폰에서 이번에 너한테 보내준 사람은 이름난 오합지졸이야, 나를 포함해서."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO"
       }
@@ -103,7 +103,7 @@
     "text": "최소한 넌 믿음직한 부관이지, 비록 같이 지낸건 며칠이지만 그 점은 확신해."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "92type",
         "face": 0
@@ -116,7 +116,7 @@
     "text": "과찬이야, 하지만 이렇게 띄워줘도 난 사양 안 할 거라고.+지휘관, 넌 아직 멀었어, 좀 더 노력하라고."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO"
       }
@@ -124,7 +124,7 @@
     "text": "어차피 이번 작전 한 번뿐이야.+그리고, 자꾸 지휘관이라고 부르지 마, 난 그저 임시 권한을 가진 인형이라고."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "92type",
         "face": 0
@@ -138,7 +138,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "RO"
       }
@@ -150,7 +150,7 @@
       "id": 10
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "92type",
         "face": 0
@@ -163,7 +163,7 @@
     "text": "우리 대원이 이 지역에서 실마리를 찾았는데, 철혈의 경계를 건드린 덕에 빠져나오기가 힘들대."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO"
       }
@@ -171,7 +171,7 @@
     "text": "그녀에게 현지에서 대기하라고 하고 네가 직접 가서 도와줘, 내가 엄호하지."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "92type",
         "face": 0
@@ -184,7 +184,7 @@
     "text": "꽤나 과감한데, 상황을 더 지켜보는 건?+여긴 지금 사방이 철혈 부대야, 어쩌면 마카로프가 윗선의 지시를 가져올 때 까지 기다리는게 낫지 않을까......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO"
       }
@@ -192,7 +192,7 @@
     "text": "해당 지역의 인간 거주민들은 이미 대피가 끝났어, 그리고 철혈은 아직 그곳을 완전히 점령하지 못했으니 움직일 기회는 지금 뿐이야.+마카로프를 기다릴 시간은 없어, 36호 문서를 찾는대로 바로 이탈하자고.+그나저나, 거기에 묶여있는 대원은 누구야?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "92type",
         "face": 0
@@ -205,7 +205,7 @@
     "text": "넌 누구면 좋겠어?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO"
       }
@@ -213,7 +213,7 @@
     "text": "믿음직하다면 누구든지, 헛걸음을 하기는 싫거든......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "92type",
         "face": 0
@@ -226,7 +226,7 @@
     "text": "그럼 아마 실망하겠네......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO"
       }
@@ -234,7 +234,7 @@
     "text": "최악?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "92type",
         "face": 0
@@ -247,7 +247,7 @@
     "text": "차악 정도."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO"
       }

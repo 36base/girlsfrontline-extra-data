@@ -9,7 +9,7 @@
     "text": "......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "SOPII",
         "face": 0
@@ -22,7 +22,7 @@
     "text": "하하, 저거봐! 새로운 통신소야!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO635",
         "face": 2
@@ -31,7 +31,7 @@
     "text": "다행이야, 문도 제대로 동작해.+M16, 여기 있는 통신설비를 확인해주겠어?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 0
@@ -45,7 +45,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "SOPII",
         "face": 0
@@ -65,7 +65,7 @@
     "text": "............3분 뒤."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Helian",
         "face": 0,
@@ -79,7 +79,7 @@
     "text": "M4......+아니지, M16, M16인가?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3
@@ -96,7 +96,7 @@
     "text": "네, 헬리안 씨. 다들 무사합니다.+저희는 일부 생존자를 찾았고, 현재 불시착한 지점의 서쪽에 위치한 통신소에서 연락을 드리고 있습니다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3
@@ -113,7 +113,7 @@
     "text": "다행이군......+본부에서 소식을 전해듣고, 지금 너희들을 구조하려고 최선을 다하고 있다.+하지만 너희들이 너무 멀리 떨어져있고, 현재 날씨가 너무 열악해서 시간이 좀 필요하다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3
@@ -130,7 +130,7 @@
     "text": "저희는 당장은 안전합니다. 다만, 철혈이 이미 저희를 주시하고 있을 가능성이 있습니다.+저희가 다른 생존자를 찾아 전력을 보충하려고 하는데, 날씨가 너무 좋지 않습니다.+추위와 강풍이 저희의 행동과 보급에 큰 문제를 일으키고 있습니다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3
@@ -150,7 +150,7 @@
     "sound": {
       "bgm": "BGM_Empty"
     },
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3
@@ -163,7 +163,7 @@
     "text": "응? 헬리안 씨?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "헬리안"
       }
@@ -175,7 +175,7 @@
   },
   {
     "screenEffect": "shockScreen",
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3
@@ -189,7 +189,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "RO635",
         "face": 0

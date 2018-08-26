@@ -10,7 +10,7 @@
     "text": "......탕! 탕!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "G11",
         "face": 0
@@ -20,7 +20,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "HK416",
         "face": 0
@@ -36,7 +36,7 @@
     "text": "......+............"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "G11",
         "face": 2
@@ -45,7 +45,7 @@
     "text": "저기......416?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "HK416",
         "face": 0
@@ -54,7 +54,7 @@
     "text": "왜 그래?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "G11",
         "face": 2
@@ -63,7 +63,7 @@
     "text": "저쪽의 카메라......네가 움직였어?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "HK416",
         "face": 2
@@ -72,7 +72,7 @@
     "text": "난 카메라 같은 건 안 건드렸는데."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "G11",
         "face": 3
@@ -81,7 +81,7 @@
     "text": "하지만....저거 움직였는데......+혹시 귀신 들린 거 아닐까아......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "HK416",
         "face": 3
@@ -93,7 +93,7 @@
     "sound": {
       "bgm": "BGM_Boss"
     },
-    "character": [
+    "characters": [
       {
         "name": "HK416",
         "face": 3
@@ -102,7 +102,7 @@
     "text": "어이! 거기 숨어있지말고 나와!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "BOSS-9",
         "face": 0,
@@ -116,7 +116,7 @@
     "text": "아......+신경쓰지마, 신경쓰지마. 난 그냥 카메라 테스트하는 겸 그저 지켜보고 있었을 뿐이야."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "HK416",
         "face": 0
@@ -132,7 +132,7 @@
     "text": "보기만 한다고?+(냉소) 철혈의 AI가 이미 우리를 죽이지 않고 살아갈 수 있을만큼 진화했나?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "HK416",
         "face": 0
@@ -149,7 +149,7 @@
     "text": "철혈공조 SPzh3000 통칭 \"아키텍트\"!+내 목적은 AR팀를 찾는 것 뿐이야, 다른 녀석들은 나랑 상관없어.+(책 읽는 목소리로) 게다가 나는 오늘 테스트를 하러 온 것뿐이야......목표를 찾는다 해도 공격할 필요까지는 없을 거야......+그리고 니들이 누구든 간에, 이전의 명단에는 없는 것 같은걸."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "HK416",
         "face": 0
@@ -166,7 +166,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "HK416",
         "face": 0
@@ -194,7 +194,7 @@
     "text": "......!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "HK416"
       }
@@ -206,7 +206,7 @@
     "sound": {
       "bgm": "BGM_NightOPS"
     },
-    "character": [
+    "characters": [
       {
         "name": "UMP45"
       }
@@ -218,7 +218,7 @@
       "id": 34
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "HK416",
         "face": 0
@@ -227,7 +227,7 @@
     "text": "......UMP45.+너 무슨 짓을 한 거야? 조금만 더 있었으면 정보를 캐낼 수도 있었는데."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "UMP45",
         "face": 0
@@ -236,7 +236,7 @@
     "text": "이건 우리의 임무가 아니야, 416. 괜히 불구덩이로 몸을 들이밀지 말라구."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "UMP9",
         "face": 3
@@ -245,7 +245,7 @@
     "text": "헤헤, 모두 괜찮아?+나 보고 싶었지? G11. (껴안으며)"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "G11",
         "face": 3
@@ -254,7 +254,7 @@
     "text": "우라라라라라......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "HK416",
         "face": 0
@@ -263,7 +263,7 @@
     "text": "일단, 우리 모두 모였군."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "UMP45",
         "face": 0
@@ -272,7 +272,7 @@
     "text": "그래, 이제 AR팀를 구하러 갈 시간이야.+기분 좋지 않아? 416?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "HK416",
         "face": 0
@@ -281,7 +281,7 @@
     "text": "......내가 무슨 말 할지는 알고 있겠지."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "UMP45",
         "face": 0
@@ -291,7 +291,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "HK416",
         "face": 0
@@ -304,7 +304,7 @@
       "id": 9
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "HK416"
       }

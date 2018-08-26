@@ -14,7 +14,7 @@
       "id": 99
     },
     "screenEffect": "blackSpot2",
-    "character": [
+    "characters": [
       {
         "name": "AN94",
         "face": 0,
@@ -31,7 +31,7 @@
     "background": {
       "id": 99
     },
-    "character": [
+    "characters": [
       {
         "name": "AN94",
         "face": 0
@@ -51,7 +51,7 @@
     "background": {
       "id": 99
     },
-    "character": [
+    "characters": [
       {
         "name": "AN94",
         "face": 0
@@ -71,7 +71,7 @@
     "background": {
       "id": 99
     },
-    "character": [
+    "characters": [
       {
         "name": "AN94",
         "face": 0
@@ -91,7 +91,7 @@
     "background": {
       "id": 99
     },
-    "character": [
+    "characters": [
       {
         "name": "AN94",
         "face": 0
@@ -111,7 +111,7 @@
     "background": {
       "id": 99
     },
-    "character": [
+    "characters": [
       {
         "name": "AN94",
         "face": 0
@@ -131,7 +131,7 @@
     "background": {
       "id": 99
     },
-    "character": [
+    "characters": [
       {
         "name": "AN94",
         "face": 0
@@ -152,7 +152,7 @@
       "id": 99
     },
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "NPC-Ange",
         "face": 0
@@ -168,7 +168,7 @@
       "id": 9
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "안젤리아"
       }

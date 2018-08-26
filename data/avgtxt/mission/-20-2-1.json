@@ -12,7 +12,7 @@
     "background": {
       "id": 143
     },
-    "character": [
+    "characters": [
       {
         "name": "FAIL",
         "face": 0
@@ -28,7 +28,7 @@
     "background": {
       "id": 143
     },
-    "character": [
+    "characters": [
       {
         "name": "M950A",
         "face": 0
@@ -48,7 +48,7 @@
     "background": {
       "id": 143
     },
-    "character": [
+    "characters": [
       {
         "name": "M950A",
         "face": 0
@@ -68,7 +68,7 @@
     "background": {
       "id": 143
     },
-    "character": [
+    "characters": [
       {
         "name": "K2",
         "face": 0
@@ -88,7 +88,7 @@
     "background": {
       "id": 143
     },
-    "character": [
+    "characters": [
       {
         "name": "M950A",
         "face": 0
@@ -108,7 +108,7 @@
     "background": {
       "id": 143
     },
-    "character": [
+    "characters": [
       {
         "name": "M950A",
         "face": 0
@@ -128,7 +128,7 @@
     "background": {
       "id": 143
     },
-    "character": [
+    "characters": [
       {
         "name": "TMP",
         "face": 0
@@ -148,7 +148,7 @@
     "background": {
       "id": 143
     },
-    "character": [
+    "characters": [
       {
         "name": "K2",
         "face": 0
@@ -168,7 +168,7 @@
     "background": {
       "id": 143
     },
-    "character": [
+    "characters": [
       {
         "name": "K2",
         "face": 0
@@ -188,7 +188,7 @@
     "background": {
       "id": 143
     },
-    "character": [
+    "characters": [
       {
         "name": "M950A",
         "face": 0
@@ -208,7 +208,7 @@
     "background": {
       "id": 143
     },
-    "character": [
+    "characters": [
       {
         "name": "M950A",
         "face": 0
@@ -228,7 +228,7 @@
     "background": {
       "id": 143
     },
-    "character": [
+    "characters": [
       {
         "name": "Thunder50",
         "face": 0
@@ -248,7 +248,7 @@
     "background": {
       "id": 143
     },
-    "character": [
+    "characters": [
       {
         "name": "FAIL",
         "face": 0
@@ -264,7 +264,7 @@
     "background": {
       "id": 143
     },
-    "character": [
+    "characters": [
       {
         "name": "K2",
         "face": 0
@@ -280,7 +280,7 @@
     "background": {
       "id": 143
     },
-    "character": [
+    "characters": [
       {
         "name": "FAIL",
         "face": 0
@@ -297,7 +297,7 @@
       "id": 143
     },
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "M950A",
         "face": 0
@@ -314,7 +314,7 @@
       "id": 9
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "DJMAXSUEE",
         "face": 0
@@ -331,7 +331,7 @@
       "id": 9
     },
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "DJMAXSUEE",
         "face": 0
@@ -348,7 +348,7 @@
       "id": 143
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "M950A",
         "face": 0
@@ -364,7 +364,7 @@
     "background": {
       "id": 143
     },
-    "character": [
+    "characters": [
       {
         "name": "M950A",
         "face": 0
@@ -384,7 +384,7 @@
     "background": {
       "id": 143
     },
-    "character": [
+    "characters": [
       {
         "name": "M950A",
         "face": 0
@@ -404,7 +404,7 @@
     "background": {
       "id": 143
     },
-    "character": [
+    "characters": [
       {
         "name": "FAIL",
         "face": 0
@@ -420,7 +420,7 @@
     "background": {
       "id": 143
     },
-    "character": [
+    "characters": [
       {
         "name": "K2",
         "face": 0
@@ -436,7 +436,7 @@
     "background": {
       "id": 143
     },
-    "character": [
+    "characters": [
       {
         "name": "FAIL",
         "face": 0
@@ -452,7 +452,7 @@
     "background": {
       "id": 143
     },
-    "character": [
+    "characters": [
       {
         "name": "AEK999",
         "face": 0
@@ -468,7 +468,7 @@
     "background": {
       "id": 143
     },
-    "character": [
+    "characters": [
       {
         "name": "TMP",
         "face": 0
@@ -484,7 +484,7 @@
     "background": {
       "id": 143
     },
-    "character": [
+    "characters": [
       {
         "name": "TMP",
         "face": 0
@@ -504,7 +504,7 @@
     "background": {
       "id": 143
     },
-    "character": [
+    "characters": [
       {
         "name": "TMP",
         "face": 0
@@ -520,7 +520,7 @@
     "background": {
       "id": 143
     },
-    "character": [
+    "characters": [
       {
         "name": "FAIL",
         "face": 0
@@ -536,7 +536,7 @@
     "background": {
       "id": 143
     },
-    "character": [
+    "characters": [
       {
         "name": "AEK999",
         "face": 0
@@ -556,7 +556,7 @@
     "background": {
       "id": 143
     },
-    "character": [
+    "characters": [
       {
         "name": "AEK999",
         "face": 0
@@ -576,7 +576,7 @@
     "background": {
       "id": 143
     },
-    "character": [
+    "characters": [
       {
         "name": "K2",
         "face": 0
@@ -596,7 +596,7 @@
     "background": {
       "id": 143
     },
-    "character": [
+    "characters": [
       {
         "name": "FAIL",
         "face": 0
@@ -612,7 +612,7 @@
     "background": {
       "id": 143
     },
-    "character": [
+    "characters": [
       {
         "name": "Thunder50",
         "face": 0
@@ -628,7 +628,7 @@
     "background": {
       "id": 143
     },
-    "character": [
+    "characters": [
       {
         "name": "FAIL",
         "face": 0
@@ -644,7 +644,7 @@
     "background": {
       "id": 143
     },
-    "character": [
+    "characters": [
       {
         "name": ""
       }
@@ -659,7 +659,7 @@
     "background": {
       "id": 143
     },
-    "character": [
+    "characters": [
       {
         "name": "AEK999",
         "face": 0
@@ -675,7 +675,7 @@
     "background": {
       "id": 143
     },
-    "character": [
+    "characters": [
       {
         "name": "TMP",
         "face": 0
@@ -691,7 +691,7 @@
     "background": {
       "id": 143
     },
-    "character": [
+    "characters": [
       {
         "name": "FAIL",
         "face": 0
@@ -713,7 +713,7 @@
     "background": {
       "id": 143
     },
-    "character": [
+    "characters": [
       {
         "name": "K2",
         "face": 0
@@ -729,7 +729,7 @@
     "background": {
       "id": 143
     },
-    "character": [
+    "characters": [
       {
         "name": "FAIL",
         "face": 0
@@ -745,7 +745,7 @@
     "background": {
       "id": 143
     },
-    "character": [
+    "characters": [
       {
         "name": "AEK999",
         "face": 0
@@ -770,7 +770,7 @@
     "background": {
       "id": 143
     },
-    "character": [
+    "characters": [
       {
         "name": "FAIL",
         "face": 0
@@ -786,7 +786,7 @@
     "background": {
       "id": 143
     },
-    "character": [
+    "characters": [
       {
         "name": "AEK999",
         "face": 0
@@ -803,7 +803,7 @@
       "id": 143
     },
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "TMP",
         "face": 0
@@ -840,7 +840,7 @@
     "background": {
       "id": 9
     },
-    "character": [
+    "characters": [
       {
         "name": "썬더"
       }
@@ -859,7 +859,7 @@
       "id": 82
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "M950A"
       }
@@ -879,7 +879,7 @@
     "sound": {
       "bgm": "DJMAX_BELL"
     },
-    "character": [
+    "characters": [
       {
         "name": "Thunder50",
         "face": 0
@@ -895,7 +895,7 @@
     "background": {
       "id": 82
     },
-    "character": [
+    "characters": [
       {
         "name": "Thunder50",
         "face": 0
@@ -915,7 +915,7 @@
     "background": {
       "id": 82
     },
-    "character": [
+    "characters": [
       {
         "name": "Thunder50",
         "face": 0
@@ -935,7 +935,7 @@
     "background": {
       "id": 82
     },
-    "character": [
+    "characters": [
       {
         "name": "Thunder50",
         "face": 0
@@ -955,7 +955,7 @@
     "background": {
       "id": 82
     },
-    "character": [
+    "characters": [
       {
         "name": "Thunder50",
         "face": 0
@@ -975,7 +975,7 @@
     "background": {
       "id": 82
     },
-    "character": [
+    "characters": [
       {
         "name": "Thunder50",
         "face": 0
@@ -995,7 +995,7 @@
     "background": {
       "id": 82
     },
-    "character": [
+    "characters": [
       {
         "name": "Thunder50",
         "face": 0
@@ -1015,7 +1015,7 @@
     "background": {
       "id": 82
     },
-    "character": [
+    "characters": [
       {
         "name": "Thunder50",
         "face": 0
@@ -1035,7 +1035,7 @@
     "background": {
       "id": 82
     },
-    "character": [
+    "characters": [
       {
         "name": "Thunder50",
         "face": 0
@@ -1055,7 +1055,7 @@
     "background": {
       "id": 82
     },
-    "character": [
+    "characters": [
       {
         "name": "Thunder50",
         "face": 0
@@ -1075,7 +1075,7 @@
     "background": {
       "id": 82
     },
-    "character": [
+    "characters": [
       {
         "name": "Thunder50",
         "face": 0
@@ -1095,7 +1095,7 @@
     "background": {
       "id": 82
     },
-    "character": [
+    "characters": [
       {
         "name": "Thunder50",
         "face": 0
@@ -1115,7 +1115,7 @@
     "background": {
       "id": 82
     },
-    "character": [
+    "characters": [
       {
         "name": "Thunder50",
         "face": 0
@@ -1135,7 +1135,7 @@
     "background": {
       "id": 82
     },
-    "character": [
+    "characters": [
       {
         "name": "Thunder50",
         "face": 0
@@ -1155,7 +1155,7 @@
     "background": {
       "id": 82
     },
-    "character": [
+    "characters": [
       {
         "name": "Thunder50",
         "face": 0
@@ -1176,7 +1176,7 @@
       "id": 82
     },
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "Thunder50",
         "face": 0
@@ -1197,7 +1197,7 @@
       "id": 9
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "M950A"
       }
@@ -1208,7 +1208,7 @@
     "background": {
       "id": 9
     },
-    "character": [
+    "characters": [
       {
         "name": "썬더"
       }
@@ -1219,7 +1219,7 @@
     "background": {
       "id": 9
     },
-    "character": [
+    "characters": [
       {
         "name": "AEK999"
       }
@@ -1230,7 +1230,7 @@
     "background": {
       "id": 9
     },
-    "character": [
+    "characters": [
       {
         "name": "썬더"
       }
@@ -1241,7 +1241,7 @@
     "background": {
       "id": 9
     },
-    "character": [
+    "characters": [
       {
         "name": ""
       }
@@ -1264,7 +1264,7 @@
       "id": 82
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "Thunder50",
         "face": 0
@@ -1280,7 +1280,7 @@
     "background": {
       "id": 82
     },
-    "character": [
+    "characters": [
       {
         "name": "Thunder50",
         "face": 0
@@ -1303,7 +1303,7 @@
     "sound": {
       "bgm": "BGM_Pause"
     },
-    "character": [
+    "characters": [
       {
         "name": "Thunder50",
         "face": 0
@@ -1328,7 +1328,7 @@
     "background": {
       "id": 82
     },
-    "character": [
+    "characters": [
       {
         "name": "Thunder50",
         "face": 0
@@ -1345,7 +1345,7 @@
       "id": 82
     },
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "Thunder50",
         "face": 0
@@ -1375,7 +1375,7 @@
     "sound": {
       "bgm": "BGM_UnPause"
     },
-    "character": [
+    "characters": [
       {
         "name": "Thunder50",
         "face": 0
@@ -1391,7 +1391,7 @@
     "background": {
       "id": 9
     },
-    "character": [
+    "characters": [
       {
         "name": "Thunder50",
         "face": 0
@@ -1411,7 +1411,7 @@
     "background": {
       "id": 9
     },
-    "character": [
+    "characters": [
       {
         "name": "Thunder50",
         "face": 0
@@ -1431,7 +1431,7 @@
     "background": {
       "id": 9
     },
-    "character": [
+    "characters": [
       {
         "name": "Thunder50",
         "face": 0
@@ -1451,7 +1451,7 @@
     "background": {
       "id": 9
     },
-    "character": [
+    "characters": [
       {
         "name": "Thunder50",
         "face": 0
@@ -1471,7 +1471,7 @@
     "background": {
       "id": 9
     },
-    "character": [
+    "characters": [
       {
         "name": "Thunder50",
         "face": 0
@@ -1491,7 +1491,7 @@
     "background": {
       "id": 9
     },
-    "character": [
+    "characters": [
       {
         "name": "Thunder50",
         "face": 0
@@ -1511,7 +1511,7 @@
     "background": {
       "id": 9
     },
-    "character": [
+    "characters": [
       {
         "name": "Thunder50",
         "face": 0
@@ -1531,7 +1531,7 @@
     "background": {
       "id": 9
     },
-    "character": [
+    "characters": [
       {
         "name": "Thunder50",
         "face": 0
@@ -1554,7 +1554,7 @@
     "sound": {
       "bgm": "BGM_Empty"
     },
-    "character": [
+    "characters": [
       {
         "name": "Thunder50",
         "face": 0
@@ -1574,7 +1574,7 @@
     "background": {
       "id": 9
     },
-    "character": [
+    "characters": [
       {
         "name": "Thunder50",
         "face": 0
@@ -1594,7 +1594,7 @@
     "background": {
       "id": 9
     },
-    "character": [
+    "characters": [
       {
         "name": "Thunder50",
         "face": 0
@@ -1614,7 +1614,7 @@
     "background": {
       "id": 9
     },
-    "character": [
+    "characters": [
       {
         "name": "Thunder50",
         "face": 0
@@ -1637,7 +1637,7 @@
     "sound": {
       "bgm": "DJMAX_Nightmare"
     },
-    "character": [
+    "characters": [
       {
         "name": "Thunder50",
         "face": 0
@@ -1657,7 +1657,7 @@
     "background": {
       "id": 9
     },
-    "character": [
+    "characters": [
       {
         "name": "Thunder50",
         "face": 0
@@ -1677,7 +1677,7 @@
     "background": {
       "id": 9
     },
-    "character": [
+    "characters": [
       {
         "name": "M950A",
         "face": 0
@@ -1693,7 +1693,7 @@
     "background": {
       "id": 9
     },
-    "character": [
+    "characters": [
       {
         "name": "Thunder50",
         "face": 0
@@ -1713,7 +1713,7 @@
     "sound": {
       "se1": "Select"
     },
-    "character": [
+    "characters": [
       {
         "name": "Thunder50",
         "face": 0

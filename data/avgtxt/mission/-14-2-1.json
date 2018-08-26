@@ -8,243 +8,375 @@
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "琪亚娜"
       }
-    ]
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "琪亚娜"
+    }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "Vector"
       }
-    ]
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "Vector"
+    }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "琪亚娜"
       }
-    ]
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "琪亚娜"
+    }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "Vector"
       }
-    ]
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "Vector"
+    }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "琪亚娜"
       }
-    ]
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "琪亚娜"
+    }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "Vector"
       }
-    ]
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "Vector"
+    }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "琪亚娜"
       }
-    ]
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "琪亚娜"
+    }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "Vector"
       }
-    ]
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "Vector"
+    }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "琪亚娜"
       }
-    ]
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "琪亚娜"
+    }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "Vector"
       }
-    ]
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "Vector"
+    }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "琪亚娜"
       }
-    ]
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "琪亚娜"
+    }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "Vector"
       }
-    ]
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "Vector"
+    }
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "琪亚娜"
       }
-    ]
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "琪亚娜"
+    }
   },
   {
     "background": {
       "id": 90
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "Vector"
       }
-    ]
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "Vector"
+    }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "琪亚娜"
       }
-    ]
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "琪亚娜"
+    }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "Vector"
       }
-    ]
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "Vector"
+    }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "琪亚娜"
       }
-    ]
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "琪亚娜"
+    }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "Vector"
       }
-    ]
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "Vector"
+    }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "琪亚娜"
       }
-    ]
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "琪亚娜"
+    }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "Vector"
       }
-    ]
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "Vector"
+    }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "琪亚娜"
       }
-    ]
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "琪亚娜"
+    }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "Vector"
       }
-    ]
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "Vector"
+    }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "琪亚娜"
       }
-    ]
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "琪亚娜"
+    }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "Vector"
       }
-    ]
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "Vector"
+    }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "琪亚娜"
       }
-    ]
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "琪亚娜"
+    }
   },
   {},
   {
-    "character": [
+    "characters": [
       {
         "name": "Vector"
       }
     ],
+    "speaker": {
+      "index": 0,
+      "name": "Vector"
+    },
     "text": "왜 그래?"
   },
   {
-    "character": [
-      {
-        "name": "琪亚娜"
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": "Vector"
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": "琪亚娜"
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": "Vector"
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": "琪亚娜"
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": "Vector"
-      }
-    ]
-  },
-  {
-    "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "琪亚娜"
       }
     ],
+    "speaker": {
+      "index": 0,
+      "name": "琪亚娜"
+    }
+  },
+  {
+    "characters": [
+      {
+        "name": "Vector"
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "Vector"
+    }
+  },
+  {
+    "characters": [
+      {
+        "name": "琪亚娜"
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "琪亚娜"
+    }
+  },
+  {
+    "characters": [
+      {
+        "name": "Vector"
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "Vector"
+    }
+  },
+  {
+    "characters": [
+      {
+        "name": "琪亚娜"
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "琪亚娜"
+    }
+  },
+  {
+    "characters": [
+      {
+        "name": "Vector"
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "Vector"
+    }
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "琪亚娜"
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "琪亚娜"
+    },
     "text": "뭐라고요?"
   },
   {
@@ -252,40 +384,60 @@
       "id": 91
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "Vector"
       }
-    ]
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "Vector"
+    }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "琪亚娜"
       }
-    ]
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "琪亚娜"
+    }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "Vector"
       }
-    ]
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "Vector"
+    }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "琪亚娜"
       }
-    ]
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "琪亚娜"
+    }
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "Vector"
       }
-    ]
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "Vector"
+    }
   },
   {
     "background": {
@@ -300,38 +452,54 @@
     "sound": {
       "bgm": "BGM_Sneak"
     },
-    "character": [
+    "characters": [
       {
         "name": "琪亚娜"
       }
-    ]
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "琪亚娜"
+    }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "Vector",
         "face": 0
       }
-    ]
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "Vector"
+    }
   },
   {},
   {
-    "character": [
+    "characters": [
       {
         "name": "琪亚娜"
       }
-    ]
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "琪亚娜"
+    }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "Vector",
         "face": 0
       }
-    ]
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "Vector"
+    }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "Vector",
         "face": 0
@@ -343,18 +511,19 @@
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "Vector",
         "face": 0
       }
     ],
     "speaker": {
-      "index": 0
+      "index": 0,
+      "name": "Vector"
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "Vector",
         "face": 0
@@ -366,18 +535,19 @@
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "Vector",
         "face": 0
       }
     ],
     "speaker": {
-      "index": 0
+      "index": 0,
+      "name": "Vector"
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "Vector",
         "face": 0
@@ -389,18 +559,19 @@
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "Vector",
         "face": 0
       }
     ],
     "speaker": {
-      "index": 0
+      "index": 0,
+      "name": "Vector"
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "Vector",
         "face": 0
@@ -412,18 +583,19 @@
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "Vector",
         "face": 0
       }
     ],
     "speaker": {
-      "index": 0
+      "index": 0,
+      "name": "Vector"
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "Vector",
         "face": 0
@@ -435,7 +607,7 @@
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "Vector",
         "face": 0
@@ -446,18 +618,19 @@
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "Vector",
         "face": 0
       }
     ],
     "speaker": {
-      "index": 0
+      "index": 0,
+      "name": "Vector"
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "Vector",
         "face": 0
@@ -469,18 +642,19 @@
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "Vector",
         "face": 0
       }
     ],
     "speaker": {
-      "index": 0
+      "index": 0,
+      "name": "Vector"
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "Vector",
         "face": 0
@@ -492,15 +666,19 @@
     "text": "......삑."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "Vector",
         "face": 0
       }
-    ]
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "Vector"
+    }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "Vector",
         "face": 0
@@ -512,12 +690,13 @@
       }
     ],
     "speaker": {
-      "index": 1
+      "index": 1,
+      "name": "PP90"
     }
   },
   {
     "screenEffect": "shockScreen",
-    "character": [
+    "characters": [
       {
         "name": "Vector",
         "face": 0
@@ -528,57 +707,68 @@
       }
     ],
     "speaker": {
-      "index": 1
+      "index": 1,
+      "name": "PP90"
     }
   },
   {
-    "character": [
-      {
-        "name": "琪亚娜"
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": "Vector",
-        "face": 0
-      },
-      {
-        "name": "PP90",
-        "face": 0
-      }
-    ],
-    "speaker": {
-      "index": 1
-    }
-  },
-  {
-    "character": [
-      {
-        "name": "Vector",
-        "face": 0
-      },
-      {
-        "name": "PP90",
-        "face": 0
-      }
-    ],
-    "speaker": {
-      "index": 0
-    }
-  },
-  {
-    "character": [
+    "characters": [
       {
         "name": "琪亚娜"
       }
     ],
+    "speaker": {
+      "index": 0,
+      "name": "琪亚娜"
+    }
+  },
+  {
+    "characters": [
+      {
+        "name": "Vector",
+        "face": 0
+      },
+      {
+        "name": "PP90",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "PP90"
+    }
+  },
+  {
+    "characters": [
+      {
+        "name": "Vector",
+        "face": 0
+      },
+      {
+        "name": "PP90",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "Vector"
+    }
+  },
+  {
+    "characters": [
+      {
+        "name": "琪亚娜"
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "琪亚娜"
+    },
     "text": "......"
   },
   {
     "screenEffect": "shockScreen",
-    "character": [
+    "characters": [
       {
         "name": "Vector",
         "face": 0
@@ -589,17 +779,94 @@
       }
     ],
     "speaker": {
-      "index": 1
+      "index": 1,
+      "name": "PP90"
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "Vector",
         "face": 0
       },
       {
         "name": "PP90",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "Vector"
+    }
+  },
+  {
+    "characters": [
+      {
+        "name": "Vector",
+        "face": 0
+      },
+      {
+        "name": "PP90",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "PP90"
+    }
+  },
+  {
+    "characters": [
+      {
+        "name": "Vector",
+        "face": 0
+      },
+      {
+        "name": "PP90",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "Vector"
+    }
+  },
+  {
+    "characters": [
+      {
+        "name": "Vector",
+        "face": 0
+      },
+      {
+        "name": "PP90",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "PP90"
+    }
+  },
+  {
+    "characters": [
+      {
+        "name": "Vector",
+        "face": 0
+      },
+      {
+        "name": "PP90",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "Vector"
+    }
+  },
+  {
+    "characters": [
+      {
+        "name": "Vector",
         "face": 0
       }
     ],
@@ -608,78 +875,7 @@
     }
   },
   {
-    "character": [
-      {
-        "name": "Vector",
-        "face": 0
-      },
-      {
-        "name": "PP90",
-        "face": 0
-      }
-    ],
-    "speaker": {
-      "index": 1
-    }
-  },
-  {
-    "character": [
-      {
-        "name": "Vector",
-        "face": 0
-      },
-      {
-        "name": "PP90",
-        "face": 0
-      }
-    ],
-    "speaker": {
-      "index": 0
-    }
-  },
-  {
-    "character": [
-      {
-        "name": "Vector",
-        "face": 0
-      },
-      {
-        "name": "PP90",
-        "face": 0
-      }
-    ],
-    "speaker": {
-      "index": 1
-    }
-  },
-  {
-    "character": [
-      {
-        "name": "Vector",
-        "face": 0
-      },
-      {
-        "name": "PP90",
-        "face": 0
-      }
-    ],
-    "speaker": {
-      "index": 0
-    }
-  },
-  {
-    "character": [
-      {
-        "name": "Vector",
-        "face": 0
-      }
-    ],
-    "speaker": {
-      "index": 0
-    }
-  },
-  {
-    "character": [
+    "characters": [
       {
         "name": "Vector",
         "face": 0
@@ -691,18 +887,19 @@
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "Vector",
         "face": 0
       }
     ],
     "speaker": {
-      "index": 0
+      "index": 0,
+      "name": "Vector"
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "Vector",
         "face": 0
@@ -714,18 +911,19 @@
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "Vector",
         "face": 0
       }
     ],
     "speaker": {
-      "index": 0
+      "index": 0,
+      "name": "Vector"
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "Vector",
         "face": 0
@@ -737,23 +935,28 @@
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "Vector",
         "face": 0
       }
     ],
     "speaker": {
-      "index": 0
+      "index": 0,
+      "name": "Vector"
     }
   },
   {},
   {
-    "character": [
+    "characters": [
       {
         "name": "琪亚娜"
       }
-    ]
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "琪亚娜"
+    }
   },
   {
     "screenEffect": "dark1"
@@ -765,13 +968,17 @@
     "screenEffect": "dark2"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "PP90",
         "face": 0,
         "inCommunicationBox": true
       }
-    ]
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "PP90"
+    }
   },
   {
     "background": {

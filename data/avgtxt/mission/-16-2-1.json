@@ -16,7 +16,7 @@
     "sound": {
       "se2": "AVG_Rain2"
     },
-    "character": [
+    "characters": [
       {
         "name": "AK12"
       }
@@ -32,7 +32,7 @@
       "bgm": "BGM_Truth",
       "se1": "AVG_Rain2"
     },
-    "character": [
+    "characters": [
       {
         "name": "낯익은 인형의 목소리"
       }
@@ -43,7 +43,7 @@
     "background": {
       "id": 113
     },
-    "character": [
+    "characters": [
       {
         "name": "AK12"
       }
@@ -54,7 +54,7 @@
     "background": {
       "id": 113
     },
-    "character": [
+    "characters": [
       {
         "name": "낯익은 인형의 목소리"
       }
@@ -68,7 +68,7 @@
     "sound": {
       "se2": "AVG_Rain2"
     },
-    "character": [
+    "characters": [
       {
         "name": "AK12"
       }
@@ -79,7 +79,7 @@
     "background": {
       "id": 113
     },
-    "character": [
+    "characters": [
       {
         "name": "낯익은 인형의 목소리"
       }
@@ -90,7 +90,7 @@
     "background": {
       "id": 113
     },
-    "character": [
+    "characters": [
       {
         "name": "AK12"
       }
@@ -104,7 +104,7 @@
     "sound": {
       "se1": "AVG_Rain2"
     },
-    "character": [
+    "characters": [
       {
         "name": "낯익은 인형의 목소리"
       }
@@ -115,7 +115,7 @@
     "background": {
       "id": 113
     },
-    "character": [
+    "characters": [
       {
         "name": "낯익은 인형의 목소리"
       }
@@ -126,7 +126,7 @@
     "background": {
       "id": 113
     },
-    "character": [
+    "characters": [
       {
         "name": "AK12"
       }
@@ -148,7 +148,7 @@
     "sound": {
       "se2": "AVG_Rain2"
     },
-    "character": [
+    "characters": [
       {
         "name": "AK12"
       }
@@ -167,7 +167,7 @@
       "id": 130
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "AK12"
       }
@@ -179,7 +179,7 @@
       "id": 130
     },
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "AK12"
       }
@@ -191,7 +191,7 @@
       "id": 131
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "AK12"
       }
@@ -206,7 +206,7 @@
     "sound": {
       "bgm": "BGM_Empty"
     },
-    "character": [
+    "characters": [
       {
         "name": "AK12",
         "face": 0
@@ -222,7 +222,7 @@
     "background": {
       "id": 99
     },
-    "character": [
+    "characters": [
       {
         "name": "AK12",
         "face": 0
@@ -246,7 +246,7 @@
     "sound": {
       "bgm": "BGM_Sneak"
     },
-    "character": [
+    "characters": [
       {
         "name": "AK12",
         "face": 0
@@ -266,7 +266,7 @@
     "background": {
       "id": 99
     },
-    "character": [
+    "characters": [
       {
         "name": "AK12",
         "face": 0
@@ -286,7 +286,7 @@
     "background": {
       "id": 99
     },
-    "character": [
+    "characters": [
       {
         "name": "AK12",
         "face": 0
@@ -306,7 +306,7 @@
     "background": {
       "id": 99
     },
-    "character": [
+    "characters": [
       {
         "name": "AK12",
         "face": 0
@@ -326,7 +326,7 @@
     "background": {
       "id": 99
     },
-    "character": [
+    "characters": [
       {
         "name": "AK12",
         "face": 0
@@ -346,7 +346,7 @@
     "background": {
       "id": 99
     },
-    "character": [
+    "characters": [
       {
         "name": "AK12",
         "face": 0
@@ -366,7 +366,7 @@
     "background": {
       "id": 99
     },
-    "character": [
+    "characters": [
       {
         "name": "AK12",
         "face": 0
@@ -381,7 +381,7 @@
     "background": {
       "id": 99
     },
-    "character": [
+    "characters": [
       {
         "name": "AK12",
         "face": 0
@@ -397,7 +397,7 @@
     "background": {
       "id": 99
     },
-    "character": [
+    "characters": [
       {
         "name": "AK12",
         "face": 0
@@ -413,7 +413,7 @@
     "background": {
       "id": 99
     },
-    "character": [
+    "characters": [
       {
         "name": "AK12",
         "face": 0
@@ -433,7 +433,7 @@
     "background": {
       "id": 99
     },
-    "character": [
+    "characters": [
       {
         "name": "AK12",
         "face": 0
@@ -453,7 +453,7 @@
     "background": {
       "id": 99
     },
-    "character": [
+    "characters": [
       {
         "name": "AK12",
         "face": 0
@@ -473,7 +473,7 @@
     "background": {
       "id": 99
     },
-    "character": [
+    "characters": [
       {
         "name": "AK12",
         "face": 0
@@ -493,7 +493,7 @@
     "background": {
       "id": 99
     },
-    "character": [
+    "characters": [
       {
         "name": "AK12",
         "face": 0
@@ -513,7 +513,7 @@
     "background": {
       "id": 99
     },
-    "character": [
+    "characters": [
       {
         "name": "AK12",
         "face": 0
@@ -533,7 +533,7 @@
     "background": {
       "id": 99
     },
-    "character": [
+    "characters": [
       {
         "name": "AK12",
         "face": 0
@@ -553,7 +553,7 @@
     "background": {
       "id": 99
     },
-    "character": [
+    "characters": [
       {
         "name": "AK12",
         "face": 0
@@ -573,7 +573,7 @@
     "background": {
       "id": 99
     },
-    "character": [
+    "characters": [
       {
         "name": "AK12",
         "face": 0
@@ -593,7 +593,7 @@
     "background": {
       "id": 99
     },
-    "character": [
+    "characters": [
       {
         "name": "AK12",
         "face": 0
@@ -613,7 +613,7 @@
     "background": {
       "id": 99
     },
-    "character": [
+    "characters": [
       {
         "name": "AK12",
         "face": 0
@@ -633,7 +633,7 @@
     "background": {
       "id": 99
     },
-    "character": [
+    "characters": [
       {
         "name": "AK12",
         "face": 0
@@ -653,7 +653,7 @@
     "background": {
       "id": 99
     },
-    "character": [
+    "characters": [
       {
         "name": "AK12",
         "face": 0
@@ -673,7 +673,7 @@
     "background": {
       "id": 99
     },
-    "character": [
+    "characters": [
       {
         "name": "AK12",
         "face": 0
@@ -693,7 +693,7 @@
     "background": {
       "id": 99
     },
-    "character": [
+    "characters": [
       {
         "name": "AK12",
         "face": 0
@@ -713,7 +713,7 @@
     "background": {
       "id": 99
     },
-    "character": [
+    "characters": [
       {
         "name": "AK12",
         "face": 0
@@ -733,7 +733,7 @@
     "background": {
       "id": 99
     },
-    "character": [
+    "characters": [
       {
         "name": "AK12",
         "face": 0
@@ -753,7 +753,7 @@
     "background": {
       "id": 99
     },
-    "character": [
+    "characters": [
       {
         "name": "AK12",
         "face": 0
@@ -773,7 +773,7 @@
     "background": {
       "id": 99
     },
-    "character": [
+    "characters": [
       {
         "name": "AK12",
         "face": 0
@@ -794,7 +794,7 @@
       "id": 99
     },
     "screenEffect": "blackSpot1",
-    "character": [
+    "characters": [
       {
         "name": "AK12",
         "face": 0
@@ -815,7 +815,7 @@
       "id": 10
     },
     "screenEffect": "blackSpot2",
-    "character": [
+    "characters": [
       {
         "name": "AR15Mod",
         "face": 0
@@ -828,7 +828,7 @@
     "text": "여기서 M4A1이 있는 곳까지는 거리가 꽤 되는데, 좋은 방법 있어?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AK12",
         "face": 0
@@ -845,7 +845,7 @@
     "text": "내가 무인 택시를 부를 테니, 그걸 타고 편하게 목적지까지 가도록 하자. 이 정도면 좋은 방법이지?+장난이고, 당연히 걸어가야지."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AK12",
         "face": 0
@@ -862,7 +862,7 @@
     "text": "우리 둘만 가도 괜찮을까?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AK12",
         "face": 0
@@ -878,7 +878,7 @@
     "text": "가는 길목에 생존해 있는 그리폰 인형들이 제법 있으니, 회수하면서 명령을 임시로 덮어씌우면 충분할 거야.+어때? 옛 전우를 돕고 싶지 않아?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AK12",
         "face": 0

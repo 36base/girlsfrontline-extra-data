@@ -13,7 +13,7 @@
     "sound": {
       "se2": "Gunfight"
     },
-    "character": [
+    "characters": [
       {
         "name": "FN49",
         "face": 0
@@ -22,7 +22,7 @@
     "text": "저, 저기! FNC, 저 탄약이 부족해요!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "FNFNC",
         "face": 0
@@ -31,7 +31,7 @@
     "text": "우......내걸 줄 수도 없는 걸."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "VZ61",
         "face": 1
@@ -40,7 +40,7 @@
     "text": "어이! 거기 너희들 뭐하는 거야, 이쪽은 쏘지 말라고 했잖아!+아래층에 적이 너무 많아, 이러다간 못버틴다고!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "FN49",
         "face": 0
@@ -52,7 +52,7 @@
     "sound": {
       "se2": "Gunfight"
     },
-    "character": [
+    "characters": [
       {
         "name": "VZ61",
         "face": 1
@@ -64,7 +64,7 @@
     "sound": {
       "se1": "Battlefield"
     },
-    "character": [
+    "characters": [
       {
         "name": "FNFNC",
         "face": 0
@@ -73,7 +73,7 @@
     "text": "하지만 아래층 적은 더 먼 곳에 있어!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "VZ61",
         "face": 1
@@ -85,7 +85,7 @@
     "sound": {
       "se2": "Gunfight"
     },
-    "character": [
+    "characters": [
       {
         "name": "FN49",
         "face": 0
@@ -94,7 +94,7 @@
     "text": "하지만 여기 적들 화력이 너무 강해요!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "VZ61",
         "face": 1
@@ -104,7 +104,7 @@
   },
   {
     "screenEffect": "shockScreen",
-    "character": [
+    "characters": [
       {
         "name": "VZ61",
         "face": 1
@@ -124,7 +124,7 @@
     "text": "......타앙!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "FN49",
         "face": 0
@@ -133,7 +133,7 @@
     "text": "저기......아래층이 뚫린 것 같아요!+에? 당신들은......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 0
@@ -142,7 +142,7 @@
     "text": "여러분, 사격을 중지하시고, 3층의 숙소 로비로 돌아가세요!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "FN49",
         "face": 0
@@ -151,7 +151,7 @@
     "text": "에? 당신은......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "FNFNC",
         "face": 0
@@ -161,7 +161,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "VZ61",
         "face": 1
@@ -181,7 +181,7 @@
       "bgm": "BGM_Sneak",
       "se1": "Battlefield"
     },
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3
@@ -194,7 +194,7 @@
     "text": "M4, VZ61쪽이 마지막이야. 지금 2층에서 4층의 인형은 모두 여기에 있어.+(전해주며) 이 명단에 있는 인형은 중상이라 전투에 참여할 수 없어."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 0
@@ -203,7 +203,7 @@
     "text": "알겠습니다. 적합한 인형을 보내 돌볼 수 있도록 할게요."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "SOPII",
         "face": 3
@@ -216,7 +216,7 @@
     "text": "그럼 1층과 지하에 있는 인형은 어쩌고?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "FNFNC",
         "face": 0
@@ -225,7 +225,7 @@
     "text": "당연히 아래로 쳐들어가서 그 애들을 구해야지!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "FN49",
         "face": 0
@@ -234,7 +234,7 @@
     "text": "하지만......지금 통신은 완전히 차단당했고, 무턱대고 들어가는건 분명 위험할 텐데......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NEGEV",
         "face": 0
@@ -250,7 +250,7 @@
     "sound": {
       "se1": "Battlefield"
     },
-    "character": [
+    "characters": [
       {
         "name": "FNFNC",
         "face": 0
@@ -259,7 +259,7 @@
     "text": "지휘자? 하지만 지휘관은 여기 없는데......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "FN49",
         "face": 0
@@ -268,7 +268,7 @@
     "text": "(흐느끼며)지휘관님이 아직 안왔어요......설마 우리를 포기한건......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "VZ61",
         "face": 1
@@ -277,7 +277,7 @@
     "text": "야, 막 내뱉지 말라고!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 3
@@ -286,7 +286,7 @@
     "text": "여러분, 제 말을 들어주세요."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 0
@@ -295,7 +295,7 @@
     "text": "여러분, 눈치 채셨나요? 철혈의 공세가 한시간 전보다 훨씬 약해졌어요......+이건 즉, 지휘관이 외곽에서 적들을 많이 해치워줬다는 뜻이에요......우리를 위해서요......+지휘관님은 때맞춰 왔어요. 게다가 최대한으로 우리를 도와주고 있고요......+우리는 그저 남은 적들을 해치우기만 하면 구조받을 수 있어요."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "VZ61",
         "face": 1
@@ -304,7 +304,7 @@
     "text": "하지만 어떻게 내려가라고? 지금 우리한테는 자율 셋팅같은게 아무 것도 없는데......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 0
@@ -313,7 +313,7 @@
     "text": "자율 셋팅은 필요 없습니다. 제가 여러분을 지휘할게요.+저는 16LAB에서 제조된 특수 인형, 고효율의 지휘 모듈을 탑재하고 있어요.+필요시 제가 지휘관 대신 명령을 내릴 수 있으며, 전자 통신이 먹통이지만 육성이라도 지휘에는 문제 없어요."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "FN49",
         "face": 0
@@ -322,7 +322,7 @@
     "text": "저기......그 말씀은, 지금은 당신이 바로 우리의 지휘관이라는 거, 맞나요?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "FNFNC",
         "face": 0
@@ -335,7 +335,7 @@
     "sound": {
       "bgm": "BGM_Empty"
     },
-    "character": [
+    "characters": [
       {
         "name": "VZ61",
         "face": 1
@@ -348,7 +348,7 @@
       "id": 20
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "VZ61"
       }
@@ -363,7 +363,7 @@
     "sound": {
       "bgm": "BGM_Frontline"
     },
-    "character": [
+    "characters": [
       {
         "name": "VZ61",
         "face": 1
@@ -372,7 +372,7 @@
     "text": "그러니 난 그녀를 믿어. 적어도, 그녀의 능력을 믿어!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "FN49",
         "face": 0
@@ -381,7 +381,7 @@
     "text": "제, 제 생각에도, 여기에 숨느니, 차라리 모두 같이 한 번 걸어보는 게 낫다고 생각해요!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "FNFNC",
         "face": 0
@@ -390,7 +390,7 @@
     "text": "으......다들 그렇다면야......+M4, 우리를 데리고 벗어날 수 있는 거지? 그렇지?!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 0
@@ -399,7 +399,7 @@
     "text": "(끄덕이며) 네.+최선을 다해 임시 지휘관을 맡아, 모두에게 승리를 가져오도록 하겠습니다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 0
@@ -413,7 +413,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 0
@@ -426,7 +426,7 @@
       "id": 9
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }

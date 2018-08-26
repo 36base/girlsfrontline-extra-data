@@ -9,11 +9,15 @@
     "text": "......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "破坏者"
       }
-    ]
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "破坏者"
+    }
   },
   {
     "sound": {
@@ -25,57 +29,81 @@
     "sound": {
       "bgm": "BGM_Truth"
     },
-    "character": [
+    "characters": [
       {
         "name": "破坏者"
       }
-    ]
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "破坏者"
+    }
   },
   {},
   {
-    "character": [
+    "characters": [
       {
         "name": "芽衣"
       }
-    ]
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "芽衣"
+    }
   },
   {
     "text": "......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "芽衣"
       }
-    ]
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "芽衣"
+    }
   },
   {
     "text": "......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "芽衣"
       }
-    ]
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "芽衣"
+    }
   },
   {
     "text": "......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "破坏者"
       }
-    ]
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "破坏者"
+    }
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "破坏者"
       }
-    ]
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "破坏者"
+    }
   },
   {
     "background": {
@@ -91,25 +119,30 @@
     "sound": {
       "bgm": "BGM_Sneak"
     },
-    "character": [
+    "characters": [
       {
         "name": "琪亚娜"
       }
-    ]
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "琪亚娜"
+    }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "PP90",
         "face": 0
       }
     ],
     "speaker": {
-      "index": 0
+      "index": 0,
+      "name": "PP90"
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "PP90",
         "face": 0
@@ -121,7 +154,7 @@
     "text": "......삑."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "PP90",
         "face": 0
@@ -138,7 +171,7 @@
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "PP90",
         "face": 0
@@ -155,7 +188,7 @@
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "PP90",
         "face": 0
@@ -171,7 +204,7 @@
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RaidenMei",
         "face": 0
@@ -187,7 +220,7 @@
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "PP90",
         "face": 0
@@ -198,12 +231,13 @@
       }
     ],
     "speaker": {
-      "index": 0
+      "index": 0,
+      "name": "PP90"
     }
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "PP90",
         "face": 0
@@ -223,208 +257,5 @@
       "id": 10
     },
     "screenEffect": "blackSpot2"
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
   }
 ]

@@ -9,7 +9,7 @@
     "text": "............+........................"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "UMP45",
         "face": 2
@@ -18,7 +18,7 @@
     "text": "너무 길어...+왜 이리 오래 걸리는 거야..."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "UMP9",
         "face": 2
@@ -27,7 +27,7 @@
     "text": "이제 더 기다릴 수 없어, 45.+이제 늦어도 3분정도면 기지의 전원과 통신설비가 복구될 거야.+일단 예비 전원이 다시 기동하면, 우린 도망갈 수 없게 돼버려!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "UMP45",
         "face": 2
@@ -36,7 +36,7 @@
     "text": "시간이 없어, 이탈할 준비하자."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "G11",
         "face": 2
@@ -45,7 +45,7 @@
     "text": "어? 임무 포기하는 거야?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "UMP45",
         "face": 2
@@ -54,7 +54,7 @@
     "text": "우린 이미 통로를 열었어.+계획에 따르면 AR팀은 근처에서 대기중일테니, 그녀들은 분명 돌파할 기회가 있을거야."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "HK416",
         "face": 0
@@ -63,7 +63,7 @@
     "text": "어이, 45!+AR팀만 돌아가면, 다른 사람들은! M1887과 다른 이들은 아직 전장에 있잖아!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "UMP45",
         "face": 2
@@ -72,7 +72,7 @@
     "text": "그건 우리 목표가 아니야, 416."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "HK416",
         "face": 2
@@ -81,7 +81,7 @@
     "text": "............+9는? 네 생각은?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "UMP9",
         "face": 2
@@ -90,7 +90,7 @@
     "text": "난....난 그저 45언니 말을 들을 뿐이야...+비록 나도 AR팀을 싫어하지 않지만...+하지만...공과 사를 지켜라. 그렇잖아...."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "HK416",
         "face": 0
@@ -99,7 +99,7 @@
     "text": "......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "G11",
         "face": 2
@@ -108,7 +108,7 @@
     "text": "난...난 명령만 들을 뿐이야, 나한테 의견을 묻지마."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "HK416",
         "face": 0
@@ -117,7 +117,7 @@
     "text": "AR팀은 동의하지 않을거야, 그녀들은 우리와 달라."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "UMP45",
         "face": 2
@@ -126,7 +126,7 @@
     "text": "그녀들은 결국엔 동의하게 될거야, 이건 유일한 기회니까.+우리와 같이 살아남든, 그녀들과 여기서 쓰러지든, 모든 이들을 다 구할 순 없어."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "HK416",
         "face": 0
@@ -135,7 +135,7 @@
     "text": ".......45, 넌 처음부터 이럴 계획이었어?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "UMP45",
         "face": 2
@@ -144,7 +144,7 @@
     "text": "왜 아니겠어, 416?+넌 아직 여기에 남을 준비를 하지 않았어, 그렇지?+잘 생각해, 넌 M16이 있는 곳에 갈 수 없어, 그 【소대】는 일찍이 없어졌다고!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "HK416",
         "face": 0
@@ -153,7 +153,7 @@
     "text": "......!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "UMP45",
         "face": 2
@@ -162,7 +162,7 @@
     "text": "너의 그 가련한 신중함을 버리도록 해, 우리들과 완전히 섞이고 싶다면....+우리가 그들의 오점이 되어야만, 그들이 우리를 진정으로 신경쓰게 될 거야."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "G11",
         "face": 0
@@ -171,7 +171,7 @@
     "text": "45......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "UMP9",
         "face": 2
@@ -180,7 +180,7 @@
     "text": "45언니......+3분이 곧 다 되어가, 그런데 아직 RO가 응답을..."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "UMP45",
         "face": 2
@@ -189,7 +189,7 @@
     "text": "....? 그녀들의 좌표로 봐선 분명 이 부근이어야 할 텐데."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "UMP9",
         "face": 2
@@ -198,7 +198,7 @@
     "text": "없어, 그녀들이 우리 감시 범위 내에 없어..."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "G11",
         "face": 2
@@ -210,7 +210,7 @@
     "sound": {
       "bgm": "BGM_Empty"
     },
-    "character": [
+    "characters": [
       {
         "name": "RO635",
         "face": 0,
@@ -220,7 +220,7 @@
     "text": "미안해요. 45. 여러분을 기다리게 했어요.+작전을 조금 바꿨어요.+저희는 원래 계획이었던 아키텍트의 기지를 습격하지 않고, 다른 곳의 거점을 점령했어요."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "UMP45",
         "face": 2
@@ -236,7 +236,7 @@
     "text": "너희들...뭐하는 거야?+이런 식이라면, 우리 상황이 매우 위험하다는 거 아냐?+일단 전원이 회복된다면 제일 먼저 당하는건 우리잖아.+넌 은인이 감수할 일은 고려한 거야? RO635."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "UMP45",
         "face": 2
@@ -255,7 +255,7 @@
     "sound": {
       "se2": "Gunfight"
     },
-    "character": [
+    "characters": [
       {
         "name": "UMP45",
         "face": 2
@@ -264,7 +264,7 @@
     "text": "......!+문 뒤에서 총소리가!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M1928A1",
         "face": 0,
@@ -274,7 +274,7 @@
     "text": "여어, 이거 아슬아슬하게 따라잡은 것 같은데.+청소 시작하자, 먼지 좀 잘 막아달라고..."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "WA2000",
         "face": 0,
@@ -298,7 +298,7 @@
     "sound": {
       "bgm": "BGM_Danger"
     },
-    "character": [
+    "characters": [
       {
         "name": "BOSS-9",
         "face": 0,
@@ -312,7 +312,7 @@
     "text": "아아아아아! 드디어 전원이 들어왔어!+게이저, 들었어!? 이제 저 쥐새끼들을 쓸어버릴 때야!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "BOSS-7",
         "face": 0
@@ -329,7 +329,7 @@
     "text": "아키텍트! 너 못들었어!?+기지 후방에 대량의 그리폰 지원군이 나타났으니까, 바로 거기서 이탈해, 어서!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "BOSS-7",
         "face": 0
@@ -346,7 +346,7 @@
     "text": "어......+어어어어어?! 어느 틈에 이렇게 많이?!+어이어이! 나의 기사 아가씨, 너는 상관의 위기를 방관하면 안 돼!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "BOSS-7",
         "face": 0
@@ -364,7 +364,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "BOSS-9",
         "face": 0
@@ -387,7 +387,7 @@
     "text": "......펑!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "BOSS-7",
         "face": 0
@@ -400,7 +400,7 @@
     "text": "아키텍트?!+대답해! 아키텍트!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "BOSS-8",
         "face": 0,
@@ -414,7 +414,7 @@
     "text": "포기하거라, 그녀는 실패했다.+그리폰이 지휘관을 보냈고, 그 제대가 이미 행동을 개시하였구나.+그 인형들, 네 수하의 포탑 설치 담당 부대가 상대할 순 없느니라."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "BOSS-7",
         "face": 0
@@ -431,7 +431,7 @@
     "text": "에이전트....+당신께선 모두 알고 계셨군요..."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "BOSS-7",
         "face": 0
@@ -448,7 +448,7 @@
     "text": "나는 아키텍트가 뭔가 큰 일을 해줄거라 기대하진 않았느니라. 다만...+만약 너희가 좀더 일찍 내게 알렸다면, 상황이 이렇게 되진 않았을 터..."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "BOSS-7",
         "face": 0
@@ -465,7 +465,7 @@
     "text": "......전 그녀들의 행동이 이렇게 빠를 거라곤...+이게 저희가 할 수 있는 최대한 이었습니다..."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "BOSS-7",
         "face": 0
@@ -482,7 +482,7 @@
     "text": "이건 직책을 정한 나의 실수...+나는 너희들이 함께 행동하면서 단련을 하길 기대했다만, 갑자기 난입한 쥐새끼가 계획을 망쳐놨구나...+게이저, 이번에는 수고 많았다. 남은 건 내게 맡기거라..."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "BOSS-7",
         "face": 0
@@ -500,7 +500,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "BOSS-8",
         "face": 0
@@ -520,7 +520,7 @@
     "text": "............같은시간, 철혈 기지의 총지휘실."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "BOSS-9",
         "face": 0
@@ -533,7 +533,7 @@
     "text": "으아! 통신이 왜 끊긴거야!+응? 설마...장비를 부서트린 거야?!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "WA2000",
         "face": 0,
@@ -543,7 +543,7 @@
     "text": "조용히 해, 아키텍트.+또 난동을 피우면, 네 머리통을 못쓰게 만들어 주겠어."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "BOSS-9",
         "face": 0
@@ -556,7 +556,7 @@
     "text": "............+뭐야, 저격수가 이미 자리를 잡은 거야?+하지만, 날 얕보지 마, 내가 처리할 수 있으니까!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M1928A1",
         "face": 0
@@ -572,7 +572,7 @@
     "text": "그래? 그럼 딱 좋아...+이번 일이 너무 간단해서 걱정이었거든."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M1928A1",
         "face": 0
@@ -589,7 +589,7 @@
     "text": "너....넌 또 누구야!+이렇게 많은 인형을 대려오다니, 불공평해!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M1928A1",
         "face": 0
@@ -606,7 +606,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "M1928A1",
         "face": 0
@@ -627,7 +627,7 @@
       "id": 50
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "아키텍트"
       }
@@ -635,7 +635,7 @@
     "text": "알겠어, 이러면 되는 거지?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M1928A1"
       }
@@ -643,7 +643,7 @@
     "text": "응? 이렇게 항복하는 거야?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "아키텍트"
       }
@@ -651,7 +651,7 @@
     "text": "어차피 내겐 끝까지 싸울 의무가 없어.+먹을 것과 마실 것만 있으면, 어딜가든지 다 똑같아.+어때? 잘 협조하도록 할게, 걱정마!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "헬리안"
       }
@@ -659,7 +659,7 @@
     "text": "......일단 그 녀석을 포박하여 모든 행위를 구속하고 데리고 돌아가도록 하죠."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "WA2000"
       }
@@ -667,7 +667,7 @@
     "text": "조심해, 톰슨. 함정일 수도 있어."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M1928A1"
       }
@@ -675,7 +675,7 @@
     "text": "난 어떠한 함정도 만나본 적 없어, 잔꾀를 부리는 시체만 봤을 뿐이지.+아키텍트, 넌 그런 똑똑한 녀석이 아니겠지. 그렇지?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "아키텍트"
       }
@@ -683,7 +683,7 @@
     "text": "아하하...그래. 난 바보니까!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "WA2000"
       }
@@ -692,7 +692,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "아키텍트"
       }
@@ -704,7 +704,7 @@
       "id": 9
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "아키텍트"
       }
@@ -723,7 +723,7 @@
       "id": 7
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "UMP45",
         "face": 0
@@ -732,7 +732,7 @@
     "text": "............+드디어 나타났네, RO."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO635",
         "face": 0
@@ -748,7 +748,7 @@
     "text": "......+제가 사과해야 하나요? 45."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO635",
         "face": 0
@@ -764,7 +764,7 @@
     "text": "왜 사과를 해? 넌 상관이잖아.+단지...+이런 선택이 M4A1과 뭐가 다른 거야?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO635",
         "face": 0
@@ -780,7 +780,7 @@
     "text": "제가 헬리안에게 연락한 이유 때문인가요?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO635",
         "face": 0
@@ -796,7 +796,7 @@
     "text": "네가 모두를 구하려고 했기 때문이야.+만약에 지휘관이 잘 따라와 주지 않았다면, 볼 것도 없이 전부 여기서 끝났을 거야...+......넌 이번에, 우리 모두를 여기서 묻어버릴 뻔 했다고."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO635",
         "face": 0
@@ -812,7 +812,7 @@
     "text": "저도 보고 알았어요.........+......당신이 줄곧 홀로 움직이고 홀로 판단하는 이유..."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "UMP45",
         "face": 2
@@ -821,7 +821,7 @@
     "text": "............+그럼 넌 결국 스스로 원해서 자아를 잃어버리고, 다른이의 대체품이 되기로 한 거야?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO635",
         "face": 0
@@ -837,7 +837,7 @@
     "text": "그럼...\"자아\"는 또 뭔가요?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO635",
         "face": 0
@@ -853,7 +853,7 @@
     "text": "......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO635",
         "face": 0
@@ -869,7 +869,7 @@
     "text": "전 원래...이 때만을 위해 나타났어요.+전 M4가 지키고 싶은 사람을 포기할 수 없어요.+그리고 M4가 믿는 사람이라면, 저 역시 믿을 수 있어요."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "UMP45",
         "face": 0
@@ -879,7 +879,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "RO635",
         "face": 2
@@ -895,7 +895,7 @@
     "sound": {
       "bgm": "BGM_Empty"
     },
-    "character": [
+    "characters": [
       {
         "name": "UMP45"
       }
@@ -903,7 +903,7 @@
     "text": "그래? 그건 매우 아쉽네...+......너는 곧, 우리를 모르게 될 거야."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO635"
       }
@@ -911,7 +911,7 @@
     "text": "......!+당신 손에 뭐가 있는 거죠?!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "UMP45",
         "face": 0
@@ -920,7 +920,7 @@
     "text": "무서워하지마, 이건 별 볼일 없는 권한 프로그램일 뿐이야.+너희의 클라우드 마인드맵에 침입한 다음, 무언가를 지울 거야....+그래...우리에...관한 것들을..."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO635"
       }
@@ -928,7 +928,7 @@
     "text": "UMP45, 당신들의..."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "UMP45",
         "face": 0
@@ -941,7 +941,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "UMP45"
       }
@@ -956,7 +956,7 @@
     "text": "............+..................10분 뒤."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "SOPII",
         "face": 2
@@ -969,7 +969,7 @@
     "text": "RO! RO!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO635",
         "face": 3
@@ -988,7 +988,7 @@
     "sound": {
       "bgm": "BGM_Frontline"
     },
-    "character": [
+    "characters": [
       {
         "name": "RO635",
         "face": 3
@@ -1005,7 +1005,7 @@
     "text": "너 왜 아직도 여기 앉아있어, 작전을 시작해야 한다고!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO635",
         "face": 3
@@ -1021,7 +1021,7 @@
     "text": "작전? 무슨 작전?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO635",
         "face": 3
@@ -1038,7 +1038,7 @@
     "text": "에이전트가 대량의 부대를 이끌고 들이닥쳤어, 우리가 녀석들을 막아야해!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO635",
         "face": 0
@@ -1047,7 +1047,7 @@
     "text": "......막는다고?+우리 지금 철수하고 있는 거 아니야?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3
@@ -1060,7 +1060,7 @@
     "text": "조금 상황이 바뀌었어, RO.+우리의 대형 운송기가 그 장난감을 가져갈 때까지 여길 막아야 해."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO635",
         "face": 0
@@ -1069,7 +1069,7 @@
     "text": "그 장난감? 무슨 장난감?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "SOPII",
         "face": 0
@@ -1083,7 +1083,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "RO635",
         "face": 4
@@ -1096,7 +1096,7 @@
       "id": 48
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "RO635"
       }
@@ -1104,7 +1104,7 @@
     "text": "너희들...농담하는 거지...?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16A1"
       }
@@ -1112,7 +1112,7 @@
     "text": "좀 있다가 다시 알려줄게, 에이전트의 부대가 오고있어!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4 SOPMOD II"
       }

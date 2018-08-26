@@ -3,7 +3,7 @@
     "background": {
       "id": 10
     },
-    "character": [
+    "characters": [
       {
         "name": "RO635",
         "face": 0
@@ -12,7 +12,7 @@
     "text": "조심해, 여긴 지형이 매우 가파르니까, 일단 한 번 내려가면 다시 올라올 수 없어."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3
@@ -25,7 +25,7 @@
     "text": "음......+우리 일단은 상황을 좀 더 살펴봐야 하는 게 아닐까......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "SOPII",
         "face": 0
@@ -38,7 +38,7 @@
     "text": "하하, 그럼 이건 미끄럼틀이네! 내가 간다──(미끄럼타며)"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3
@@ -51,7 +51,7 @@
     "text": "......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 0

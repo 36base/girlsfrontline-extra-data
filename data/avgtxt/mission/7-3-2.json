@@ -21,7 +21,7 @@
     "sound": {
       "bgm": "BGM_Room"
     },
-    "character": [
+    "characters": [
       {
         "name": "방송시스템"
       }
@@ -30,7 +30,7 @@
   },
   {
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 2
@@ -43,7 +43,7 @@
     "text": "후......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "m45",
         "face": 0
@@ -52,7 +52,7 @@
     "text": "AR팀 여러분, 이쪽으로 와주세요."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "SOPII",
         "face": 2
@@ -65,7 +65,7 @@
     "text": "아......겨우 끝났다......+매일 이런 꼴이라니, 언제까지 할 셈이야!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3
@@ -78,7 +78,7 @@
     "text": "16LAB에서 【우산】의 파해법을 연구중이야.+성과가 나오면 그제서야 자유겠지......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "SOPII",
         "face": 3
@@ -91,7 +91,7 @@
     "text": "쳇......빨리 좀 하라고 페르시카.+계속 이러다간 못 버틴다고......+AR-15는 이제 없지......그런데 철혈은 아직도 멋대로 굴고 있지......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3
@@ -104,7 +104,7 @@
     "text": "............+SOPII, 우린 반드시 복수할 거야.+헬리안이 약속했어, 우리가 나가는 대로 임무를 맡겨줄 거라고.+우린 계속해서 AR팀의 사명을 이어갈거야, 엘더 브레인의 정체를 알아낼 때 까지, 철혈의 내부를 샅샅히 뒤질거라고."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "SOPII",
         "face": 3
@@ -117,7 +117,7 @@
     "text": "그래? 난 더 못기다리겠어......+직접 엘더 브레인을 잡을때까지 못기다리겠다고!+아아아아아!!! 내보내줘! 박살낼 거야! 이빨을 뽑아버리고! 머리를 뜯어낼 거라고!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 3
@@ -126,7 +126,7 @@
     "text": "시끄러워요!+좀 조용히 해주세요!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "SOPII",
         "face": 2
@@ -139,7 +139,7 @@
     "text": "M4......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 2
@@ -151,7 +151,7 @@
     "text": ".............M4는 곧바로 앞으로 걸어나갔다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3
@@ -164,7 +164,7 @@
     "text": "진정하도록 해, SOPII+M4의 기분은 최악일 걸......+너도 알다시피, 어제 녹음에서 쟤는 곱절의 기운을 내서 지휘관에게 보여줬어.+결국......그 사건 이후, 그녀야 말로 죄책감이 가장 큰 사람일테니......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "m45",
         "face": 0
@@ -173,7 +173,7 @@
     "text": "저기......M4 씨, 저녁이 준비됐어요.+식당에서 드실 건가요. 아니면 제가 숙소로 가져다 드릴까요?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 0
@@ -182,7 +182,7 @@
     "text": "............+또 시나몬 롤인가요?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "m45",
         "face": 0
@@ -191,7 +191,7 @@
     "text": "죄송해요. 수용소 식재는 한정돼서, 제가 만들어 드릴 수 있는 건 시나몬 롤이랑 샌드위치 뿐이에요.+식단을 개선하려고 노력 중이에요. 내일은 새 음식을 내놓을 수 있도록 해볼게요."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "SOPII",
         "face": 2
@@ -204,7 +204,7 @@
     "text": "아...어쨌든 또 빵인 거지......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "m45",
         "face": 0
@@ -213,7 +213,7 @@
     "text": "정말 죄송해요. 안전을 위해, 본부에서 수용소 물자의 출입을 통제하고 있어요......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 0
@@ -226,7 +226,7 @@
     "text": "상관없어, 어쨌든 시나몬 롤이더라도, 너는 충분히 노력해주고 있으니까.+M4, 식당으로 가자, 좀 있다가 헬리안이랑 연락도 해야 돼."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "SOPII",
         "face": 0
@@ -242,7 +242,7 @@
     "sound": {
       "bgm": "BGM_Empty"
     },
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 2
@@ -251,7 +251,7 @@
     "text": "......+전 생각 없어요. 여러분들끼리 가세요."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "m45",
         "face": 0
@@ -263,7 +263,7 @@
     "sound": {
       "bgm": "BGM_Sneak"
     },
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 0
@@ -272,7 +272,7 @@
     "text": "......본부 요구, 맞나요?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 3
@@ -281,7 +281,7 @@
     "text": "그리폰의 요구라면, 어찌됐든 저는 무조건 따라야 한다는 뜻인가요?!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "m45",
         "face": 0
@@ -290,7 +290,7 @@
     "text": "M4 씨, 진정하세요......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 3
@@ -299,7 +299,7 @@
     "text": "무슨 근거로 절 가둔 건가요!+저희는 16LAB의 인형입니다. 애초에 그저 테스트용으로 그리폰에 빌려준 것 뿐이라고요!+젠장!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "m45",
         "face": 0
@@ -308,7 +308,7 @@
     "text": "우으......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3
@@ -321,7 +321,7 @@
     "text": "어이! M4, 다른 사람한테 그러지마!+M45는 그저 관리인원이지, 화가 나더라도 그녀한테 화풀이를 하지 말라고!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NEGEV",
         "face": 0
@@ -334,7 +334,7 @@
     "text": "어이 거기, 대체 무슨 일이야?+뭣 때문에 시끄러운건데?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 0
@@ -343,7 +343,7 @@
     "text": "......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "SOPII",
         "face": 2
@@ -356,7 +356,7 @@
     "text": "아, 네게브 씨......+M4가 조금 기분이 안좋아서 그래요. 시끄러웠어요?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NEGEV",
         "face": 0
@@ -369,7 +369,7 @@
     "text": "흥......뭐 괜찮아......+그런데 너희 대장은 무슨 일이지? 난 이렇게 멍때리고 있어도 딱히 불만은 없는데..."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 2
@@ -382,7 +382,7 @@
     "text": "어쩔 수 없는 거야, AR팀의 AI 구조는 IOP 계열의 인형과 좀 달라서 말이지.+가끔 감정 기복이 좀 심해......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NEGEV",
         "face": 0
@@ -395,7 +395,7 @@
     "text": "흥, 너희들은 전부 같은 16LAB의 실험품인데도 쟤만 죽을상이잖아.+어쨌든 조금은 대장답게 굴라고, 지금 모두 기분이 꿀꿀하니까.+내 입장은 어쩌고, 너네들 구하러 갔는데 결국 나까지 갇혀버렸잖아......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 0
@@ -404,7 +404,7 @@
     "text": "......당신한테 구해달라고 부탁한 적 없습니다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3
@@ -417,7 +417,7 @@
     "text": "M4!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NEGEV",
         "face": 0
@@ -431,7 +431,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "m45",
         "face": 0
@@ -444,7 +444,7 @@
     "text": "삐빅."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "m45",
         "face": 0
@@ -453,7 +453,7 @@
     "text": "아, 분명 헬리안 씨의 통신이에요."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3
@@ -469,7 +469,7 @@
     "text": "......M45가 연락 채널을 연결했다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "m45",
         "face": 0
@@ -489,7 +489,7 @@
       "id": 9
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "??"
       }
@@ -497,7 +497,7 @@
     "text": "찾았다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "m45"
       }
@@ -505,7 +505,7 @@
     "text": "......에?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "??"
       }
@@ -513,7 +513,7 @@
     "text": "M4A1, 과연 여기에 있었군."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16A1"
       }
@@ -524,7 +524,7 @@
     "text": "......통신 너머에서 작은 박수소리가 전해져 왔다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "??"
       }
@@ -532,7 +532,7 @@
     "text": "가라.+M4A1은 살려두고, 나머지는...+......필요없어."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4 SOPMOD II"
       }
@@ -540,7 +540,7 @@
     "text": "M45! 피해!!!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "m45"
       }
@@ -563,7 +563,7 @@
       "bgm": "BGM_Danger",
       "se2": "Alarm"
     },
-    "character": [
+    "characters": [
       {
         "name": "NEGEV",
         "face": 0
@@ -579,7 +579,7 @@
     "sound": {
       "se1": "Battlefield"
     },
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3
@@ -595,7 +595,7 @@
     "sound": {
       "se2": "Gunfight"
     },
-    "character": [
+    "characters": [
       {
         "name": "SOPII",
         "face": 3
@@ -611,7 +611,7 @@
     "sound": {
       "se1": "Battlefield"
     },
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3
@@ -624,7 +624,7 @@
     "text": "M4, 모두를 지휘해줘, 빨리 반격을!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 2
@@ -639,7 +639,7 @@
     "sound": {
       "se2": "Gunfight"
     },
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3
@@ -656,7 +656,7 @@
     "text": "아직도 이해 못했어? M4!+빨리 작전을 짜지 않으면 전부 여기서 죽을 거라고!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3
@@ -672,7 +672,7 @@
     "text": "하지만......+갑자기 저에게 이렇게 많은 인형을 지휘하라고 해도, 게다가 모두 초면인데......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3
@@ -695,7 +695,7 @@
     "sound": {
       "se2": "Gunfight"
     },
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3
@@ -715,7 +715,7 @@
     "sound": {
       "se1": "Battlefield"
     },
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3
@@ -731,7 +731,7 @@
     "text": "......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3
@@ -748,7 +748,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3
@@ -765,7 +765,7 @@
       "id": 9
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }

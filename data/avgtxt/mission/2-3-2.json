@@ -9,7 +9,7 @@
     "text": "같은 시각, 전장의 한 인형소대..."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "MG3",
         "face": 0
@@ -21,7 +21,7 @@
     "text": "청소 완료, 여기가 마지막인가?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "MP5",
         "face": 0
@@ -37,7 +37,7 @@
     "text": "다시 찾아보는 게 어떨까요? 신중한 편이 좋죠."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "MP5",
         "face": 0
@@ -53,7 +53,7 @@
     "text": "문제없어, 이미 몇 번이나 둘러봤다고, 지나가던 철혈이 있다면 몰라도......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "MP5",
         "face": 0
@@ -69,7 +69,7 @@
     "text": "저기...잠시만요!+고강도의 철혈신호가 있어요. 바로 근처예요!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "MP5",
         "face": 0
@@ -86,7 +86,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "엑스큐셔너"
       }
@@ -95,7 +95,7 @@
   },
   {
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "BOSS-2",
         "face": 0
@@ -108,7 +108,7 @@
     "text": "좋은 아침이군, 그리폰의 떨거지들."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "MG3",
         "face": 0
@@ -124,7 +124,7 @@
     "text": "뭘 하려는 거야! 우리가 가만히 당해줄 줄 알고?!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "MP5",
         "face": 0
@@ -140,7 +140,7 @@
     "text": "MG3, 일단 쏘지 말아요!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "MP5",
         "face": 0
@@ -157,7 +157,7 @@
     "text": "겨우 인형 2기? 내가 손 쓸 필요도 없겠군. 걱정마라.+인형 하나를 찾는 중이다. 검은 머리에 목에 해골 스카프를 걸친...+M4A1 카빈을 든 맹한 녀석이지. 본 적 있나?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "MP5",
         "face": 0
@@ -173,7 +173,7 @@
     "text": "M4A1......? 그런 인형은 못봤는데......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "MP5",
         "face": 0
@@ -190,7 +190,7 @@
     "text": "......+흥, 그놈이 너희들을 생각해서 계속 도주 중인가 보군.+알겠군, 역시 내 힘이 두려워서겠지.+그럼 어디까지 도망칠 수 있는지 한 번 볼까 M4! 크하하하하!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "MP5",
         "face": 0
@@ -199,7 +199,7 @@
     "text": "버. 벌써 저만치 가버렸네요..."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "MP5",
         "face": 0
@@ -216,7 +216,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "MP5",
         "face": 0

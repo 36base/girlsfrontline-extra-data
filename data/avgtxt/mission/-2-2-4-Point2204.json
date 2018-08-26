@@ -3,7 +3,7 @@
     "background": {
       "id": 10
     },
-    "character": [
+    "characters": [
       {
         "name": "SOPII",
         "face": 3
@@ -17,7 +17,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3
@@ -34,7 +34,7 @@
       "id": 48
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "M16A1"
       }
@@ -42,7 +42,7 @@
     "text": "저게......【쥬피터】인가?!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO635"
       }
@@ -50,7 +50,7 @@
     "text": "......틀림없어, 저건 거대형 포탑 【쥬피터】야.+섣불리 접근하지 마. 우리가 감당할 수 있는 화력이 아니야."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16A1"
       }
@@ -58,7 +58,7 @@
     "text": "RO, 이 구조물에 대해, 뭔가 알고있는 거야?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO635"
       }
@@ -66,7 +66,7 @@
     "text": "예전에 인류거주지를 순찰할 때, 저런 것과 교전했던 적이 있었어.+페르시카의 연구에 따르면, 포탑 운용기술은 철혈이 군부에 침입해서 얻었을 가능성이 있다고 해. 철혈 내부 코드네임은 \"마르두크\". 우리에게 초점을 맞춰 전문적으로 연구개발을 했다고 들었어."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4 SOPMOD II"
       }
@@ -75,7 +75,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "RO635"
       }
@@ -87,7 +87,7 @@
       "id": 10
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "M16A1"
       }
@@ -95,7 +95,7 @@
     "text": "그말은 즉, 포탑 주위를 완전포위 하면, 그 위협을 줄일 수 있다는 거네, 맞지?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO635"
       }
@@ -103,7 +103,7 @@
     "text": "확실히 그것만이 우리가 맞서 싸울 수 있는 최고의 방법이야.+우선 주변을 포위한 뒤, 정면돌파로 포탑을 저지하자."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16A1"
       }
@@ -111,7 +111,7 @@
     "text": "하...그런 전투가 되도록이면 늦게 오길 기도해야겠네"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO635"
       }

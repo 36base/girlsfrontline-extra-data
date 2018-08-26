@@ -9,7 +9,7 @@
     "text": "그리폰 S9 지역 전술 지휘실......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kalin",
         "face": 1
@@ -22,7 +22,7 @@
     "text": "지휘관님, 제가 돌아왔어요!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kalin",
         "face": 0
@@ -35,7 +35,7 @@
     "text": "에고고, 계속 창고에서 일하다 보니 힘들어 죽을 것 같아요."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kalin",
         "face": 2
@@ -49,7 +49,7 @@
   },
   {
     "screenEffect": "blackSpot1",
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kalin",
         "face": 3
@@ -66,7 +66,7 @@
       "id": 10
     },
     "screenEffect": "blackSpot2",
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kalin",
         "face": 0,

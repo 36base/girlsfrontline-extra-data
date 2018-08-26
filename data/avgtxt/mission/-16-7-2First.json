@@ -12,7 +12,7 @@
     "background": {
       "id": 99
     },
-    "character": [
+    "characters": [
       {
         "name": "NPC-Ange",
         "face": 0
@@ -28,7 +28,7 @@
     "background": {
       "id": 99
     },
-    "character": [
+    "characters": [
       {
         "name": "AN94",
         "face": 0
@@ -48,7 +48,7 @@
     "background": {
       "id": 99
     },
-    "character": [
+    "characters": [
       {
         "name": "NPC-Ange",
         "face": 0
@@ -64,7 +64,7 @@
     "background": {
       "id": 99
     },
-    "character": [
+    "characters": [
       {
         "name": "M4A1Mod",
         "face": 0
@@ -80,7 +80,7 @@
     "background": {
       "id": 99
     },
-    "character": [
+    "characters": [
       {
         "name": "AK12",
         "face": 0
@@ -96,7 +96,7 @@
     "background": {
       "id": 99
     },
-    "character": [
+    "characters": [
       {
         "name": "AN94",
         "face": 0
@@ -112,7 +112,7 @@
     "background": {
       "id": 99
     },
-    "character": [
+    "characters": [
       {
         "name": "AR15Mod",
         "face": 0
@@ -128,7 +128,7 @@
     "background": {
       "id": 99
     },
-    "character": [
+    "characters": [
       {
         "name": "AR15Mod",
         "face": 0
@@ -148,7 +148,7 @@
     "background": {
       "id": 99
     },
-    "character": [
+    "characters": [
       {
         "name": "AR15Mod",
         "face": 0
@@ -168,7 +168,7 @@
     "background": {
       "id": 99
     },
-    "character": [
+    "characters": [
       {
         "name": "NPC-Ange",
         "face": 0
@@ -185,7 +185,7 @@
       "id": 99
     },
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "M4A1Mod",
         "face": 0

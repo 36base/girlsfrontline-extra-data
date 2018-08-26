@@ -9,7 +9,7 @@
     "text": "그리폰 S9 지역 전술 지휘실......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kalin",
         "face": 3
@@ -22,7 +22,7 @@
     "text": "...언제까지 찾으실 건가요. 페르시카 씨?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 0,
@@ -40,7 +40,7 @@
     "text": "잠깐만...금방이야....+(작은 소리로) 정보에 따르면, 여기가 가능성이 있는 마지막 지점인데..."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 0
@@ -58,7 +58,7 @@
   },
   {
     "screenEffect": "blackSpot1",
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 2
@@ -79,7 +79,7 @@
       "id": 10
     },
     "screenEffect": "blackSpot2",
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kalin",
         "face": 2,
@@ -93,7 +93,7 @@
     "text": "S09구역의 HVVQJ? 그 곳은 전부 폐허예요. 데이터 뱅크 같은 건 없는데."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kalin",
         "face": 3
@@ -106,7 +106,7 @@
     "text": "그래서 도대체 뭘 찾고 계시는 건가요. 페르시카 씨?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 0,
@@ -124,7 +124,7 @@
     "text": "음......아무것도 아니야.+아마 저번에 이사할 때 떨어트린 “각설탕”일걸?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 0
@@ -141,7 +141,7 @@
     "text": "하——?!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 2

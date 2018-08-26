@@ -7,7 +7,7 @@
   },
   {
     "screenEffect": "blackSpot1",
-    "character": [
+    "characters": [
       {
         "name": "NEGEV",
         "face": 0,
@@ -25,7 +25,7 @@
       "id": 10
     },
     "screenEffect": "blackSpot2",
-    "character": [
+    "characters": [
       {
         "name": "NEGEV",
         "face": 0,

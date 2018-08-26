@@ -13,7 +13,7 @@
     "background": {
       "id": 9
     },
-    "character": [
+    "characters": [
       {
         "name": "??"
       }
@@ -25,7 +25,7 @@
       "id": 9
     },
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -37,7 +37,7 @@
       "id": 117
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -48,7 +48,7 @@
     "background": {
       "id": 117
     },
-    "character": [
+    "characters": [
       {
         "name": "AR15"
       }
@@ -62,7 +62,7 @@
     "sound": {
       "bgm": "BGM_Wake"
     },
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -76,7 +76,7 @@
     "sound": {
       "se2": "AVG_Rain2"
     },
-    "character": [
+    "characters": [
       {
         "name": "AR15"
       }
@@ -87,7 +87,7 @@
     "background": {
       "id": 117
     },
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -98,7 +98,7 @@
     "background": {
       "id": 117
     },
-    "character": [
+    "characters": [
       {
         "name": "AR15"
       }
@@ -112,7 +112,7 @@
     "sound": {
       "se1": "AVG_Rain2"
     },
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -123,7 +123,7 @@
     "background": {
       "id": 117
     },
-    "character": [
+    "characters": [
       {
         "name": "AR15"
       }
@@ -134,7 +134,7 @@
     "background": {
       "id": 118
     },
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -145,7 +145,7 @@
     "background": {
       "id": 118
     },
-    "character": [
+    "characters": [
       {
         "name": "AR15"
       }
@@ -156,7 +156,7 @@
     "background": {
       "id": 118
     },
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -170,7 +170,7 @@
     "sound": {
       "se2": "AVG_Rain2"
     },
-    "character": [
+    "characters": [
       {
         "name": "AR15"
       }
@@ -181,7 +181,7 @@
     "background": {
       "id": 118
     },
-    "character": [
+    "characters": [
       {
         "name": "AK12"
       }
@@ -192,7 +192,7 @@
     "background": {
       "id": 118
     },
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -203,7 +203,7 @@
     "background": {
       "id": 118
     },
-    "character": [
+    "characters": [
       {
         "name": "AK12"
       }
@@ -214,7 +214,7 @@
     "background": {
       "id": 118
     },
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -225,7 +225,7 @@
     "background": {
       "id": 118
     },
-    "character": [
+    "characters": [
       {
         "name": "AR15"
       }
@@ -236,7 +236,7 @@
     "background": {
       "id": 118
     },
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -250,7 +250,7 @@
     "sound": {
       "se1": "AVG_Rain2"
     },
-    "character": [
+    "characters": [
       {
         "name": "AR15"
       }
@@ -262,7 +262,7 @@
       "id": 118
     },
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -274,7 +274,7 @@
       "id": 9
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -286,7 +286,7 @@
       "id": 9
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -297,7 +297,7 @@
     "background": {
       "id": 9
     },
-    "character": [
+    "characters": [
       {
         "name": "AR15"
       }
@@ -309,7 +309,7 @@
       "id": 9
     },
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -324,7 +324,7 @@
     "sound": {
       "se2": "AVG_Rain2"
     },
-    "character": [
+    "characters": [
       {
         "name": "AR15"
       }
@@ -335,7 +335,7 @@
     "background": {
       "id": 117
     },
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -346,7 +346,7 @@
     "background": {
       "id": 117
     },
-    "character": [
+    "characters": [
       {
         "name": "AR15"
       }
@@ -357,7 +357,7 @@
     "background": {
       "id": 117
     },
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -369,7 +369,7 @@
       "id": 117
     },
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "AR15"
       }
@@ -381,7 +381,7 @@
       "id": 9
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -392,7 +392,7 @@
     "background": {
       "id": 9
     },
-    "character": [
+    "characters": [
       {
         "name": "AR15"
       }
@@ -404,7 +404,7 @@
       "id": 9
     },
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "AK12"
       }
@@ -416,7 +416,7 @@
       "id": 99
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "AR15Mod",
         "face": 0
@@ -432,7 +432,7 @@
     "background": {
       "id": 99
     },
-    "character": [
+    "characters": [
       {
         "name": "AR15Mod",
         "face": 0
@@ -452,7 +452,7 @@
     "background": {
       "id": 99
     },
-    "character": [
+    "characters": [
       {
         "name": "AR15Mod",
         "face": 0
@@ -472,7 +472,7 @@
     "background": {
       "id": 99
     },
-    "character": [
+    "characters": [
       {
         "name": "AR15Mod",
         "face": 0
@@ -492,7 +492,7 @@
     "background": {
       "id": 99
     },
-    "character": [
+    "characters": [
       {
         "name": "AR15Mod",
         "face": 0
@@ -512,7 +512,7 @@
     "background": {
       "id": 99
     },
-    "character": [
+    "characters": [
       {
         "name": "AR15Mod",
         "face": 0
@@ -531,7 +531,7 @@
     "background": {
       "id": 99
     },
-    "character": [
+    "characters": [
       {
         "name": "AR15Mod",
         "face": 0
@@ -551,7 +551,7 @@
     "background": {
       "id": 99
     },
-    "character": [
+    "characters": [
       {
         "name": "AR15Mod",
         "face": 0
@@ -571,7 +571,7 @@
     "background": {
       "id": 99
     },
-    "character": [
+    "characters": [
       {
         "name": "AR15Mod",
         "face": 0
@@ -591,7 +591,7 @@
     "background": {
       "id": 99
     },
-    "character": [
+    "characters": [
       {
         "name": "AR15Mod",
         "face": 0
@@ -611,7 +611,7 @@
     "background": {
       "id": 99
     },
-    "character": [
+    "characters": [
       {
         "name": "AR15Mod",
         "face": 0
@@ -631,7 +631,7 @@
     "background": {
       "id": 99
     },
-    "character": [
+    "characters": [
       {
         "name": "AR15Mod",
         "face": 0
@@ -651,7 +651,7 @@
     "background": {
       "id": 99
     },
-    "character": [
+    "characters": [
       {
         "name": "AR15Mod",
         "face": 0
@@ -671,7 +671,7 @@
     "background": {
       "id": 99
     },
-    "character": [
+    "characters": [
       {
         "name": "AR15Mod",
         "face": 0
@@ -691,7 +691,7 @@
     "background": {
       "id": 99
     },
-    "character": [
+    "characters": [
       {
         "name": "AR15Mod",
         "face": 0
@@ -712,7 +712,7 @@
       "id": 99
     },
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "AR15Mod",
         "face": 0
@@ -733,7 +733,7 @@
       "id": 9
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "AR15"
       }

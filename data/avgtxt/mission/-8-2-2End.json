@@ -12,7 +12,7 @@
     "background": {
       "id": 3
     },
-    "character": [
+    "characters": [
       {
         "name": "FAL",
         "face": 0
@@ -27,7 +27,7 @@
     "background": {
       "id": 3
     },
-    "character": [
+    "characters": [
       {
         "name": "FAL",
         "face": 0
@@ -47,7 +47,7 @@
     "background": {
       "id": 3
     },
-    "character": [
+    "characters": [
       {
         "name": "FAL",
         "face": 0
@@ -66,7 +66,7 @@
     "background": {
       "id": 3
     },
-    "character": [
+    "characters": [
       {
         "name": "FAL",
         "face": 0
@@ -86,7 +86,7 @@
     "background": {
       "id": 3
     },
-    "character": [
+    "characters": [
       {
         "name": "BB_Noel",
         "face": 2
@@ -106,7 +106,7 @@
     "background": {
       "id": 3
     },
-    "character": [
+    "characters": [
       {
         "name": "FN49",
         "face": 0
@@ -126,7 +126,7 @@
     "background": {
       "id": 3
     },
-    "character": [
+    "characters": [
       {
         "name": "FN49",
         "face": 0
@@ -146,7 +146,7 @@
     "background": {
       "id": 3
     },
-    "character": [
+    "characters": [
       {
         "name": "FAL",
         "face": 0
@@ -165,7 +165,7 @@
     "background": {
       "id": 3
     },
-    "character": [
+    "characters": [
       {
         "name": "FAL",
         "face": 0
@@ -185,7 +185,7 @@
     "background": {
       "id": 3
     },
-    "character": [
+    "characters": [
       {
         "name": "FAL",
         "face": 0
@@ -205,7 +205,7 @@
     "background": {
       "id": 3
     },
-    "character": [
+    "characters": [
       {
         "name": "FAL",
         "face": 0
@@ -227,7 +227,7 @@
     "sound": {
       "se1": "RunStep"
     },
-    "character": [
+    "characters": [
       {
         "name": "FAL",
         "face": 0
@@ -252,7 +252,7 @@
       "id": 3
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "FN49",
         "face": 0
@@ -268,7 +268,7 @@
     "background": {
       "id": 3
     },
-    "character": [
+    "characters": [
       {
         "name": "FN49",
         "face": 0
@@ -287,7 +287,7 @@
     "background": {
       "id": 3
     },
-    "character": [
+    "characters": [
       {
         "name": "FNFNC",
         "face": 0
@@ -307,7 +307,7 @@
     "background": {
       "id": 3
     },
-    "character": [
+    "characters": [
       {
         "name": "FNFNC",
         "face": 0
@@ -326,7 +326,7 @@
     "background": {
       "id": 3
     },
-    "character": [
+    "characters": [
       {
         "name": "FNFNC",
         "face": 0
@@ -346,7 +346,7 @@
     "background": {
       "id": 3
     },
-    "character": [
+    "characters": [
       {
         "name": "FNFNC",
         "face": 0
@@ -365,7 +365,7 @@
     "background": {
       "id": 3
     },
-    "character": [
+    "characters": [
       {
         "name": "FNFNC",
         "face": 0
@@ -386,7 +386,7 @@
       "id": 3
     },
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "FNFNC",
         "face": 0
@@ -415,7 +415,7 @@
     "background": {
       "id": 8
     },
-    "character": [
+    "characters": [
       {
         "name": "FN57",
         "face": 0
@@ -431,7 +431,7 @@
     "background": {
       "id": 8
     },
-    "character": [
+    "characters": [
       {
         "name": "FN57",
         "face": 0
@@ -451,7 +451,7 @@
     "background": {
       "id": 8
     },
-    "character": [
+    "characters": [
       {
         "name": "FN57",
         "face": 0
@@ -474,7 +474,7 @@
     "sound": {
       "bgm": "BGM_Sad"
     },
-    "character": [
+    "characters": [
       {
         "name": "FN57",
         "face": 0
@@ -494,7 +494,7 @@
     "background": {
       "id": 8
     },
-    "character": [
+    "characters": [
       {
         "name": "FN57",
         "face": 0
@@ -514,7 +514,7 @@
     "background": {
       "id": 8
     },
-    "character": [
+    "characters": [
       {
         "name": "FN57",
         "face": 0
@@ -534,7 +534,7 @@
     "background": {
       "id": 8
     },
-    "character": [
+    "characters": [
       {
         "name": "FN57",
         "face": 0
@@ -554,7 +554,7 @@
     "background": {
       "id": 8
     },
-    "character": [
+    "characters": [
       {
         "name": "FN57",
         "face": 0
@@ -574,7 +574,7 @@
     "background": {
       "id": 8
     },
-    "character": [
+    "characters": [
       {
         "name": "FN57",
         "face": 0
@@ -594,7 +594,7 @@
     "background": {
       "id": 8
     },
-    "character": [
+    "characters": [
       {
         "name": "FN57",
         "face": 0
@@ -614,7 +614,7 @@
     "background": {
       "id": 8
     },
-    "character": [
+    "characters": [
       {
         "name": "FN57",
         "face": 0
@@ -634,7 +634,7 @@
     "background": {
       "id": 8
     },
-    "character": [
+    "characters": [
       {
         "name": "FNFNC",
         "face": 0
@@ -654,7 +654,7 @@
     "background": {
       "id": 8
     },
-    "character": [
+    "characters": [
       {
         "name": "FNFNC",
         "face": 0
@@ -674,7 +674,7 @@
     "background": {
       "id": 8
     },
-    "character": [
+    "characters": [
       {
         "name": "FNFNC",
         "face": 0
@@ -694,7 +694,7 @@
     "background": {
       "id": 8
     },
-    "character": [
+    "characters": [
       {
         "name": "FNFNC",
         "face": 0
@@ -714,7 +714,7 @@
     "background": {
       "id": 8
     },
-    "character": [
+    "characters": [
       {
         "name": "FNFNC",
         "face": 0
@@ -734,7 +734,7 @@
     "background": {
       "id": 8
     },
-    "character": [
+    "characters": [
       {
         "name": "FNFNC",
         "face": 0
@@ -756,7 +756,7 @@
     "sound": {
       "bgm": "BGM_Empty"
     },
-    "character": [
+    "characters": [
       {
         "name": "FN57",
         "face": 0
@@ -776,7 +776,7 @@
     "background": {
       "id": 8
     },
-    "character": [
+    "characters": [
       {
         "name": "FN57",
         "face": 0
@@ -795,7 +795,7 @@
     "background": {
       "id": 8
     },
-    "character": [
+    "characters": [
       {
         "name": "FN57",
         "face": 0
@@ -818,7 +818,7 @@
     "sound": {
       "bgm": "BGM_Sneak"
     },
-    "character": [
+    "characters": [
       {
         "name": "FN57",
         "face": 0
@@ -837,7 +837,7 @@
     "background": {
       "id": 8
     },
-    "character": [
+    "characters": [
       {
         "name": "BB_Noel",
         "face": 2
@@ -857,7 +857,7 @@
     "background": {
       "id": 8
     },
-    "character": [
+    "characters": [
       {
         "name": "BB_Noel",
         "face": 2
@@ -876,7 +876,7 @@
     "background": {
       "id": 8
     },
-    "character": [
+    "characters": [
       {
         "name": "BB_Noel",
         "face": 2
@@ -897,7 +897,7 @@
       "id": 8
     },
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "BB_Noel",
         "face": 2
@@ -917,7 +917,7 @@
       "id": 9
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "FAL"
       }

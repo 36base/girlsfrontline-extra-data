@@ -14,7 +14,7 @@
     "sound": {
       "se1": "Battlefield"
     },
-    "character": [
+    "characters": [
       {
         "name": "M1873",
         "face": 0,
@@ -24,7 +24,7 @@
     "text": "여보세요! 여기는 M1873!+M4, P08, 아직 다 안 된 거야?! 헌터한테 잡히기 직전이야!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 0,
@@ -37,7 +37,7 @@
     "sound": {
       "se1": "Battlefield"
     },
-    "character": [
+    "characters": [
       {
         "name": "P08",
         "face": 0,
@@ -47,7 +47,7 @@
     "text": "...됐다!+M4 씨, 찾았어요! 예상대로, 공장 안에 철혈의 AI 코어가 헌터에게 명령을 내리는 통신 장비가 있어요!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 0,
@@ -58,7 +58,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "P08",
         "face": 0,
@@ -78,7 +78,7 @@
     "text": "......지직, 지지직.+...퍼엉!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "P08"
       }
@@ -86,7 +86,7 @@
     "text": "통신 장비 파괴 완료!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M1873"
       }
@@ -94,7 +94,7 @@
     "text": "...멈췄어.+헌터가 멈췄어! 야호! 이제 살았다!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -102,7 +102,7 @@
     "text": "휴우...+고맙습니다, P08. 이제 모두 안전해졌어요..."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "P08"
       }
@@ -119,7 +119,7 @@
     "sound": {
       "bgm": "BGM_Truth"
     },
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -127,7 +127,7 @@
     "text": "잠깐... 이게 무슨..."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "P08"
       }
@@ -135,7 +135,7 @@
     "text": "M4 씨...+당신도 아는 소리예요...+그놈들... 통신 장비에 폭탄을 연결해놨네요."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -143,7 +143,7 @@
     "text": "...!!!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "P08"
       }
@@ -157,7 +157,7 @@
     "text": "삑, 삑, 삑..."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -165,7 +165,7 @@
     "text": "P...08...+전..."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "P08"
       }
@@ -183,7 +183,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -195,7 +195,7 @@
       "id": 37
     },
     "screenEffect": "scratching",
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -207,7 +207,7 @@
       "id": 36
     },
     "screenEffect": "scratching",
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -219,7 +219,7 @@
       "id": 9
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }

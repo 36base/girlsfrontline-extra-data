@@ -8,14 +8,18 @@
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "琪亚娜"
       }
-    ]
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "琪亚娜"
+    }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "BossDestroyerPlus",
         "face": 0
@@ -27,7 +31,7 @@
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RaidenMei",
         "face": 0
@@ -39,7 +43,7 @@
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "Himeko",
         "face": 0,
@@ -52,7 +56,7 @@
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "Theresa",
         "face": 0,
@@ -66,11 +70,15 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "琪亚娜"
       }
-    ]
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "琪亚娜"
+    }
   },
   {
     "background": {
@@ -81,10 +89,14 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "？？"
       }
-    ]
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "？？"
+    }
   }
 ]

@@ -9,7 +9,7 @@
     "text": "순조롭게 철혈의 정찰거점을 점령하자, 구출대가 그 틈을 타 빠르게 작전구역에 진입했다.+...작전개시 삼십분 후, 구출대가 목적지점에 도착했다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "그리폰 인형"
       }
@@ -30,7 +30,7 @@
     "text": "......+............"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "PPSh41",
         "face": 0
@@ -43,7 +43,7 @@
     "text": "...처리 완료."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "VZ61",
         "face": 1
@@ -52,7 +52,7 @@
     "text": "......+파...파파샤?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "PPSh41",
         "face": 0
@@ -68,7 +68,7 @@
     "sound": {
       "bgm": "BGM_Sad"
     },
-    "character": [
+    "characters": [
       {
         "name": "VZ61",
         "face": 1
@@ -77,7 +77,7 @@
     "text": "파파샤...아직 살아있었어...?+이거 꿈은 아니지?..."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "PPSh41",
         "face": 0
@@ -101,7 +101,7 @@
     "text": "...한시간 후, VZ61이 무사히 지휘실에 도착했다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Helian",
         "face": 0
@@ -114,7 +114,7 @@
     "text": "......+그러니까, AR팀의 행방을 누설하지 않았단거군."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "VZ61",
         "face": 0
@@ -123,7 +123,7 @@
     "text": "물론, 마지막에 알려준 것도 거짓 정보였어.+쓰러진 동료를 위해서라도, 저딴 녀석들에겐 굴복할 수 없지!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Helian",
         "face": 0
@@ -136,7 +136,7 @@
     "text": "좋다. 믿겠다. VZ61.+그 ‘스케어크로우’의 목적이라면, 그것을 직접 잡아봐야 알 수 있겠지."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "VZ61",
         "face": 0
@@ -145,7 +145,7 @@
     "text": "헬리안 씨, 만약 스케어크로우를 잡을거면 나도 꼭 불러야 해."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Helian",
         "face": 0
@@ -159,7 +159,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "VZ61",
         "face": 0

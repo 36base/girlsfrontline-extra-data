@@ -12,7 +12,7 @@
     "sound": {
       "bgm": "BGM_Boss"
     },
-    "character": [
+    "characters": [
       {
         "name": "인트루더"
       }
@@ -21,7 +21,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -33,7 +33,7 @@
       "id": 5
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "BOSS-4",
         "face": 0,
@@ -47,7 +47,7 @@
     "text": "솔직히 말하면, 나는 그녀가 어디 있는지 몰라. 별로 관심도 없고."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 3
@@ -63,7 +63,7 @@
     "text": "그럼 당신들의 목표는 도대체 뭡니까?+그리폰이 당신의 관할 구역에 진입 했는데도 아직까지 그럴듯한 반격을 하지 않고 있잖아요!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 0
@@ -80,7 +80,7 @@
     "text": "오? 가만히 앉아서도 너희들을 놀래킬 수 있을줄은 몰랐는데.+좋아, 그럼 알려주지, 내가 받은 명령은...."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 0
@@ -96,7 +96,7 @@
     "text": "......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 0
@@ -113,7 +113,7 @@
     "text": "후후♪ 사실 별거 없어, 그냥 시간이나 때우는 거야."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 0
@@ -129,7 +129,7 @@
     "text": "시간이나 때운다? 그게 명령이라고요?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 0
@@ -147,7 +147,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 0
@@ -167,7 +167,7 @@
       "id": 10
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 0
@@ -176,7 +176,7 @@
     "text": "그리폰이 먼저 온 소대가 남긴 좌표를 추적했습니다. 곧 만날수 있을 거예요."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "BOSS-4",
         "face": 0,

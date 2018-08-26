@@ -11,7 +11,7 @@
     "text": "......30분 후."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AR",
         "face": 0,
@@ -25,7 +25,7 @@
     "text": "네게브, 여기는 갈릴, 응답 바람. 잘 들려?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AR",
         "face": 0
@@ -42,7 +42,7 @@
     "text": "얘기해."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AR",
         "face": 0
@@ -59,7 +59,7 @@
     "text": "타깃의 위치가 파악됐어. 정보대로 그 폐기된 자동차 공장 안쪽이야."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AR",
         "face": 0
@@ -76,7 +76,7 @@
     "text": "후후, 그야 내가 제공한 정보니까."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AR",
         "face": 0
@@ -93,7 +93,7 @@
     "text": "그래그래, 네 덕이지, 우리들이 이렇게 있는 것도 네 덕이고──+그런데, 너 지도는 볼 줄 아는 거지? 우리가 현재 저 공장에서 어느 정도 떨어져 있는지 확인했어?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AR",
         "face": 0
@@ -110,7 +110,7 @@
     "text": "많이 멀어? 3시간 정도 걸리지 않을까?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AR",
         "face": 0
@@ -128,7 +128,7 @@
   },
   {
     "screenEffect": "shockScreen",
-    "character": [
+    "characters": [
       {
         "name": "AR",
         "face": 0
@@ -145,7 +145,7 @@
     "text": "여기는 지금 철혈의 근거지라고!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AR",
         "face": 0
@@ -162,7 +162,7 @@
     "text": "그래서 내가 정찰하라고 한 거잖아."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AR",
         "face": 0
@@ -179,7 +179,7 @@
     "text": "하하하... 나 원, 이게 네가 말한 \"신중하게\"라는 거야?+그래, 나는 임무를 끝마쳤어, 그럼 너는 이제 어쩔 건데?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AR",
         "face": 0
@@ -196,7 +196,7 @@
     "text": "넌 그곳에서 계속 정찰을 하도록 해. 지휘관이 제대를 이끌고 전진할 거야.+난 타보르와 연락해서 잠입작전의 진도를 확인할 테니까."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AR",
         "face": 0
@@ -213,7 +213,7 @@
     "text": "그래...... 네게브?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AR",
         "face": 0
@@ -230,7 +230,7 @@
     "text": "또 뭐?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AR",
         "face": 0
@@ -247,7 +247,7 @@
     "text": "조심하도록 해."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AR",
         "face": 0
@@ -265,7 +265,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "AR",
         "face": 0
@@ -293,7 +293,7 @@
   },
   {
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "<Speaker>제리코</Speaker>"
       }
@@ -305,7 +305,7 @@
     "text": "네게브."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "<Speaker>네게브</Speaker>"
       }
@@ -320,7 +320,7 @@
     "sound": {
       "bgm": "BGM_Room"
     },
-    "character": [
+    "characters": [
       {
         "name": "<Speaker>제리코</Speaker>"
       }
@@ -332,7 +332,7 @@
     "text": "너 말야, 너무 제멋대로잖아."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "<Speaker>네게브</Speaker>"
       }
@@ -344,7 +344,7 @@
     "text": "나도 알아."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "<Speaker>제리코</Speaker>"
       }
@@ -356,7 +356,7 @@
     "text": "내가 너한테 교육해줬던 것들, 하나도 따르지 않았고."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "<Speaker>네게브</Speaker>"
       }
@@ -368,7 +368,7 @@
     "text": "제리코, 그건 교육이 아니야. 그저 사지에 몰아넣는 짓이지.+기억한다고 해도, 죽으면 잊어버리게 될 뿐이야."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "<Speaker>제리코</Speaker>"
       }
@@ -380,7 +380,7 @@
     "text": "그래서 너희들이 기억할 수 있도록 도와주겠다고 이야기했잖아."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "<Speaker>네게브</Speaker>"
       }
@@ -392,7 +392,7 @@
     "text": "그렇게 한다면...... 우린 결국 널 잊게 될 거야."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "<Speaker>제리코</Speaker>"
       }
@@ -404,7 +404,7 @@
     "text": "상관없어. 우리는 병사니까."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "<Speaker>네게브</Speaker>"
       }
@@ -416,7 +416,7 @@
     "text": "인간은 자신의 안전을 차가운 로봇에게 맡기지 않아. 그래서 그리폰은 우리를 택한 거지.+내 마인드맵은 너를 잊고 싶지 않다고 내게 말하고 있어.+가능하다면, 모두의 기억 속에서 네가 잊히지 않았으면 좋겠어."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "<Speaker>제리코</Speaker>"
       }
@@ -428,7 +428,7 @@
     "text": "그런 \"생각\"은...... 누구에게서... 배운 거야?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "<Speaker>네게브</Speaker>"
       }
@@ -440,7 +440,7 @@
     "text": "......+제리코, 뭘 두려워하고 있는 거야?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "<Speaker>제리코</Speaker>"
       }
@@ -452,7 +452,7 @@
     "text": "......+내가 신경 쓰지 못한 사이에, 확실히 성장한 것 같네...... 적어도 말솜씨는 꽤나 늘었어.+하지만, 그 임무... 대체 무엇을 회수하려던 거야?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "<Speaker>네게브</Speaker>"
       }
@@ -464,7 +464,7 @@
     "text": "그건 말이지...... 뒤에 가서 이야기해줄게......+이야기란 흐름에 맞게 풀어나가는 것도 중요하니까."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "<Speaker>제리코</Speaker>"
       }
@@ -477,7 +477,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "<Speaker>네게브</Speaker>"
       }

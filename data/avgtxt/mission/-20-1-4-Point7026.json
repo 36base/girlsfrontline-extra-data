@@ -6,7 +6,7 @@
     "text": "[도움말] 원활한 게임 진행을 위해 이어지는 스토리 가이드를 자세히 읽어주시기 바랍니다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "CLEAR",
         "face": 0
@@ -19,7 +19,7 @@
     "text": "여기도 정리됐어!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "K2",
         "face": 0
@@ -32,7 +32,7 @@
     "text": "대단해, 클리어!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "CLEAR",
         "face": 0
@@ -45,7 +45,7 @@
     "text": "더 칭찬해줘, 너무 기분 좋은 걸!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AEK999",
         "face": 0
@@ -58,7 +58,7 @@
     "text": "아무리 봐도 넌 계속 문제만 만들고 있는 거 같은데. +다시 한 번 묻지만, 페일이랑 클리어는, 정말로 다른 사람이야?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "CLEAR",
         "face": 0
@@ -71,7 +71,7 @@
     "text": "적어도 내 생각엔 페일과 나는…… 별개의 영혼이야. +우린 비슷한 점도 있지만, 확실히 서로 다른 점도 있어."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "TMP",
         "face": 0
@@ -84,7 +84,7 @@
     "text": "어쩌면, 저희에게 당신들을 완전히 분리할 방법이 있을 수도 있어요."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M950A",
         "face": 0
@@ -97,7 +97,7 @@
     "text": "하? 진심이야? 페일이 지금까지 일으킨 문제를 생각하라고."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "CLEAR",
         "face": 0
@@ -110,7 +110,7 @@
     "text": "물론 페일은 자신이 저지른 잘못에 대해 대가를 치러야겠지만 +나는…… 페일의 존재 자체가 잘못이라고 생각하지는 않아."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "Thunder50",
         "face": 0
@@ -123,7 +123,7 @@
     "text": "더 이상 정령들에게 손을 대지 않는다면."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M950A",
         "face": 0
@@ -136,7 +136,7 @@
     "text": "(쓴웃음) 그리고 나에게도 말이지. +진심으로 우리와 친구가 되길 바라고 있다면 뭐, 나도 상관없어."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "K2",
         "face": 0

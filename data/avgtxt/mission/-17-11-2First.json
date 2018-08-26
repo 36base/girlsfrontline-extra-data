@@ -13,7 +13,7 @@
     "background": {
       "id": 34
     },
-    "character": [
+    "characters": [
       {
         "name": "UMP9",
         "face": 3
@@ -28,7 +28,7 @@
     "background": {
       "id": 34
     },
-    "character": [
+    "characters": [
       {
         "name": "UMP9",
         "face": 3
@@ -47,7 +47,7 @@
     "background": {
       "id": 34
     },
-    "character": [
+    "characters": [
       {
         "name": "HK416",
         "face": 0
@@ -66,7 +66,7 @@
     "background": {
       "id": 34
     },
-    "character": [
+    "characters": [
       {
         "name": "HK416",
         "face": 0
@@ -85,7 +85,7 @@
     "background": {
       "id": 34
     },
-    "character": [
+    "characters": [
       {
         "name": "UMP9",
         "face": 3
@@ -104,7 +104,7 @@
     "background": {
       "id": 34
     },
-    "character": [
+    "characters": [
       {
         "name": "HK416",
         "face": 0
@@ -123,7 +123,7 @@
     "background": {
       "id": 34
     },
-    "character": [
+    "characters": [
       {
         "name": "HK416",
         "face": 0
@@ -142,7 +142,7 @@
     "background": {
       "id": 34
     },
-    "character": [
+    "characters": [
       {
         "name": "HK416",
         "face": 0
@@ -162,7 +162,7 @@
       "id": 34
     },
     "screenEffect": "blackSpot1",
-    "character": [
+    "characters": [
       {
         "name": "UMP45",
         "face": 0
@@ -184,7 +184,7 @@
     "background": {
       "id": 34
     },
-    "character": [
+    "characters": [
       {
         "name": "G11",
         "face": 2
@@ -199,7 +199,7 @@
     "background": {
       "id": 34
     },
-    "character": [
+    "characters": [
       {
         "name": "UMP9",
         "face": 4
@@ -214,7 +214,7 @@
     "background": {
       "id": 34
     },
-    "character": [
+    "characters": [
       {
         "name": "HK416",
         "face": 0
@@ -229,7 +229,7 @@
     "background": {
       "id": 34
     },
-    "character": [
+    "characters": [
       {
         "name": "G11",
         "face": 2
@@ -248,7 +248,7 @@
     "background": {
       "id": 34
     },
-    "character": [
+    "characters": [
       {
         "name": "G11",
         "face": 2
@@ -267,7 +267,7 @@
     "background": {
       "id": 34
     },
-    "character": [
+    "characters": [
       {
         "name": "G11",
         "face": 3
@@ -286,7 +286,7 @@
     "background": {
       "id": 34
     },
-    "character": [
+    "characters": [
       {
         "name": "G11",
         "face": 3
@@ -305,7 +305,7 @@
     "background": {
       "id": 34
     },
-    "character": [
+    "characters": [
       {
         "name": "G11",
         "face": 3
@@ -324,7 +324,7 @@
     "background": {
       "id": 34
     },
-    "character": [
+    "characters": [
       {
         "name": "G11",
         "face": 3
@@ -343,7 +343,7 @@
     "background": {
       "id": 34
     },
-    "character": [
+    "characters": [
       {
         "name": "G11",
         "face": 3
@@ -362,7 +362,7 @@
     "background": {
       "id": 34
     },
-    "character": [
+    "characters": [
       {
         "name": "G11",
         "face": 3
@@ -381,7 +381,7 @@
     "background": {
       "id": 34
     },
-    "character": [
+    "characters": [
       {
         "name": "G11",
         "face": 3
@@ -401,7 +401,7 @@
       "id": 34
     },
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "UMP45",
         "face": 0

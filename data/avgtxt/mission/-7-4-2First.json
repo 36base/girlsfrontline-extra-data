@@ -12,7 +12,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "Weaver",
         "face": 0,
@@ -30,7 +30,7 @@
       "id": 9
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "우로보로스"
       }
@@ -45,7 +45,7 @@
     "sound": {
       "se2": "Gunfight"
     },
-    "character": [
+    "characters": [
       {
         "name": "SR3MP",
         "face": 0,
@@ -55,7 +55,7 @@
     "text": "M4, 누구를 보낼지 정했어?+저 녀석은 이미 눈이 돌아갔어. 이대로라면 나도 얼마 못 버텨."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M99",
         "face": 0,
@@ -65,7 +65,7 @@
     "text": "M4 씨. 제가 말했듯이, 지금 여기선 당신이 가장 적당한 사람이에요."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 0
@@ -74,7 +74,7 @@
     "text": "가장 적당한 사람이라...+또다시, 저만이 할 수 있는 일인가요...?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M99",
         "face": 0,
@@ -85,7 +85,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 0
@@ -98,7 +98,7 @@
       "id": 9
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }

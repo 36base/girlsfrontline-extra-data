@@ -3,7 +3,7 @@
     "background": {
       "id": 10
     },
-    "character": [
+    "characters": [
       {
         "name": "Thunder50",
         "face": 0
@@ -16,7 +16,7 @@
     "text": "앞으로 가지마, 950. +그 쪽의 적은, 우리가 상대할 수 없어."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M950A",
         "face": 0
@@ -29,7 +29,7 @@
     "text": "지금 날 걱정하는 거야?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "Thunder50",
         "face": 0
@@ -42,7 +42,7 @@
     "text": "그러면 안 돼?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M950A",
         "face": 0

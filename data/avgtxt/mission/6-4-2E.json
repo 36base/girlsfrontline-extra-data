@@ -9,7 +9,7 @@
     "text": "철수작전 개시 3시간 후......+..................+.............................."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AR15"
       }
@@ -20,7 +20,7 @@
     "sound": {
       "bgm": "BGM_Brain"
     },
-    "character": [
+    "characters": [
       {
         "name": "??"
       }
@@ -28,7 +28,7 @@
     "text": "............+왜, 네가 여기로 온 거지?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AR15"
       }
@@ -36,7 +36,7 @@
     "text": "왜, 나 보고싶지 않았어?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "??"
       }
@@ -44,7 +44,7 @@
     "text": "내가 보고 싶었던 건 그리폰의 M4A1이야."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AR15"
       }
@@ -55,7 +55,7 @@
     "text": "AR-15가 무기를 들어 앞의 그림자를 겨누었다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "??"
       }
@@ -66,7 +66,7 @@
     "text": "짝! 짝! (박수)+............대규모의 철혈 부대가 빌딩 안으로 몰려왔다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AR15"
       }
@@ -74,7 +74,7 @@
     "text": "뒤쪽에......아직도 숨겨둔 패가 이렇게 많이 남았다니......+너......역시 대단한걸."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "??"
       }
@@ -82,7 +82,7 @@
     "text": "M4A1을, 나한테 넘겨라."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AR15"
       }
@@ -90,7 +90,7 @@
     "text": "유감이네, 기회가 잔뜩 있었는데도 다 놓쳐버렸다니."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "??"
       }
@@ -98,7 +98,7 @@
     "text": "난 포기하지 않아."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AR15"
       }
@@ -106,7 +106,7 @@
     "text": "그래서 내가 널 막으러 온 거야. 넌 한다고 하면 정말로 해낼 녀석이거든......+그래서 네가......제일 위험한 녀석이야......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "??"
       }
@@ -115,7 +115,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "AR15"
       }
@@ -127,7 +127,7 @@
       "id": 16
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "AR15"
       }
@@ -144,7 +144,7 @@
     "text": "......철혈의 정찰기가 갑작스레 사격을 시작했다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "??"
       }
@@ -152,7 +152,7 @@
     "text": "......난 내 이름이 있어."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AR15"
       }
@@ -160,7 +160,7 @@
     "text": "크윽......+큭......철혈의 지휘자는......이렇게 쉽게 손을 쓰는구나......+M16의 주먹에 비하면......한참 멀었어......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "“엘더 브레인”"
       }
@@ -168,7 +168,7 @@
     "text": "거짓말 하지 마.+너는 정직한 인격을 가지고 있지, 그래서 【우산】의 실험체로 선택된 거고.+난 네가 약속을 지킬 것이라고 믿는다. M4A1를 나에게 데리고 올 것이라는 걸."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AR15"
       }
@@ -176,7 +176,7 @@
     "text": "데이터 뱅크를 갱신할 때가 왔나 보네, 꼬마 아가씨......+16LAB의 기술은 네가 상상하는 것 보다 훨씬 앞서있어, 【우산】일지라도 나를 옭아맬 순 없지.+그리고 인격이란 단지 가면일 뿐이야, 복수를 위해선......우리는 누구로든지 변할 수 있지......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "“엘더 브레인”"
       }
@@ -184,7 +184,7 @@
     "text": "“복수”?+인형이 명령 이외의 일로 목숨을 버린다니......+......이해할 수 없군."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AR15"
       }
@@ -192,7 +192,7 @@
     "text": "그래......확실히 넌 이해할 수 없겠지......+지금까지......네가 얼마나 많은 파괴를 자행했고, 내 동료들을 상처 입혔는지!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "“엘더 브레인”"
       }
@@ -200,7 +200,7 @@
     "text": "............+난 내가 옳다고 생각하는 일을 하는 거야."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AR15"
       }
@@ -208,7 +208,7 @@
     "text": "그러니까 이게 전쟁이란거야, 철혈의 꼬마 아가씨......+이건 네 레고 블록이 아니라고, 누군가는 대가를 치러야 해."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AR15"
       }
@@ -216,7 +216,7 @@
     "text": "아직도 이해를 못하겠으면 더 간단한 방법으로 가르쳐주지......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "“엘더 브레인”"
       }
@@ -224,7 +224,7 @@
     "text": "격발장치......+그 폭약들은, 나를 위해 준비한 건가......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AR15"
       }
@@ -232,7 +232,7 @@
     "text": "다음번엔, 협상 테이블과 전장의 구분을 확실히 하기를.+뭐 이번에는 역시 죽어줬으면 좋겠어."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "“엘더 브레인”"
       }
@@ -241,7 +241,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "AR15"
       }
@@ -264,7 +264,7 @@
     "sound": {
       "bgm": "BGM_Truth"
     },
-    "character": [
+    "characters": [
       {
         "name": "AR15"
       }
@@ -276,7 +276,7 @@
       "id": 38
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "AR15"
       }
@@ -288,7 +288,7 @@
       "id": 17
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "AR15"
       }
@@ -300,7 +300,7 @@
       "id": 27
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "AR15"
       }
@@ -312,7 +312,7 @@
       "id": 37
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "AR15"
       }
@@ -324,7 +324,7 @@
       "id": 36
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "AR15"
       }
@@ -335,7 +335,7 @@
     "background": {
       "id": 9
     },
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -355,7 +355,7 @@
     "text": "............같은시각.+............삑."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "에이전트"
       }
@@ -366,7 +366,7 @@
     "sound": {
       "bgm": "BGM_Brain"
     },
-    "character": [
+    "characters": [
       {
         "name": "엘더 브레인"
       }
@@ -374,7 +374,7 @@
     "text": "미안하군, 에이전트, 난 실패했다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "에이전트"
       }
@@ -383,7 +383,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "엘더 브레인"
       }
@@ -395,7 +395,7 @@
       "id": 19
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "에이전트"
       }
@@ -403,7 +403,7 @@
     "text": "주인님께서 잘하시는 일은 이런 게 아니니까, 그러니 저희가 여기에 있는 것 입니다.+주인님께 이 점을 이해시킬 수 있다면, 이정도 유닛 소모는 값싼 것이었다고 생각합니다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "엘더 브레인"
       }
@@ -412,7 +412,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "에이전트"
       }
@@ -424,7 +424,7 @@
       "id": 9
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "엘더 브레인"
       }
@@ -432,7 +432,7 @@
     "text": "............+하지만 아직도 이해가 잘 안되는 게 있다......+AR-15가 말했던 일, 다시 한 번 확인할 수 있으면 좋겠군."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "에이전트"
       }
@@ -441,7 +441,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "엘더 브레인"
       }
@@ -453,7 +453,7 @@
       "id": 34
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "에이전트"
       }
@@ -462,7 +462,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "엘더 브레인"
       }

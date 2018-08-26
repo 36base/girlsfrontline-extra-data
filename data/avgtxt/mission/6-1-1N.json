@@ -9,7 +9,7 @@
     "text": "............+......S08 구역에 위치한 철혈의 취조실."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "알케미스트"
       }
@@ -17,7 +17,7 @@
     "text": "......우리가 지금 무슨 얘기하고 있었지?+아, 그래. 폭탄이었지. 지금, 우리는 폭탄에 대해서 이야기 하고 있단 말이야.+너는 시한폭탄을 좋아하니? 아니면 격발식?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "F2000 "
       }
@@ -29,7 +29,7 @@
     "sound": {
       "bgm": "BGM_Boss"
     },
-    "character": [
+    "characters": [
       {
         "name": "알케미스트"
       }
@@ -41,7 +41,7 @@
       "id": 46
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "F2000",
         "face": 0
@@ -50,7 +50,7 @@
     "text": "미안한걸...... 난 전장에 대해서 그렇게 많이 연구해보지 않아서 말이야......+우리 좀 가벼운 주제로 대화를 나누는 건 어떨까?+예를 들자면 신발, 그래 우리 신발을 가지고 얘기를 나누는 건 어때? 알케미스트?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "BOSS-5",
         "face": 0
@@ -67,7 +67,7 @@
     "text": "......신발?+평소에 그리폰 인형들의 대화 주제는 예쁜 신발과 핸드백이란 거야?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "BOSS-5",
         "face": 0
@@ -83,7 +83,7 @@
     "text": "그건...... 무기를 좋아하는 인형은 엄청 많지만, 난 소수파라서 말이야.+미안하지만, 네가 원래 노리던 건 내가 아닐텐데......+나같이 재미없는 데다, 별것 아닌 인형을 잡아봤자 별 도움도 안됐을 텐데 말이야."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "BOSS-5",
         "face": 0
@@ -100,7 +100,7 @@
     "text": "......그럴리가, F2000.+적어도 너를 통해 엘리트 인형이 아니더라도, 표정이 풍부하다는 걸 알아낸 데다가.+네가 있음으로써 다른 사냥감과 비교를 할 수 있게 되었으니까 말이야."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "BOSS-5",
         "face": 0
@@ -116,7 +116,7 @@
     "text": ".......뭐라고?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "BOSS-5",
         "face": 0
@@ -136,7 +136,7 @@
     "text": "......알케미스트가 소총을 하나 꺼내 보였다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "BOSS-5",
         "face": 0
@@ -152,7 +152,7 @@
     "text": "그건..... T91의......+그녀를...... 그녀를 어떻게 한 거야?!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "BOSS-5",
         "face": 0
@@ -169,7 +169,7 @@
     "text": "그녀는 여기서 도망친 유일한 녀석이야. 남은 녀석들은 내가 전부 처리해 버렸지만 말이지.+이제 알겠니? 네가 기세 좋게 나섰음에도 불구하고, 네가 구해낼 수 있었던 동료들은 몇 명 없었다는 걸 말이야."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "BOSS-5",
         "face": 0
@@ -188,7 +188,7 @@
     "text": "......F2000은 시원하게 웃어 보였다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "BOSS-5",
         "face": 0
@@ -205,7 +205,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "BOSS-5",
         "face": 0
@@ -222,7 +222,7 @@
       "id": 9
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "알케미스트"
       }
@@ -236,7 +236,7 @@
     "text": "......알케미스트가 손에 쥔 자동 권총을 들어 올렸다.+......F2000의 몸이 떨리기 시작했다. 그녀는 눈을 감으며, 숨을 깊게 들이쉬었다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "F2000 "
       }
@@ -250,7 +250,7 @@
     "text": "......탕! 탕!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "F2000 "
       }
@@ -261,7 +261,7 @@
     "text": "............?+......알케미스트가 권총으로 더미 중 하나를 맞춰 쓰러뜨렸다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "F2000 "
       }
@@ -269,7 +269,7 @@
     "text": "알케미스트...... 지금......?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "알케미스트 "
       }
@@ -283,7 +283,7 @@
     "text": "......탕! 탕!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "F2000 "
       }
@@ -292,7 +292,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "알케미스트 "
       }
@@ -310,7 +310,7 @@
     "text": "............+............3시간 후, S08 구역에 위치한 그리폰 기지의 휴게실."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "FN57",
         "face": 0
@@ -322,7 +322,7 @@
     "sound": {
       "bgm": "BGM_Sneak"
     },
-    "character": [
+    "characters": [
       {
         "name": "FAL",
         "face": 0
@@ -338,7 +338,7 @@
     "text": "............+인형은 귀가 없어도 소리를 들을 수 있어, 57."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "FAL",
         "face": 0
@@ -357,7 +357,7 @@
     "text": "......57은 앞으로 나와, FAL이 보고 있는 패션 잡지를 뺏어 들었다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "FAL",
         "face": 0
@@ -373,7 +373,7 @@
     "text": "야!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "FAL",
         "face": 0
@@ -389,7 +389,7 @@
     "text": "......이 핸드백 너무 촌스럽지 않아? 네가 맨다고 치더라도 너무 촌스러운데."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "FAL",
         "face": 0
@@ -405,7 +405,7 @@
     "text": "다음부터는 가격부터 보고 말하지그래. 내가 얼마나 벼르고 있었는지 넌 모를 거야, 57."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "FAL",
         "face": 0
@@ -424,7 +424,7 @@
     "text": "......FAL이 잡지의 한 귀퉁이를 접어 표시를 한 뒤, 가방에 도로 집어넣었다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "FAL",
         "face": 0
@@ -440,7 +440,7 @@
     "text": "제대로 일하면 되는 거잖아?+이번 작전을 맡은 지휘관에게로 가자. 출발할 준비해."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "FAL",
         "face": 0
@@ -457,7 +457,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "FAL",
         "face": 0
@@ -480,7 +480,7 @@
     "text": "............FAL이 휴게실을 떠나자, FN-57이 그 뒤를 따라 나갔다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "FN57"
       }
@@ -488,7 +488,7 @@
     "text": "그, 그럼 상대방이 누군지는 알고는 있는 거야? 잔인하기로 소문난 바로 그 알케미스트란 말이야."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "FAL"
       }
@@ -496,7 +496,7 @@
     "text": "그러니까 돈이 되는 거잖아. 빨리 처리하고 돈이나 받자."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "FN57"
       }
@@ -505,7 +505,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "FAL"
       }
@@ -520,7 +520,7 @@
     "text": "............+10분 후, 지휘실."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "FAL",
         "face": 0,
@@ -530,7 +530,7 @@
     "text": "안녕, 지휘관. 나는 이번 구출 작전의 대장을 맡은 인형 FAL이야.+너무 그렇게 긴장하지 말아 주겠어? 나도 내가 얼마나 예쁜지 알고 있으니까 말이지. 하지만 지금은 귀를 쫑긋 세우고 내 말을 잘 들어주겠어?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "FN57"
       }
@@ -538,7 +538,7 @@
     "text": "(소곤소곤) 내가 보기에는 그냥 잠이 부족한 것 같은데......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "FAL",
         "face": 0

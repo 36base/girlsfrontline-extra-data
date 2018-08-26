@@ -14,7 +14,7 @@
     "sound": {
       "se1": "Battlefield"
     },
-    "character": [
+    "characters": [
       {
         "name": "BOSS-9",
         "face": 0,
@@ -28,7 +28,7 @@
     "text": "이봐! 이거 무슨 일이야!+그 검은 옷 입은 애들이 어느 틈에 내 뒤쪽으로 달려온 거야!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "UMP45",
         "face": 2
@@ -40,7 +40,7 @@
     "sound": {
       "se2": "Gunfight"
     },
-    "character": [
+    "characters": [
       {
         "name": "UMP9",
         "face": 4
@@ -56,7 +56,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "BOSS-9",
         "face": 0,
@@ -74,7 +74,7 @@
       "id": 9
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "아키텍트"
       }
@@ -82,7 +82,7 @@
     "text": "............+어, 지금 저녁이라 앞이 안보여!+먼저 등이 어디 있는지 찾아야겠네!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "UMP45",
         "face": 2
@@ -91,7 +91,7 @@
     "text": "지금이야, 우선 물러나자!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "UMP9",
         "face": 2
@@ -101,7 +101,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "UMP45",
         "face": 2
@@ -115,7 +115,7 @@
       "isNight": true
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "M1887",
         "face": 0,
@@ -125,7 +125,7 @@
     "text": "45, 전원이 끊어지는 걸 봤어요. 잘 하셨어요."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "HK416",
         "face": 0
@@ -134,7 +134,7 @@
     "text": "철혈의 신호....+45, 이 녀석은 누구야?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "UMP45",
         "face": 0
@@ -143,7 +143,7 @@
     "text": "전술인형 M1887, 우리의 이번 스파이야.+그녀는 낮은 등급의 철혈 신호를 가지고, 계속 우리를 비밀스레 도와주고 있었어.+겸사, AR팀도 그녀와 같이 행동하고 있어."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "UMP9",
         "face": 0
@@ -152,7 +152,7 @@
     "text": "헤헤, 양쪽이 전부 철혈 신호라면, 연락 중에도 존재감을 감출 수 있네."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "G11",
         "face": 0
@@ -161,7 +161,7 @@
     "text": "생각지도 못했어...이런 기술을 갖고 있는 게 우리들 뿐만이 아니었구나."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M1887",
         "face": 0,
@@ -171,7 +171,7 @@
     "text": "임시변통일 뿐이에요.+여러분께서 AR팀의 이탈을 위한 시간을 벌어주셨지만, 전투는 여전히 계속되고 있어요.+여러분께서 계속해서 아키텍트의 포격을 방해해주세요. 그렇게만 하면 저희가 게이저를 떨쳐낼 수 있어요."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "HK416",
         "face": 0
@@ -181,7 +181,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "UMP45",
         "face": 0

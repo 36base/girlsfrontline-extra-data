@@ -7,7 +7,7 @@
     "sound": {
       "bgm": "BGM_Sneak"
     },
-    "character": [
+    "characters": [
       {
         "name": "헬리안"
       }
@@ -23,7 +23,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 0,
@@ -40,7 +40,7 @@
     "text": "......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 2
@@ -53,7 +53,7 @@
     "text": "M4, 지휘관이 뭐라고 하던?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 0
@@ -69,7 +69,7 @@
     "text": "무슨 일이 있던지, 일단 AR-15를 찾으래요."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 0
@@ -86,7 +86,7 @@
     "text": "그렇지, SOPII, 방금 발견한 걸 말해봐."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "SOPII",
         "face": 3
@@ -103,7 +103,7 @@
     "text": "응......이전의 데이터를 사용해서 디스트로이어의 최신 좌표를 찾아냈어.+아직 그 데이터를 보고하지 않았다는 걸 고려한다면 누구보다도 빨리 그곳에 도달할 수 있을거야."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "SOPII",
         "face": 3
@@ -119,7 +119,7 @@
     "text": "디스트로이어? 그것을 찾는다고 해서 뭘 할 수 있죠?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3
@@ -136,7 +136,7 @@
     "text": "M4, 정말 AR-15가 철혈에게 제어당하고 있을 것이라고 생각해?+일말의 가능성이 있다면, 그녀는 스스로 탈출해서, 꼭 해야했을 일을......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3
@@ -152,7 +152,7 @@
     "text": "...AR-15가, 디스트로이어를 찾아서......보복을...?+하지만......AR-15가 인형으로서 어떻게 그리폰의 명령보다 자신의 주장을 우선할 수가 있죠?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3
@@ -170,7 +170,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "SOPII",
         "face": 3

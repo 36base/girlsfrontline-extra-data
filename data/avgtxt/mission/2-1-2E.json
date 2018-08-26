@@ -9,7 +9,7 @@
     "text": "....작전종료."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 2,
@@ -23,7 +23,7 @@
     "text": "와앗! 이렇게나 많이 구해줬구나, 잘했어.+역시 M4가 신뢰하는 지휘관이야. 박수박수....+...후후♪+눈치 챘겠지만, 내가 그 M4A1의 고용주야.+그나저나, 진짜 네가 그녀를 찾았다니 역시나...훌륭하네."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 0
@@ -37,7 +37,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 2

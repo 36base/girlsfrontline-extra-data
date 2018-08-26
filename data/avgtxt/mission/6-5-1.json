@@ -7,7 +7,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "NEGEV",
         "face": 0,
@@ -25,7 +25,7 @@
       "id": 10
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "NEGEV",
         "face": 0,

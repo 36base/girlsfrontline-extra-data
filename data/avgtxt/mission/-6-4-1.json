@@ -10,7 +10,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "우로보로스"
       }
@@ -26,7 +26,7 @@
     "sound": {
       "bgm": "BGM_Battle"
     },
-    "character": [
+    "characters": [
       {
         "name": "UMP9",
         "face": 1
@@ -35,7 +35,7 @@
     "text": "우와앗?!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "Weaver",
         "face": 0
@@ -48,7 +48,7 @@
     "text": "이제 그만 포기하지? 그 다리로는... 더는 못 뛸 텐데."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "UMP9",
         "face": 1
@@ -57,7 +57,7 @@
     "text": "네, 네가 우로보로스...?!+어... 어어어... 어떻게 날 찾아낸 거야?!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "Weaver",
         "face": 0
@@ -70,7 +70,7 @@
     "text": "네년들의 위장 효과는 이미 사라졌다. 지금 레이더에는 그리폰의 식별 신호가 사방에 널려 있지."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "UMP9",
         "face": 1
@@ -80,7 +80,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "Weaver",
         "face": 1
@@ -100,7 +100,7 @@
     "sound": {
       "bgm": "BGM_Empty"
     },
-    "character": [
+    "characters": [
       {
         "name": "우로보로스"
       }
@@ -119,7 +119,7 @@
     "text": "같은 시각, S06구역 안에서 조금 떨어진 위치."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "UMP9",
         "face": 2
@@ -128,7 +128,7 @@
     "text": "휴우...+저 녀석이 울부짖는 거 말이야, 몇 km나 떨어져 있는데도 무서워 죽겠어."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "G11",
         "face": 0
@@ -144,7 +144,7 @@
     "text": "녀석이 제정신이 아니라 다행이네. 아니면 그런 어설픈 연기는 금방 들키고 말았을 거야."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "G11",
         "face": 0
@@ -160,7 +160,7 @@
     "text": "비밀 작전이라 했던 것 같은데... 결국 저런 인형과 맞서 싸워야 하는 거야?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "G11",
         "face": 2
@@ -176,7 +176,7 @@
     "text": "거기에 사방에 척살대가 깔렸는걸... 그냥 도망치는 건 무리야."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "G11",
         "face": 2
@@ -192,7 +192,7 @@
     "text": "그렇게 의기소침해 있으면 될 일도 안 되겠다, 너희도 나처럼 45 언니만 믿으면 만사 OK야."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "UMP45",
         "face": 0
@@ -209,7 +209,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "UMP45",
         "face": 0
@@ -229,7 +229,7 @@
       "id": 10
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "UMP45",
         "face": 0
@@ -238,7 +238,7 @@
     "text": "우로보로스가 우리를 죽이지 못해 안달이 났으니, 절대 녀석에게 우리가 살아있다는 걸 들켜선 안 돼.+그러니 먼저 녀석의 지휘부를 찾아낸 다음에야 다음 계획을 짤 수 있어.+이제 작전의 마지막 단계니까, 다들 열심히 해보자."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "HK416",
         "face": 0
@@ -247,7 +247,7 @@
     "text": "지금 그걸 격려라고 한 거야?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "UMP45",
         "face": 0

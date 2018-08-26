@@ -3,7 +3,7 @@
     "background": {
       "id": 10
     },
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kalin",
         "face": 0,
@@ -17,7 +17,7 @@
     "text": "지휘관님, 철혈의 동향을 파악했어요."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kalin",
         "face": 4
@@ -30,7 +30,7 @@
     "text": "이상한 것이, 멀리 도망간게 아니라 오히려 근처에 주둔을 해버렸더라구요."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kalin",
         "face": 0

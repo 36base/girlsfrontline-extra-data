@@ -10,7 +10,7 @@
     "text": "AAT-52가 고지에 도착했다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AAT52",
         "face": 0,
@@ -20,7 +20,7 @@
     "text": "헥... 헥... M4, 아직 있지?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AAT52",
         "face": 0
@@ -37,7 +37,7 @@
     "text": "찾아냈나요?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AAT52",
         "face": 0
@@ -53,7 +53,7 @@
     "text": "지금 고지의 자료실 안에서, 엑스큐셔너의 통신 신호가 감지됐어.+하지만 엑스큐셔너는 저멀리 지휘부에 있잖아? 그 말인즉슨, 엑스큐셔너를 조종하는 통신 장비가 여기 있다는 거지!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AAT52",
         "face": 0
@@ -69,7 +69,7 @@
     "text": "라저. 통신 장비의 정확한 위치를 알아낼 수 있나요?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AAT52",
         "face": 0
@@ -87,7 +87,7 @@
     "text": "...딸칵!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AAT52"
       }
@@ -95,7 +95,7 @@
     "text": "우와앗!?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -106,7 +106,7 @@
     "sound": {
       "bgm": "BGM_Sneak"
     },
-    "character": [
+    "characters": [
       {
         "name": "AAT52"
       }
@@ -114,7 +114,7 @@
     "text": "불이...+자료실의 불이, 갑자기 전부 꺼졌어!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -122,7 +122,7 @@
     "text": "당황하지 말고, 침착하게 상황을 확인하세요.+조명 기구나 야시 장비는 갖고 있나요?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AAT52"
       }
@@ -130,7 +130,7 @@
     "text": "있기는 한데, 다 고장 났어..."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -138,7 +138,7 @@
     "text": "설마 EMP 공격인가...+철혈의 동향은요?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AAT52"
       }
@@ -146,7 +146,7 @@
     "text": "어... 별다른 움직임은 없는 것 같아.+하지만 수가 너무 많아서, 나로서는 손 쓸 수가 없어.+이렇게 되면 통신 장비를 못 찾는데... 누가 나 좀 도와줄 수 없을까?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -154,7 +154,7 @@
     "text": "그대로 계속 수색하는 건 너무 위험해요. 철혈도 그때를 노리고 있는 걸지도 모르고요.+일단 거기서 후퇴하세요."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AAT52"
       }
@@ -162,7 +162,7 @@
     "text": "하나도 안 보여서, 건물을 조용히 빠져나오긴 어렵겠어...+우우... 설마 이렇게 어두컴컴하고 차가운 곳에서 죽게 될 줄이야..."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M1873",
         "face": 0,
@@ -172,7 +172,7 @@
     "text": "내가 도와줄까, AAT?+내가 그나마 가까우니까, 제때 도착할 수 있을 거야."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "SuperSASS",
         "face": 0,
@@ -182,7 +182,7 @@
     "text": "아니요, 제가 구조하러 갈게요. 이래 봬도, 폭탄 해체에는 자신 있거든요."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 0,
@@ -192,7 +192,7 @@
     "text": "M99는 어떻게 생각하시나요?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M99",
         "face": 0,
@@ -202,7 +202,7 @@
     "text": "으음... 시간은 물론이고, 인원 한 명이라도 귀중한 때니까요. 제 생각에도 괜찮을 것 같아요.+게다가, 어렵게 엑스큐셔너를 무력화할 기회를 얻었으니..."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 0,
@@ -212,7 +212,7 @@
     "text": "지금 당장이 아니더라도, 기회는 언제든지 다시 올 수 있어요.+만에 하나라도, 엑스큐셔너를 자극하게 된다면..."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "SuperSASS",
         "face": 0,
@@ -222,7 +222,7 @@
     "text": "괜찮아요. 엑스큐셔너는 현재 순찰 중인 데다, 속도라면 제가 더 빠르다고요."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 0,
@@ -232,7 +232,7 @@
     "text": "(맞아... 엑스큐셔너가 움직인다 해도 내가 저지한다면, 바로 고지로 이동할 수는 없을 거야.)+(게다가 헌터든 엑스큐셔너든 현재는 스스로 사고하지 못하는 듯하니, 잠입을 바로 눈치채진 못하겠지...)+(하지만... 정말 깜빡한 요소가 없을까?)"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AAT52"
       }
@@ -240,7 +240,7 @@
     "text": "Hey! 언제까지 토론만 하고 있을 셈이야?! 빨리 와서 구해달라니까!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 0,
@@ -250,7 +250,7 @@
     "text": "......+(또 나 혼자서 결단을 내려야 하는 건가...)+(역시, 모두의 능력을 믿는 편이 더 낫겠지...)+Super SASS, 당신께 AAT-52의 구출을 맡길게요."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "SuperSASS",
         "face": 0,
@@ -264,7 +264,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }

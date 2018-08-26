@@ -9,7 +9,7 @@
     "text": "....작전종료."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 2,
@@ -23,7 +23,7 @@
     "text": "좋아, 잘 풀리잖아, 드디어 완성했다.+헤헤, 궁금한가보네, 지휘관."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 0
@@ -36,7 +36,7 @@
     "text": "별거아니야, 그냥 철혈이랑, 그리폰의 인형을...+......대조해보는......그런 실험이지.+결과...양측의 응용테크는......거의......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 3
@@ -49,7 +49,7 @@
     "text": "아니, 매우 다르네......+철혈......도대체 어떻게 만들어진 거지......+AR팀이 #3세이프 하우스에서 찾은 계획이랑, 무슨 상관관계가......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 1
@@ -63,7 +63,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 2

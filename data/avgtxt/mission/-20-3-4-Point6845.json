@@ -3,7 +3,7 @@
     "background": {
       "id": 10
     },
-    "character": [
+    "characters": [
       {
         "name": "K2",
         "face": 0
@@ -16,7 +16,7 @@
     "text": "잠깐 스톱, 그 쪽의 적은 엄청 위험하다고."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "FAIL",
         "face": 0

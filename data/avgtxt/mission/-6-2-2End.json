@@ -11,7 +11,7 @@
     "text": "...전투가 마무리되었다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "HunterElite",
         "face": 0
@@ -24,7 +24,7 @@
     "text": "움직일 수가... 없어...+우로보로스...! 약속한 지원 병력은 어찌 된 거지...?! 이대론 초소를 잃게 된다!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "Weaver",
         "face": 0,
@@ -45,7 +45,7 @@
     "sound": {
       "bgm": "BGM_Boss"
     },
-    "character": [
+    "characters": [
       {
         "name": "Weaver",
         "face": 0
@@ -62,7 +62,7 @@
     "text": "우로보로스...!+네년... 설마 처음부터 날 버릴 셈이었냐!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "Weaver",
         "face": 0
@@ -79,7 +79,7 @@
     "text": "...내가 어떻게 태어났는지 아는가?+수백 개의 AI와 게임 속에서 끝까지 겨루고 유일하게 남은 생존자다.+내가 보기에, 장기 말로서의 네 역할은...버림패다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "Weaver",
         "face": 0
@@ -97,7 +97,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "Weaver",
         "face": 0
@@ -118,7 +118,7 @@
       "id": 9
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "우로보로스"
       }
@@ -129,7 +129,7 @@
     "text": "본체 재부팅 시작. 마인드 맵 백업 중... 서버 연결 실패. 마인드 맵 백업을 끝내지 못 했습니다. 로컬 데이터 엑세스, 포맷 완료."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "우로보로스"
       }
@@ -148,7 +148,7 @@
       "isNight": true
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "HK416",
         "face": 0
@@ -157,7 +157,7 @@
     "text": "부팅실패, 아무런 반응도 없어."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "UMP9",
         "face": 2
@@ -166,7 +166,7 @@
     "text": "다 너 때문이야. 목숨이 걸린 일인데, 다리 놔두고 엄한 데를 쏘면 어떡해?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "G11",
         "face": 0
@@ -175,7 +175,7 @@
     "text": "또 내 탓이래. 지들은 놀기만 하고..."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "UMP45",
         "face": 2
@@ -184,7 +184,7 @@
     "text": "아니, G11 잘못이 아니야. 적의 두목이 입막음한 것이 분명해."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "UMP9",
         "face": 4
@@ -200,7 +200,7 @@
     "text": "끄응... 간신히 헌터를 해치웠는데, 결국 아무 정보도 얻은 게 없다니..."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "UMP9",
         "face": 4
@@ -219,7 +219,7 @@
     "sound": {
       "se1": "Battlefield"
     },
-    "character": [
+    "characters": [
       {
         "name": "HK416",
         "face": 0
@@ -235,7 +235,7 @@
     "text": "어디든 좋으니까, 빨리 이곳에서 벗어나야 해...+저 소리 들리지? 다른 철혈 부대가 벌써 우릴 찾고 있어."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "HK416",
         "face": 0
@@ -251,7 +251,7 @@
     "text": "어쩌면... 우릴 찾는 게 아닐 수도?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "HK416",
         "face": 0
@@ -268,7 +268,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "HK416",
         "face": 0

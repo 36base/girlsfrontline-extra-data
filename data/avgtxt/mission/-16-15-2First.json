@@ -12,7 +12,7 @@
     "sound": {
       "bgm": "BGM_Frontline"
     },
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kalin",
         "face": 0
@@ -28,7 +28,7 @@
     "background": {
       "id": 99
     },
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kalin",
         "face": 3
@@ -50,7 +50,7 @@
     "background": {
       "id": 99
     },
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kalin",
         "face": 2
@@ -66,7 +66,7 @@
     "background": {
       "id": 99
     },
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kalin",
         "face": 4
@@ -82,7 +82,7 @@
     "background": {
       "id": 99
     },
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kalin",
         "face": 4
@@ -98,7 +98,7 @@
     "background": {
       "id": 99
     },
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kalin",
         "face": 0
@@ -114,7 +114,7 @@
     "background": {
       "id": 99
     },
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kalin",
         "face": 7
@@ -131,7 +131,7 @@
       "id": 99
     },
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kalin",
         "face": 0
@@ -161,7 +161,7 @@
     "sound": {
       "bgm": "BGM_Truth"
     },
-    "character": [
+    "characters": [
       {
         "name": "군 측 인간 대표"
       }
@@ -169,7 +169,7 @@
     "text": "브레조비치‧크루거.+당신을 불법 무기 운송, 민간 인형 개조법 위반 등의 혐의로 체포합니다.+당신은 묵비권을 행사할 권리가......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "크루거"
       }
@@ -177,7 +177,7 @@
     "text": "나에게 남은 유일한 권한은 침묵이란 소리겠지. 알고 있네."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "군 측 인간 대표"
       }
@@ -186,7 +186,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "크루거"
       }
@@ -207,7 +207,7 @@
     "background": {
       "id": 9
     },
-    "character": [
+    "characters": [
       {
         "name": "크루거"
       }
@@ -219,7 +219,7 @@
       "id": 9
     },
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "크루거"
       }

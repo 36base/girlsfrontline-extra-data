@@ -9,7 +9,7 @@
     "text": "그리폰 S9 지역 전술 지휘실......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 0,
@@ -24,7 +24,7 @@
   },
   {
     "screenEffect": "blackSpot1",
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 2
@@ -41,7 +41,7 @@
       "id": 10
     },
     "screenEffect": "blackSpot2",
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 0,

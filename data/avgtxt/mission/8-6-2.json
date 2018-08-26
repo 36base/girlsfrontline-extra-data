@@ -10,7 +10,7 @@
     "text": "............작전 종료 후, 잠시나마 드리머와 디스트로이어의 공격을 저지했다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3
@@ -26,7 +26,7 @@
     "sound": {
       "se1": "Battlefield"
     },
-    "character": [
+    "characters": [
       {
         "name": "RO635",
         "face": 3
@@ -35,7 +35,7 @@
     "text": "......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3
@@ -52,7 +52,7 @@
     "text": "RO......너 왜 그래?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3
@@ -71,7 +71,7 @@
     "sound": {
       "se2": "Gunfight"
     },
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3
@@ -88,7 +88,7 @@
     "text": "지금은 양심의 가책같은 걸 느끼고 있을 때가 아니야! 우린 지금 임무를 수행 중이라고!+난 내가 맡은 일을 끝낼테니, 넌 네가 맡은 일을 끝내도록 해! 알아 듣겠어?!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO635",
         "face": 5
@@ -100,7 +100,7 @@
     "text": "............페르시카가 통신에 끼어들었다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "페르시카"
       }
@@ -108,7 +108,7 @@
     "text": "RO, M16이 하고 싶은대로 둬.+7호 문서를 안전하게 가지고 돌아오는 것. 이게 최우선이야.+이건, 내 명령일 뿐만 아니라, 크루거의 명령이기도 해."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO635",
         "face": 0
@@ -117,7 +117,7 @@
     "text": "엣? 페르시카 씨......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3
@@ -130,7 +130,7 @@
     "text": "너무 깊게 생각하지 마, 언젠가 답을 들을 기회가 올 거야."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO635",
         "face": 3
@@ -139,7 +139,7 @@
     "text": "......그게 페르시카 씨의 명령이라면야...+알겠어. M16, 네 제안을 받아들일게. 그럼 격벽을 폭파하러 가도록 해."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 0
@@ -152,7 +152,7 @@
     "text": "그 말만을 기다렸어."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "SOPII",
         "face": 3
@@ -165,7 +165,7 @@
     "text": "M16......+너......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3
@@ -178,7 +178,7 @@
     "text": "SOPII, 정찰은 끝난 거야?+난 격벽을 폭파하러 갈테니, 넌 앞으로 RO가 하는 말 잘 들으면서 같이 행동하도록 해. 알겠지?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "SOPII",
         "face": 3
@@ -191,7 +191,7 @@
     "text": "잠깐만, 내가 말을 안들은 적이 있다는 거야?+그런데, M16, 너......괜찮겠어?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 0
@@ -208,7 +208,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "RO635",
         "face": 5
@@ -224,7 +224,7 @@
     "text": "......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16A1"
       }
@@ -249,7 +249,7 @@
     "sound": {
       "se2": "Gunfight"
     },
-    "character": [
+    "characters": [
       {
         "name": "SOPII",
         "face": 3
@@ -262,7 +262,7 @@
     "text": "격벽이 열렸어! RO, 빨리 나가자!+.....봐봐, 수송기야! 수송기가 앞에 있어!+M16! M16은 어디에 있는 거야!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO635",
         "face": 5
@@ -274,7 +274,7 @@
     "sound": {
       "bgm": "BGM_Empty"
     },
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3,
@@ -291,7 +291,7 @@
     "sound": {
       "se1": "Battlefield"
     },
-    "character": [
+    "characters": [
       {
         "name": "RO635",
         "face": 5
@@ -303,7 +303,7 @@
     "sound": {
       "bgm": "BGM_Wake"
     },
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3,
@@ -320,7 +320,7 @@
     "sound": {
       "se1": "Battlefield"
     },
-    "character": [
+    "characters": [
       {
         "name": "RO635",
         "face": 4
@@ -329,7 +329,7 @@
     "text": "뭣..."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "SOPII",
         "face": 3
@@ -345,7 +345,7 @@
     "sound": {
       "se1": "Battlefield"
     },
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3,
@@ -359,7 +359,7 @@
     "text": "아냐, 됐어......여기는 수송기든 너희든 간에 올 수 없는 곳이야."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "SOPII",
         "face": 3
@@ -372,7 +372,7 @@
     "text": "아무것도 할 수 없을 리가 없잖아! 농담하는 거지? 그렇지?! 얼른 대답해!!!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO635",
         "face": 5
@@ -382,7 +382,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3,
@@ -400,7 +400,7 @@
       "id": 9
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "RO635"
       }
@@ -408,7 +408,7 @@
     "text": "M16......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO635"
       }
@@ -424,7 +424,7 @@
       "id": 52
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "RO635"
       }

@@ -9,7 +9,7 @@
     "text": "............점령을 완료한 철혈의 소형 지휘 거점."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "UMP45",
         "face": 0
@@ -21,7 +21,7 @@
     "text": "......15분 후."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO635",
         "face": 0
@@ -30,7 +30,7 @@
     "text": "이 다음부터는 계속해서 헬리안에게 상황을 보고하도록 하죠......+어? 416은?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "UMP45",
         "face": 0
@@ -39,7 +39,7 @@
     "text": "걔는......바람 좀 쐬고 온다던데, 기분전환 좀 하고 싶은가봐."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO635",
         "face": 3
@@ -49,7 +49,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "UMP45",
         "face": 0
@@ -62,7 +62,7 @@
     "text": "............같은 시각, 휴게실."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "UMP9",
         "face": 2
@@ -71,7 +71,7 @@
     "text": "미안해, M16. 방금 416이 무슨 악의가 있어서 너한테 거칠게 대한 건 아니니까......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "G11",
         "face": 2
@@ -81,7 +81,7 @@
   },
   {
     "screenEffect": "shockScreen",
-    "character": [
+    "characters": [
       {
         "name": "UMP9",
         "face": 4
@@ -90,7 +90,7 @@
     "text": "(툭툭 치면서) 이 멍청아, 넌 우리쪽 사람 아니냐!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "G11",
         "face": 3
@@ -99,7 +99,7 @@
     "text": "우앗! 내가 잘못 봤나봐!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 0
@@ -112,7 +112,7 @@
     "text": "하하......+괜찮아, 난 416 그녀석을 이해하니까......+그 아인 마음속에 담아두고 있는 게 너무 많아서, 자기 자신을 통제하지 못하는 것 뿐이야."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "UMP9",
         "face": 2
@@ -121,7 +121,7 @@
     "text": "음......보아하니 너 우리에 대해서 알고 있는 것 같은데......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "G11",
         "face": 0
@@ -130,7 +130,7 @@
     "text": "어? 난 모르겠는데, 뭔데? 416에 관한 것?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 0
@@ -146,7 +146,7 @@
     "sound": {
       "bgm": "BGM_Empty"
     },
-    "character": [
+    "characters": [
       {
         "name": "HK416",
         "face": 3
@@ -155,7 +155,7 @@
     "text": "야! 거기 너희들! 밖에 상황 발생이다!!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "G11",
         "face": 2
@@ -164,7 +164,7 @@
     "text": "......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "HK416",
         "face": 2
@@ -173,7 +173,7 @@
     "text": "왜, 왜 그래?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "UMP9",
         "face": 2
@@ -182,7 +182,7 @@
     "text": "......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "HK416",
         "face": 3
@@ -191,7 +191,7 @@
     "text": "어쨌든, 지금은 잡담할 시간이 아니야!+철혈의 부대가 이쪽으로 이동하고 있어, 예상으론 20분내로 이곳에 도착할 거야!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3
@@ -205,7 +205,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "HK416",
         "face": 0

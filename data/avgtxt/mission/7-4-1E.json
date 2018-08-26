@@ -10,7 +10,7 @@
     "text": "............+......3분 후, 철혈의 포격원점."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "마카로프"
       }
@@ -18,7 +18,7 @@
     "text": "정말이지......+너희 성조기 녀석들은 항상 영웅주의에 취해있구나?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO635"
       }
@@ -29,7 +29,7 @@
     "sound": {
       "se1": "Battlefield"
     },
-    "character": [
+    "characters": [
       {
         "name": "AAT52"
       }
@@ -37,7 +37,7 @@
     "text": "앗, RO. 너 이제서야 웃는구나.+AR팀에 간 뒤로 변한 줄 알았지."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO635"
       }
@@ -45,7 +45,7 @@
     "text": "그건......+AR팀의 분위기는 아무래도 좀 다르니까, 무의식적에 영향을 받은 것 아닐까......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "마카로프"
       }
@@ -56,7 +56,7 @@
     "sound": {
       "se1": "Battlefield"
     },
-    "character": [
+    "characters": [
       {
         "name": "RO635"
       }
@@ -64,7 +64,7 @@
     "text": "지금 살아있잖아? 최소한 지금은, 우린 성공했어."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "마카로프"
       }
@@ -72,7 +72,7 @@
     "text": "흥, 간신히 해냈을 뿐이야.+적어도 리더라고 뭘 좀 하기는 했나 보네."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO635"
       }
@@ -80,7 +80,7 @@
     "text": "(한숨을 쉬며) 얼마나 귀찮은 작전이었는지 알기나 하는 거야......+페르시카 씨의 코드가 효과를 본 덕에, 방금 포탄이 발사될 때 추진력이 많이 깎였다고.+모두들 고마워, 스텐, 그리고 AAT. 포대 주변 거점을 포위하는데 도와준 덕이야."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AAT52"
       }
@@ -88,7 +88,7 @@
     "text": "헤헤, 이러면 쥬피터를 대폭 약화시킬 수 있다고요.+철혈의 새 장난감도 무적은 아니네요!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "스텐"
       }
@@ -97,7 +97,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "RO635"
       }
@@ -112,7 +112,7 @@
     "sound": {
       "bgm": "BGM_Empty"
     },
-    "character": [
+    "characters": [
       {
         "name": "RO635",
         "face": 2
@@ -121,7 +121,7 @@
     "text": "지휘관님, 여기는 RO635입니다.+철혈 포대를 무력화시키는데 성공했습니다. 지금은 위협이 되지 않습니다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO635",
         "face": 0

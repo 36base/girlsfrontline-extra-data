@@ -10,7 +10,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "NPC-Helian",
         "face": 0,
@@ -31,7 +31,7 @@
     "sound": {
       "se1": "Battlefield"
     },
-    "character": [
+    "characters": [
       {
         "name": "SOPII",
         "face": 3
@@ -47,7 +47,7 @@
     "sound": {
       "se2": "Gunfight"
     },
-    "character": [
+    "characters": [
       {
         "name": "RO635",
         "face": 5
@@ -56,7 +56,7 @@
     "text": "대응이 너무 빠르잖아!+나도 고강도의 신호를 하나 탐측했어. 신호 특징이 \"저지\"와 완전히 똑같아!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "SOPII",
         "face": 0
@@ -72,7 +72,7 @@
     "sound": {
       "se2": "Gunfight"
     },
-    "character": [
+    "characters": [
       {
         "name": "RO635",
         "face": 0
@@ -81,7 +81,7 @@
     "text": "조금 있다가 녀석이 오면 네가 튀어나가서 \"서프라이즈!\"라면서 놀라게 하는 건 어때?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "SOPII",
         "face": 3
@@ -94,7 +94,7 @@
     "text": "헤헤헤, 그거 재미있겠네!+하지만 지금의 우리만으로는......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NEGEV",
         "face": 0,
@@ -111,7 +111,7 @@
     "sound": {
       "se2": "Gunfight"
     },
-    "character": [
+    "characters": [
       {
         "name": "RO635",
         "face": 5
@@ -127,7 +127,7 @@
     "text": "딱 타이밍 맞게 와줬네!+AR팀, 네게브 소대에 응답. 여기는 RO. 현재 신호가 발신되고 있는 위치에서 구출을 기다리는 중이다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO635",
         "face": 5
@@ -147,7 +147,7 @@
     "sound": {
       "se1": "Battlefield"
     },
-    "character": [
+    "characters": [
       {
         "name": "RO635",
         "face": 5
@@ -163,7 +163,7 @@
     "text": "철혈이 너처럼 이해심이 넘쳐 흘렀다면 정말 좋았을 텐데 말이야! 근데 너 추가 근무 같은 거 싫어하지 않았어!?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO635",
         "face": 5
@@ -183,7 +183,7 @@
     "sound": {
       "se2": "Gunfight"
     },
-    "character": [
+    "characters": [
       {
         "name": "RO635",
         "face": 4
@@ -199,7 +199,7 @@
     "text": "체력도 물도 탄약도 다 떨어졌어. 구출 부대는 언제쯤 도착하는 거야?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO635",
         "face": 4
@@ -216,7 +216,7 @@
     "text": "우리는 선두 부대일 뿐이고, 지휘관의 제대가 곧 도착할 거야."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO635",
         "face": 0
@@ -235,7 +235,7 @@
     "sound": {
       "se2": "Gunfight"
     },
-    "character": [
+    "characters": [
       {
         "name": "RO635",
         "face": 0
@@ -252,7 +252,7 @@
     "text": "쳇...... 지휘관이 나한테 내린 임무는 \"구출\"이지 \"포획\"이 아니라고."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO635",
         "face": 2
@@ -271,7 +271,7 @@
     "sound": {
       "se1": "Battlefield"
     },
-    "character": [
+    "characters": [
       {
         "name": "RO635",
         "face": 2
@@ -288,7 +288,7 @@
     "text": "착한 사람? RO, 넌 날 몰라도 너무 모르는군.......+하지만, 확실히 뭔가 파괴하는 건 즐거운 일이지, 그럼 우리는 준비하고 있을 테니, 신호만 잘 보내줘."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO635",
         "face": 5

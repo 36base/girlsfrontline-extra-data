@@ -11,7 +11,7 @@
   },
   {
     "screenEffect": "blackSpot1",
-    "character": [
+    "characters": [
       {
         "name": "CZ2000",
         "face": 0
@@ -27,7 +27,7 @@
       "id": 10
     },
     "screenEffect": "blackSpot2",
-    "character": [
+    "characters": [
       {
         "name": "CZ2000",
         "face": 0
@@ -42,7 +42,7 @@
     "text": "......삑."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "CZ2000",
         "face": 0
@@ -54,7 +54,7 @@
     "text": "어? 누, 누구......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "Thunder50",
         "face": 0,
@@ -68,7 +68,7 @@
     "text": "안녕하세요, 지휘관. 전 Thunder.50, 썬더라고 부르시면 됩니다.+작전 효율을 위해 자기소개는 다음으로 미루도록 하죠. 방금 당신에게 철혈 지휘소의 구조 도면를 보냈어요.+지금 공격하려는 지휘소 근처에는 아직 많은 적이 남아 있어요.+아군의 전력을 보존하기 위해 최대한 적들과의 정면 교전을 피하는 게 좋을 것으로 사료됩니다.+이건 제가 계획해본 잠입 루트입니다. 이 루트를 참고해서 신중히 작전을 전개해주세요."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "CZ2000",
         "face": 0
@@ -84,7 +84,7 @@
     "text": "이 전투에서는 내가 주인공이란 말이야!+어디서 갑자기 튀어나와서는 무슨 소릴 하는 거야!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "CZ2000",
         "face": 0
@@ -102,7 +102,7 @@
     "text": "꽃게 한 마리가 다른 사람들을 데리고 불 속으로 뛰어드는 꼴을 못 봐주겠어서 말이죠."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "CZ2000",
         "face": 0
@@ -119,7 +119,7 @@
     "text": "뭐, 뭐라고오?!+지금 날...... 꽃게라고 불렀겠다?!!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "Thunder50",
         "face": 0,
@@ -137,7 +137,7 @@
   },
   {
     "screenEffect": "shockScreen",
-    "character": [
+    "characters": [
       {
         "name": "CZ2000",
         "face": 0

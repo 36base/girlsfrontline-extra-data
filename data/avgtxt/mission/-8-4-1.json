@@ -12,7 +12,7 @@
     "background": {
       "id": 34
     },
-    "character": [
+    "characters": [
       {
         "name": "FAL",
         "face": 0
@@ -27,7 +27,7 @@
     "background": {
       "id": 34
     },
-    "character": [
+    "characters": [
       {
         "name": "FAL",
         "face": 0
@@ -47,7 +47,7 @@
     "background": {
       "id": 34
     },
-    "character": [
+    "characters": [
       {
         "name": "FAL",
         "face": 0
@@ -67,7 +67,7 @@
     "background": {
       "id": 34
     },
-    "character": [
+    "characters": [
       {
         "name": "FAL",
         "face": 0
@@ -86,7 +86,7 @@
     "background": {
       "id": 34
     },
-    "character": [
+    "characters": [
       {
         "name": "FAL",
         "face": 0
@@ -107,7 +107,7 @@
       "id": 34
     },
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "FN57",
         "face": 0
@@ -134,7 +134,7 @@
       "id": 34
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "BB_Noel",
         "face": 2
@@ -150,7 +150,7 @@
     "background": {
       "id": 34
     },
-    "character": [
+    "characters": [
       {
         "name": "GG_elfeldt_505",
         "face": 0,
@@ -171,7 +171,7 @@
     "background": {
       "id": 34
     },
-    "character": [
+    "characters": [
       {
         "name": "GG_elfeldt_505",
         "face": 0,
@@ -192,7 +192,7 @@
     "background": {
       "id": 34
     },
-    "character": [
+    "characters": [
       {
         "name": "GG_elfeldt_505",
         "face": 0,
@@ -213,7 +213,7 @@
     "background": {
       "id": 34
     },
-    "character": [
+    "characters": [
       {
         "name": "GG_elfeldt_505",
         "face": 0,
@@ -234,7 +234,7 @@
     "background": {
       "id": 34
     },
-    "character": [
+    "characters": [
       {
         "name": "FAL",
         "face": 0
@@ -253,7 +253,7 @@
     "background": {
       "id": 34
     },
-    "character": [
+    "characters": [
       {
         "name": "FAL",
         "face": 0
@@ -273,7 +273,7 @@
     "background": {
       "id": 34
     },
-    "character": [
+    "characters": [
       {
         "name": "GG_elfeldt_505",
         "face": 0,
@@ -294,7 +294,7 @@
     "background": {
       "id": 34
     },
-    "character": [
+    "characters": [
       {
         "name": "GG_elfeldt_505",
         "face": 0,
@@ -315,7 +315,7 @@
     "background": {
       "id": 34
     },
-    "character": [
+    "characters": [
       {
         "name": "GG_elfeldt_505",
         "face": 0,
@@ -336,7 +336,7 @@
     "background": {
       "id": 34
     },
-    "character": [
+    "characters": [
       {
         "name": "FAL",
         "face": 0
@@ -355,7 +355,7 @@
     "background": {
       "id": 34
     },
-    "character": [
+    "characters": [
       {
         "name": "FAL",
         "face": 0
@@ -375,7 +375,7 @@
     "background": {
       "id": 34
     },
-    "character": [
+    "characters": [
       {
         "name": "FAL",
         "face": 0
@@ -394,7 +394,7 @@
     "background": {
       "id": 34
     },
-    "character": [
+    "characters": [
       {
         "name": "FAL",
         "face": 0
@@ -417,7 +417,7 @@
     "sound": {
       "bgm": "BGM_Empty"
     },
-    "character": [
+    "characters": [
       {
         "name": "FAL",
         "face": 0
@@ -438,7 +438,7 @@
     "background": {
       "id": 34
     },
-    "character": [
+    "characters": [
       {
         "name": "FAL",
         "face": 0
@@ -458,7 +458,7 @@
     "background": {
       "id": 34
     },
-    "character": [
+    "characters": [
       {
         "name": "FAL",
         "face": 0
@@ -479,7 +479,7 @@
     "background": {
       "id": 34
     },
-    "character": [
+    "characters": [
       {
         "name": "FAL",
         "face": 0
@@ -494,7 +494,7 @@
     "background": {
       "id": 34
     },
-    "character": [
+    "characters": [
       {
         "name": "FAL",
         "face": 0
@@ -514,7 +514,7 @@
       "bgm": "BGM_Empty",
       "se1": "Explode"
     },
-    "character": [
+    "characters": [
       {
         "name": "FAL",
         "face": 0
@@ -529,7 +529,7 @@
     "background": {
       "id": 34
     },
-    "character": [
+    "characters": [
       {
         "name": "FAL",
         "face": 0
@@ -547,7 +547,7 @@
     "sound": {
       "bgm": "BGM_Danger"
     },
-    "character": [
+    "characters": [
       {
         "name": "FAL",
         "face": 0
@@ -568,7 +568,7 @@
     "background": {
       "id": 34
     },
-    "character": [
+    "characters": [
       {
         "name": "FAL",
         "face": 0,
@@ -588,7 +588,7 @@
     "background": {
       "id": 34
     },
-    "character": [
+    "characters": [
       {
         "name": "FAL",
         "face": 0
@@ -609,7 +609,7 @@
     "background": {
       "id": 34
     },
-    "character": [
+    "characters": [
       {
         "name": "FAL",
         "face": 0
@@ -629,7 +629,7 @@
     "background": {
       "id": 34
     },
-    "character": [
+    "characters": [
       {
         "name": "FAL",
         "face": 0
@@ -648,7 +648,7 @@
     "background": {
       "id": 34
     },
-    "character": [
+    "characters": [
       {
         "name": "FAL",
         "face": 0
@@ -669,7 +669,7 @@
     "background": {
       "id": 34
     },
-    "character": [
+    "characters": [
       {
         "name": "FAL",
         "face": 0
@@ -689,7 +689,7 @@
     "background": {
       "id": 34
     },
-    "character": [
+    "characters": [
       {
         "name": "FAL",
         "face": 0
@@ -710,7 +710,7 @@
     "background": {
       "id": 34
     },
-    "character": [
+    "characters": [
       {
         "name": "FAL",
         "face": 0
@@ -725,7 +725,7 @@
     "background": {
       "id": 34
     },
-    "character": [
+    "characters": [
       {
         "name": "FAL",
         "face": 0
@@ -740,7 +740,7 @@
     "background": {
       "id": 34
     },
-    "character": [
+    "characters": [
       {
         "name": "FN57",
         "face": 0
@@ -756,7 +756,7 @@
     "background": {
       "id": 34
     },
-    "character": [
+    "characters": [
       {
         "name": "GG_elfeldt_505",
         "face": 0
@@ -772,7 +772,7 @@
     "background": {
       "id": 34
     },
-    "character": [
+    "characters": [
       {
         "name": "BB_Noel",
         "face": 2
@@ -788,7 +788,7 @@
     "background": {
       "id": 34
     },
-    "character": [
+    "characters": [
       {
         "name": "FAL",
         "face": 0
@@ -807,7 +807,7 @@
     "background": {
       "id": 34
     },
-    "character": [
+    "characters": [
       {
         "name": "FAL",
         "face": 0
@@ -828,7 +828,7 @@
       "id": 34
     },
     "screenEffect": "blackSpot1",
-    "character": [
+    "characters": [
       {
         "name": "FAL",
         "face": 0

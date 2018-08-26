@@ -9,7 +9,7 @@
     "text": "AR팀이 지휘실에 진입했다.+............"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4 SOPMOD II"
       }
@@ -17,7 +17,7 @@
     "text": "(손짓으로) \"실내에 인간 목표가 있음. \""
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -35,7 +35,7 @@
     "text": "......펑!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 3
@@ -44,7 +44,7 @@
     "text": "그쪽의 인간, 이쪽을 향하고 두 손을 드십시오!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "??"
       }
@@ -52,7 +52,7 @@
     "text": "......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 3
@@ -61,7 +61,7 @@
     "text": "마지막 경고입니다. 손을 들지 않을 시 발포할 수 있습니다!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "??"
       }
@@ -69,7 +69,7 @@
     "text": "너희들에게 그럴 권한은 없을텐데......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kyruger",
         "face": 0
@@ -85,7 +85,7 @@
     "sound": {
       "bgm": "BGM_Sad"
     },
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 3
@@ -102,7 +102,7 @@
     "text": "......!!+정말 죄송합니다. 크루거 대표님!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3
@@ -119,7 +119,7 @@
     "text": "저의 직언을 용서해주시겠습니까, 크루거 님.+이건 저희가 받은 임무와 내용이 다른 것 같습니다.+그리고 적지에서 IFF도 사용하시지 않다니, 이건 너무 위험합니다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3
@@ -136,7 +136,7 @@
     "text": "만약 그 신호가 철혈의 권한검증을 통과하지 못한다면, 그거야 말로 더 위험하겠지.+새로운 장비는 아직 결함이 있어서, 내가 16LAB에 개량을 독촉할 예정이라네."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "SOPII",
         "face": 3
@@ -153,7 +153,7 @@
     "text": "설마 대표님은 그저......신 장비 실험을 위해서 오신 건가요?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "SOPII",
         "face": 3
@@ -170,7 +170,7 @@
     "text": "하지만 저희는 특수작전팀 입니다. 무슨 경호팀 같은게 아니란 말입니다!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 3
@@ -187,7 +187,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 3

@@ -9,7 +9,7 @@
     "text": "............1시간 후, M16이 신호원으로 향했다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3
@@ -22,7 +22,7 @@
     "text": "그 신호원은 바로 여기에 있어. +공장이지. 물론 이미 버려졌지만."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 0,
@@ -36,7 +36,7 @@
     "text": "들어가봐, M16. +그 신호를 찾아서 확인을 해봐야지."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 0
@@ -54,7 +54,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 0
@@ -81,7 +81,7 @@
     "text": "............M16이 공장의 입구에 다가가 스캔과 대조를 시작했다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3
@@ -94,7 +94,7 @@
     "text": "어? 이 기록은......+내 마인드맵에 이 공장의 지도 일부분이 있는 것 같은데?+이 지도......도대체 언제 저장된 거지......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 3,
@@ -108,7 +108,7 @@
     "text": "역시.........+M16, 넌 이곳에 와본 적이 있어. 네 마인드맵엔 지도의 다운로드 권한이 있다고.+너와 공장의 네트워크가 연결된 후에 다시 다운로드를 시작한 거야."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 2
@@ -125,7 +125,7 @@
     "text": "내가......이곳에 와본 적이 있다고? +하지만 난......아무런 기억이 없는데......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 2
@@ -142,7 +142,7 @@
     "text": "클라우드 마인드맵은 수정할 수 있어. 네 마인드맵의 기록은 여러 부분이 삭제되었지. +기억하고 있을 거야......네 마인드맵은 복사할 수 없다는걸."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 2
@@ -159,7 +159,7 @@
     "text": "그렇긴 해, 맞아......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 2
@@ -179,7 +179,7 @@
     "sound": {
       "bgm": "BGM_Empty"
     },
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 1
@@ -192,7 +192,7 @@
     "text": "......!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3
@@ -212,7 +212,7 @@
     "sound": {
       "bgm": "BGM_Brain"
     },
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3
@@ -232,7 +232,7 @@
     "text": "............M16이 한숨을 길게 내쉬었다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3
@@ -250,7 +250,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3
@@ -271,7 +271,7 @@
       "id": 16
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "M16A1"
       }
@@ -279,7 +279,7 @@
     "text": "리코한테 일이 생겼던 그 사건?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "페르시카"
       }
@@ -287,7 +287,7 @@
     "text": "그래......하룻밤 사이, 철혈 공장에서 폭동이 일어났지, 원인 불명인 미제 사건. +리코도 그 와중에 죽었고, 그날부터 철혈은 인류의 적이 되었지."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16A1"
       }
@@ -296,7 +296,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "페르시카"
       }
@@ -308,7 +308,7 @@
       "id": 9
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3
@@ -321,7 +321,7 @@
     "text": "하지만 지금 그런걸 알아봤자 별 쓸모는 없겠지. 공장의 권한은 내가 이어받았어, 문도 잘 열리는군. +지금 공장 안에서 이동 중이야, 사방이 탄흔, 핏자국, 부서진 부품들이군.+하지만 중요한 물건은 없는 듯해, 전부 한번 정리된 곳이야."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3
@@ -339,7 +339,7 @@
     "text": "그러니까 그 신호를 조사해야 한다는 거야. +M16, 깊게 들어가서 조사해. 다른 건 신경 쓰지 마, 네게 주어진 시간이 얼마 남지 않았어."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3
@@ -357,7 +357,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 2

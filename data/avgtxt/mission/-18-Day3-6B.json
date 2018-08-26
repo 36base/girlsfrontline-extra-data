@@ -6,7 +6,7 @@
     "text": "..."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1Mod",
         "face": 4
@@ -19,7 +19,7 @@
     "text": "아슬아슬하게 따라잡았어...!+대륙간 열차도 움직이기 시작했어...!+목적지에 도착하기 전에… 엘더브레인은… 어디에 있지!?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "군용인형"
       }
@@ -28,7 +28,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "M4A1Mod",
         "face": 4

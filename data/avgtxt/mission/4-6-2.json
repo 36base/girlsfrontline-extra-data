@@ -9,7 +9,7 @@
     "text": "......작전이 마지막 단계에 접어들었다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 0
@@ -18,7 +18,7 @@
     "text": "다 끝났습니다, 인트루더."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "BOSS-4",
         "face": 0
@@ -35,7 +35,7 @@
     "text": "이렇게 됐구나...즐거운 시간은...정말로 짧단 말이야..."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "BOSS-4",
         "face": 0
@@ -51,7 +51,7 @@
     "text": "이런 결과인데도 기분이 좋다는 말입니까?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "BOSS-4",
         "face": 0
@@ -68,7 +68,7 @@
     "text": "내가 맡은 임무를 완수했는 걸...꽤 기분 좋은일 아닌가?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "BOSS-4",
         "face": 0
@@ -84,7 +84,7 @@
     "text": "당신의...임무...?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "BOSS-4",
         "face": 0
@@ -101,7 +101,7 @@
     "text": "말했지, 내 임무는 시간을 때우는 거라고...+조금 구체적으로 말하자면 말이지...+...너희들의 시간을 때우는 거야."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "BOSS-4",
         "face": 0
@@ -117,7 +117,7 @@
     "text": "우리의 시간..."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "BOSS-4",
         "face": 0
@@ -133,7 +133,7 @@
     "text": "...설마?!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "BOSS-4",
         "face": 0
@@ -150,7 +150,7 @@
     "text": "준비 시간은 충분했어...진정한 공연은...곧 막이 오르겠지..."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "BOSS-4",
         "face": 0
@@ -166,7 +166,7 @@
     "text": "진정한 공연...이 뭔가요?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "BOSS-4",
         "face": 0
@@ -183,7 +183,7 @@
     "text": "어머...희곡에는...긴장감이 있어야..."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 3
@@ -195,7 +195,7 @@
     "text": "M16이 어디 있는지 말하세요!+빨리 죽을 생각만 하지 말고, 대답하라고요!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16A1"
       }
@@ -203,7 +203,7 @@
     "text": "그게 말이지...사실 그럴 필요는 없을 걸."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 0
@@ -216,7 +216,7 @@
     "text": "이미 도착 했거든."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 2
@@ -232,7 +232,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "M16A1"
       }
@@ -244,7 +244,7 @@
       "id": 7
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3
@@ -257,7 +257,7 @@
     "text": "반쯤 죽어가고 있었는데, 그거 맞아서 죽었으면 어쩌려고!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 3
@@ -273,7 +273,7 @@
     "text": "죽어버리면 딱이네요. 예비 데이터를 다운받을 필요도 없이 공장 리셋한 다음 기억을 다시 심어버리면 되죠!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 3
@@ -290,7 +290,7 @@
     "text": "에고 살려주라, 간신히 돌아왔는데, 가족이 웃는 모습으로 반겨주면 얼마나 좋아!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 3
@@ -307,7 +307,7 @@
   },
   {
     "screenEffect": "blackSpot1",
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 3
@@ -334,7 +334,7 @@
     "text": "30분 후...."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3
@@ -348,7 +348,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 2
@@ -371,7 +371,7 @@
     "text": "비가 내린다. 평원 위에."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -379,7 +379,7 @@
     "text": "비? 평원?+그게 무슨 뜻이에요?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16A1"
       }
@@ -387,7 +387,7 @@
     "text": "UMP45 그 자식이 알려준거야, 그러니까...충분히 위험하다고.+아마 곧 본부 쪽에서도 움직임이 있을 거야."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -396,7 +396,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "M16A1"
       }

@@ -7,7 +7,7 @@
     "sound": {
       "bgm": "BGM_Sneak"
     },
-    "character": [
+    "characters": [
       {
         "name": "AK12",
         "face": 0
@@ -23,7 +23,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "AK12",
         "face": 0
@@ -44,7 +44,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "AK12",
         "face": 0
@@ -64,7 +64,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "AR15Mod",
         "face": 0
@@ -85,7 +85,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "M4A1Mod",
         "face": 0
@@ -102,7 +102,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "AK12",
         "face": 0
@@ -122,7 +122,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "AK12",
         "face": 0
@@ -143,7 +143,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "AK12",
         "face": 0
@@ -164,7 +164,7 @@
       "isNight": true
     },
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "AK12",
         "face": 0
@@ -196,7 +196,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "AR15Mod",
         "face": 0
@@ -213,7 +213,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "AR15Mod",
         "face": 0
@@ -233,7 +233,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "AR15Mod",
         "face": 0
@@ -250,7 +250,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "M4A1Mod",
         "face": 0
@@ -267,7 +267,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "AK12",
         "face": 0
@@ -305,7 +305,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "BOSS-4",
         "face": 0,
@@ -323,7 +323,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "AN94",
         "face": 0
@@ -339,7 +339,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "AN94",
         "face": 0
@@ -355,7 +355,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "M4A1Mod",
         "face": 0
@@ -372,7 +372,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "BOSS-4",
         "face": 0,
@@ -394,7 +394,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "BOSS-4",
         "face": 0
@@ -415,7 +415,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "BOSS-4",
         "face": 0
@@ -436,7 +436,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "M4A1Mod",
         "face": 0
@@ -453,7 +453,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "AN94",
         "face": 0
@@ -473,7 +473,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "M4A1Mod",
         "face": 0
@@ -490,7 +490,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": ""
       }
@@ -506,7 +506,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "AK12",
         "face": 3
@@ -522,7 +522,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "AK12",
         "face": 3
@@ -538,7 +538,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "AN94",
         "face": 4
@@ -554,7 +554,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "M4A1Mod",
         "face": 0
@@ -571,7 +571,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "AK12",
         "face": 3
@@ -587,7 +587,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "BOSS-4",
         "face": 0,
@@ -605,7 +605,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": ""
       }
@@ -620,7 +620,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "AN94",
         "face": 2
@@ -636,7 +636,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "AN94",
         "face": 2
@@ -657,7 +657,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "AK12",
         "face": 3
@@ -677,7 +677,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "AK12",
         "face": 3
@@ -698,7 +698,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "AK12",
         "face": 3
@@ -718,7 +718,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "AR15Mod",
         "face": 0
@@ -735,7 +735,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "M4A1Mod",
         "face": 0
@@ -752,7 +752,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "AK12",
         "face": 3
@@ -772,7 +772,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "AK12",
         "face": 3
@@ -793,7 +793,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "AK12",
         "face": 0
@@ -812,7 +812,7 @@
     "sound": {
       "se1": "Gunfight"
     },
-    "character": [
+    "characters": [
       {
         "name": "BOSS-4",
         "face": 0,
@@ -830,7 +830,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "AR15Mod",
         "face": 0
@@ -847,7 +847,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "AR15Mod",
         "face": 0
@@ -871,7 +871,7 @@
     "sound": {
       "se2": "Gunfight"
     },
-    "character": [
+    "characters": [
       {
         "name": "AN94",
         "face": 2
@@ -891,7 +891,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "AN94",
         "face": 2
@@ -911,7 +911,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "AR15Mod",
         "face": 0
@@ -932,7 +932,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "AR15Mod",
         "face": 0
@@ -953,7 +953,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "AK12",
         "face": 0
@@ -973,7 +973,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "AK12",
         "face": 0
@@ -994,7 +994,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "AR15Mod",
         "face": 0
@@ -1015,7 +1015,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "AR15Mod",
         "face": 0
@@ -1036,7 +1036,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "AR15Mod",
         "face": 0
@@ -1057,7 +1057,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "AR15Mod",
         "face": 0
@@ -1078,7 +1078,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "AR15Mod",
         "face": 3
@@ -1099,7 +1099,7 @@
       "id": 7,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "AR15Mod",
         "face": 3
@@ -1120,7 +1120,7 @@
       "isNight": true
     },
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "M4A1Mod",
         "face": 0
@@ -1150,7 +1150,7 @@
     "sound": {
       "bgm": "BGM_Room"
     },
-    "character": [
+    "characters": [
       {
         "name": "M4A1Mod",
         "face": 3
@@ -1166,7 +1166,7 @@
     "background": {
       "id": 34
     },
-    "character": [
+    "characters": [
       {
         "name": "M4A1Mod",
         "face": 3
@@ -1185,7 +1185,7 @@
     "background": {
       "id": 34
     },
-    "character": [
+    "characters": [
       {
         "name": "M4A1Mod",
         "face": 3
@@ -1205,7 +1205,7 @@
     "background": {
       "id": 34
     },
-    "character": [
+    "characters": [
       {
         "name": "M4A1Mod",
         "face": 3
@@ -1224,7 +1224,7 @@
     "background": {
       "id": 34
     },
-    "character": [
+    "characters": [
       {
         "name": "M4A1Mod",
         "face": 3
@@ -1244,7 +1244,7 @@
     "background": {
       "id": 34
     },
-    "character": [
+    "characters": [
       {
         "name": "M4A1Mod",
         "face": 3
@@ -1263,7 +1263,7 @@
     "background": {
       "id": 34
     },
-    "character": [
+    "characters": [
       {
         "name": "M4A1Mod",
         "face": 3
@@ -1283,7 +1283,7 @@
     "background": {
       "id": 34
     },
-    "character": [
+    "characters": [
       {
         "name": "M4A1Mod",
         "face": 3
@@ -1302,7 +1302,7 @@
     "background": {
       "id": 34
     },
-    "character": [
+    "characters": [
       {
         "name": "M4A1Mod",
         "face": 3
@@ -1322,7 +1322,7 @@
     "background": {
       "id": 34
     },
-    "character": [
+    "characters": [
       {
         "name": "AR15Mod",
         "face": 0
@@ -1342,7 +1342,7 @@
     "background": {
       "id": 34
     },
-    "character": [
+    "characters": [
       {
         "name": "AR15Mod",
         "face": 0
@@ -1361,7 +1361,7 @@
     "background": {
       "id": 34
     },
-    "character": [
+    "characters": [
       {
         "name": "AR15Mod",
         "face": 0
@@ -1380,7 +1380,7 @@
     "background": {
       "id": 34
     },
-    "character": [
+    "characters": [
       {
         "name": "AR15Mod",
         "face": 0
@@ -1400,7 +1400,7 @@
     "background": {
       "id": 34
     },
-    "character": [
+    "characters": [
       {
         "name": "AR15Mod",
         "face": 0
@@ -1419,7 +1419,7 @@
     "background": {
       "id": 34
     },
-    "character": [
+    "characters": [
       {
         "name": "AR15Mod",
         "face": 0
@@ -1439,7 +1439,7 @@
     "background": {
       "id": 34
     },
-    "character": [
+    "characters": [
       {
         "name": "AR15Mod",
         "face": 0
@@ -1459,7 +1459,7 @@
     "background": {
       "id": 34
     },
-    "character": [
+    "characters": [
       {
         "name": "AR15Mod",
         "face": 0
@@ -1475,7 +1475,7 @@
     "background": {
       "id": 34
     },
-    "character": [
+    "characters": [
       {
         "name": "AK12",
         "face": 0
@@ -1490,7 +1490,7 @@
     "background": {
       "id": 34
     },
-    "character": [
+    "characters": [
       {
         "name": "AK12",
         "face": 0
@@ -1505,7 +1505,7 @@
     "background": {
       "id": 34
     },
-    "character": [
+    "characters": [
       {
         "name": "AK12",
         "face": 0
@@ -1521,7 +1521,7 @@
       "id": 34
     },
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "M4A1Mod",
         "face": 0
@@ -1546,7 +1546,7 @@
       "bgm": "BGM_Empty",
       "se2": "Alarm"
     },
-    "character": [
+    "characters": [
       {
         "name": ""
       }
@@ -1560,7 +1560,7 @@
     "background": {
       "id": 9
     },
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -1571,7 +1571,7 @@
     "background": {
       "id": 9
     },
-    "character": [
+    "characters": [
       {
         "name": "AN94"
       }
@@ -1582,7 +1582,7 @@
     "background": {
       "id": 9
     },
-    "character": [
+    "characters": [
       {
         "name": "AK12"
       }
@@ -1593,7 +1593,7 @@
     "background": {
       "id": 9
     },
-    "character": [
+    "characters": [
       {
         "name": "AN94"
       }
@@ -1604,7 +1604,7 @@
     "background": {
       "id": 9
     },
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -1615,7 +1615,7 @@
     "background": {
       "id": 9
     },
-    "character": [
+    "characters": [
       {
         "name": "AK12"
       }
@@ -1627,7 +1627,7 @@
       "id": 9
     },
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "AR15"
       }
@@ -1642,7 +1642,7 @@
     "sound": {
       "bgm": "BGM_Sneak"
     },
-    "character": [
+    "characters": [
       {
         "name": "M4A1Mod",
         "face": 0
@@ -1658,7 +1658,7 @@
     "background": {
       "id": 34
     },
-    "character": [
+    "characters": [
       {
         "name": "M4A1Mod",
         "face": 0
@@ -1677,7 +1677,7 @@
     "background": {
       "id": 34
     },
-    "character": [
+    "characters": [
       {
         "name": "M4A1Mod",
         "face": 0
@@ -1698,7 +1698,7 @@
       "id": 34
     },
     "screenEffect": "blackSpot1",
-    "character": [
+    "characters": [
       {
         "name": "M4A1Mod",
         "face": 0
@@ -1718,7 +1718,7 @@
       "id": 34
     },
     "screenEffect": "blackSpot2",
-    "character": [
+    "characters": [
       {
         "name": "AR15Mod",
         "face": 4
@@ -1734,7 +1734,7 @@
     "background": {
       "id": 34
     },
-    "character": [
+    "characters": [
       {
         "name": "AR15Mod",
         "face": 4
@@ -1754,7 +1754,7 @@
     "background": {
       "id": 34
     },
-    "character": [
+    "characters": [
       {
         "name": "AR15Mod",
         "face": 4
@@ -1774,7 +1774,7 @@
     "background": {
       "id": 34
     },
-    "character": [
+    "characters": [
       {
         "name": "M4A1Mod",
         "face": 0
@@ -1790,7 +1790,7 @@
     "background": {
       "id": 34
     },
-    "character": [
+    "characters": [
       {
         "name": "AK12",
         "face": 0
@@ -1805,7 +1805,7 @@
     "background": {
       "id": 34
     },
-    "character": [
+    "characters": [
       {
         "name": "AK12",
         "face": 0
@@ -1820,7 +1820,7 @@
     "background": {
       "id": 34
     },
-    "character": [
+    "characters": [
       {
         "name": "AK12",
         "face": 0
@@ -1841,7 +1841,7 @@
     "background": {
       "id": 34
     },
-    "character": [
+    "characters": [
       {
         "name": "M4A1Mod",
         "face": 0
@@ -1857,7 +1857,7 @@
     "background": {
       "id": 34
     },
-    "character": [
+    "characters": [
       {
         "name": "M4A1Mod",
         "face": 0
@@ -1878,7 +1878,7 @@
     "background": {
       "id": 34
     },
-    "character": [
+    "characters": [
       {
         "name": "M4A1Mod",
         "face": 0
@@ -1898,7 +1898,7 @@
     "background": {
       "id": 34
     },
-    "character": [
+    "characters": [
       {
         "name": "M4A1Mod",
         "face": 0
@@ -1918,7 +1918,7 @@
     "background": {
       "id": 34
     },
-    "character": [
+    "characters": [
       {
         "name": "M4A1Mod",
         "face": 0
@@ -1938,7 +1938,7 @@
     "background": {
       "id": 34
     },
-    "character": [
+    "characters": [
       {
         "name": "M4A1Mod",
         "face": 0
@@ -1959,7 +1959,7 @@
       "id": 34
     },
     "screenEffect": "blackSpot1",
-    "character": [
+    "characters": [
       {
         "name": "M4A1Mod",
         "face": 0
@@ -1980,7 +1980,7 @@
       "id": 34
     },
     "screenEffect": "blackSpot2",
-    "character": [
+    "characters": [
       {
         "name": "AK12",
         "face": 0
@@ -1995,7 +1995,7 @@
     "background": {
       "id": 34
     },
-    "character": [
+    "characters": [
       {
         "name": "AR15Mod",
         "face": 3
@@ -2015,7 +2015,7 @@
     "background": {
       "id": 34
     },
-    "character": [
+    "characters": [
       {
         "name": "AR15Mod",
         "face": 3
@@ -2035,7 +2035,7 @@
       "id": 34
     },
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "AR15Mod",
         "face": 0

@@ -10,7 +10,7 @@
     "text": "......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO635",
         "face": 5
@@ -22,7 +22,7 @@
     "sound": {
       "bgm": "BGM_Boss"
     },
-    "character": [
+    "characters": [
       {
         "name": "BOSS-9",
         "face": 0,
@@ -36,7 +36,7 @@
     "text": "헤헤....\"곧 도착\" 한다고?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "UMP45"
       }
@@ -47,7 +47,7 @@
     "sound": {
       "se2": "Alarm"
     },
-    "character": [
+    "characters": [
       {
         "name": "BOSS-7",
         "face": 0,
@@ -65,7 +65,7 @@
     "text": "우린 이미 그리폰 보안통신의 특정성을 포착해냈다.+너흰 이제 우리 눈앞에서 작전을 벌이는 짓은 할 수 없어."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "BOSS-9",
         "face": 0,
@@ -82,7 +82,7 @@
     "text": "......통신종료."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "G11",
         "face": 3
@@ -91,7 +91,7 @@
     "text": "우......우리 집에 못 돌아가게 되는 거야?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "HK416",
         "face": 3
@@ -100,7 +100,7 @@
     "text": "진정해, 이런 일 처음도 아니잖아."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3
@@ -113,7 +113,7 @@
     "text": "만약 한 번에 두명의 간부를 상대해야 한다면, 확실히 좀 골치아프겠는데......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "UMP45",
         "face": 2
@@ -122,7 +122,7 @@
     "text": "그리고......+난 그녀석들이 같이 출격한다고 생각하지 않아.+한명은 꾸준히 기지를 지키면서 계속해서 포탑의 조작을 맡고 있어."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO635",
         "face": 0
@@ -131,7 +131,7 @@
     "text": "......그건 아키텍트겠지.+만약 구원부대가 기지 후방에서 공격을 해준다면......+UMP45, 헬리안과 연락이 가능한가요?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "UMP45",
         "face": 0
@@ -140,7 +140,7 @@
     "text": "헬리안이, 대규모의 지원은 시간이 좀 걸린대..."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO635",
         "face": 3
@@ -152,7 +152,7 @@
     "sound": {
       "bgm": "BGM_Empty"
     },
-    "character": [
+    "characters": [
       {
         "name": "UMP45",
         "face": 0
@@ -161,7 +161,7 @@
     "text": "에고고...이렇게 깝깝 할 수가.+이렇게 된 이상, 우리가 직접 나서는 게......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO635",
         "face": 4
@@ -173,7 +173,7 @@
     "sound": {
       "bgm": "BGM_NightOPS"
     },
-    "character": [
+    "characters": [
       {
         "name": "UMP45",
         "face": 0
@@ -183,7 +183,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3
@@ -200,7 +200,7 @@
     "text": ".............5분 후, M16과 RO635가 몰래 이야기를 나누고 있다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3
@@ -213,7 +213,7 @@
     "text": "(작은 목소리로) RO, 내가 너에게 말했었지."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO635",
         "face": 0
@@ -222,7 +222,7 @@
     "text": "하지만 어떻게? 그녀들은 우리를 구하러 온 거잖아.+404소대는 목적을 위해서 수단과 방법을 가리지 않지만, 그녀들은 실패한 적 없다고 들었어."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3
@@ -235,7 +235,7 @@
     "text": "쟤네들은 '그저 우리만'을 구하러 온 거야.+만약 네가 모든 사람들을 안전하게 비행장에 데리고 갈 생각이라면......그녀에게 모든 걸 맡기지마.+기억해, 네가 이번 작전의 지휘관이야."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO635",
         "face": 0
@@ -244,7 +244,7 @@
     "text": "M16, 나는 너처럼 그렇게 경험이 많지는 않아. 그리고 나한테 이미 충분히 충고를 했줬잖아..."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3
@@ -257,7 +257,7 @@
     "text": "하필 대상이 저 눈이 찢어진 녀석이라서, 내 충고로는 부족할까 봐 걱정인 거야."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO635",
         "face": 3
@@ -266,7 +266,7 @@
     "text": "그럼 M4라면? 그녀라면 어떻게 했을 것 같아?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3
@@ -283,7 +283,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "RO635",
         "face": 3

@@ -9,7 +9,7 @@
     "text": "한 달 전, S09 구역 분쟁지대...."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -18,7 +18,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "M16A1"
       }
@@ -33,7 +33,7 @@
     "sound": {
       "bgm": "BGM_Sneak"
     },
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 0
@@ -46,7 +46,7 @@
       "id": 10
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "SOPII",
         "face": 0
@@ -59,7 +59,7 @@
     "text": "자....우리 어디에서부터 시작할까?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AR15",
         "face": 0
@@ -68,7 +68,7 @@
     "text": "지휘부 하나를 먼저 점령하고, 철혈의 데이터베이스에 침입해서 정보를 획득하자."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 0

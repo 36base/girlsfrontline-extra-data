@@ -6,7 +6,7 @@
     "sound": {
       "bgm": "BGM_Sneak"
     },
-    "character": [
+    "characters": [
       {
         "name": "Welrod",
         "face": 0
@@ -22,7 +22,7 @@
     "background": {
       "id": 47
     },
-    "character": [
+    "characters": [
       {
         "name": "IWS2000",
         "face": 0
@@ -42,7 +42,7 @@
     "background": {
       "id": 47
     },
-    "character": [
+    "characters": [
       {
         "name": "Welrod",
         "face": 0
@@ -58,7 +58,7 @@
     "background": {
       "id": 47
     },
-    "character": [
+    "characters": [
       {
         "name": "IWS2000",
         "face": 0
@@ -74,7 +74,7 @@
     "background": {
       "id": 47
     },
-    "character": [
+    "characters": [
       {
         "name": "SSG69",
         "face": 0
@@ -90,7 +90,7 @@
     "background": {
       "id": 47
     },
-    "character": [
+    "characters": [
       {
         "name": "Welrod",
         "face": 0
@@ -106,7 +106,7 @@
     "background": {
       "id": 47
     },
-    "character": [
+    "characters": [
       {
         "name": "IWS2000",
         "face": 0
@@ -122,7 +122,7 @@
     "background": {
       "id": 47
     },
-    "character": [
+    "characters": [
       {
         "name": "Welrod",
         "face": 0
@@ -138,7 +138,7 @@
     "background": {
       "id": 47
     },
-    "character": [
+    "characters": [
       {
         "name": "IWS2000",
         "face": 0
@@ -154,7 +154,7 @@
     "background": {
       "id": 47
     },
-    "character": [
+    "characters": [
       {
         "name": "Glock17",
         "face": 0
@@ -170,7 +170,7 @@
     "background": {
       "id": 47
     },
-    "character": [
+    "characters": [
       {
         "name": "Glock17",
         "face": 0
@@ -190,7 +190,7 @@
     "background": {
       "id": 47
     },
-    "character": [
+    "characters": [
       {
         "name": "Glock17",
         "face": 0
@@ -210,7 +210,7 @@
     "background": {
       "id": 47
     },
-    "character": [
+    "characters": [
       {
         "name": "Glock17",
         "face": 0
@@ -230,7 +230,7 @@
     "background": {
       "id": 47
     },
-    "character": [
+    "characters": [
       {
         "name": "Glock17",
         "face": 0
@@ -255,7 +255,7 @@
     "sound": {
       "bgm": "BGM_Empty"
     },
-    "character": [
+    "characters": [
       {
         "name": "BrenMK",
         "face": 0,
@@ -272,7 +272,7 @@
     "background": {
       "id": 47
     },
-    "character": [
+    "characters": [
       {
         "name": "BrenMK",
         "face": 0
@@ -295,7 +295,7 @@
     "sound": {
       "bgm": "BGM_Danger"
     },
-    "character": [
+    "characters": [
       {
         "name": "BrenMK",
         "face": 0
@@ -315,7 +315,7 @@
     "background": {
       "id": 47
     },
-    "character": [
+    "characters": [
       {
         "name": "Welrod",
         "face": 0
@@ -331,7 +331,7 @@
     "background": {
       "id": 47
     },
-    "character": [
+    "characters": [
       {
         "name": "AUG",
         "face": 0
@@ -347,7 +347,7 @@
     "background": {
       "id": 47
     },
-    "character": [
+    "characters": [
       {
         "name": "IWS2000",
         "face": 0
@@ -367,7 +367,7 @@
     "background": {
       "id": 47
     },
-    "character": [
+    "characters": [
       {
         "name": "IWS2000",
         "face": 0
@@ -387,7 +387,7 @@
     "background": {
       "id": 47
     },
-    "character": [
+    "characters": [
       {
         "name": "IWS2000",
         "face": 0
@@ -407,7 +407,7 @@
     "background": {
       "id": 47
     },
-    "character": [
+    "characters": [
       {
         "name": "IWS2000",
         "face": 0
@@ -423,7 +423,7 @@
     "background": {
       "id": 47
     },
-    "character": [
+    "characters": [
       {
         "name": "IWS2000",
         "face": 0
@@ -443,7 +443,7 @@
     "background": {
       "id": 47
     },
-    "character": [
+    "characters": [
       {
         "name": "IWS2000",
         "face": 0
@@ -464,7 +464,7 @@
       "id": 47
     },
     "screenEffect": "blackSpot1",
-    "character": [
+    "characters": [
       {
         "name": "AUG",
         "face": 0
@@ -481,7 +481,7 @@
       "id": 10
     },
     "screenEffect": "blackSpot2",
-    "character": [
+    "characters": [
       {
         "name": "Welrod",
         "face": 0,
@@ -498,7 +498,7 @@
     "background": {
       "id": 10
     },
-    "character": [
+    "characters": [
       {
         "name": "IWS2000",
         "face": 0

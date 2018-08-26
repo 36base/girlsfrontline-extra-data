@@ -10,7 +10,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "페르시카"
       }
@@ -22,7 +22,7 @@
       "id": 22
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 2
@@ -35,7 +35,7 @@
     "text": "여기는 16 LAB, 네가 태어난 곳이야.+계속해서, 나한테 네 클라우드 마인드맵을 검사하게 해줬으면 하는데......+음...... 어디 보자...... 작동에는 문제가 없는 것 같네."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -43,7 +43,7 @@
     "text": "너는..... 누구......?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 2
@@ -56,7 +56,7 @@
     "text": "내 이름은 페르시카리아(Persicaria). 널 만든 사람이야."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -64,7 +64,7 @@
     "text": "왜...... 날 만들었어?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 2
@@ -77,7 +77,7 @@
     "text": "넌 AR팀의 리더가 되어서, 내가 만든 가장 우수한 인형들을 이끌게 될 거야."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -85,7 +85,7 @@
     "text": "인형......+난...... 인형이야?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 2
@@ -98,7 +98,7 @@
     "text": "지금부터는 그렇지.+널 복원하고 나니, 내가 상상했던 것보다 훨씬 더 귀여운걸......+네가 나를 위해...... 리코가 나에게 주지 못했던 답을 줄 수 있기를…"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -107,7 +107,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "NPC-Persica",
         "face": 2
@@ -121,7 +121,7 @@
   },
   {
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 0
@@ -134,7 +134,7 @@
     "text": "네가 M4A1 맞지?+내 이름은 M16A1. 너랑 같은 전술 인형이야.+만나서 반가워. 아마 앞으로 네 지휘를 받게 될 것 같은데."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -142,7 +142,7 @@
     "text": "너...... 눈이?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 0
@@ -155,7 +155,7 @@
     "text": "하하하, 놀라게 해버렸나?+이 안대는 말이지...... 사실 뭐 그렇게 무서운 것도 아냐. 그냥 기념일 뿐이니까. 멋지지 않아?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -164,7 +164,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 0
@@ -181,7 +181,7 @@
       "id": 9
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -190,7 +190,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "앳된 여자 목소리"
       }
@@ -202,7 +202,7 @@
       "id": 100
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -210,7 +210,7 @@
     "text": "......+우리......+드디어 만났군요......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "앳된 여자 목소리"
       }
@@ -218,7 +218,7 @@
     "text": "만나서 기쁜 건가?+아니면...... 여전히 무서워?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -226,7 +226,7 @@
     "text": "제가 무서워해야 하는 건가요?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "앳된 여자 목소리"
       }
@@ -234,7 +234,7 @@
     "text": "우리는 서로 적이니 무서워해야겠지.+하지만 넌 그렇지 않는군."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -242,7 +242,7 @@
     "text": "저는...... 무섭지 않아요......+당신과 전...... 대체 뭐인 거죠?......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO635"
       }
@@ -251,7 +251,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "앳된 여자 목소리"
       }
@@ -266,7 +266,7 @@
     "sound": {
       "se1": "Runstep"
     },
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -277,7 +277,7 @@
     "text": "......여자아이가 달려오더니 M4A1의 앞에 있는 거울 속에 멈춰섰다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -285,7 +285,7 @@
     "text": "......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -293,7 +293,7 @@
     "text": "이건...... 나?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO635"
       }
@@ -301,7 +301,7 @@
     "text": "조금만 더 기다리시면 제가 금방 깨워드릴게요!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -309,7 +309,7 @@
     "text": "RO 씨......?+RO 씨! 여기에 계신 거죠?!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO635"
       }
@@ -317,7 +317,7 @@
     "text": "제가 돌아온다고 말했잖아요.+지금은 절 볼 수 없겠지만 당신이 여기 있는 걸 알고 있다고요!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -325,7 +325,7 @@
     "text": "어째서...... 어째서 여기를 떠나지 않은 거죠... 저...... 저는 이런 모습으로 변해 버렸단 말이에요....."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO635"
       }
@@ -333,7 +333,7 @@
     "text": "M4A1 씨, 당신이 어떤 모습이든 간에 당신은 당신이고, 이건 제 임무예요."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -342,7 +342,7 @@
   },
   {
     "screenEffect": "shockScreen",
-    "character": [
+    "characters": [
       {
         "name": "RO635"
       }
@@ -350,7 +350,7 @@
     "text": "하지만 이게 바로 제가 만들어진 목적이란 말이에요!+전..... 전 이런 상황에서 당신을 구하기 위해서 만들어졌다고요!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -358,7 +358,7 @@
     "text": "그게 당신이 존재하기 위한 목적은 아니잖아요......+당신의 존재 가치는 당신의 의지에서 나오는 게 아닌가요?!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO635"
       }
@@ -366,7 +366,7 @@
     "text": "그래서 그게 무슨 상관인데요?+최소한 지금, 이 순간만큼은 전 기뻐요.+당신을, 그리고 이 AR팀과 함께할 수 있어서 정말로 기뻤다구요."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -374,7 +374,7 @@
     "text": "당신은 이게 전부 프로그래밍에 의해 만들어진 걸 아세요? 인형이라면 모두 다 그렇다구요."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO635"
       }
@@ -383,7 +383,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -395,7 +395,7 @@
       "id": 9
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "RO635"
       }
@@ -403,7 +403,7 @@
     "text": "AR15는 제가 당신을 구하길 바라고 있어요. M16도, SOPII도 그리고 지휘관님도 제가 당신을 구하길 바라고 있다고요!+M4A1......+저에게 제 스스로의 의지가 없다고 하더라도, 다른 사람들이 제게 맡긴 희망이 있어요.+당신이 절 믿지 못하겠다면 절 믿고 있는 당신의 동료들을 믿어주세요.+자, 제 손을 잡고 같이 돌아가죠......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -411,7 +411,7 @@
     "text": "RO......+미안해요, 제가 그만 잊고 말았네요......+우리들 다시는 헤어지지 말자고 말했었죠.+승리하든 실패하든 다 같이 받아들이도록 해요."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO635"
       }
@@ -422,7 +422,7 @@
     "sound": {
       "bgm": "BGM_Empty"
     },
-    "character": [
+    "characters": [
       {
         "name": "RO635"
       }
@@ -433,7 +433,7 @@
     "sound": {
       "se2": "Heartbeat"
     },
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -441,7 +441,7 @@
     "text": "무슨 소리 말하는 거죠! 저는 들리지 않는걸요!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO635"
       }
@@ -458,7 +458,7 @@
     "text": "......콰직!+......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -472,7 +472,7 @@
     "text": "......아무도 M4A1에게 대답하지 않고, 주위에는 적막만이 흘렀다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }

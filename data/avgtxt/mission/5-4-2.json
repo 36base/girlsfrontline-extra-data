@@ -9,7 +9,7 @@
     "text": "...지원작전 종료."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "IDW",
         "face": 0
@@ -18,7 +18,7 @@
     "text": "아! 살았다냥!+정말 감사합니다냥, 다른집 주인님!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 0
@@ -31,7 +31,7 @@
     "text": "지휘관, 이제 마지막이지?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AR15",
         "face": 2
@@ -47,7 +47,7 @@
     "text": "회의는 이미 취소됐는데, 우린 집에 못가는건가."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AR15",
         "face": 2
@@ -63,7 +63,7 @@
     "text": "사령부가 아직 정보를 누설한 인형을 조사중이에요. 다들 여기서 대기하는 수 밖에요."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "SOPII",
         "face": 3
@@ -80,7 +80,7 @@
     "text": "정말이지. 우린 인형인데, 어떻게 적에게 정보를 준다는건지."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "SOPII",
         "face": 3
@@ -96,7 +96,7 @@
     "text": "명령인 이상 모두들 일단 기다려봐요."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AR15",
         "face": 2
@@ -112,7 +112,7 @@
     "text": "재미없어, 나 먼저 가서 쉴게. 어차피 반드시 제자리에서 대기해야 한다는 말은 없었으니까."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 2
@@ -127,7 +127,7 @@
     "sound": {
       "bgm": "BGM_Empty"
     },
-    "character": [
+    "characters": [
       {
         "name": "NPC-Helian",
         "face": 0
@@ -140,7 +140,7 @@
     "text": "잠시만요."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AR15",
         "face": 0
@@ -152,7 +152,7 @@
     "sound": {
       "bgm": "BGM_Battle"
     },
-    "character": [
+    "characters": [
       {
         "name": "NPC-Helian",
         "face": 0
@@ -165,7 +165,7 @@
     "text": "지금 중요한 일을 발표하겠습니다.+조사를 통해 정보 송수신에 큰 이상이 있는 인형을 발견했습니다.+정확히 말하자면, AR팀의 일원입니다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AR팀"
       }
@@ -173,7 +173,7 @@
     "text": "......!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Helian",
         "face": 0
@@ -189,7 +189,7 @@
     "text": "......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AR15",
         "face": 0
@@ -201,7 +201,7 @@
     "text": "저......말입니까......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3
@@ -214,7 +214,7 @@
     "text": "뭣..."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "SOPII",
         "face": 3
@@ -227,7 +227,7 @@
     "text": "웃기지 말라고!! 지금 장난하자는 거야?! 말도 안 돼, 분명 뭔가 잘못됐을 거라고!!!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AR15",
         "face": 2
@@ -239,7 +239,7 @@
     "text": "조용히 해, SOPII. 넌 인형일 뿐이야.+아무리 험악하게 소리질러도 명령에는 저항할 수 없어."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "SOPII",
         "face": 3
@@ -252,7 +252,7 @@
     "text": "하지만......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AR15",
         "face": 0
@@ -261,7 +261,7 @@
     "text": "단지 혐의를 조사받을 뿐이야. 아직 내가 했다고 확정된 것도 아니고. 일단 일을 마치는데 집중해."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 2
@@ -270,7 +270,7 @@
     "text": "AR-15, 저희는 당신을 믿고 있어요......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AR15",
         "face": 0
@@ -282,7 +282,7 @@
     "text": "......AR-15가 헬리안을 따라 떠났다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "SOPII",
         "face": 3
@@ -295,7 +295,7 @@
     "text": "AR-15......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3
@@ -309,7 +309,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 2

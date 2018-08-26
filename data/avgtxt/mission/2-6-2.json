@@ -10,7 +10,7 @@
     "text": "...전장의 한 구석."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 0
@@ -19,7 +19,7 @@
     "text": "왜 그러시나요. 엑스큐셔너? 예상치 못한 사태라도 일어난 것 같네요."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "BOSS-2",
         "face": 0
@@ -36,7 +36,7 @@
     "text": "칫, 어떻게 된 거냐...+그리폰의 인형 따위가, 본부가 명령을 내리기도 전에 내 지휘부를 기습할 수 있다니..."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "BOSS-2",
         "face": 0
@@ -52,7 +52,7 @@
     "text": "왜냐하면 그쪽엔 그리폰의 제대를 독자적으로 움직일 수 있는 인간 지휘관이 있거든요."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "BOSS-2",
         "face": 0
@@ -72,7 +72,7 @@
     "sound": {
       "se1": "Battlefield"
     },
-    "character": [
+    "characters": [
       {
         "name": "BOSS-2",
         "face": 0
@@ -88,7 +88,7 @@
     "text": "도박이었을 뿐이에요.+그쪽을 믿는 것 빼고는 다른 방법이 없었죠.+이제 당신의 최후에 대해 이야기해보도록 하죠."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "BOSS-2",
         "face": 0
@@ -105,7 +105,7 @@
     "text": "최후? 이게 끝이라고 생각하는건 아니겠지?+설령 네년이 그리폰 제대 속에 숨는다 해도 우리에겐 다른 방법이 있지."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "BOSS-2",
         "face": 0
@@ -121,7 +121,7 @@
     "text": "그게 무슨 말인가요?!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "BOSS-2",
         "face": 0
@@ -139,7 +139,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "BOSS-2",
         "face": 0
@@ -165,7 +165,7 @@
     "text": "...M4A1이 방아쇠를 당겼다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -174,7 +174,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "엑스큐셔너"
       }
@@ -189,7 +189,7 @@
       "id": 25
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }

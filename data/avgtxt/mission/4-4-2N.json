@@ -10,7 +10,7 @@
     "text": "......RO가 수색지점에 도착."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "PM",
         "face": 0,
@@ -24,7 +24,7 @@
     "text": "RO, 현지의 철혈 통신소는 이미 해체되었어.+이제 마음 놓고 수색해도 돼."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO"
       }
@@ -32,7 +32,7 @@
     "text": "Good job!+지금 근처의 표식을 찾는 중이야, 걔들이 아직 암호를 기억하면 좋겠는데......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "PM",
         "face": 0
@@ -45,7 +45,7 @@
     "text": "어쨌든 서둘러, 철혈 부대의 위협이 사라졌더라도 포격은 아직 계속되고 있으니까."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO"
       }
@@ -53,7 +53,7 @@
     "text": "나도 알아, 그냥 철혈이 여기에 놔둔 기계가 포격 테스트용이라고 말하라고......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "PM",
         "face": 0
@@ -66,7 +66,7 @@
     "text": "흥, 정말이지 걸작이네, 자기가 만든게 아니라고 아무렇게나 낭비하는 거잖아?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO"
       }
@@ -77,7 +77,7 @@
     "sound": {
       "bgm": "BGM_Empty"
     },
-    "character": [
+    "characters": [
       {
         "name": "PM",
         "face": 0
@@ -90,7 +90,7 @@
     "text": "......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO"
       }
@@ -101,7 +101,7 @@
     "sound": {
       "bgm": "BGM_Sneak"
     },
-    "character": [
+    "characters": [
       {
         "name": "PM",
         "face": 0
@@ -114,7 +114,7 @@
     "text": "RO......+만약 이번 포격이......바로 우리를 타겟으로 한 거라면?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO"
       }
@@ -122,7 +122,7 @@
     "text": "뭐라는 거야? 만약 그랬다면 진작에 끝장났겠지.+게다가 너도 봤잖아, 탄착점은 완전히 랜덤이라고. 딱 한발만 92 일행을 덮친 거지......+............+설마........."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "PM",
         "face": 0
@@ -135,7 +135,7 @@
     "text": "RO, 우리들도 포격 테스트 목표로 써먹히고 있는 거야.+어쩌면 상대 보스는 일찍이 우릴 발견하고, 그저 가지고 노는......혹은 우릴 우롱하는......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO"
       }
@@ -147,7 +147,7 @@
     "sound": {
       "bgm": "BGM_Empty"
     },
-    "character": [
+    "characters": [
       {
         "name": "PM",
         "face": 0
@@ -169,7 +169,7 @@
     "text": "쾅............!!!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "마카로프"
       }
@@ -184,7 +184,7 @@
     "text": "............+..................+..............................+녹음 재생 시작——"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AR15",
         "face": 0
@@ -196,7 +196,7 @@
     "text": "......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO"
       }
@@ -210,7 +210,7 @@
     "text": "............+.................."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "요란한 음성"
       }
@@ -218,7 +218,7 @@
     "text": "어이! RO 찾았어요! 여기에 있어요!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "연약한 음성"
       }
@@ -226,7 +226,7 @@
     "text": "다행이야, 그냥 찰과상 뿐이야......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "진지한 음성"
       }
@@ -234,7 +234,7 @@
     "text": "멍 때리지 말고 어서 파내자고!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "요란한 음성"
       }
@@ -242,7 +242,7 @@
     "text": "네! 다들 빨리 파자고요!+영치기 영차! 으쌰!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "진지한 음성"
       }
@@ -250,7 +250,7 @@
     "text": "시끄러워 AAT! 조용히좀 해!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "요란한 음성"
       }
@@ -258,7 +258,7 @@
     "text": "Go, go, go! Ale, Ale, Ale!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "진지한 음성"
       }
@@ -266,7 +266,7 @@
     "text": "이젠 노래까지 부르냐, 60년도 더 된 노래라고, 이 애늙은이야!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "연약한 음성"
       }
@@ -274,7 +274,7 @@
     "text": "됐어요. RO가 나왔어요.+그런데 아직 깨어나지를 않네요..."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "진지한 음성"
       }
@@ -283,7 +283,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "RO"
       }
@@ -295,7 +295,7 @@
       "id": 41
     },
     "screenEffect": "blink",
-    "character": [
+    "characters": [
       {
         "name": "RO"
       }
@@ -306,7 +306,7 @@
     "sound": {
       "bgm": "BGM_Sunshine"
     },
-    "character": [
+    "characters": [
       {
         "name": "92type",
         "face": 0
@@ -319,7 +319,7 @@
     "text": "............+(한숨) 천국 치고는 조금 난장판이란 생각 안드니......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "MK2",
         "face": 0
@@ -332,7 +332,7 @@
     "text": "대뇌에 충격을 받아 부서진 게 아닐까요?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AAT52",
         "face": 0
@@ -341,7 +341,7 @@
     "text": "에? 그렇게 되나?+RO, 혹시 기억 상실인가요?+다시 한 번 소개할게요. 난 고급 엘리트 인형 AAT52, 모두는 내 이번 조수이니까 다들 내 말 잘 들으라고요!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO"
       }
@@ -349,7 +349,7 @@
     "text": "꺼져! 이 헛소리밖에 모르는 토마토 같으니, 내 머리에 기어오르고 싶으면 일단 더 큰 다음에 오시지!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AAT52",
         "face": 0
@@ -358,7 +358,7 @@
     "text": "하아? 가슴 크다고 잘난척 하는건가요! 그것 때문에 벽을 한덩이 더 파고서야 끌어낼 수 있었거든요!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "92type",
         "face": 0
@@ -371,7 +371,7 @@
     "text": "됐어, RO가 무사하면 그걸로 됐어. 이걸로 다들 안전해졌어."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO"
       }
@@ -379,7 +379,7 @@
     "text": "칫, 뭐야......+결국 다들 무사했고, 나만 헛걸음 한 거네......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "MK2",
         "face": 0
@@ -392,7 +392,7 @@
     "text": "아니에요. 철혈의 순찰대가 간발의 차이로 저희를 찾아낼 뻔 했어요......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AAT52",
         "face": 0
@@ -401,7 +401,7 @@
     "text": "우리는 배수진까지 생각했던걸요. 예비 마인드맵까지 준비했다고요.+때마침 당신의 제대가 나타나서 그들을 유인해갔고요."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO"
       }
@@ -409,7 +409,7 @@
     "text": "하......뭐 작전이 먹혔나 보네......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "92type",
         "face": 0
@@ -422,7 +422,7 @@
     "text": "그런데 직접 달려오다니......우리들의 행방을 찾기 위해서야?+너 퇴로는 생각해둔거야? 이건 지휘관이 보여줄 모습이 아니지 않나?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO"
       }
@@ -430,7 +430,7 @@
     "text": "내가 말했잖아......난 어쩌면 아직 지휘관이 될 준비가 덜된 것 같다고......+그리고, 퇴로 준비는 잘 해놨거든......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "PM",
         "face": 0,
@@ -444,7 +444,7 @@
     "text": "어이, RO, 아직 살아있어?!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO"
       }
@@ -452,7 +452,7 @@
     "text": "아......모두도 문제 없어, 전원 안전해......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AAT52",
         "face": 0
@@ -468,7 +468,7 @@
     "text": "하하, 마카로프잖아! 드디어 나타났네요!+에......울었어요? 눈이 빨간데......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AAT52",
         "face": 0
@@ -485,7 +485,7 @@
     "text": "......한밤중에 본부에서 급히 온 덕에 잠을 못잔 것 뿐이야."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AAT52",
         "face": 0
@@ -501,7 +501,7 @@
     "text": "하지만......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AAT52",
         "face": 0
@@ -518,7 +518,7 @@
     "text": "계속 물어보면 네 더미들을 죄다 땅에 심어주지.+어쨌든, 너희들을 맞아줄 제대를 보냈으니, 다음 포격이 떨어지기 전에 이탈할 수 있을거야."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AAT52",
         "face": 0
@@ -527,7 +527,7 @@
     "text": "히익......그......하하......+어쨌든, 오늘 밤 드디어 다 모였다고!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "92type",
         "face": 0
@@ -540,7 +540,7 @@
     "text": "그러네, 작전도 결국 완수했고......+비록......곧 헤어져야 하겠지만......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "MK2",
         "face": 0
@@ -553,7 +553,7 @@
     "text": "에? 왜 그렇게 말씀하시나요?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO"
       }
@@ -561,7 +561,7 @@
     "text": "스텐, 잊었어.+이 소대는 이번 작전 때문에 임시로 편성된거야......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "MK2",
         "face": 0
@@ -574,7 +574,7 @@
     "text": "그렇네요......36호 문서, 가져왔어요......+비록 철혈이 도시를 박살내긴 했지만......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "92type",
         "face": 0
@@ -587,7 +587,7 @@
     "text": "철혈이 이렇게 기고만장하도록 놔둘 순 없지, 마카로프가 이 정보를 본부로 가지고 돌아갈거야.+우리는 항상 대책이 있을거야, 이런 대형 포대든 아니면 뒤에 숨은 철혈 보스든지 간에."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "MK2",
         "face": 0
@@ -600,7 +600,7 @@
     "text": "네, 그리고 이번 작전 덕분에 다들 많은 경험을 했어요. 성장도 많이 했고요.+이렇게 갈라져도, 전 모두를 영원히 잊지 못할 거예요......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AAT52",
         "face": 0
@@ -610,7 +610,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "RO"
       }
@@ -622,7 +622,7 @@
       "id": 42
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "RO"
       }
@@ -630,7 +630,7 @@
     "text": "우리는 각자의 전장에서 계속해서 싸우며, 계속해서 성장할 거야......+그리고 계속해서 승리하겠지, 철혈을 뿌리 뽑을 그날 까지."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "92식"
       }
@@ -638,7 +638,7 @@
     "text": "............+그녀들이 너는 다른 인형이랑 다르다고 했는데, 확실히 그런 것 같네.+너는......그리폰의 인형들이 없는 의지가 있어."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RO"
       }
@@ -647,7 +647,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "RO"
       }
@@ -659,7 +659,7 @@
       "id": 43
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "RO"
       }
@@ -671,7 +671,7 @@
       "id": 9
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "RO"
       }

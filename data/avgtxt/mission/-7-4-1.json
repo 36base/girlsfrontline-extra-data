@@ -9,7 +9,7 @@
     "text": "......??분 후.+......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 0,
@@ -19,7 +19,7 @@
     "text": "우로보르스...!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "WeaverElite",
         "face": 0,
@@ -37,7 +37,7 @@
     "text": "아... 그래, 바로 그 표정이다...+말했듯이, 네 차례는 아직 한참 남았다, M4A1...+넌, 마지막에 천천히 즐겨주마..."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "WeaverElite",
         "face": 0
@@ -53,7 +53,7 @@
     "text": "그 말은...+제가 어디 있는지 안다는 뜻인가요?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "WeaverElite",
         "face": 0
@@ -70,7 +70,7 @@
     "text": "아하...+그러고 보니, 너조차 이건 몰랐나 보군?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "WeaverElite",
         "face": 0
@@ -87,7 +87,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "WeaverElite",
         "face": 1
@@ -108,7 +108,7 @@
       "id": 9
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "우로보로스"
       }
@@ -117,7 +117,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -129,7 +129,7 @@
       "id": 46
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "우로보로스"
       }
@@ -141,7 +141,7 @@
       "id": 34
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "우로보로스"
       }
@@ -149,7 +149,7 @@
     "text": "신호를 위장한 지휘 거점으로 널 밀어 넣은 후에, 용감하게 나에게 맞섰지.+뭐, 결국엔 당연하게도..."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -157,7 +157,7 @@
     "text": "......+(아니야... 그럴 리 없어...)"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "WeaverElite",
         "face": 0,
@@ -171,7 +171,7 @@
     "text": "그들이 그리운가? M16A1과 M4 SOPMOD II랬지, 아마?+의심스러우면, 그들의 최후의 순간을 담은 영상을 네게 보여줄 수도 있어.+죽음을 향해 뛰어들은 순간이든... 그리고 그 후의 참상까지도 말이야...+하하하하하하하하하하하하하!!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M99",
         "face": 0,
@@ -181,7 +181,7 @@
     "text": "M4! 말려들면 안 돼요!+당신의 기능 함수 수치가..."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -189,7 +189,7 @@
     "text": "저... 저는, 괜찮아요...+조금... 혼란스러워서...+안심하세요... 여러분이 무사히 퇴각할 때까지, 저는 절대..."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "WeaverElite",
         "face": 1,
@@ -203,7 +203,7 @@
     "text": "하하하하하하하!! M4A1, 왜 그 녀석들을 돕는 거지?+널 거기에다 가둔 건 다름 아닌 그들인데 말이다!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -211,7 +211,7 @@
     "text": "그게 무슨 말인가요?!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M99",
         "face": 0,
@@ -221,7 +221,7 @@
     "text": "미... 미안해요, M4 씨... 사실 저희는...+그 지휘실 문의 비밀번호를 알아요...+그것도 저희만 알고 있어요..."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -229,7 +229,7 @@
     "text": "......+후우... 좋은 타이밍을 골라서 말해주는군요."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M99",
         "face": 0
@@ -239,7 +239,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "WeaverElite",
         "face": 0,
@@ -257,7 +257,7 @@
       "id": 9
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "우로보로스"
       }
@@ -265,7 +265,7 @@
     "text": "M4A1. 넌 원래 혼자서 전장에서 빠져나갈 기회가 있었지만.+미련하게도, 저딴 쓰레기들 때문에 귀중한 시간을 낭비해서, 탈출할 기회를 놓치고 말았군.+네 속마음을 털어놔 보거라. 그들이 원망스럽나? 도와준 게 후회되나?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -273,7 +273,7 @@
     "text": "......+... 제가 왜요?+승리를 위해 최후의 순간까지 노력하는 것이, 지휘자로서 해야 할 일 아닌가요?+마침내 저도 지휘관처럼... 스스로 명예로운 일을 할 수 있게 되었네요..."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M99"
       }
@@ -281,7 +281,7 @@
     "text": "M4 씨..."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "우로보로스"
       }
@@ -292,7 +292,7 @@
     "sound": {
       "bgm": "BGM_Empty"
     },
-    "character": [
+    "characters": [
       {
         "name": "??"
       }
@@ -315,7 +315,7 @@
     "sound": {
       "bgm": "BGM_War"
     },
-    "character": [
+    "characters": [
       {
         "name": "WeaverElite",
         "face": 2,
@@ -329,7 +329,7 @@
     "text": "기습?! 말도 안 돼...!+너 이 자식, 어떻게..."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M99",
         "face": 0,
@@ -339,7 +339,7 @@
     "text": "비효르!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "SR3MP",
         "face": 0,
@@ -349,7 +349,7 @@
     "text": "헤헤, 엘리트 인형의 생존 능력을 우습게 보면 안 되지!+하마터면 정말 죽는 줄 알았다니까. 수복하는 데 시간을 제법 소모했지만, 다행히 살아남은 동료 여럿을 찾아냈어!+M4, 네가 이렇게 오래 버티리라고는 생각지 못했는데 말이야. 우리가 너무 늦은 건 아니지?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 0,
@@ -359,7 +359,7 @@
     "text": "딱 맞춰 왔어요. 이렇게 다시 봐서 정말 기뻐요.+이걸로, 전세를 뒤집을 가능성이 생겼어요!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "WeaverElite",
         "face": 2,
@@ -373,7 +373,7 @@
     "text": "하, 그럴 리가! 네년들의 원래 목적이 뭐였는지 잊은 건 아니겠지?!+난 여기서 너희 모두를 쓸어버리겠다! 한 놈도 남김없이!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 0,
@@ -384,7 +384,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 3

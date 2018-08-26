@@ -8,7 +8,7 @@
       "bgm": "BGM_Empty",
       "se1": "Heartbeat"
     },
-    "character": [
+    "characters": [
       {
         "name": "에이전트"
       }
@@ -23,7 +23,7 @@
     "sound": {
       "se1": "m4a1_015"
     },
-    "character": [
+    "characters": [
       {
         "name": "에이전트"
       }
@@ -34,7 +34,7 @@
     "sound": {
       "bgm": "BGM_Sad"
     },
-    "character": [
+    "characters": [
       {
         "name": "에이전트"
       }
@@ -47,7 +47,7 @@
       "se1": "Rope",
       "se2": "m4a1_013a"
     },
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -58,7 +58,7 @@
     "background": {
       "id": 12
     },
-    "character": [
+    "characters": [
       {
         "name": "에이전트"
       }
@@ -71,7 +71,7 @@
       "se1": "Rope",
       "se2": "m4a1_013b"
     },
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -87,7 +87,7 @@
     "sound": {
       "se1": "Battlefield"
     },
-    "character": [
+    "characters": [
       {
         "name": "에이전트"
       }
@@ -102,7 +102,7 @@
     "sound": {
       "se1": "Rope"
     },
-    "character": [
+    "characters": [
       {
         "name": "에이전트"
       }
@@ -114,7 +114,7 @@
       "bgm": "BGM_Empty",
       "se1": "Select"
     },
-    "character": [
+    "characters": [
       {
         "name": "M16A1"
       }
@@ -122,7 +122,7 @@
     "text": "...미안한데, 그녀는 여기서 죽을 수 없거든."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "에이전트"
       }
@@ -144,7 +144,7 @@
       "bgm": "BGM_Danger",
       "se1": "MachineGunBurst"
     },
-    "character": [
+    "characters": [
       {
         "name": "M16A1"
       }
@@ -163,7 +163,7 @@
       "id": 15
     },
     "screenEffect": "blackSpot2",
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 1
@@ -175,7 +175,7 @@
     "text": "콜록...콜록..."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 0
@@ -192,7 +192,7 @@
     "text": "이봐, 나한테 고마워 하라고. 너 또 한 번 삼도천을 건널뻔 했잖아."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 0
@@ -208,7 +208,7 @@
     "text": "후...M16, 바깥은 어떻게 됐나요? AR-15랑 다른 아이들은 아직......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AR15",
         "face": 0
@@ -224,7 +224,7 @@
     "text": "돌아왔어. 철혈의 증원이 왔으니 빨리 퇴각 해야해"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AR15",
         "face": 0
@@ -241,7 +241,7 @@
     "text": "지원팀이 아직 조금 더 버틸 수 있을거야, 빨리 가자고!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3
@@ -259,7 +259,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3
@@ -279,7 +279,7 @@
       "id": 10
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 0
@@ -288,7 +288,7 @@
     "text": "다행히 전술맵은 괜찮은 것 같은데, 통신 시스템은?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "VZ61",
         "face": 0,
@@ -298,7 +298,7 @@
     "text": "통신 이상 무! 이쪽은 잘 들려!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 2
@@ -307,7 +307,7 @@
     "text": "(그녀들은 여기에 남겨져 있던 인형부대의...)+...죄송합니다. 아무래도 뒤를 맡겨야 할 것 같습니다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "PPSh41",
         "face": 0,
@@ -321,7 +321,7 @@
     "text": "천만에요 동지, 당연히 우리가 해야 할 일이랍니다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 0
@@ -330,7 +330,7 @@
     "text": "(...그녀들...자신들이 버려졌다는 걸 모르는구나...)+...라져, 최대한 빨리 철수하도록 하겠습니다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AR15",
         "face": 2

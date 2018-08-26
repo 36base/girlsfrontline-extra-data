@@ -9,7 +9,7 @@
     "text": "...전장 어딘가.+인형은 가만히 벼랑 끝에 서 있었다.+흐린 하늘에서 맴돌던 매가 서서히 내려와, 그녀가 올린 팔 위에 멈추었다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "Ballista",
         "face": 0
@@ -22,7 +22,7 @@
     "text": "...+그래, 알았어.+수고했어, 린.+그럼, 계속해서 상황을 관찰해줘."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "Ballista",
         "face": 0
@@ -35,7 +35,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "Ballista",
         "face": 0
@@ -52,7 +52,7 @@
       "id": 9
     },
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "발리스타"
       }

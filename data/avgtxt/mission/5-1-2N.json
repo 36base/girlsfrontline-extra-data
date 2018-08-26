@@ -10,7 +10,7 @@
     "text": "............타겟 창고에 도착했다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "97typeS",
         "face": 0
@@ -23,7 +23,7 @@
     "text": "(손짓하며) 오륙아~! 오랜만이야!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "56-1type",
         "face": 0
@@ -36,7 +36,7 @@
     "text": "오래 기다렸다고, 오는데 무슨 일이라도 있었던 거야?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M99",
         "face": 0
@@ -45,7 +45,7 @@
     "text": "죄송합니다. 길목에 철혈이 많아서 돌아오느라 시간이 많이 걸렸어요."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "56-1type",
         "face": 0
@@ -58,7 +58,7 @@
     "text": "괜찮아요. 보급품은 다 챙겨놨으니 빨리 후퇴하도록 하죠."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "97typeS",
         "face": 0
@@ -71,7 +71,7 @@
     "text": "어째서 이것뿐이야? 난 또 차 몇 대는 채울 줄 알았는데."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "56-1type",
         "face": 0
@@ -84,7 +84,7 @@
     "text": "전에는 많았었는데......하지만 지금은 다 가져가 버렸어, 그래서 마지막 것들을 지키기 위해 내가 오게 된 거고."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M99",
         "face": 0
@@ -93,7 +93,7 @@
     "text": "에? 철혈이 우리 보급까지 뺏어갈 정도로 궁해졌나요?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "56-1type",
         "face": 0
@@ -106,7 +106,7 @@
     "text": "그게......+사실은 근처 다른 지구의 거주민이 가져간 거예요. 하지만 선전으로는, 당신도 알겠지만......+【쥬피터】가 여기를 공격하지 않았더라면, 마지막 남은 이것도 못지켰을걸요."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M99",
         "face": 0
@@ -116,7 +116,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "97typeS",
         "face": 0

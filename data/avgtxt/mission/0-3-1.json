@@ -6,7 +6,7 @@
     "sound": {
       "bgm": "BGM_Battle"
     },
-    "character": [
+    "characters": [
       {
         "name": "M4A1",
         "face": 3
@@ -15,7 +15,7 @@
     "text": "세이프 하우스는 이미 적들에게 포위당했어요! 모두 재빨리 위치를 잡으시고, 응전을 준비해주세요!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3
@@ -32,7 +32,7 @@
     "text": "적의 수가 너무 많아! 주변 상황을 파악하고, 탄환을 아껴, 특히 SOPII!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 3
@@ -49,7 +49,7 @@
     "text": "그럴거야! AR15, 내 뒤를 맡아줘!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AR15",
         "face": 2
@@ -65,7 +65,7 @@
     "text": "알겠어, 걱정하지 마! ──M4, 지휘에 영향이 있겠어?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "AR15",
         "face": 2
@@ -82,7 +82,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "M16",
         "face": 0

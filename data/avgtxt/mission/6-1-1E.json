@@ -7,7 +7,7 @@
     "sound": {
       "bgm": "BGM_Empty"
     },
-    "character": [
+    "characters": [
       {
         "name": "알케미스트"
       }
@@ -29,7 +29,7 @@
     "sound": {
       "se2": "Gunfight"
     },
-    "character": [
+    "characters": [
       {
         "name": "AR",
         "face": 0
@@ -42,7 +42,7 @@
     "text": "망할......벌집이라도 쑤신건가! 자꾸 적이 밀고 들어오잖아!+S08구역의 철혈이 언제 이렇게 많아진거야!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "TAR21",
         "face": 0
@@ -58,7 +58,7 @@
     "sound": {
       "se1": "Battlefield"
     },
-    "character": [
+    "characters": [
       {
         "name": "AR",
         "face": 0
@@ -75,7 +75,7 @@
     "sound": {
       "se2": "Gunfight"
     },
-    "character": [
+    "characters": [
       {
         "name": "TAR21",
         "face": 0

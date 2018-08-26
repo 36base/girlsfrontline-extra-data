@@ -9,7 +9,7 @@
     "text": "......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "<Speaker>제리코</Speaker>"
       }
@@ -21,7 +21,7 @@
     "text": "그런 이름 들어본 적 없어, 네게브.+정말 철혈에 그런 엘리트 인형이 있는 거야? 네가 적당히 지어내고 있는 건 아니겠지?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "<Speaker>네게브</Speaker>"
       }
@@ -43,7 +43,7 @@
     "text": "......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "BOSS-11",
         "face": 0,
@@ -57,7 +57,7 @@
     "text": "어머나? 숨바꼭질을 하고 싶은 거니?+아니면 날 보기 싫은 거야?+내가...... 그렇게나 무서운 거니?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NEGEV",
         "face": 0,
@@ -74,7 +74,7 @@
     "sound": {
       "bgm": "BGM_Empty"
     },
-    "character": [
+    "characters": [
       {
         "name": "<Speaker>제리코</Speaker>"
       }
@@ -90,7 +90,7 @@
       "id": 9
     },
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "<Speaker>네게브</Speaker>"
       }
@@ -103,7 +103,7 @@
   },
   {
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "<Speaker>제리코</Speaker>"
       }
@@ -116,7 +116,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "<Speaker>네게브</Speaker>"
       }
@@ -132,7 +132,7 @@
       "id": 10
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "<Speaker>네게브</Speaker>"
       }

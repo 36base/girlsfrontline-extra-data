@@ -8,7 +8,7 @@
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "Seele",
         "face": 2
@@ -20,7 +20,7 @@
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "Seele",
         "face": 2
@@ -32,7 +32,7 @@
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "Seele",
         "face": 2
@@ -44,7 +44,7 @@
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "Seele",
         "face": 2
@@ -56,7 +56,7 @@
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "Seele",
         "face": 2
@@ -68,7 +68,7 @@
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "Seele",
         "face": 2
@@ -80,7 +80,7 @@
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "Seele",
         "face": 2
@@ -92,7 +92,7 @@
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "Seele",
         "face": 2
@@ -103,7 +103,7 @@
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "Seele",
         "face": 2
@@ -115,7 +115,7 @@
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "Seele",
         "face": 2
@@ -127,7 +127,7 @@
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "Seele",
         "face": 2
@@ -139,7 +139,7 @@
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "Seele",
         "face": 2
@@ -162,7 +162,7 @@
       "id": 9
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "FN57",
         "face": 0,
@@ -175,7 +175,7 @@
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "FN57",
         "face": 0
@@ -192,7 +192,7 @@
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "FN57",
         "face": 0
@@ -208,7 +208,7 @@
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "FN57",
         "face": 0
@@ -224,7 +224,7 @@
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "FN57",
         "face": 0
@@ -240,7 +240,7 @@
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "FN57",
         "face": 0
@@ -257,7 +257,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "FN57",
         "face": 0
@@ -287,200 +287,292 @@
     "sound": {
       "bgm": "BGM_Wake"
     },
-    "character": [
+    "characters": [
       {
         "name": "PP90"
       }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": "Vector"
-      }
-    ]
-  },
-  {
-    "sound": {
-      "se1": "MachineGunBurst"
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "PP90"
     }
   },
   {
-    "character": [
-      {
-        "name": "PP90"
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": "Vector"
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": "PP90"
-      }
-    ]
-  },
-  {
-    "sound": {
-      "se1": "MachineGunBurst"
-    }
-  },
-  {
-    "character": [
-      {
-        "name": "Vector"
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": "PP90"
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": "Vector"
-      }
-    ]
-  },
-  {},
-  {
-    "character": [
-      {
-        "name": "PP90"
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": "Vector"
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": "PP90"
-      }
-    ]
-  },
-  {
-    "sound": {
-      "se1": "MachineGunBurst"
-    }
-  },
-  {
-    "character": [
-      {
-        "name": "Vector"
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": "PP90"
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": "Vector"
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": "PP90"
-      }
-    ]
-  },
-  {
-    "sound": {
-      "se1": "MachineGunBurst"
-    }
-  },
-  {
-    "character": [
-      {
-        "name": "Vector"
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": "PP90"
-      }
-    ]
-  },
-  {
-    "character": [
+    "characters": [
       {
         "name": "Vector"
       }
     ],
+    "speaker": {
+      "index": 0,
+      "name": "Vector"
+    }
+  },
+  {
+    "sound": {
+      "se1": "MachineGunBurst"
+    }
+  },
+  {
+    "characters": [
+      {
+        "name": "PP90"
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "PP90"
+    }
+  },
+  {
+    "characters": [
+      {
+        "name": "Vector"
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "Vector"
+    }
+  },
+  {
+    "characters": [
+      {
+        "name": "PP90"
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "PP90"
+    }
+  },
+  {
+    "sound": {
+      "se1": "MachineGunBurst"
+    }
+  },
+  {
+    "characters": [
+      {
+        "name": "Vector"
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "Vector"
+    }
+  },
+  {
+    "characters": [
+      {
+        "name": "PP90"
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "PP90"
+    }
+  },
+  {
+    "characters": [
+      {
+        "name": "Vector"
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "Vector"
+    }
+  },
+  {},
+  {
+    "characters": [
+      {
+        "name": "PP90"
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "PP90"
+    }
+  },
+  {
+    "characters": [
+      {
+        "name": "Vector"
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "Vector"
+    }
+  },
+  {
+    "characters": [
+      {
+        "name": "PP90"
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "PP90"
+    }
+  },
+  {
+    "sound": {
+      "se1": "MachineGunBurst"
+    }
+  },
+  {
+    "characters": [
+      {
+        "name": "Vector"
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "Vector"
+    }
+  },
+  {
+    "characters": [
+      {
+        "name": "PP90"
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "PP90"
+    }
+  },
+  {
+    "characters": [
+      {
+        "name": "Vector"
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "Vector"
+    }
+  },
+  {
+    "characters": [
+      {
+        "name": "PP90"
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "PP90"
+    }
+  },
+  {
+    "sound": {
+      "se1": "MachineGunBurst"
+    }
+  },
+  {
+    "characters": [
+      {
+        "name": "Vector"
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "Vector"
+    }
+  },
+  {
+    "characters": [
+      {
+        "name": "PP90"
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "PP90"
+    }
+  },
+  {
+    "characters": [
+      {
+        "name": "Vector"
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "Vector"
+    },
     "text": "......"
   },
   {},
   {
-    "character": [
+    "characters": [
       {
         "name": "Vector"
       }
-    ]
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "Vector"
+    }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "PP90"
       }
     ],
+    "speaker": {
+      "index": 0,
+      "name": "PP90"
+    },
     "text": "어?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "Vector"
       }
-    ]
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "Vector"
+    }
   },
   {},
   {
-    "character": [
+    "characters": [
       {
         "name": "PP90"
       }
-    ]
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "PP90"
+    }
   },
   {
     "sound": {
       "bgm": "BGM_Empty"
     },
-    "character": [
+    "characters": [
       {
         "name": "Vector"
       }
-    ]
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "Vector"
+    }
   },
   {},
   {
     "sound": {
       "bgm": "BGM_Room"
     },
-    "character": [
+    "characters": [
       {
         "name": "RaidenMei",
         "face": 0
@@ -492,7 +584,7 @@
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RaidenMei",
         "face": 0
@@ -504,7 +596,7 @@
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RaidenMei",
         "face": 0
@@ -516,7 +608,7 @@
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RaidenMei",
         "face": 0
@@ -528,7 +620,7 @@
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RaidenMei",
         "face": 0
@@ -540,7 +632,7 @@
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RaidenMei",
         "face": 0
@@ -552,7 +644,7 @@
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RaidenMei",
         "face": 0
@@ -564,7 +656,7 @@
     }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "RaidenMei",
         "face": 0
@@ -577,57 +669,85 @@
   },
   {},
   {
-    "character": [
+    "characters": [
       {
         "name": "Vector"
       }
-    ]
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "Vector"
+    }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "芽衣"
       }
-    ]
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "芽衣"
+    }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "Vector"
       }
-    ]
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "Vector"
+    }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "PP90"
       }
-    ]
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "PP90"
+    }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "Vector"
       }
-    ]
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "Vector"
+    }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "PP90"
       }
-    ]
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "PP90"
+    }
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "Vector"
       }
-    ]
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "Vector"
+    }
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "RaidenMei",
         "face": 0
@@ -637,460 +757,5 @@
       "index": 0,
       "name": "芽衣"
     }
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
-  },
-  {
-    "character": [
-      {
-        "name": ""
-      }
-    ]
   }
 ]

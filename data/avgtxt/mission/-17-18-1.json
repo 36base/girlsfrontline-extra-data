@@ -10,7 +10,7 @@
     "text": "...그리폰 임시 지휘부."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "HK21",
         "face": 0
@@ -25,7 +25,7 @@
     "text": "...삑"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "PDW",
         "face": 0,
@@ -39,7 +39,7 @@
     "text": "지휘관님, 여긴 \"허니뱃저\"입니다.+ 방금 지정한 구역의 정찰이 끝났습니다.+군과 철혈이 그 구역에서 교전 중이어서, 계속 나아가려면 반드시 그들을 우회해야 합니다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "HK21",
         "face": 0
@@ -55,7 +55,7 @@
     "text": "상황이 악화된 것 같네… 하지만 G3 언니를 위해서라면, 어떤 리스크도 견딜 수 있어...+지휘관, 지금 바로… 작전을 개시하자──!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "HK21",
         "face": 0
@@ -72,7 +72,7 @@
     "text": "의욕 있는 건 괜찮지만, 작전 중 내게 마중 오는 것도 잊지 마!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "HK21",
         "face": 0
@@ -88,7 +88,7 @@
     "text": "G3 언니 말고 다른 사람은 어찌 돼도 좋아…"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "HK21",
         "face": 0
@@ -105,7 +105,7 @@
     "text": "야, 잠깐, 그게 무슨 소리야!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "HK21",
         "face": 0
@@ -121,7 +121,7 @@
     "text": "...농담이야.+지금은 위급한 시기니까, 모두 힘을 합쳐야 살아남을 수 있어… 아마도."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "PDW",
         "face": 0

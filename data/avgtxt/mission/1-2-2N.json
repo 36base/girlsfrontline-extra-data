@@ -10,7 +10,7 @@
     "text": "......두 번째 거점에 도착했다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "MP5",
         "face": 0
@@ -19,7 +19,7 @@
     "text": "저기......누구있나요?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "P7",
         "face": 0
@@ -35,7 +35,7 @@
     "text": "이야, MP5구나! 웰컴 웰컴!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "P7",
         "face": 0
@@ -51,7 +51,7 @@
     "text": "안녕하세요. P7 양."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "P7",
         "face": 0
@@ -68,7 +68,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "P7",
         "face": 0
@@ -87,7 +87,7 @@
     "background": {
       "id": 9
     },
-    "character": [
+    "characters": [
       {
         "name": "MP5"
       }
@@ -95,7 +95,7 @@
     "text": "풉——!!+이, 이맛은!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "P7",
         "face": 0
@@ -104,7 +104,7 @@
     "text": "후하하하, 이건 내가 만든 특제 수제파이라구! 맛있지?!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "MP5",
         "face": 0
@@ -113,7 +113,7 @@
     "text": "거짓말 마세요. 저도 파이를 많이 먹어봤는데, 그 중 이런 맛의 파이는 없었어요!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "P7",
         "face": 0
@@ -129,7 +129,7 @@
     "text": "후후, 이건 내가 56-1 씨 한테 배워온 거야, 무려 그쪽 고향의 특산품이라고.+다섯 가지 견과류를 조화롭게 섞은 프리미엄 간식이지! 매년 보름달 뜬 밤에만 먹을 수 있는 희귀한 음식 이라고 하던걸?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "P7",
         "face": 0
@@ -145,7 +145,7 @@
     "text": "다섯가지 견과류라니...그게 다 뭔가요?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "P7",
         "face": 0
@@ -161,7 +161,7 @@
     "text": "그게 말이지......레시피를 까먹어서, 다섯가지 후추랑 치즈가루로 좀 맛을 내봤지롱~"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "P7",
         "face": 0
@@ -177,7 +177,7 @@
     "text": "잠깐만요. 후추는 견과류가 아니잖아요!+그리고......치즈가루에서 왜 아이스크림 맛이 나는 거죠!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "P7",
         "face": 0
@@ -193,7 +193,7 @@
     "text": "그게 말이지......56-1이 \"얼음 설탕\"을 넣어야 된다고 해서.+그게 뭔지 몰라서, 딸기맛 아이스크림을 조금 넣어봤지.+무려 마지막 한숟갈이라고, 너를 \"접대\"하기위해서 희생한 거야 난!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "P7",
         "face": 0
@@ -209,7 +209,7 @@
     "text": "우......역시 장난을 좋아하는 P7 양이네요.+하지만......일은 계속해야하니, 사사로운 감정에 휘둘려서는 안되겠죠.+여기 G36 씨가 맡긴 보급품이에요. 얼음이 들어있는 시원한 주스예요."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "P7",
         "face": 0
@@ -226,7 +226,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "P7",
         "face": 0
@@ -248,7 +248,7 @@
     "sound": {
       "bgm": "BGM_Empty"
     },
-    "character": [
+    "characters": [
       {
         "name": "P7"
       }
@@ -259,7 +259,7 @@
     "sound": {
       "bgm": "BGM_Boss"
     },
-    "character": [
+    "characters": [
       {
         "name": "MP5",
         "face": 0
@@ -268,7 +268,7 @@
     "text": "땅에서 구르기까지 하다니, 효과가 굉장한 모양이네요.+이건 \"독사\" 라고 불리는 엄청 매운 고추로 만든 야채즙이에요. 한 모금으로도 최루탄 급의 효과를 내죠.+G36 씨가 말하더군요. 만약 당신이 이상한 물건으로 저를 골탕먹이려고 한다면 이걸 건네주라고."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "P7"
       }
@@ -276,7 +276,7 @@
     "text": "이런 끔찍한 물건을 주다니! 너무하잖아 다들, 눈물이 안 멈춘다구!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "MP5",
         "face": 0
@@ -285,7 +285,7 @@
     "text": "G36 씨가 또 말했죠, 만약 얌전히 항복한다면 토마토 주스를 주라고, 지금이라면 자비를 베풀어 드릴 수도 있는데 말이죠?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "P7"
       }
@@ -293,7 +293,7 @@
     "text": "그런 끔찍한 건 절대 안 먹어! 아이스크림! 딸기 아이스크림 먹을 거야!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "MP5"
       }
@@ -301,7 +301,7 @@
     "text": "잊으셨나요? 마지막 아이스크림은 당신이 절 골탕먹이는데 써버렸다면서요."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "P7"
       }
@@ -309,7 +309,7 @@
     "text": "우으......이럴수가......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "MP5"
       }
@@ -317,7 +317,7 @@
     "text": "테이블 위에 이게 정찰 리포트죠? 임무 성공, 이만 가볼게요."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "P7"
       }

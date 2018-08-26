@@ -14,7 +14,7 @@
       "id": 1,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "SSG69",
         "face": 0
@@ -31,7 +31,7 @@
       "id": 1,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "IWS2000",
         "face": 0
@@ -55,7 +55,7 @@
       "id": 1,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "Glock17",
         "face": 0
@@ -72,7 +72,7 @@
       "id": 1,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "IWS2000",
         "face": 0
@@ -89,7 +89,7 @@
       "id": 1,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "AUG",
         "face": 0
@@ -106,7 +106,7 @@
       "id": 1,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "Glock17",
         "face": 0
@@ -123,7 +123,7 @@
       "id": 1,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "IWS2000",
         "face": 0
@@ -140,7 +140,7 @@
       "id": 1,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "IWS2000",
         "face": 0
@@ -161,7 +161,7 @@
       "id": 1,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "IWS2000",
         "face": 0
@@ -182,7 +182,7 @@
       "id": 1,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "AUG",
         "face": 0
@@ -199,7 +199,7 @@
       "id": 1,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "IWS2000",
         "face": 0
@@ -216,7 +216,7 @@
       "id": 1,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "Glock17",
         "face": 0
@@ -240,7 +240,7 @@
       "id": 1,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "IWS2000",
         "face": 0
@@ -257,7 +257,7 @@
       "id": 1,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "AUG",
         "face": 0
@@ -274,7 +274,7 @@
       "id": 1,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "Glock17",
         "face": 0
@@ -291,7 +291,7 @@
       "id": 1,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "SSG69",
         "face": 0
@@ -308,7 +308,7 @@
       "id": 1,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "IWS2000",
         "face": 0
@@ -326,7 +326,7 @@
       "isNight": true
     },
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "AUG",
         "face": 0
@@ -343,7 +343,7 @@
       "id": 9
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "IWS2000"
       }
@@ -363,7 +363,7 @@
       "id": 1,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "SSG69",
         "face": 0
@@ -380,7 +380,7 @@
       "id": 1,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "AUG",
         "face": 0
@@ -397,7 +397,7 @@
       "id": 1,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "IWS2000",
         "face": 0
@@ -414,7 +414,7 @@
       "id": 1,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "AUG",
         "face": 0
@@ -431,7 +431,7 @@
       "id": 1,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "IWS2000",
         "face": 0
@@ -451,7 +451,7 @@
     "sound": {
       "bgm": "BGM_Empty"
     },
-    "character": [
+    "characters": [
       {
         "name": "<Speaker>？？？</Speaker>"
       }
@@ -477,7 +477,7 @@
     "sound": {
       "bgm": "BGM_Boss"
     },
-    "character": [
+    "characters": [
       {
         "name": "BOSS-11",
         "face": 0,
@@ -495,7 +495,7 @@
       "id": 1,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "IWS2000",
         "face": 0
@@ -516,7 +516,7 @@
       "id": 1,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "BOSS-11",
         "face": 0
@@ -533,7 +533,7 @@
       "id": 1,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "AUG",
         "face": 0
@@ -550,7 +550,7 @@
       "id": 1,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "IWS2000",
         "face": 0
@@ -571,7 +571,7 @@
       "id": 1,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "AUG",
         "face": 0
@@ -588,7 +588,7 @@
       "id": 1,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "BOSS-11",
         "face": 0,
@@ -606,7 +606,7 @@
       "id": 1,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "AUG",
         "face": 0
@@ -627,7 +627,7 @@
       "id": 1,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "AUG",
         "face": 0
@@ -648,7 +648,7 @@
       "id": 1,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "IWS2000",
         "face": 0
@@ -669,7 +669,7 @@
       "id": 1,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "AUG",
         "face": 0
@@ -690,7 +690,7 @@
       "id": 1,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "SSG69",
         "face": 0
@@ -711,7 +711,7 @@
       "id": 1,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "SSG69",
         "face": 0
@@ -733,7 +733,7 @@
       "id": 1,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "SSG69",
         "face": 0
@@ -754,7 +754,7 @@
       "id": 1,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "BOSS-11",
         "face": 0
@@ -771,7 +771,7 @@
       "id": 1,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "IWS2000",
         "face": 0
@@ -792,7 +792,7 @@
       "id": 1,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "IWS2000",
         "face": 0
@@ -813,7 +813,7 @@
       "id": 1,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "IWS2000",
         "face": 0
@@ -834,7 +834,7 @@
       "id": 1,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "BOSS-11",
         "face": 0
@@ -858,7 +858,7 @@
       "id": 1,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "Glock17",
         "face": 0
@@ -875,7 +875,7 @@
       "id": 1,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "Glock17",
         "face": 0
@@ -896,7 +896,7 @@
       "id": 1,
       "isNight": true
     },
-    "character": [
+    "characters": [
       {
         "name": "AUG",
         "face": 0
@@ -918,7 +918,7 @@
       "isNight": true
     },
     "screenEffect": "blackSpot1",
-    "character": [
+    "characters": [
       {
         "name": "IWS2000",
         "face": 0
@@ -935,7 +935,7 @@
       "id": 10
     },
     "screenEffect": "blackSpot2",
-    "character": [
+    "characters": [
       {
         "name": "IWS2000",
         "face": 0

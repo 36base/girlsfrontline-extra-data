@@ -10,7 +10,7 @@
     "text": "............탕!+......탕!탕!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "Carcano1938",
         "face": 0
@@ -26,7 +26,7 @@
     "sound": {
       "se2": "Gunfight"
     },
-    "character": [
+    "characters": [
       {
         "name": "Carcano1891",
         "face": 0
@@ -39,7 +39,7 @@
     "text": "모두 앞으로 10분만 더 버팁시다! 10분 후면 지휘관님의 제대가 도착할 겁니다!+SOPII는 어디에 있죠! 누구 본 사람 없나요?!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "Carcano1938",
         "face": 0
@@ -55,7 +55,7 @@
     "sound": {
       "se2": "Gunfight"
     },
-    "character": [
+    "characters": [
       {
         "name": "M4 SOPMOD II"
       }
@@ -66,7 +66,7 @@
     "sound": {
       "se2": "Gunfight"
     },
-    "character": [
+    "characters": [
       {
         "name": "BossJustice",
         "face": 0
@@ -82,7 +82,7 @@
     "text": "......저지가 한 손을 들어 올렸다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "Carcano1938",
         "face": 0
@@ -95,7 +95,7 @@
     "text": "그 움직임은...... EMP인가요!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "Carcano1891",
         "face": 0
@@ -108,7 +108,7 @@
     "text": "모두 엎드리세요!+SOPII는 제 엄호를 부탁드려요!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4 SOPMOD II"
       }
@@ -116,7 +116,7 @@
     "text": "내 길동무로 삼아주겠어, 저지!!!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "Carcano1938",
         "face": 0
@@ -129,7 +129,7 @@
     "text": "언니, 지금 뭘 하려고 하시는 거죠! 너무 위험하다고요!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "Carcano1891",
         "face": 0
@@ -145,7 +145,7 @@
     "sound": {
       "bgm": "BGM_Empty"
     },
-    "character": [
+    "characters": [
       {
         "name": "SOPII&카노"
       }
@@ -163,7 +163,7 @@
     "sound": {
       "se2": "Gunfight"
     },
-    "character": [
+    "characters": [
       {
         "name": "저지"
       }
@@ -171,7 +171,7 @@
     "text": "이 공격은......+콜록...... 콜록 콜록......+주인님...... 주인님 괜찮으십니까!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "Carcano1938",
         "face": 0
@@ -184,7 +184,7 @@
     "text": "......군용 인형이군요."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "저지"
       }
@@ -195,7 +195,7 @@
     "text": ".....철혈의 제대가 전부 후퇴하기 시작했다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "Carcano1891",
         "face": 0
@@ -211,7 +211,7 @@
     "text": "......SOPII는 몸을 일으킨 채로 어리둥절하고 있다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "SOPII",
         "face": 3
@@ -233,7 +233,7 @@
     "sound": {
       "bgm": "BGM_Sneak"
     },
-    "character": [
+    "characters": [
       {
         "name": "Carcano1891",
         "face": 0
@@ -246,7 +246,7 @@
     "text": "후후, 갑자기 지원군이 올 줄이야.+군이 아직 저희를 버리지 않은 것 같군요."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "Carcano1938",
         "face": 0
@@ -262,7 +262,7 @@
     "text": "......멀리서 지휘자인 인간을 필두로 인형 소대가 걸어오고 있다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "Carcano1891",
         "face": 0
@@ -278,7 +278,7 @@
     "text": "......예고르는 신경 쓰지 않고, 그 자리에 서서 카노 뒤편에 있는 곳을 바라보았다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "Carcano1891",
         "face": 0
@@ -291,7 +291,7 @@
     "text": "아, 저희 지휘관님의 지원군이 곧 도착할 테니 이후의 일은 신경 써주지 않으셔도 괜찮습니다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Yegor",
         "face": 1
@@ -304,7 +304,7 @@
     "text": "......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "Carcano1891",
         "face": 0
@@ -320,7 +320,7 @@
     "text": "......예고르는 인형들을 무시한 채, M4A1과 RO가 있는 안전가옥으로 발걸음을 옮겼다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "SOPII",
         "face": 3
@@ -333,7 +333,7 @@
     "text": "저기... 죄송합니다만 저 문을 열지 말아주셨으면 합니다!+저희 부상자가 지금 안에서 치료를 받고 있습니다!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Yegor",
         "face": 1
@@ -346,7 +346,7 @@
     "text": "M4A1은 이 안에 있나?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "SOPII",
         "face": 3
@@ -362,7 +362,7 @@
     "text": ".....예고르가 손을 뻗어 문을 열었다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "SOPII",
         "face": 3
@@ -382,7 +382,7 @@
     "text": "......!+......SOPII가 앞으로 나아가려고 하자, 군의 인형이 갑자기 SOPII에게 무기를 겨누었다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "Carcano1891",
         "face": 0
@@ -395,7 +395,7 @@
     "text": "진정하세요, SOPII! 예고르 대위님! 죄송합니다만 그녀도 무슨 악의가 있어서 그런 건 아닐 겁니다!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Yegor",
         "face": 1
@@ -408,7 +408,7 @@
     "text": "알고 있다.+정말로 악의를 가지고 있는 건 계속해서 지휘관과 연락을 시도하고 있는 저 인형이지."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "Carcano1938",
         "face": 0
@@ -421,7 +421,7 @@
     "text": "......!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Yegor",
         "face": 1
@@ -434,7 +434,7 @@
     "text": "통신은 이미 방해받고 있을 테니 괜한 헛수고 할 필요 없다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "SOPII",
         "face": 3
@@ -447,7 +447,7 @@
     "text": "......+대체...... 무슨 짓을 하려는 거죠?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Yegor",
         "face": 1
@@ -475,7 +475,7 @@
     "text": "............"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "카노"
       }
@@ -486,7 +486,7 @@
     "sound": {
       "bgm": "BGM_Truth"
     },
-    "character": [
+    "characters": [
       {
         "name": "예고르"
       }
@@ -497,7 +497,7 @@
     "sound": {
       "se2": "Gunfight"
     },
-    "character": [
+    "characters": [
       {
         "name": "군용 인형"
       }
@@ -505,7 +505,7 @@
     "text": "명령이 입력되었습니다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "예고르"
       }
@@ -527,7 +527,7 @@
     "sound": {
       "se2": "Gunfight"
     },
-    "character": [
+    "characters": [
       {
         "name": "RO635"
       }
@@ -542,7 +542,7 @@
     "text": "......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "예고르"
       }
@@ -564,7 +564,7 @@
     "text": ".....탕!+......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "예고르"
       }
@@ -583,7 +583,7 @@
       "id": 112
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -591,7 +591,7 @@
     "text": "............"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }
@@ -603,7 +603,7 @@
       "id": 113
     },
     "screenEffect": "shockScreen",
-    "character": [
+    "characters": [
       {
         "name": "M4A1"
       }

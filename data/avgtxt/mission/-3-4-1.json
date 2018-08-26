@@ -10,7 +10,7 @@
     "text": "......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "G11",
         "face": 2
@@ -19,7 +19,7 @@
     "text": "후....드디어 안전해졌는데...힘들어 죽겠어..."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "UMP9",
         "face": 2
@@ -28,7 +28,7 @@
     "text": "헤헤, 분명 416이 더 피곤해 보이는데....+어이? 416, 너 왜 반격을 안한 거야?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "HK416",
         "face": 2
@@ -40,7 +40,7 @@
     "sound": {
       "se1": "Battlefield"
     },
-    "character": [
+    "characters": [
       {
         "name": "UMP45",
         "face": 0
@@ -49,7 +49,7 @@
     "text": "응? 네 생각엔 내가 일부로 이렇게 하고 있다는 거야?+의심병이 또 도졌구나, 416."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "HK416",
         "face": 0
@@ -58,7 +58,7 @@
     "text": "그럼 어서 뭔가 말해서 이 병 좀 치료해주면 좋겠는데."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "UMP9",
         "face": 2
@@ -68,7 +68,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "UMP45",
         "face": 0
@@ -84,7 +84,7 @@
     "sound": {
       "se1": "Battlefield"
     },
-    "character": [
+    "characters": [
       {
         "name": "UMP45",
         "face": 0
@@ -93,7 +93,7 @@
     "text": "앞에 거점이 보여?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "UMP9",
         "face": 0
@@ -102,7 +102,7 @@
     "text": "저건...아키텍트의 기지야?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "UMP45",
         "face": 0
@@ -111,7 +111,7 @@
     "text": "정확해. 우리의 목표는 바로 저 거점을 기습하는 거야."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "HK416",
         "face": 2
@@ -120,7 +120,7 @@
     "text": "무슨 농담을...+완전히 포탑 진지 안에 있잖아, 거기다가 기지 방어가 엄중하지 않을리도 없잖아?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "UMP45",
         "face": 0
@@ -129,7 +129,7 @@
     "text": "평상시라면 그렇지.+하지만, 이번에 우리가 대면하고 있는 건 평상시의 상대가 아니야."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "UMP9",
         "face": 0
@@ -138,7 +138,7 @@
     "text": "그리고, 우리 역시 평범한 인형제대가 아니잖아!+난 45언니를 믿어, 분명 빈틈없는 계책으로 움직일테니까!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "G11",
         "face": 0
@@ -147,7 +147,7 @@
     "text": "이번에도 네가 졌어, 416."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "HK416",
         "face": 0
@@ -156,7 +156,7 @@
     "text": "(한숨)....+어쨌든 네가 대장이니까."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "UMP45",
         "face": 0

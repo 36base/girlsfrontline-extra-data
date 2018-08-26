@@ -9,7 +9,7 @@
     "text": "......작전 종료."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kalin",
         "face": 4
@@ -22,7 +22,7 @@
     "text": "드디어… 해치운 건가요?+어서 상대의 유해를 검사해주세요!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kalin",
         "face": 4
@@ -35,7 +35,7 @@
     "text": "지휘관님! 카리나 씨! 이 사체는 그저 더미입니다!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "NPC-Kalin",
         "face": 2
@@ -68,7 +68,7 @@
     "text": "...등 뒤에서 귀청이 날아갈 듯한 폭발 소리가 들렸다!+...비처럼 내리는 불똥과 연기, 그리고 어둠이 회전하며 추락했다.+......+…"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "카리나"
       }
@@ -79,7 +79,7 @@
     "text": "...+...지하에 떨어졌다, 온 지휘부가 불타고 있다.+...저 멀리 우아하고도 맑은 발소리가 들려온다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "??"
       }
@@ -93,7 +93,7 @@
     "text": "......꾸욱!+...가슴이 무언가 무거운 것에 눌려, 호흡이 어려워졌다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "에이전트"
       }
@@ -105,7 +105,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "에이전트"
       }
@@ -117,7 +117,7 @@
       "id": 123
     },
     "screenEffect": "blink",
-    "character": [
+    "characters": [
       {
         "name": "에이전트"
       }
@@ -128,7 +128,7 @@
     "text": "......권총을… 찾을 수 없다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "에이전트"
       }
@@ -139,7 +139,7 @@
     "text": "...몸을 움직여보려 했지만, 철혈 인형의 힘은 상상을 훨씬 넘어섰다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "에이전트"
       }
@@ -154,7 +154,7 @@
     "text": "......가슴의 압박이 점점 무거워지며, 숨이 막혀온다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "에이전트"
       }
@@ -165,7 +165,7 @@
     "text": "...숨을...... 쉴 수가 없다."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "에이전트"
       }
@@ -184,7 +184,7 @@
       "id": 9
     },
     "screenEffect": "dark2",
-    "character": [
+    "characters": [
       {
         "name": "??"
       }
@@ -192,7 +192,7 @@
     "text": "어이 멈춰! 에이전트!+일단 이야기를 해보자고!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "BOSS-8",
         "face": 0
@@ -205,7 +205,7 @@
     "text": "...!+이 목소리는......."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "BOSS-8",
         "face": 0
@@ -223,7 +223,7 @@
     "text": "그리웠나? 너도 참 실패한 모살자로군."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "BOSS-8",
         "face": 0
@@ -240,7 +240,7 @@
     "text": "......어째서 아직까지 살아있는 것이냐."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "BOSS-8",
         "face": 0
@@ -257,7 +257,7 @@
     "text": "그건 중요하지 않아. 중요한 건, 이 지휘관도 살아남아야 한다는 거지!"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "BOSS-8",
         "face": 0
@@ -274,7 +274,7 @@
     "text": "어째서지?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "BOSS-8",
         "face": 0
@@ -291,7 +291,7 @@
     "text": "너희들... M4A1을 보고 싶나?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "BOSS-8",
         "face": 0
@@ -308,7 +308,7 @@
     "text": "......"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "BOSS-8",
         "face": 0
@@ -325,7 +325,7 @@
     "text": "서로 만나게 해줄 수 있어."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "BOSS-8",
         "face": 0
@@ -342,7 +342,7 @@
     "text": "너를 믿으라는 것이냐?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "BOSS-8",
         "face": 0
@@ -359,7 +359,7 @@
     "text": "나를 믿어야 해!+지금 철혈에서 쓸 수 있는 부대는 이미 다 섬멸됐어, 너의 엘더브레인의 소원을 이루어주고 싶다면, 이 지휘관을 살려줘.+그럼… 만나게 해주지."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "BOSS-8",
         "face": 0
@@ -376,7 +376,7 @@
     "text": "......+고작 이 인간을 위해서인가?"
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "BOSS-8",
         "face": 0
@@ -393,7 +393,7 @@
     "text": "우린 모두 인간이야, 나도 이러는 이유가 있고."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "BOSS-8",
         "face": 0
@@ -410,7 +410,7 @@
     "text": "역시 인간은 이해할 수 없느니라, 흥미 또한 손톱만큼도 없지.+나는 그저 종말이 다가오기 전에 휴식을 취하고 싶을 뿐이었지만...+이런 바람조차... 이루지 못할 것 같구나."
   },
   {
-    "character": [
+    "characters": [
       {
         "name": "BOSS-8",
         "face": 0
@@ -432,7 +432,7 @@
   },
   {
     "screenEffect": "dark1",
-    "character": [
+    "characters": [
       {
         "name": "에이전트"
       }
