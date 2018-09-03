@@ -2,9 +2,8 @@
 const gfextradata = ({ locale }) => {
   switch (locale) {
     case 'en': {
-      // not yet
-      const characterScript = require('./../data/ko/characterScript');
-      const dollNickname = require('./../data/ko/dollNickname');
+      const characterScript = require('./../data/en/characterScript');
+      const dollNickname = require('./../data/en/dollNickname');
 
       return { characterScript, dollNickname };
     }
@@ -25,4 +24,4 @@ const gfextradata = ({ locale }) => {
   return { };
 } 
 
-module.exports = gfextradata;
+export default gfextradata;
