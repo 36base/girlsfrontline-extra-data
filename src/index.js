@@ -14,9 +14,8 @@ const gfextradata = ({ locale }) => {
       return { characterScript, dollNickname };
     }
     case 'ja': {
-      // not yet
-      const characterScript = require('./../data/ko/characterScript');
-      const dollNickname = require('./../data/ko/dollNickname');
+      const characterScript = require('./../data/ja/characterScript');
+      const dollNickname = require('./../data/ja/dollNickname');
 
       return { characterScript, dollNickname };
     }
