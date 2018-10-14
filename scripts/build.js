@@ -57,5 +57,22 @@ function minifyScript () {
   writeLocaleScriptFileToBuild('zh-CN');
 }
 
+function buildI18n () {
+  const writeLocaleScriptFileToBuild = (locale) => {
+    const i18nBuildDir = path.join(buildDirPath, 'i18n/');
+    fs.ensureDirSync(i18nBuildDir);
+    fs.writeFileSync(
+      path.join(i18nBuildDir, `${locale}.json`),
+      JSON.stringify(require(`../i18n/${locale}`))
+    );
+  };
+
+  writeLocaleScriptFileToBuild('en-US');
+  writeLocaleScriptFileToBuild('ja-JP');
+  writeLocaleScriptFileToBuild('ko-KR');
+  writeLocaleScriptFileToBuild('zh-CN');
+}
+
 buildAlias();
 minifyScript();
+buildI18n();
