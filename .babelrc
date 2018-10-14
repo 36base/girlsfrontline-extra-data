@@ -1,14 +1,4 @@
 {
-  "presets": [
-    ["env", {
-      "useBuiltIns": true
-    }],
-    "stage-1",
-    ["minify", { 
-      "mangle": false 
-    }] 
-  ],
-  "plugins": [
-    "transform-runtime"
-  ]
+  "presets": ["@babel/preset-env"],
+  "plugins": []
 }
