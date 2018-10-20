@@ -6,35 +6,20 @@
 
 ## 사용 예시
 
-```js
-const { alias, script } = gfextradata({ locale: 'ko-KR' });
+---
 
-console.log(alias);
-// {"doll":{"1":["콜트","콜라"],"2":["운메이","운명이","운명"] ...}, "equip": {...}, "fairy": {...}}
-
-console.log(script['MG4'].introduce[0]);
-// "처음 제 이름은 MG43이었어요. FN의 Minimi에게 안타깝게 지는 바람에 해외발주는 뺏겼지만, 독일군에 채용됨과 동시에 MG4로 개명했어요.\n 기본적으로, 저의 연구개발이 시작된 이유는 G11이 시장에서 적응하지 못했기 때문에, 회사가 지침에 변화를 주면서 생긴 거예요. 시장에서 각종 우수한 무기의 분석에 초점을 맞춰, 최종적으로 제가 탄생하게 되었어요."
-```
+### alias (별명)
 
 alias 출력의 `1`, `2` 등은 `girlsfrontline-core` 의 데이터중 `id` 참고 바랍니다.
 
-## `i18n/`
+```js
+const { alias } = gfextradata({ locale: 'ko-KR' });
 
-core 레포에 부족한 i18n 데이터 수동으로 채우거나, 덮어 씌우는 용도
-
-## 데이터
-
-`data` 디렉토리 구조
-
-```text
-data
-  locale
-    {locale}
-      alias.json // 각 나라별 별명 (빌드 시 `build/data/alias.json` 하나로 합쳐짐)
-      NewCharacterVoice.json // 대사 (`asset_textes` 추출했을때 나오는 파일 그대로 사용)  
+console.log(alias);
+// {"doll":{"1":["콜트","콜라"],"2":["운메이","운명이","운명"] ...}, "equip": {...}, "fairy": {...}}
 ```
 
-### 별명 데이터 예시
+#### 별명 데이터 예시
 
 ```json
 {
@@ -50,23 +35,85 @@ data
 }
 ```
 
-### 대사 데이터 예시 (축약)
+---
 
-`357` 등은 `girlsfrontline-core` 의 데이터중 `codename` 참고 바람
+### getScript (대사)
+
+`getScript(codename, skincode)` (`skincode` 는 생략 가능)
+
+```js
+const { getScript } = gfextradata({ locale: 'ko-KR' });
+
+console.log(getScript('MG4').introduce[0]);
+// "처음 제 이름은 MG43이었어요..."
+
+
+console.log(getScript('G36', 0).dialogue1[0]); // G36 일반 대사
+// "필요하신 게 있다면, 사양 말고 이야기 해주세요."
+console.log(getScript('G36', 905).dialogue1[0]); // G36 아동절 스킨용 대사
+// "어라？ 제 총이 원래 이렇게 컸나요？..."
+```
+
+#### 대사 데이터 예시
+
+대사 종류 (대사 개수는 캐릭터마다 다름)
+
+- "introduce": "Introduce",
+- "dialogue1": "Dialogue1",
+- "dialogue2": "Dialogue2",
+- "dialogue3": "Dialogue3",
+- "soulcontract": "Soul Contract",
+- "valentine": "Valentine",
+- "allhallows": "Halloween",
+- "christmas": "Christmas",
+- "newyear": "New Year",
+- "dialoguewedding": "Wedding Dialogue",
+- "gain": "Gain",
+- "skill1": "Skill1",
+- "skill2": "Skill2",
+- "skill3": "Skill3",
+- "fix": "Fix",
+- "retreat": "Retreat",
+- "break": "Break",
+- "operationover": "Operation Over",
+- "hello": "Login",
+- "mood1": "Laugh",
+- "mood2": "Surprise",
+- "agree": "Agree",
+- "accept": "Accept",
+- "lowmood": "Low Mood"
 
 ```json
 {
-  "357": {
-    "dialogue1": ["배가 고파졌어~"],
-    "soulcontract": [
-      "에? 지휘관도 정말...갑자기 그런 걸...진심으로 말하는 거야?",
-      "으응! 당연히 OK야! 오늘의 나는 엄청 행복한걸!",
-      "허그해도 괜찮아?"
-    ],
-    "introduce": [
-      "안녕, 지휘관! 나는 아스트라 357이야...."
-    ],
-    "gain": ["잘 부탁드릴게요."]
-  }
+  "dialogue1": ["배가 고파졌어~"],
+  "soulcontract": [
+    "에? 지휘관도 정말...갑자기 그런 걸...진심으로 말하는 거야?",
+    "으응! 당연히 OK야! 오늘의 나는 엄청 행복한걸!",
+    "허그해도 괜찮아?"
+  ],
+  "introduce": [
+    "안녕, 지휘관! 나는 아스트라 357이야...."
+  ],
+  "gain": ["잘 부탁드릴게요."]
 }
 ```
+
+---
+
+## `i18n/`
+
+core 레포에 부족한 i18n 데이터를 수동으로 채우거나, 덮어 씌우는 용도
+
+## 데이터
+
+`data` 디렉토리 구조
+
+```text
+data
+  locale
+    {locale}
+      alias.json // 각 나라별 별명 (빌드 시 `build/data/alias.json` 하나로 합쳐짐)
+      NewCharacterVoice.json // 대사 (`asset_textes` 를 `girlsfrontline-resources-extract` 로 추출했을때 나오는 파일 사용)
+```
+
+참고: [`girlsfrontline-resources-extract`](https://github.com/36base/girlsfrontline-resources-extract)
