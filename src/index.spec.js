@@ -1,6 +1,6 @@
 import gfextradata from './index';
 
-const { alias, getScript } = gfextradata({ locale: 'ko-KR' });
+const { getScript } = gfextradata({ locale: 'ko-KR' });
 
 describe('getScript', () => {
   test('Without SkinCode', () => {
