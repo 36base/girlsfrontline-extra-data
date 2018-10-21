@@ -1,6 +1,6 @@
 {
   "name": "girlsfrontline-extra-data",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "main": "./lib/index.js",
   "repository": "https://github.com/36base/girlsfrontline-extra-data.git",
   "author": "okms00909 <okms00909@gmail.com>",
