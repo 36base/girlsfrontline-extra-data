@@ -41,6 +41,8 @@ console.log(alias);
 
 `getScript(codename, skincode)` (`skincode` 는 생략 가능)
 
+없을 시 `null` 반환
+
 ```js
 const { getScript } = gfextradata({ locale: 'ko-KR' });
 
@@ -52,6 +54,8 @@ console.log(getScript('G36', 0).dialogue1[0]); // G36 일반 대사
 // "필요하신 게 있다면, 사양 말고 이야기 해주세요."
 console.log(getScript('G36', 905).dialogue1[0]); // G36 아동절 스킨용 대사
 // "어라？ 제 총이 원래 이렇게 컸나요？..."
+
+console.log(getScript('asdasdasd')); // null
 ```
 
 #### 대사 데이터 예시
