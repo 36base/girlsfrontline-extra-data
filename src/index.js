@@ -7,4 +7,4 @@ const gfextradata = ({ locale }) => ({
   getScript: getScript(locale),
 });
 
-export default gfextradata;
+module.exports = gfextradata;

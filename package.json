@@ -6,7 +6,7 @@
   "author": "okms00909 <okms00909@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "build": "babel src --out-dir lib && node ./scripts/build.js",
+    "build": "rimraf lib build && babel src --out-dir lib && node ./scripts/build.js --ignore **/*.spec.js",
     "test": "jest",
     "prepublish": "yarn build"
   },
@@ -22,7 +22,8 @@
     "eslint-plugin-import": "^2.14.0",
     "eslint-plugin-jest": "^21.25.1",
     "fs-extra": "^7.0.0",
-    "jest": "^23.6.0"
+    "jest": "^23.6.0",
+    "rimraf": "^2.6.2"
   },
   "jest": {
     "roots": [
