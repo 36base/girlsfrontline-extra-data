@@ -6,7 +6,7 @@
   "author": "okms00909 <okms00909@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "build": "rimraf lib build && babel src --out-dir lib && node ./scripts/build.js --ignore **/*.spec.js",
+    "build": "rimraf lib build && babel src --out-dir lib --ignore **/*.spec.js && node ./scripts/build.js",
     "test": "jest",
     "prepublish": "yarn build"
   },
